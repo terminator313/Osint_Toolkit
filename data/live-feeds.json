@@ -1,11 +1,112 @@
 {
-  "updatedAt": null,
-  "note": "This file is automatically updated by GitHub Actions. Run the update workflow once after deploying.",
+  "updatedAt": "2026-05-13T19:16:42.208027+00:00",
   "sources": {
-    "fofa": { "status": "empty", "items": [], "error": "Workflow has not populated FOFA yet." },
-    "urlhaus": { "status": "empty", "items": [], "error": "Workflow has not populated URLHaus yet." },
-    "reddit": { "status": "empty", "items": [], "error": "Workflow has not populated Reddit yet." },
-    "trends24": { "status": "empty", "items": [], "error": "Workflow has not populated Trends24 yet." },
-    "googleTrends": { "status": "empty", "items": [], "error": "Workflow has not populated Google Trends yet." }
+    "fofa": {
+      "status": "empty",
+      "items": [],
+      "error": "No items parsed."
+    },
+    "urlhaus": {
+      "status": "error",
+      "items": [],
+      "error": "HTTP Error 401: Unauthorized"
+    },
+    "reddit": {
+      "status": "error",
+      "items": [],
+      "error": "HTTP Error 403: Blocked"
+    },
+    "trends24": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "#socideveloper_com",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23socideveloper_com",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BB28",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BB28",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#DelcyNoCazaMosca",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DelcyNoCazaMosca",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Digital ID",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Digital%20ID",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Becky Hill",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Becky%20Hill",
+          "platform": "X/Twitter"
+        }
+      ],
+      "error": null
+    },
+    "googleTrends": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "usa network",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin warsh",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nbc canceled shows 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "accuweather",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncis season 23 finale cliffhanger",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "denny's",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dr oz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alavés vs barcelona",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mcdonald's menu",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "getafe - r.c.d. mallorca",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        }
+      ],
+      "error": null
+    }
   }
 }
