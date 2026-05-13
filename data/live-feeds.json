@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T21:07:35.621170+00:00",
+  "updatedAt": "2026-05-13T22:45:18.630329+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#KouriRichins",
+          "title": "#Treat_SevEN_Fairly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KouriRichins",
+          "url": "https://twitter.com/search?q=%23Treat_SevEN_Fairly",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Bradish",
+          "title": "Volpe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Bradish",
+          "url": "https://twitter.com/search?q=Volpe",
           "platform": "X/Twitter"
         },
         {
-          "title": "Grown Ups 3",
+          "title": "B or C",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grown%20Ups%203",
+          "url": "https://twitter.com/search?q=B%20or%20C",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "accident attorney",
+          "title": "new york city vs charlotte",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luciano darderi",
+          "title": "phillies - red sox",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taiwan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck accident lawyers",
+          "title": "andor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident lawyers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jodar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barcelona schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "severe thunderstorm watch",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cisco layoffs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scottish premiership",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris van hollen bar tab",
+          "title": "coritiba vs santos",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "delta air lines",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kirk herbstreit college football predictions",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scooby williams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dan caine",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "benito jones",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
