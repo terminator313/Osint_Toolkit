@@ -1,0 +1,11 @@
+{
+  "updatedAt": null,
+  "note": "This file is automatically updated by GitHub Actions. Run the update workflow once after deploying.",
+  "sources": {
+    "fofa": { "status": "empty", "items": [], "error": "Workflow has not populated FOFA yet." },
+    "urlhaus": { "status": "empty", "items": [], "error": "Workflow has not populated URLHaus yet." },
+    "reddit": { "status": "empty", "items": [], "error": "Workflow has not populated Reddit yet." },
+    "trends24": { "status": "empty", "items": [], "error": "Workflow has not populated Trends24 yet." },
+    "googleTrends": { "status": "empty", "items": [], "error": "Workflow has not populated Google Trends yet." }
+  }
+}
