@@ -1,0 +1,30 @@
+name: Update OSINT Live Feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch live OSINT feeds
+        run: python scripts/update_feeds.py
+
+      - name: Commit updated feed cache
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update OSINT live feed cache"
+          file_pattern: data/live-feeds.json
