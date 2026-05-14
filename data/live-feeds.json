@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T06:45:03.439697+00:00",
+  "updatedAt": "2026-05-14T09:33:24.352909+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BTSXWorldCup2026",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BTSXWorldCup2026",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Survivor50",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Survivor50",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetEmKnow",
+          "title": "Taiwan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetEmKnow",
+          "url": "https://twitter.com/search?q=Taiwan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Max Strus",
+          "title": "BTS AT WORLD CUP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Max%20Strus",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Donovan Mitchell",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Donovan%20Mitchell",
+          "url": "https://twitter.com/search?q=BTS%20AT%20WORLD%20CUP",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "特朗普",
-          "traffic": "500",
+          "title": "camila osorio",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "super mario galaxy movie boxoffice",
-          "traffic": "500",
+          "title": "jordynne grace",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jill kargman",
+          "title": "diego pavia vanderbilt quarterback",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gta 6 pre order",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "icc",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "star citizen",
+          "title": "fortnite servers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa world cup 2026",
+          "title": "ascension day",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chevy",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "laptop",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ca lottery",
-          "traffic": "5000",
+          "title": "overwatch",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaire alexander",
-          "traffic": "500",
+          "title": "housing prices",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bernadette peters",
-          "traffic": "2000",
+          "title": "samsung oled 4k s90f smart tv",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
