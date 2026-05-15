@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T19:59:29.786911+00:00",
+  "updatedAt": "2026-05-15T21:15:45.668064+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WeCantAffordTrump",
+          "title": "#NXTBuffalo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeCantAffordTrump",
+          "url": "https://twitter.com/search?q=%23NXTBuffalo",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Iceman",
+          "title": "#WeCantAffordTrump",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Iceman",
+          "url": "https://twitter.com/search?q=%23WeCantAffordTrump",
           "platform": "X/Twitter"
         },
         {
-          "title": "Boebert",
+          "title": "$SPCX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Boebert",
+          "url": "https://twitter.com/search?q=%24SPCX",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "binghamton university",
+          "title": "pl",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dalton knecht",
+          "title": "europa league final",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phoenix sky harbor international airport",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "virgil van dijk",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tina peters",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex ipo",
+          "title": "blake snell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike johnson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "friedrich merz",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "medvedev",
+          "title": "brandt snedeker",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott foley",
+          "title": "hackers have breached tank readers at us gas stations officials suspect iran is responsible",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boat",
+          "title": "rome open 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump national mall prayer event",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nate diaz vs mike perry",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "softball regionals 2026",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
