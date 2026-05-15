@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T22:29:42.128226+00:00",
+  "updatedAt": "2026-05-15T23:30:47.785285+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Boebert",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Boebert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gina",
+          "title": "Colorado Gov",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gina",
+          "url": "https://twitter.com/search?q=Colorado%20Gov",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tyriq withers",
+          "title": "severe thunderstorm watch",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aces vs sun",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jets",
+          "title": "what time is the spurs game tonight",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lubbock weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple tv free trial",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rick ross",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "omaha weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pirates schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mystics vs fever",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bank of america 7-eleven settlement",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ice releases deisy rivera ortega",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bruce springsteen late show performance",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pentagon poland troop deployment cancellation",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "whitney leavitt",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rocket launch today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cavs game tonight",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays vs tigers",
-          "traffic": "2000",
+          "title": "cubs vs white sox",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
