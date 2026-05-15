@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T18:02:31.877466+00:00",
+  "updatedAt": "2026-05-15T19:59:29.786911+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,27 +20,27 @@
       "status": "ok",
       "items": [
         {
+          "title": "#007FirstLightRTX",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23007FirstLightRTX",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#WeCantAffordTrump",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WeCantAffordTrump",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OnlyFriendsDreamOnFinalEP",
+          "title": "Iceman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OnlyFriendsDreamOnFinalEP",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LastFourWatched",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ebola",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ebola",
+          "url": "https://twitter.com/search?q=Iceman",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chris gotterup",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toyota compact pickup truck news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity data breach settlement",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason day",
+          "title": "binghamton university",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lindsay hubbard amanda batula friendship",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "harvey weinstein",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brock williams",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "myles turner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "waymo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isaiah hill basketball",
+          "title": "dalton knecht",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex ipo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike johnson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "friedrich merz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "medvedev",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott foley",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boat",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nate diaz vs mike perry",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "softball regionals 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
