@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T11:55:34.049424+00:00",
+  "updatedAt": "2026-05-15T14:05:12.539199+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#EnglishLearning",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EnglishLearning",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#outlander",
+          "title": "#OnlyFriendsDreamOnFinalEP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23outlander",
+          "url": "https://twitter.com/search?q=%23OnlyFriendsDreamOnFinalEP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Outlander",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Outlander",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aubrey",
+          "title": "Finally Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aubrey",
+          "url": "https://twitter.com/search?q=Finally%20Friday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Honestly Nevermind",
+          "title": "LINGLING X THE MALL GROUP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Honestly%20Nevermind",
+          "url": "https://twitter.com/search?q=LINGLING%20X%20THE%20MALL%20GROUP",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "sheinelle jones",
+          "title": "luciano darderi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "magic hour movie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peace officers memorial day",
+          "title": "danielle olivera",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david foster",
-          "traffic": "100",
+          "title": "daveed diggs",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "costco calzone replacement chicago",
-          "traffic": "100",
+          "title": "stock market today",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooklyn half marathon 2026",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason lee",
+          "title": "chennai super kings vs lucknow super giants match scorecard",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nyt connections hints",
-          "traffic": "2000",
+          "title": "casper ruud",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arenado",
+          "title": "barbora krejčíková",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "10 year treasury yield",
-          "traffic": "200",
+          "title": "alyssa paige atlanta",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morgan wallen gainesville",
+          "title": "cbc kids",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
