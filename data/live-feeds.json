@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T15:34:10.516138+00:00",
+  "updatedAt": "2026-05-16T16:57:30.437032+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LoveYouTeacherSeriesFinalEP",
+          "title": "#FACup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LoveYouTeacherSeriesFinalEP",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Caturday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23FACup",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "ISIS",
+          "title": "#XuningxLOrealParisCannes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ISIS",
+          "url": "https://twitter.com/search?q=%23XuningxLOrealParisCannes",
           "platform": "X/Twitter"
         },
         {
-          "title": "TIAN XUNING CANNES DEBUT",
+          "title": "WELCOME TO THE AIR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TIAN%20XUNING%20CANNES%20DEBUT",
+          "url": "https://twitter.com/search?q=WELCOME%20TO%20THE%20AIR",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Good Saturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Good%20Saturday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "harry kane",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when does the world cup start",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "newsweek",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nintendo switch",
+          "title": "jacob elordi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angkrish raghuvanshi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin rose",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gauff",
+          "title": "chris devenski",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy pham",
+          "title": "xander schauffele",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uscis new signature rule",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xabi alonso",
+          "title": "dc defenders",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill maher",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "notre dame lacrosse",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stetson university",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup 2026 schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strawberry festival ventura",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
