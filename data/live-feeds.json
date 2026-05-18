@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T10:46:31.827510+00:00",
+  "updatedAt": "2026-05-18T14:29:21.091432+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LVCRUISE27",
+          "title": "#setonhall2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LVCRUISE27",
+          "url": "https://twitter.com/search?q=%23setonhall2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FELIXxLouisVuitton",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FELIXxLouisVuitton",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#euphoria",
+          "title": "#YOKOxXPEDITION",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23euphoria",
+          "url": "https://twitter.com/search?q=%23YOKOxXPEDITION",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cavs",
+          "title": "Marlow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cavs",
+          "url": "https://twitter.com/search?q=Marlow",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ITZY_MOTTO",
+          "title": "Christ as Lord",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ITZY_MOTTO",
+          "url": "https://twitter.com/search?q=Christ%20as%20Lord",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brooks koepka",
+          "title": "tsmc stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walmart stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason biggs",
-          "traffic": "100",
+          "title": "nasdaq index",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "10 year treasury yield",
-          "traffic": "100",
+          "title": "broadcom stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "french open 2026",
-          "traffic": "100",
+          "title": "xom stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unh stock",
-          "traffic": "100",
+          "title": "ge stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sarah jane ramos",
-          "traffic": "100",
+          "title": "vgt",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "royal",
+          "title": "donald trump irs lawsuit dismissed",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whtm-tv",
-          "traffic": "200",
+          "title": "costco stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roland garros 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pak vs ban",
-          "traffic": "200",
+          "title": "kisd",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
