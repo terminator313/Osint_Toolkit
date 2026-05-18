@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T01:30:13.251607+00:00",
+  "updatedAt": "2026-05-18T06:13:00.898790+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#euphoria",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23euphoria",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RHOA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSA",
+          "title": "#LetEmKnow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSA",
+          "url": "https://twitter.com/search?q=%23LetEmKnow",
           "platform": "X/Twitter"
         },
         {
-          "title": "#90DayFiance",
+          "title": "Knicks in 5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2390DayFiance",
+          "url": "https://twitter.com/search?q=Knicks%20in%205",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ACMawards",
+          "title": "Jarrett Allen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ACMawards",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ausar Thompson",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ausar%20Thompson",
+          "url": "https://twitter.com/search?q=Jarrett%20Allen",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "parker mccollum",
+          "title": "iu",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "catalina island",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lorde",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chud the builder bond",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hawaiian monk seal",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nifty 50",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charlie evans",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "when does forza horizon 6 come out",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "내일 날씨",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago sky",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chernobyl",
+          "title": "antonio cipriano",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isaiah stewart",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "now stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ktiv weather",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "little big town hey there sunshine",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rick and morty",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cade cunningham shoes",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pumas",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
