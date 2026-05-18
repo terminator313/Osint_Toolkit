@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T17:18:36.981797+00:00",
+  "updatedAt": "2026-05-18T19:11:20.052508+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LaSayonaSeSecó",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaSayonaSeSec%C3%B3",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Lanterns",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "Takeo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Luigi Mangione",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Luigi%20Mangione",
+          "url": "https://twitter.com/search?q=Takeo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "xbox cloud gaming",
+          "title": "ipl schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "indiana hoosiers curt cignetti",
-          "traffic": "200",
+          "title": "weather channel",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation plus subscription price hike",
+          "title": "bubba wallace",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cal fire",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ktla",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "unión europea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eclipse solar",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hegseth",
+          "title": "elon musk",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miss universe jamaica",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morgan wallen award show snubs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stan wawrinka",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "baseball america bracket projection 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "final fantasy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "goblin storm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spencer johnson",
+          "title": "zahara jolie spelman graduation",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
