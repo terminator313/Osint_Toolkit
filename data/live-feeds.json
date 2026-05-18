@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T14:29:21.091432+00:00",
+  "updatedAt": "2026-05-18T17:18:36.981797+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#setonhall2026",
+          "title": "#STILL_HERE_STILL_SEVEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23setonhall2026",
+          "url": "https://twitter.com/search?q=%23STILL_HERE_STILL_SEVEN",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GREY_IS_NOT_THE_END",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GREY_IS_NOT_THE_END",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Lanterns",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#YOKOxXPEDITION",
+          "title": "Luigi Mangione",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YOKOxXPEDITION",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Marlow",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marlow",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Christ as Lord",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christ%20as%20Lord",
+          "url": "https://twitter.com/search?q=Luigi%20Mangione",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "tsmc stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "walmart stock",
+          "title": "xbox cloud gaming",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasdaq index",
+          "title": "indiana hoosiers curt cignetti",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "broadcom stock",
-          "traffic": "200",
+          "title": "playstation plus subscription price hike",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xom stock",
-          "traffic": "200",
+          "title": "pete hegseth",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ge stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vgt",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump irs lawsuit dismissed",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "costco stock",
+          "title": "morgan wallen award show snubs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kisd",
+          "title": "stan wawrinka",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baseball america bracket projection 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "final fantasy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "goblin storm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spencer johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
