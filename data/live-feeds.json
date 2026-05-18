@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T19:11:20.052508+00:00",
+  "updatedAt": "2026-05-18T20:52:42.654652+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ARSBUR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ARSBUR",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SandyFire",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SandyFire",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#STILL_HERE_STILL_SEVEN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23STILL_HERE_STILL_SEVEN",
           "platform": "X/Twitter"
         },
         {
+          "title": "TACO",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=TACO",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GREY_IS_NOT_THE_END",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GREY_IS_NOT_THE_END",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LaSayonaSeSecó",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaSayonaSeSec%C3%B3",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Lanterns",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lanterns",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Takeo",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Takeo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ipl schedule",
+          "title": "epa pfas regulation proposal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hincapie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bbc sport",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather channel",
-          "traffic": "20000",
+          "title": "cardi b throws first pitch",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bubba wallace",
+          "title": "yellowstone spinoff ratings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cal fire",
+          "title": "apple card airpods pro promo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colby covington",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ktla",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "unión europea",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eclipse solar",
+          "title": "william davis football",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elon musk",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miss universe jamaica",
+          "title": "convocacao da selecao brasileira",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zahara jolie spelman graduation",
-          "traffic": "500",
+          "title": "neymar",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
