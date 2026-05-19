@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T18:59:11.038505+00:00",
+  "updatedAt": "2026-05-19T20:48:18.844621+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Will Wade",
+          "title": "#Dragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Wade",
+          "url": "https://twitter.com/search?q=%23Dragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gemini 3.5 Flash",
+          "title": "Anthropic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gemini%203.5%20Flash",
+          "url": "https://twitter.com/search?q=Anthropic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "raising kanan season 5 trailer",
-          "traffic": "200",
+          "title": "arsenal f.c.",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vice president vance press conference",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rand paul",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new jersey",
+          "title": "natalie decker",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donike gocaj",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "city",
+          "title": "election security",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chelsea vs spurs",
-          "traffic": "10000",
+          "title": "severe thunderstorm warning",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bari weiss",
+          "title": "prem table",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "waabi",
-          "traffic": "200",
+          "title": "cava stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rashee rice",
-          "traffic": "10000",
+          "title": "liga inglesa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark matthews commitment announcement",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flood warning",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "summer house reunion",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
