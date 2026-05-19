@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T20:48:18.844621+00:00",
+  "updatedAt": "2026-05-19T22:14:58.264187+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#COYG",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23COYG",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BOUMCI",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BOUMCI",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BLUE_MOON_7_DESTINY",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BLUE_MOON_7_DESTINY",
           "platform": "X/Twitter"
         },
         {
+          "title": "Delap",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Delap",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OUR_GLOW_IS_SEVEN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OUR_GLOW_IS_SEVEN",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#GoogleIO",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoogleIO",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Dragon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Dragon",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Anthropic",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Anthropic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "arsenal f.c.",
-          "traffic": "2000",
+          "title": "jungkook calvin klein collection",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "natalie decker",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "election security",
+          "title": "noticia",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "severe thunderstorm warning",
+          "title": "strait of hormuz oil supply",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fluminense x bolívar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miracle rankin",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jetblue airways",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "graduation",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prem table",
-          "traffic": "500",
+          "title": "severe thunderstorm watch",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cava stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liga inglesa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark matthews commitment announcement",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flash flood warning",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "summer house reunion",
+          "title": "nato",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boston weather",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
