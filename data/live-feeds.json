@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T20:04:45.484583+00:00",
+  "updatedAt": "2026-05-21T21:56:33.289490+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BetrPicks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxBrandonBlackwoodNYC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxBrandonBlackwoodNYC",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Busch",
+          "title": "Crazy Taxi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Busch",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Piggly Wiggly",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Piggly%20Wiggly",
+          "url": "https://twitter.com/search?q=Crazy%20Taxi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mets - nationals",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doj vs state license plates",
+          "title": "kurt busch",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julián quiñones",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al nasr",
+          "title": "robert harward",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vancouver",
-          "traffic": "500",
+          "title": "hunter biden",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braxton ashcraft",
+          "title": "self-driving car",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chromazz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dow jones industrial average",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atlético mineiro vs cienciano",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alan ritchson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dhs bolo ben palmer",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katie holmes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ny lottery",
+          "title": "jeep wrangler scrambler srt",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael caputo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "russian hackers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
