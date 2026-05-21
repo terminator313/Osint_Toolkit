@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T08:31:29.270136+00:00",
+  "updatedAt": "2026-05-21T12:13:25.534787+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#good_night",
+          "title": "#XAUUSD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23good_night",
+          "url": "https://twitter.com/search?q=%23XAUUSD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#DeFi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23DeFi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tony Brothers",
+          "title": "Elton John",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tony%20Brothers",
+          "url": "https://twitter.com/search?q=Elton%20John",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cirie",
+          "title": "Helen Kane",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cirie",
+          "url": "https://twitter.com/search?q=Helen%20Kane",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "snowflake",
-          "traffic": "100",
+          "title": "scottie scheffler",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "king charles",
-          "traffic": "100",
+          "title": "epstein files",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "google ai studio",
+          "title": "new weight loss drug",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stellantis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maja chwalińska",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ft",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alabama barker",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snowfall",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "auto accident lawyers",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adrien broner",
+          "title": "new game of thrones podcasts",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "benji madden",
+          "title": "mlf",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "toby samuel",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "connections hint today mashable",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump news iran",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quinta brunson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
