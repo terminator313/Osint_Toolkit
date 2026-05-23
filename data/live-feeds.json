@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T06:11:47.059591+00:00",
+  "updatedAt": "2026-05-23T08:34:37.559013+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,18 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ThunderUp",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThunderUp",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LOLFanFest2026D2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LOLFanFest2026D2",
@@ -44,9 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Giants",
+          "title": "#HSRXRound1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Giants",
+          "url": "https://twitter.com/search?q=%23HSRXRound1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Japan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Japan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Chet",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Chet",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "yosemite",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "power outage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the substance",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "power outage near me",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quentin tarantino",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seaworld san diego",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fireworks portland",
+          "title": "severe thunderstorm warning",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new iphone",
+          "title": "tsunami warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "accident lawyer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noaa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car chase",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake hawaii",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dallas weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael wolff melania trump lawsuit",
+          "title": "ansel elgort",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lee cronin's the mummy",
-          "traffic": "200",
+          "title": "united states department of justice",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "att",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
