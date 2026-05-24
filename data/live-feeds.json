@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T17:57:46.494173+00:00",
+  "updatedAt": "2026-05-24T19:23:49.300891+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Carrick",
+          "title": "Taylor Fritz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carrick",
+          "url": "https://twitter.com/search?q=Taylor%20Fritz",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LOLFanFest2026D3",
+          "title": "Ed Carpenter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LOLFanFest2026D3",
+          "url": "https://twitter.com/search?q=Ed%20Carpenter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cincinnati weather",
+          "title": "scott mclaughlin",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rhys hoskins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackson holliday",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "malukas",
+          "title": "where to watch phoenix mercury vs atlanta dream",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dylan cease",
-          "traffic": "500",
+          "title": "juan pablo montoya",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cale makar",
-          "traffic": "500",
+          "title": "kenley jansen",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets - marlins",
-          "traffic": "500",
+          "title": "willson contreras",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaclyn smith",
-          "traffic": "500",
+          "title": "serie a",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "quarterback",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caio collet",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc movies",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arsenal trophy lift",
+          "title": "jason williams",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taça de portugal",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
