@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T16:32:30.452081+00:00",
+  "updatedAt": "2026-05-24T17:57:46.494173+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LOLFanFest2026D3",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LOLFanFest2026D3",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#COYS",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23COYS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arsenal",
+          "title": "#TeamRedBill",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arsenal",
+          "url": "https://twitter.com/search?q=%23TeamRedBill",
           "platform": "X/Twitter"
         },
         {
-          "title": "Muhammad Qasim",
+          "title": "Carrick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Muhammad%20Qasim",
+          "url": "https://twitter.com/search?q=Carrick",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LOLFanFest2026D3",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LOLFanFest2026D3",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "club de fútbol cruz azul",
+          "title": "cincinnati weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portland thorns vs kc current",
+          "title": "malukas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan cease",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amc theatres",
+          "title": "cale makar",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "federico cinà",
-          "traffic": "200",
+          "title": "mets - marlins",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tufts lacrosse",
-          "traffic": "200",
+          "title": "jaclyn smith",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bernardo silva",
-          "traffic": "200",
+          "title": "quarterback",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pirates schedule",
-          "traffic": "200",
+          "title": "caio collet",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigers vs orioles",
-          "traffic": "5000",
+          "title": "amc movies",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david letterman",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chip ganassi",
+          "title": "arsenal trophy lift",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
