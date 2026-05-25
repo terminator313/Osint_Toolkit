@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T09:11:10.645199+00:00",
+  "updatedAt": "2026-05-25T12:48:21.123770+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#euphoria",
+          "title": "#RememberAndHonor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23euphoria",
+          "url": "https://twitter.com/search?q=%23RememberAndHonor",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#MondayMotivation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOA",
+          "title": "#euphoria",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOA",
+          "url": "https://twitter.com/search?q=%23euphoria",
           "platform": "X/Twitter"
         },
         {
-          "title": "Suarez",
+          "title": "Nate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Suarez",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Morty",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Morty",
+          "url": "https://twitter.com/search?q=Nate",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "injury lawyer",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "7 eleven",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage interest rates",
+          "title": "trader joe's",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cancer care",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stephen colbert public access return",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lol",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "franciscan health",
+          "title": "markwayne mullin dhs deportations",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest iphone rumors",
-          "traffic": "100",
+          "title": "danica patrick indy 500 outfit",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market news today",
-          "traffic": "100",
+          "title": "elise mertens",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl schedule this week",
+          "title": "miley cyrus",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sandip patel cannes",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "labor day 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eva lys",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexandria ocasio-cortez 2028 presidential bid",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jona rechnitz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
