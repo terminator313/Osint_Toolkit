@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T21:43:25.753791+00:00",
+  "updatedAt": "2026-05-26T23:09:03.795220+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#gachiakuta167",
+          "title": "#BetrPicks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta167",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Moon Base",
+          "title": "South Carolina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Moon%20Base",
+          "url": "https://twitter.com/search?q=South%20Carolina",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alexia",
+          "title": "Pegula",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alexia",
+          "url": "https://twitter.com/search?q=Pegula",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "millonarios vs o'higgins",
+          "title": "derwin james",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guzman y gomez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump jr bettina wedding",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "destruction allstars",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uss zumwalt",
+          "title": "marshawn lloyd",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "election official",
+          "title": "jordan wicks",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "year-round daylight saving legislation",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh sweat",
+          "title": "conmebol sudamericana",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "teen takeovers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "georgia power",
-          "traffic": "1000",
+          "title": "is jalen williams playing tonight",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brendan sorsby",
-          "traffic": "2000",
+          "title": "rumer willis",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsie chrisley dui charges",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh jacobs",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
