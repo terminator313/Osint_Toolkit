@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T06:51:05.402916+00:00",
+  "updatedAt": "2026-05-26T13:53:32.044210+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AMAs",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AMAs",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWERaw",
+          "title": "#TuesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bucciovertimechallenge",
+          "title": "#JossGawinConcert",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
+          "url": "https://twitter.com/search?q=%23JossGawinConcert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ferrari",
+          "title": "Home Depot",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ferrari",
+          "url": "https://twitter.com/search?q=Home%20Depot",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sonny Rollins",
+          "title": "Here in America",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sonny%20Rollins",
+          "url": "https://twitter.com/search?q=Here%20in%20America",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "is letterboxd down",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kirk cousins",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chet hanks",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aubrey plaza",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners standings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "son",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miley cyrus",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian bale",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "efrain juarez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul w downs",
+          "title": "voo",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kisd",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "qqq",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "broadcom stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plug stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vgt",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charles schwab",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "learner tien",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dell stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
