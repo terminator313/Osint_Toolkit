@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T17:25:43.062363+00:00",
+  "updatedAt": "2026-05-26T19:33:26.725244+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RCBvsGT",
+          "title": "#24thBDwishForOrm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RCBvsGT",
+          "url": "https://twitter.com/search?q=%2324thBDwishForOrm",
           "platform": "X/Twitter"
         },
         {
-          "title": "#heatwave",
+          "title": "#Support_Our_SevEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23heatwave",
+          "url": "https://twitter.com/search?q=%23Support_Our_SevEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "SCOTUS",
+          "title": "Project Freedom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=SCOTUS",
+          "url": "https://twitter.com/search?q=Project%20Freedom",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "Taco Tuesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=Taco%20Tuesday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "madison keys",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sai sudharsan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufc white house",
+          "title": "jannik sinner",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victor udoh",
-          "traffic": "500",
+          "title": "roland garros 2026 schedule",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "craig kimbrel",
-          "traffic": "500",
+          "title": "roland garros tennis",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "longview wa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kalinskaya",
+          "title": "french open schedule",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "levante badalona - real madrid c. f. femenino",
-          "traffic": "1000",
+          "title": "french open scores",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bts oreos",
+          "title": "bobby witt jr",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big brother",
+          "title": "bermudian springs power outage",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flood watch",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lunr",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica pegula",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
