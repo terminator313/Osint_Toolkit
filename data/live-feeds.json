@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T10:37:21.523990+00:00",
+  "updatedAt": "2026-05-27T14:26:15.462779+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BillyPlayList",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BillyPlayList",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#thetestaments",
+          "title": "#KCLAWARDS2026xDMD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23thetestaments",
+          "url": "https://twitter.com/search?q=%23KCLAWARDS2026xDMD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerHouse",
+          "title": "#DivorcedSistas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerHouse",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Amanda",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Amanda",
+          "url": "https://twitter.com/search?q=%23DivorcedSistas",
           "platform": "X/Twitter"
         },
         {
           "title": "Rashford",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Rashford",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "SK Hynix",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=SK%20Hynix",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "new zealand vs ireland",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tsm stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ios 26.5",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "biden doj audio lawsuit",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "crime",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather atlanta",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "state of origin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "witcher 3 new dlc",
+          "title": "smci stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tennis scores today",
-          "traffic": "100",
+          "title": "novak djokovic",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paris jackson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "qcom stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nvidia stock price 2026 forecast",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "regnyctix",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john summit",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elena rybakina",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin guskiewicz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nokia stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
