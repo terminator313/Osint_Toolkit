@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T17:41:20.358409+00:00",
+  "updatedAt": "2026-05-27T20:13:39.106290+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxBrandonBlackwoodNYC",
+          "title": "#StickGiveaway",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxBrandonBlackwoodNYC",
+          "url": "https://twitter.com/search?q=%23StickGiveaway",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#InvincibleVS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23InvincibleVS",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerSplash26",
+          "title": "$META",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerSplash26",
+          "url": "https://twitter.com/search?q=%24META",
           "platform": "X/Twitter"
         },
         {
-          "title": "Toriyama",
+          "title": "Valve",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Toriyama",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Hand to God",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hand%20to%20God",
+          "url": "https://twitter.com/search?q=Valve",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "cardinals vs brewers",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue bell black raspberry fudge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wang xiyu",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oman",
+          "title": "snow stock",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hailey baptiste",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jasper fire",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil price",
+          "title": "phillies - padres",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins - blue jays",
-          "traffic": "1000",
+          "title": "brewers",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jasmine paolini",
+          "title": "billy bush",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brewers score",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the bahamas",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "terence crawford",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fpl",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "violet affleck",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mayor mamdani vs ken griffin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
