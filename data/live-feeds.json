@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:42:57.733825+00:00",
+  "updatedAt": "2026-05-28T22:40:29.780591+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#loveislandusa",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Cuenca",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Cuenca",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
+          "title": "Angel Hernandez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "url": "https://twitter.com/search?q=Angel%20Hernandez",
           "platform": "X/Twitter"
         },
         {
-          "title": "Started Playing",
+          "title": "Gabriel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Started%20Playing",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Fav Killer",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fav%20Killer",
+          "url": "https://twitter.com/search?q=Gabriel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "costco stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "path stock",
+          "title": "idaho power",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "okta stock",
+          "title": "megan moroney",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wemby okc",
+          "title": "amy coney barrett",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "white house east wing litigation",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nj transit",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bobby flay",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mdb stock",
+          "title": "boise weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves - red sox",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom holland spider-man future",
+          "title": "united states congress",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matteo berrettini",
+          "title": "kirk gibson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nvidia stock price 2026 forecast",
-          "traffic": "200",
+          "title": "loud boom columbia sc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jays vs orioles",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
