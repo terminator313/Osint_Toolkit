@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T08:41:16.764566+00:00",
+  "updatedAt": "2026-05-29T12:14:15.858150+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NINGNING",
+          "title": "#DogeusMaximus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NINGNING",
+          "url": "https://twitter.com/search?q=%23DogeusMaximus",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AskBinanceVIP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AskBinanceVIP",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#hatethatimadeyouloveme",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hatethatimadeyouloveme",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Backrooms",
+          "title": "Romania",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Backrooms",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "BOYZ WITH FUN",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=BOYZ%20WITH%20FUN",
+          "url": "https://twitter.com/search?q=Romania",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "erika kirk",
-          "traffic": "2000",
+          "title": "mirra andreeva",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mormon church",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "temu fine",
+          "title": "crude oil prices today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "influencer marketing",
-          "traffic": "100",
+          "title": "barry manilow",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cryptocurrency trading",
-          "traffic": "100",
+          "title": "diablo season 14",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sive stock",
-          "traffic": "100",
+          "title": "nyt connections hints today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix top movies right now",
-          "traffic": "100",
+          "title": "jfk",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest iphone rumors",
+          "title": "champions league",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sofi stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market news today",
-          "traffic": "100",
+          "title": "laos",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "newest electric cars",
-          "traffic": "100",
+          "title": "lpga",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
