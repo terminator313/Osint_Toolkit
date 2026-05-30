@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T22:50:14.130840+00:00",
+  "updatedAt": "2026-05-30T00:08:54.519679+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OLADAY",
+          "title": "#CarameloEnFoodbazaar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OLADAY",
+          "url": "https://twitter.com/search?q=%23CarameloEnFoodbazaar",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Harland",
+          "title": "NRED",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harland",
+          "url": "https://twitter.com/search?q=NRED",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CarameloEnFoodbazaar",
+          "title": "$NVDA $MSFT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CarameloEnFoodbazaar",
+          "url": "https://twitter.com/search?q=%24NVDA%20%24MSFT",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bay fc vs orlando pride",
-          "traffic": "500",
+          "title": "canadiens vs hurricanes",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs vs cardinals",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox vs guardians",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marlins vs mets",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angels vs rays",
+          "title": "giants vs rockies",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arkansas baseball",
-          "traffic": "1000",
+          "title": "nathaniel lowe",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lottery",
+          "title": "ula launch",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas longhorns softball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "costa rica",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nc state baseball",
+          "title": "ian happ",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pirates score",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ucla",
-          "traffic": "20000",
+          "title": "fifa world cup",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napoleon solo preakness sale",
-          "traffic": "500",
+          "title": "texas vs mississippi state softball",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
