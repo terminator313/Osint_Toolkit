@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T22:00:27.998008+00:00",
+  "updatedAt": "2026-05-30T23:33:05.685743+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UCLFinal",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UCLFinal",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#tomatojay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tomatojay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PSGARS",
+          "title": "#WCWS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PSGARS",
+          "url": "https://twitter.com/search?q=%23WCWS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#COYG",
+          "title": "#BetrPicks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23COYG",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rich Paul",
+          "title": "Lady Vols",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rich%20Paul",
+          "url": "https://twitter.com/search?q=Lady%20Vols",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Caleb",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Caleb",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ecu baseball",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wvu baseball",
+          "title": "tampa bay rays",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wvu baseball score",
-          "traffic": "2000",
+          "title": "mike trout",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kentucky baseball",
+          "title": "ucla",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "georgia lottery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roch cholowsky",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason williams daughter",
+          "title": "nashville superspeedway",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mia williams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sparks vs sun",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fernando tatis jr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bricks and minifigs scandal",
+          "title": "jordy frahm",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oneil cruz",
-          "traffic": "2000",
+          "title": "alabama baseball",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah guthrie mom",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas baseball",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
