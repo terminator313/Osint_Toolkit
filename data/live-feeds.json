@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T07:44:15.093414+00:00",
+  "updatedAt": "2026-05-31T10:14:26.684625+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Cason Wallace",
+          "title": "Ajay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cason%20Wallace",
+          "url": "https://twitter.com/search?q=Ajay",
           "platform": "X/Twitter"
         },
         {
-          "title": "JDub",
+          "title": "#TheJigIsUp",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JDub",
+          "url": "https://twitter.com/search?q=%23TheJigIsUp",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "savings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wrongful death attorney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "injury attorney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "artificial intelligence news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "t rowe price",
+          "title": "fidelity investments",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "university of arizona",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska airline",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "injury lawyers",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "newest electric cars",
+          "title": "zohran mamdani",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest iphone rumors",
+          "title": "mike vrabel",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real estate",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iga świątek",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sorana cîrstea",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xiyu wang",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marta kostyuk",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "key bank",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
