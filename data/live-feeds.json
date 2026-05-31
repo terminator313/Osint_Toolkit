@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:48:50.448006+00:00",
+  "updatedAt": "2026-05-31T20:58:09.341247+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#deathbattle",
+          "title": "#ClashInItaly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23deathbattle",
+          "url": "https://twitter.com/search?q=%23ClashInItaly",
           "platform": "X/Twitter"
         },
         {
-          "title": "#IndyCar",
+          "title": "#USMNT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IndyCar",
+          "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Platner",
+          "title": "Gunther",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Platner",
+          "url": "https://twitter.com/search?q=Gunther",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pence",
+          "title": "Becky",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pence",
+          "url": "https://twitter.com/search?q=Becky",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jordy frahm",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wvu baseball",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles schwab challenge",
+          "title": "aces vs valkyries",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jorge mateo",
+          "title": "banana ball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tim ream",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oba femi",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fonseca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stuart fairchild",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mensik tennis",
+          "title": "brandon sanderson",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elly de la cruz",
+          "title": "oregon state baseball",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arkansas baseball score",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juan soto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fonseca tennis",
+          "title": "texas vs nebraska softball",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john coltrane",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arkansas baseball",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
