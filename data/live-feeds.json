@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T03:53:50.234829+00:00",
+  "updatedAt": "2026-06-01T09:24:58.750523+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NASCAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NASCAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BaddiesUSA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#90DayFiance",
+          "title": "HAPPY GAY MONTH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2390DayFiance",
+          "url": "https://twitter.com/search?q=HAPPY%20GAY%20MONTH",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cepeda",
+          "title": "Lauren",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cepeda",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "rue bennett",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=rue%20bennett",
+          "url": "https://twitter.com/search?q=Lauren",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "asu baseball",
+          "title": "nascar results",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "t rowe price",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "criminal defense lawyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran war",
-          "traffic": "500",
+          "title": "scott michael campbell",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sandy oregon shooting",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "epstein files",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bishop euphoria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colman domingo",
+          "title": "amber alert",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "euphoria season 4",
+          "title": "fundraiser",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stl cardinals",
+          "title": "mortgage broker",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "personal injury attorneys",
-          "traffic": "2000",
+          "title": "verizon",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wrongful death attorneys",
-          "traffic": "200",
+          "title": "5g",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crypto atm",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
