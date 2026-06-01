@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T09:24:58.750523+00:00",
+  "updatedAt": "2026-06-01T15:40:17.143805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#euphoria",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23euphoria",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
+          "title": "#FuturoProductivo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23FuturoProductivo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSA",
+          "title": "#MondayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSA",
+          "url": "https://twitter.com/search?q=%23MondayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "HAPPY GAY MONTH",
+          "title": "Bears",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=HAPPY%20GAY%20MONTH",
+          "url": "https://twitter.com/search?q=Bears",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lauren",
+          "title": "Hammond",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lauren",
+          "url": "https://twitter.com/search?q=Hammond",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nascar results",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "t rowe price",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "criminal defense lawyer",
+          "title": "braxton berrios",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott michael campbell",
+          "title": "taylor swift",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matteo berrettini",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nyt",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amber alert",
+          "title": "baseball",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fundraiser",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage broker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "verizon",
+          "title": "tina peters",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "5g",
+          "title": "dow jones",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crypto atm",
-          "traffic": "5000",
+          "title": "chwalinska",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nbis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amc stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
