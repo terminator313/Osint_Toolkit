@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T23:37:34.058782+00:00",
+  "updatedAt": "2026-06-01T03:53:50.234829+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWEClash",
+          "title": "#euphoria",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWEClash",
+          "url": "https://twitter.com/search?q=%23euphoria",
           "platform": "X/Twitter"
         },
         {
-          "title": "#USMNT",
+          "title": "#BaddiesUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USMNT",
+          "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ClashInItaly",
+          "title": "#90DayFiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ClashInItaly",
+          "url": "https://twitter.com/search?q=%2390DayFiance",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sol Ruca",
+          "title": "Cepeda",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sol%20Ruca",
+          "url": "https://twitter.com/search?q=Cepeda",
           "platform": "X/Twitter"
         },
         {
-          "title": "Becky",
+          "title": "rue bennett",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Becky",
+          "url": "https://twitter.com/search?q=rue%20bennett",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rheinmetall stock",
+          "title": "asu baseball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bonnie blue baby shower",
+          "title": "iran war",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sandy oregon shooting",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "epstein files",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bishop euphoria",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colman domingo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "euphoria season 4",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stl cardinals",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "personal injury attorneys",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espn college baseball",
+          "title": "wrongful death attorneys",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe negri",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "texas baseball",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryce eldridge",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonah cox",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brazil game",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville superspeedway",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
