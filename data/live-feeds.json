@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T09:48:18.856184+00:00",
+  "updatedAt": "2026-06-02T14:01:03.516509+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ZatimaOnParamountPlus",
+          "title": "#BitgetStocksUpgrade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
+          "url": "https://twitter.com/search?q=%23BitgetStocksUpgrade",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BLUE_LIGHT_GUIDES_US_HOME",
+          "title": "#MaríaLaDelFraude",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLUE_LIGHT_GUIDES_US_HOME",
+          "url": "https://twitter.com/search?q=%23Mar%C3%ADaLaDelFraude",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OUR_SEVEN_LIGHTS",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OUR_SEVEN_LIGHTS",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "All 20",
+          "title": "gracie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=All%2020",
+          "url": "https://twitter.com/search?q=gracie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sikh",
+          "title": "$MRVL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sikh",
+          "url": "https://twitter.com/search?q=%24MRVL",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "general hospital",
+          "title": "nbis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crwd stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sorana cîrstea",
-          "traffic": "500",
+          "title": "google stock",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mirra andreeva",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "israel parade",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump ocean monitoring dismantling",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jay silva",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "avgo stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tradingview",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is claude down",
+          "title": "kawasaki",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "btc",
-          "traffic": "200",
+          "title": "bill pulte",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "affordable care act",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gracie abrams tour",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nicholas galitzine",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexander zverev",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rafael jodar",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
