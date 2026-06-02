@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:30:55.226498+00:00",
+  "updatedAt": "2026-06-02T23:44:14.343357+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BetrPicks",
+          "title": "#StateOfPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "url": "https://twitter.com/search?q=%23StateOfPlay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SEVEN_UNDER_ONE_MOON",
+          "title": "#ULTRA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SEVEN_UNDER_ONE_MOON",
+          "url": "https://twitter.com/search?q=%23ULTRA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#sevEN_Whispers_To_Moonlight",
+          "title": "#loveisland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23sevEN_Whispers_To_Moonlight",
+          "url": "https://twitter.com/search?q=%23loveisland",
           "platform": "X/Twitter"
         },
         {
-          "title": "Toy Story 3",
+          "title": "GameStop",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Toy%20Story%203",
+          "url": "https://twitter.com/search?q=GameStop",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sikhs",
+          "title": "Ron Howard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sikhs",
+          "url": "https://twitter.com/search?q=Ron%20Howard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "rayman",
+          "title": "jase bowen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dtf st louis",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gme stock",
-          "traffic": "500",
+          "title": "pirates vs astros",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bet awards",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eli lilly and company",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "los angeles lakers",
+          "title": "haití - nueva zelanda",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haiti vs new zealand",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tax refund",
+          "title": "elias irizarry",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom holland and zendaya",
+          "title": "coby mayo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tesla model y",
+          "title": "bahrain",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tj watt",
+          "title": "athletics vs cubs",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peabo bryson voice of love",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gleyber torres",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
