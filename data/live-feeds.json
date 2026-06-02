@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T05:10:20.789473+00:00",
+  "updatedAt": "2026-06-02T09:48:18.856184+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WreckEm",
+          "title": "#ZatimaOnParamountPlus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WreckEm",
+          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WCWS",
+          "title": "#BLUE_LIGHT_GUIDES_US_HOME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WCWS",
+          "url": "https://twitter.com/search?q=%23BLUE_LIGHT_GUIDES_US_HOME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TridentsUp",
+          "title": "#OUR_SEVEN_LIGHTS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TridentsUp",
+          "url": "https://twitter.com/search?q=%23OUR_SEVEN_LIGHTS",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Furious",
+          "title": "All 20",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Furious",
+          "url": "https://twitter.com/search?q=All%2020",
           "platform": "X/Twitter"
         },
         {
-          "title": "Omaha",
+          "title": "Sikh",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Omaha",
+          "url": "https://twitter.com/search?q=Sikh",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spiderman brand new day",
+          "title": "general hospital",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seth rogen",
+          "title": "sorana cîrstea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mirra andreeva",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "israel parade",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "injury lawyer",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cape may",
+          "title": "trump ocean monitoring dismantling",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cole young",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "venezuela",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "not suitable for work",
+          "title": "jay silva",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncaa softball world series",
-          "traffic": "2000",
+          "title": "avgo stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvell stock",
-          "traffic": "500",
+          "title": "tradingview",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mrvl",
-          "traffic": "500",
+          "title": "is claude down",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "btc",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
