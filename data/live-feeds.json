@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T18:14:06.871993+00:00",
+  "updatedAt": "2026-06-02T21:30:55.226498+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#gachiakuta168",
+          "title": "#BetrPicks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta168",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OlandriaxPoppi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxPoppi",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "phoebe",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=phoebe",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#sevEN_Whispers_To_Moonlight",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23sevEN_Whispers_To_Moonlight",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Toy Story 3",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Toy%20Story%203",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Sikhs",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Sikhs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spider-man: brand new day",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen hurts a.j. brown relationship",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "intel memory price market outlook",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "republican 2026 primary election updates",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wales vs ghana",
+          "title": "rayman",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jimmy gomez",
+          "title": "gme stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bet awards",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eli lilly and company",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "los angeles lakers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shaq angel reese criticism",
-          "traffic": "200",
+          "title": "haiti vs new zealand",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris macfarland",
-          "traffic": "200",
+          "title": "tax refund",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "india vs england",
-          "traffic": "200",
+          "title": "tom holland and zendaya",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "voting center near me today",
-          "traffic": "200",
+          "title": "tesla model y",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tj watt",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
