@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T03:55:40.591163+00:00",
+  "updatedAt": "2026-06-03T08:55:20.007967+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StanleyCup",
+          "title": "#82and0",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StanleyCup",
+          "url": "https://twitter.com/search?q=%2382and0",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerHouse",
+          "title": "#thankyouampers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerHouse",
+          "url": "https://twitter.com/search?q=%23thankyouampers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ForgedInGold",
+          "title": "X-Men",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ForgedInGold",
+          "url": "https://twitter.com/search?q=X-Men",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wolverine",
+          "title": "Stargate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wolverine",
+          "url": "https://twitter.com/search?q=Stargate",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "eddie murphy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners game",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "decision desk hq",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "who is steve hilton",
+          "title": "tax return",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sf election results",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chiefs",
+          "title": "taxes",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barack obama shaw",
-          "traffic": "500",
+          "title": "kawhi leonard",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "albania",
-          "traffic": "500",
+          "title": "mercedes benz shilo sanders lawsuit",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stranger things",
-          "traffic": "500",
+          "title": "cloud",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kbo",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nba 總決賽",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "calfresh",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "videos",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
