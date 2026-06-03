@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T23:44:14.343357+00:00",
+  "updatedAt": "2026-06-03T03:55:40.591163+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#StateOfPlay",
+          "title": "#loveislandusa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StateOfPlay",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ULTRA",
+          "title": "#StanleyCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ULTRA",
+          "url": "https://twitter.com/search?q=%23StanleyCup",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveisland",
+          "title": "#SummerHouse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveisland",
+          "url": "https://twitter.com/search?q=%23SummerHouse",
           "platform": "X/Twitter"
         },
         {
-          "title": "GameStop",
+          "title": "#ForgedInGold",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=GameStop",
+          "url": "https://twitter.com/search?q=%23ForgedInGold",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ron Howard",
+          "title": "Wolverine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ron%20Howard",
+          "url": "https://twitter.com/search?q=Wolverine",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jase bowen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dtf st louis",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs astros",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haití - nueva zelanda",
+          "title": "eddie murphy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elias irizarry",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coby mayo",
+          "title": "mariners game",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahrain",
+          "title": "decision desk hq",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "who is steve hilton",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "athletics vs cubs",
-          "traffic": "2000",
+          "title": "sf election results",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peabo bryson voice of love",
-          "traffic": "2000",
+          "title": "chiefs",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gleyber torres",
+          "title": "barack obama shaw",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "albania",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stranger things",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
