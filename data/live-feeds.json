@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T18:07:44.757075+00:00",
+  "updatedAt": "2026-06-03T21:35:03.371364+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BLUE_SKY_HOLDS_SEVEN_LIGHTS",
+          "title": "#FundHealthcareNotWar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLUE_SKY_HOLDS_SEVEN_LIGHTS",
+          "url": "https://twitter.com/search?q=%23FundHealthcareNotWar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#doordashfairy",
+          "title": "Madden",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23doordashfairy",
+          "url": "https://twitter.com/search?q=Madden",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SEVEN_HEARTS_BEAT_AS_ONE",
+          "title": "Pelley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SEVEN_HEARTS_BEAT_AS_ONE",
+          "url": "https://twitter.com/search?q=Pelley",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "poland vs nigeria",
+          "title": "storm",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luxembourg vs italy",
+          "title": "bo bichette",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump at-will federal workers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matteo berrettini",
+          "title": "robert lewandowski",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon aiyuk",
-          "traffic": "500",
+          "title": "transgender",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "venus williams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shia labeouf",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "albania vs israel",
+          "title": "los angeles international airport",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bricks and minifigs stock",
-          "traffic": "5000",
+          "title": "mcdonald's menu",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "final fantasy vii remake",
+          "title": "redistricting",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "immigration judge",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerrymandering",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dominican republic",
-          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
