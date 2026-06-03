@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T21:35:03.371364+00:00",
+  "updatedAt": "2026-06-03T23:41:52.889115+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WhyIChime",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WhyIChime",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#82and0",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%2382and0",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FundHealthcareNotWar",
+          "title": "#WhyIChime",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FundHealthcareNotWar",
+          "url": "https://twitter.com/search?q=%23WhyIChime",
           "platform": "X/Twitter"
         },
         {
-          "title": "Madden",
+          "title": "#NBAFinals",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Madden",
+          "url": "https://twitter.com/search?q=%23NBAFinals",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pelley",
+          "title": "Kratos",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pelley",
+          "url": "https://twitter.com/search?q=Kratos",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Lena the Plug",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Lena%20the%20Plug",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "storm",
-          "traffic": "2000",
+          "title": "scott bessent",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bo bichette",
+          "title": "mayor of san antonio",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cma fest 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump at-will federal workers",
+          "title": "aaron judge injury",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "northern lights",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robert lewandowski",
+          "title": "christopher sanchez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "transgender",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "los angeles international airport",
+          "title": "fubo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mcdonald's menu",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "redistricting",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "immigration judge",
+          "title": "guardians - yankees",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gerrymandering",
+          "title": "abc streaming",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncaa golf championship",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
