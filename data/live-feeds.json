@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T13:16:32.486573+00:00",
+  "updatedAt": "2026-06-03T18:07:44.757075+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DownyXPerthSanta",
+          "title": "#WhyIChime",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DownyXPerthSanta",
+          "url": "https://twitter.com/search?q=%23WhyIChime",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveislandusa",
+          "title": "#82and0",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%2382and0",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "#BLUE_SKY_HOLDS_SEVEN_LIGHTS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=%23BLUE_SKY_HOLDS_SEVEN_LIGHTS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayVibes",
+          "title": "#doordashfairy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=%23doordashfairy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pratt",
+          "title": "#SEVEN_HEARTS_BEAT_AS_ONE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pratt",
+          "url": "https://twitter.com/search?q=%23SEVEN_HEARTS_BEAT_AS_ONE",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "gracie abrams capital one presale",
-          "traffic": "200",
+          "title": "poland vs nigeria",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will forte",
+          "title": "luxembourg vs italy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andre de shields",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "national donut day",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madden 27",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew rannells",
+          "title": "matteo berrettini",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "herbstreit leaves ea sports game",
+          "title": "brandon aiyuk",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "venus williams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shia labeouf",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "albania vs israel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bricks and minifigs stock",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "garth brooks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the walking dead",
+          "title": "final fantasy vii remake",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security trust fund depletion",
-          "traffic": "500",
+          "title": "dominican republic",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
