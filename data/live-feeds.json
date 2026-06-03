@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T08:55:20.007967+00:00",
+  "updatedAt": "2026-06-03T13:16:32.486573+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DownyXPerthSanta",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DownyXPerthSanta",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#loveislandusa",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#82and0",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2382and0",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#thankyouampers",
+          "title": "#WednesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23thankyouampers",
+          "url": "https://twitter.com/search?q=%23WednesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "X-Men",
+          "title": "Pratt",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=X-Men",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Stargate",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stargate",
+          "url": "https://twitter.com/search?q=Pratt",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tax return",
+          "title": "gracie abrams capital one presale",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taxes",
+          "title": "will forte",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andre de shields",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kawhi leonard",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mercedes benz shilo sanders lawsuit",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cloud",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kbo",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince",
+          "title": "national donut day",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nba 總決賽",
-          "traffic": "200",
+          "title": "madden 27",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "calfresh",
-          "traffic": "100",
+          "title": "andrew rannells",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "videos",
-          "traffic": "200",
+          "title": "herbstreit leaves ea sports game",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "garth brooks",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the walking dead",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "social security trust fund depletion",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
