@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T14:15:29.109130+00:00",
+  "updatedAt": "2026-06-04T17:28:16.799685+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ThursdayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ChávezPorSiempreChávez",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Ch%C3%A1vezPorSiempreCh%C3%A1vez",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayThoughts",
+          "title": "#JUNGKOOKxCALVINKLEIN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
+          "url": "https://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Thirsty Thursday",
+          "title": "#NationalCheeseDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
+          "url": "https://twitter.com/search?q=%23NationalCheeseDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayMotivation",
+          "title": "MAMACITA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
+          "url": "https://twitter.com/search?q=MAMACITA",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#CKJK",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CKJK",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "knicks watch party",
-          "traffic": "2000",
+          "title": "ming xi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sir alex younger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew bates",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qnt stock",
+          "title": "truck accident lawyer",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sagrada familia",
+          "title": "cole hauser dutton ranch texas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres - phillies",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump iran news",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oreo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "northern ireland vs guinea",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "breast cancer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nelly korda",
-          "traffic": "500",
+          "title": "the odyssey",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unh stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexandra eala",
+          "title": "odyssey movie",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sti stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "micah parsons",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
