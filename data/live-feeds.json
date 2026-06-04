@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T11:29:46.107259+00:00",
+  "updatedAt": "2026-06-04T14:15:29.109130+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#thursdayvibes",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23thursdayvibes",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TTPxGentleMonsterICONSIAM",
+          "title": "#ChávezPorSiempreChávez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TTPxGentleMonsterICONSIAM",
+          "url": "https://twitter.com/search?q=%23Ch%C3%A1vezPorSiempreCh%C3%A1vez",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MastersOfTheUniverse",
+          "title": "#ThursdayThoughts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MastersOfTheUniverse",
+          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
           "platform": "X/Twitter"
         },
         {
-          "title": "Strickland",
+          "title": "Thirsty Thursday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Strickland",
+          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Veto",
+          "title": "#ThursdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Veto",
+          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "connections hint today",
+          "title": "knicks watch party",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chipotle nba finals promotion",
-          "traffic": "200",
+          "title": "sir alex younger",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hannah berner",
-          "traffic": "200",
+          "title": "andrew bates",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pak vs aus",
+          "title": "qnt stock",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "run",
-          "traffic": "200",
+          "title": "sagrada familia",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national donut day 2026",
-          "traffic": "1000",
+          "title": "nelly korda",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angelina jolie",
-          "traffic": "200",
+          "title": "unh stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tropical storm amanda",
+          "title": "alexandra eala",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rachel nickell",
-          "traffic": "100",
+          "title": "sti stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hannah waddingham",
-          "traffic": "200",
+          "title": "micah parsons",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
