@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T08:19:52.467675+00:00",
+  "updatedAt": "2026-06-04T11:29:46.107259+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NBAFinals",
+          "title": "#thursdayvibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBAFinals",
+          "url": "https://twitter.com/search?q=%23thursdayvibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveislandusa",
+          "title": "#TTPxGentleMonsterICONSIAM",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%23TTPxGentleMonsterICONSIAM",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OrmxGentleMonsterICONSIAM",
+          "title": "#MastersOfTheUniverse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OrmxGentleMonsterICONSIAM",
+          "url": "https://twitter.com/search?q=%23MastersOfTheUniverse",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aaron Fox",
+          "title": "Strickland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aaron%20Fox",
+          "url": "https://twitter.com/search?q=Strickland",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mitch Johnson",
+          "title": "Veto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mitch%20Johnson",
+          "url": "https://twitter.com/search?q=Veto",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "verizon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jennifer lawrence",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe rogan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gauche",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael jackson billboard hot 100",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saint kitts",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jake gyllenhaal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "president of mexico",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "social security administration staff cuts",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shohei ohtani",
+          "title": "connections hint today",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chipotle nba finals promotion",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah berner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pak vs aus",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "run",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "national donut day 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angelina jolie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tropical storm amanda",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rachel nickell",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah waddingham",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
