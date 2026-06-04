@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T19:38:02.391499+00:00",
+  "updatedAt": "2026-06-04T21:40:12.852257+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LGRW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LGRW",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#StuttgartWordAblaze",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23StuttgartWordAblaze",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BLUE_MOON_SHINES_FOR_SEVEN",
+          "title": "USS Liberty",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLUE_MOON_SHINES_FOR_SEVEN",
+          "url": "https://twitter.com/search?q=USS%20Liberty",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hayley",
+          "title": "Trocheck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hayley",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#7_ECHOES_IN_THE_MOONLIGHT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%237_ECHOES_IN_THE_MOONLIGHT",
+          "url": "https://twitter.com/search?q=Trocheck",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dylan larkin",
+          "title": "graham platner",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "current mortgage rates",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fha financing",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "melania trump inauguration car ride",
+          "title": "hunter biden",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kelly ripa",
+          "title": "house armed services committee ndaa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "passport",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spain fc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karen read",
+          "title": "promenade",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casey schmitt",
+          "title": "kylian mbappé",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "restaurant mashed potato lawsuit",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackson chourio",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adolis garcía",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "persona 6 leaks",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scarborough shoal satellite imagery",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
