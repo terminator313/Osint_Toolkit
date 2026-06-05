@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T06:21:18.460993+00:00",
+  "updatedAt": "2026-06-05T10:30:43.198786+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#WorldEnvironmentDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WorldEnvironmentDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#bucciovertimechallenge",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveislandusa",
+          "title": "#criticalrolespoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#StanleyCup",
+          "title": "Vargas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StanleyCup",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Seth Jarvis",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Seth%20Jarvis",
+          "url": "https://twitter.com/search?q=Vargas",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rafael nadal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elton john",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "camila mendes",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jared leto",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul rudd",
+          "title": "wordle hint",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh johnson",
-          "traffic": "500",
+          "title": "royal lodge",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raising kanan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toy story 5 release date",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vince staples",
+          "title": "fisa",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida georgia line",
-          "traffic": "500",
+          "title": "ashlyn krueger",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa water ban",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottie scheffler memorial tournament meltdown",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "social security funding shortfall",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity etf",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "beef",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zcash",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
