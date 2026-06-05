@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T18:26:57.134669+00:00",
+  "updatedAt": "2026-06-05T20:26:37.383764+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FursuitFriday",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalDonutDay",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalDonutDay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ONCE_ENHA_BLUE_MOON",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ONCE_ENHA_BLUE_MOON",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#7_STARS_FOR_OUR_MOON",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%237_STARS_FOR_OUR_MOON",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
           "title": "#InstructionsForEntry",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23InstructionsForEntry",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SummerGameFest",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SummerGameFest",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "flash flood warning",
-          "traffic": "10000",
+          "title": "arca race today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago weather",
+          "title": "dan lin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "buc-ee's future opening list",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mercado cambiario",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wild waves theme park closure",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick bilton lesley stahl meeting",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spain vs england",
-          "traffic": "200",
+          "title": "miniseries",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peso mexicano",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gothic 1 remake",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "accident lawyer",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "accident attorney",
+          "title": "brent crude benchmark june 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red flag (fire weather) warning",
+          "title": "bitcoin price usd",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supreme leader of iran",
-          "traffic": "200",
+          "title": "vti",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
