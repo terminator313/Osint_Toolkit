@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T10:30:43.198786+00:00",
+  "updatedAt": "2026-06-05T13:51:13.243371+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#IKnewItIKnewYou",
+          "title": "#theliesofisrael",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IKnewItIKnewYou",
+          "url": "https://twitter.com/search?q=%23theliesofisrael",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldEnvironmentDay",
+          "title": "#LaSayoPidiendoCacao",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldEnvironmentDay",
+          "url": "https://twitter.com/search?q=%23LaSayoPidiendoCacao",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bucciovertimechallenge",
+          "title": "#NationalDonutDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
+          "url": "https://twitter.com/search?q=%23NationalDonutDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#criticalrolespoilers",
+          "title": "Happy Friyay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "url": "https://twitter.com/search?q=Happy%20Friyay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vargas",
+          "title": "Monochromatic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vargas",
+          "url": "https://twitter.com/search?q=Monochromatic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "wordle hint",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royal lodge",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fisa",
+          "title": "glen powell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ashlyn krueger",
+          "title": "sti stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gov ball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david cross",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick jonas",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa water ban",
+          "title": "monaco grand prix",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scottie scheffler memorial tournament meltdown",
-          "traffic": "1000",
+          "title": "jason sudeikis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security funding shortfall",
-          "traffic": "200",
+          "title": "dario amodei",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fidelity etf",
-          "traffic": "100",
+          "title": "senate democrats block fisa 702",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "beef",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zcash",
+          "title": "alzo slade",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
