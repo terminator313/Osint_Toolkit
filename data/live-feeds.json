@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T20:26:37.383764+00:00",
+  "updatedAt": "2026-06-05T21:56:58.259847+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#InstructionsForEntry",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23InstructionsForEntry",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SummerGameFest",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SummerGameFest",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Pritzker",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Pritzker",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Jets",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Jets",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "arca race today",
+          "title": "guild wars",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lorenzo lamas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dan lin",
+          "title": "oreo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "buc-ee's future opening list",
+          "title": "edward cabrera",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mercado cambiario",
+          "title": "game 2",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "richard gere",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "unc baseball",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt damon",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wild waves theme park closure",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick bilton lesley stahl meeting",
+          "title": "fortnite",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miniseries",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brent crude benchmark june 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin price usd",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vti",
-          "traffic": "2000",
+          "title": "stranger than heaven tupac",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
