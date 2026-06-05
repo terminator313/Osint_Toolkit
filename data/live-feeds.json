@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T13:51:13.243371+00:00",
+  "updatedAt": "2026-06-05T16:28:44.368633+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#theliesofisrael",
+          "title": "#NationalDonutDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23theliesofisrael",
+          "url": "https://twitter.com/search?q=%23NationalDonutDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalDonutDay",
+          "title": "RED Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalDonutDay",
+          "url": "https://twitter.com/search?q=RED%20Friday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Friyay",
+          "title": "#LetterboxdFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Friyay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Monochromatic",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Monochromatic",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "glen powell",
-          "traffic": "200",
+          "title": "chicago bears",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sti stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gov ball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david cross",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick jonas",
+          "title": "hammond indiana",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "monaco grand prix",
+          "title": "flavio cobolli",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bears",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andre agassi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colorado",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "405 closure",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason sudeikis",
-          "traffic": "500",
+          "title": "brendan banfield",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dario amodei",
-          "traffic": "500",
+          "title": "matthew prince",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "senate democrats block fisa 702",
+          "title": "new zealand vs haiti",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alzo slade",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
