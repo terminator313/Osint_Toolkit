@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T21:56:58.259847+00:00",
+  "updatedAt": "2026-06-05T23:12:47.243541+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#SummerGameFest",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SummerGameFest",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RTXPowersPlay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RTXPowersPlay",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerGameFest",
+          "title": "Cuphead 2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerGameFest",
+          "url": "https://twitter.com/search?q=Cuphead%202",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pritzker",
+          "title": "Baseless",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pritzker",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jets",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jets",
+          "url": "https://twitter.com/search?q=Baseless",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "guild wars",
+          "title": "final fantasy",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lorenzo lamas",
+          "title": "xbox showcase 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oreo",
+          "title": "palworld 1.0",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edward cabrera",
+          "title": "street fighter 6",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "game 2",
+          "title": "argentina vs honduras",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tug valley high school",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stellar blade",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "canada vs ireland",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "richard gere",
+          "title": "bill bradley",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unc baseball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt damon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fortnite",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stranger than heaven tupac",
+          "title": "canadá - irlanda",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
