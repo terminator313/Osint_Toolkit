@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T08:31:16.955923+00:00",
+  "updatedAt": "2026-06-06T10:52:40.170376+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#FriendlyMeBeautyxSanta",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FriendlyMeBeautyxSanta",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NBAFinals",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NBAFinals",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIJI_ENRoute",
+          "title": "SANTA BEAUTY BLACK CARPET",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIJI_ENRoute",
+          "url": "https://twitter.com/search?q=SANTA%20BEAUTY%20BLACK%20CARPET",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mikal Bridges",
+          "title": "Tony Brothers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mikal%20Bridges",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Stellar Blade",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stellar%20Blade",
+          "url": "https://twitter.com/search?q=Tony%20Brothers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "smoking behind the supermarket with you",
+          "title": "taylor sheridan",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "criminal lawyer",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dday",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "feeding our future",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us israel intelligence tensions",
+          "title": "trump pardons stephen buyer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vaccines",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flu shots",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jamaica",
+          "title": "immunizations",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amoc",
-          "traffic": "200",
+          "title": "2026 world cup mexico safety",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portugal vs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hulk hogan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patton oswalt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "martin de la torre",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samara weaving",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marlon wayans",
+          "title": "car accident lawyer",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
