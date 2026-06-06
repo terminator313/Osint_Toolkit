@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T01:28:03.013140+00:00",
+  "updatedAt": "2026-06-06T05:32:02.481846+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SummerGameFest",
+          "title": "#NBAFinals",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerGameFest",
+          "url": "https://twitter.com/search?q=%23NBAFinals",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
+          "title": "#loveislandusa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Fortnite",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fortnite",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Last Ronin",
+          "title": "Tifa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Last%20Ronin",
+          "url": "https://twitter.com/search?q=Tifa",
           "platform": "X/Twitter"
         },
         {
-          "title": "Yasmine",
+          "title": "Karl Anthony Towns",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Yasmine",
+          "url": "https://twitter.com/search?q=Karl%20Anthony%20Towns",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "mitchell robinson",
-          "traffic": "5000",
+          "title": "samara weaving",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "disney plus",
-          "traffic": "5000",
+          "title": "martin de la torre",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hulu",
-          "traffic": "5000",
+          "title": "tiffany haddish",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "snowfall spinoff",
+          "title": "marlon wayans",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inde navarrette",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pooh shiesty",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "freddie freeman",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeremy lin",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the bear",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wembanyama height",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitchell robinson trump",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spurs mascot",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snowfall",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paraguay - nicaragua",
+          "title": "stake",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
