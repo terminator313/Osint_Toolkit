@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T20:07:44.494726+00:00",
+  "updatedAt": "2026-06-06T21:36:59.628714+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HealingServiceLive",
+          "title": "#tvlspoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HealingServiceLive",
+          "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Fight_For_Our_SevEN",
+          "title": "#USAGER",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fight_For_Our_SevEN",
+          "url": "https://twitter.com/search?q=%23USAGER",
           "platform": "X/Twitter"
         },
         {
-          "title": "TPUSA",
+          "title": "Olivia Miles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TPUSA",
+          "url": "https://twitter.com/search?q=Olivia%20Miles",
           "platform": "X/Twitter"
         },
         {
-          "title": "Richards",
+          "title": "Happy Birthday Pete",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Richards",
+          "url": "https://twitter.com/search?q=Happy%20Birthday%20Pete",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "fox sports",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "las vegas aces",
+          "title": "cubs score",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "godzilla destroy all monsters",
+          "title": "cubs game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yordan alvarez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben brown",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jedi robinson",
+          "title": "lamonte wade jr.",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simone biles",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "troy university",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "independence day",
+          "title": "edgar chairez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake now",
+          "title": "robert smith",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan gerard",
+          "title": "women's world cup",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brasil - egipto",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mystics vs dream",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacob gonzalez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
