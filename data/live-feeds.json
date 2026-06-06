@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T12:05:12.728661+00:00",
+  "updatedAt": "2026-06-06T14:16:03.543435+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TicketToHeavenEP2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TicketToHeavenEP2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FriendlyMeBeautyxSanta",
+          "title": "#เสน่หาวาโยตอนที่4",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FriendlyMeBeautyxSanta",
+          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%884",
           "platform": "X/Twitter"
         },
         {
-          "title": "#YokoDebutShortFilm",
+          "title": "Greatest Generation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YokoDebutShortFilm",
+          "url": "https://twitter.com/search?q=Greatest%20Generation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gundam",
+          "title": "THE AIR CROSSING THE LINE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gundam",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Allied",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Allied",
+          "url": "https://twitter.com/search?q=THE%20AIR%20CROSSING%20THE%20LINE",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "financial company",
+          "title": "chris janson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple tv",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "conchita martinez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "appletv",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roland garros arnaldi withdrawal press",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "when does world cup start",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scarlett johansson mike flanagan movie",
+          "title": "gabrielle union",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caroline wozniacki",
+          "title": "portugal vs chile",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump senate republican disagreements",
+          "title": "germany vs usa",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "washington commanders",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "england vs new zealand",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kennedy center chuck redd lawsuit",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xavier becerra election news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ashley cooke",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supreme court justice samuel",
-          "traffic": "200",
+          "title": "kim kardashian",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
