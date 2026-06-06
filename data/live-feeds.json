@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T10:52:40.170376+00:00",
+  "updatedAt": "2026-06-06T12:05:12.728661+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#loveislandusa",
+          "title": "#TicketToHeavenEP2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%23TicketToHeavenEP2",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NBAFinals",
+          "title": "#YokoDebutShortFilm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBAFinals",
+          "url": "https://twitter.com/search?q=%23YokoDebutShortFilm",
           "platform": "X/Twitter"
         },
         {
-          "title": "SANTA BEAUTY BLACK CARPET",
+          "title": "Gundam",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=SANTA%20BEAUTY%20BLACK%20CARPET",
+          "url": "https://twitter.com/search?q=Gundam",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tony Brothers",
+          "title": "Allied",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tony%20Brothers",
+          "url": "https://twitter.com/search?q=Allied",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taylor sheridan",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "criminal lawyer",
+          "title": "financial company",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dday",
+          "title": "scarlett johansson mike flanagan movie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "feeding our future",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump pardons stephen buyer",
+          "title": "caroline wozniacki",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vaccines",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flu shots",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "immunizations",
+          "title": "trump senate republican disagreements",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2026 world cup mexico safety",
-          "traffic": "10000",
+          "title": "washington commanders",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident lawyer",
-          "traffic": "1000",
+          "title": "england vs new zealand",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kennedy center chuck redd lawsuit",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xavier becerra election news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ashley cooke",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supreme court justice samuel",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
