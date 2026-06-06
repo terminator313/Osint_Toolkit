@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T21:36:59.628714+00:00",
+  "updatedAt": "2026-06-06T23:01:37.022374+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#UFCVegas118",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UFCVegas118",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#tvlspoilers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#USAGER",
+          "title": "Normandy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USAGER",
+          "url": "https://twitter.com/search?q=Normandy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Olivia Miles",
+          "title": "#GCWToSXi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Olivia%20Miles",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Happy Birthday Pete",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Pete",
+          "url": "https://twitter.com/search?q=%23GCWToSXi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs score",
+          "title": "igor thiago",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon marsh",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alessandro costa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs game",
+          "title": "bruno guimarães",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atv canlı izle",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ku baseball",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yordan alvarez",
+          "title": "brazil vs morocco",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lamonte wade jr.",
+          "title": "marcus rashford",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edgar chairez",
-          "traffic": "500",
+          "title": "saratoga springs fire",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robert smith",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "women's world cup",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brasil - egipto",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mystics vs dream",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob gonzalez",
+          "title": "charley hull",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
