@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T05:32:02.481846+00:00",
+  "updatedAt": "2026-06-06T08:31:16.955923+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NBAFinals",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBAFinals",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#loveislandusa",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#NBAFinals",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23NBAFinals",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tifa",
+          "title": "#NIJI_ENRoute",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tifa",
+          "url": "https://twitter.com/search?q=%23NIJI_ENRoute",
           "platform": "X/Twitter"
         },
         {
-          "title": "Karl Anthony Towns",
+          "title": "Mikal Bridges",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Karl%20Anthony%20Towns",
+          "url": "https://twitter.com/search?q=Mikal%20Bridges",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Stellar Blade",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Stellar%20Blade",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "samara weaving",
+          "title": "smoking behind the supermarket with you",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us israel intelligence tensions",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jamaica",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amoc",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal vs",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hulk hogan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patton oswalt",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,43 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiffany haddish",
+          "title": "samara weaving",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "marlon wayans",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inde navarrette",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pooh shiesty",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freddie freeman",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angels",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeremy lin",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stake",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
