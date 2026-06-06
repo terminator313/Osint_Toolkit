@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T18:47:30.602621+00:00",
+  "updatedAt": "2026-06-06T20:07:44.494726+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#USMNT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23USMNT",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#HealingServiceLive",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HealingServiceLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TicketToHeavenEP2",
+          "title": "#Fight_For_Our_SevEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TicketToHeavenEP2",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Caturday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Mirra Andreeva",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mirra%20Andreeva",
+          "url": "https://twitter.com/search?q=%23Fight_For_Our_SevEN",
           "platform": "X/Twitter"
         },
         {
           "title": "TPUSA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=TPUSA",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Richards",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Richards",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "matt freese",
+          "title": "fox sports",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nathaniel brown",
+          "title": "las vegas aces",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "godzilla destroy all monsters",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tnt",
+          "title": "ben brown",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jedi robinson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usa world cup schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uswnt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tbs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian pulisic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "natasha howard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "albania vs luxembourg",
+          "title": "simone biles",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "switzerland vs australia",
-          "traffic": "2000",
+          "title": "troy university",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "independence day",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake now",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan gerard",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
