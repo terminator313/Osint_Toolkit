@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T14:16:03.543435+00:00",
+  "updatedAt": "2026-06-06T15:49:57.268583+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MonacoGP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MonacoGP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Caturday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Caturday",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#เสน่หาวาโยตอนที่4",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%884",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "Greatest Generation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Greatest%20Generation",
           "platform": "X/Twitter"
         },
         {
-          "title": "THE AIR CROSSING THE LINE",
+          "title": "Omaha Beach",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=THE%20AIR%20CROSSING%20THE%20LINE",
+          "url": "https://twitter.com/search?q=Omaha%20Beach",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chris janson",
-          "traffic": "200",
+          "title": "weston higginbotham",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple tv",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "conchita martinez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "appletv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roland garros arnaldi withdrawal press",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when does world cup start",
+          "title": "robert f. kennedy jr.",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gabrielle union",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portugal vs chile",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "germany vs usa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kim kardashian",
+          "title": "cleetus mcfarland",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "long covid treatment",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mississippi state baseball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charles leclerc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vanilla ice",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pride parade 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wimbledon 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
