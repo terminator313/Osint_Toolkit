@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T23:12:47.243541+00:00",
+  "updatedAt": "2026-06-06T01:28:03.013140+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "#Fortnite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23Fortnite",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cuphead 2",
+          "title": "The Last Ronin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cuphead%202",
+          "url": "https://twitter.com/search?q=The%20Last%20Ronin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Baseless",
+          "title": "Yasmine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Baseless",
+          "url": "https://twitter.com/search?q=Yasmine",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "final fantasy",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox showcase 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palworld 1.0",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "street fighter 6",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina vs honduras",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tug valley high school",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stellar blade",
+          "title": "mitchell robinson",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "canada vs ireland",
-          "traffic": "2000",
+          "title": "disney plus",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill bradley",
-          "traffic": "2000",
+          "title": "hulu",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "canadá - irlanda",
+          "title": "snowfall spinoff",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the bear",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wembanyama height",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mitchell robinson trump",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spurs mascot",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "snowfall",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paraguay - nicaragua",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
