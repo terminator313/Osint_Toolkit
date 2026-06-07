@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T09:45:45.801287+00:00",
+  "updatedAt": "2026-06-07T11:47:03.899652+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#SundayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#eternalsunshinetour",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23eternalsunshinetour",
           "platform": "X/Twitter"
         },
         {
-          "title": "#StanleyCup",
+          "title": "#NIJI_ENprov",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StanleyCup",
+          "url": "https://twitter.com/search?q=%23NIJI_ENprov",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIJIGift_MiniLive",
+          "title": "#bucciovertimechallenge",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIJIGift_MiniLive",
+          "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mormons",
+          "title": "Marner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mormons",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "HONEYMOON AVENUE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=HONEYMOON%20AVENUE",
+          "url": "https://twitter.com/search?q=Marner",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "curt cignetti",
+          "title": "when is father's day",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rick hendrick",
+          "title": "strait of hormuz oil shipping",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car chase",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xbox showcase",
+          "title": "dan sullivan",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flash flood warning",
+          "title": "ines de ramon",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cyberguy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flavio cobolli",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mohammad saleem",
+          "title": "boston blue",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "herpetology 101",
-          "traffic": "500",
+          "title": "corpus christi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "better 82-0",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lottery results today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what is a data breach",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix top movies right now",
-          "traffic": "1000",
+          "title": "scottie scheffler memorial tournament performance",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
