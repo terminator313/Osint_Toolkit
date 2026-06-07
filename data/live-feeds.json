@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T11:47:03.899652+00:00",
+  "updatedAt": "2026-06-07T13:49:05.653508+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MonacoGP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MonacoGP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SundayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#eternalsunshinetour",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23eternalsunshinetour",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIJI_ENprov",
+          "title": "ariana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIJI_ENprov",
+          "url": "https://twitter.com/search?q=ariana",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bucciovertimechallenge",
+          "title": "#SundayFunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Marner",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marner",
+          "url": "https://twitter.com/search?q=%23SundayFunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "when is father's day",
+          "title": "vickrum digwa",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "strait of hormuz oil shipping",
+          "title": "roland garros",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isack hadjar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car chase",
-          "traffic": "100",
+          "title": "john mcenroe",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dan sullivan",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ines de ramon",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cyberguy",
+          "title": "alycia parks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flavio cobolli",
+          "title": "house of the dragon",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max verstappen",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boston blue",
-          "traffic": "200",
+          "title": "charles leclerc",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "corpus christi",
-          "traffic": "200",
+          "title": "pride parade 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scottie scheffler memorial tournament performance",
-          "traffic": "100",
+          "title": "liz landers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
