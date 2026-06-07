@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T16:50:55.478085+00:00",
+  "updatedAt": "2026-06-07T18:02:30.568653+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#XBOXShowcase",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23XBOXShowcase",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RTXPowersPlays",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlays",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MonacoGP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MonacoGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "Lewis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=Lewis",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Marie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Best Buy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Best%20Buy",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Hadjar",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hadjar",
+          "url": "https://twitter.com/search?q=Marie",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "colombia vs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denmark vs ukraine",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toto wolff",
+          "title": "vincent cassel",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john smoltz",
+          "title": "athletics vs astros",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sam burns",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lewis hamilton kim kardashian",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rye barcott",
+          "title": "elder scrolls 6",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake",
+          "title": "xbox series x25",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox series x",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners vs tigers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orioles vs blue jays",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake near me",
+          "title": "rays vs marlins",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zverev age",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ted lindsay award",
-          "traffic": "10000",
+          "title": "red sox - yankees",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
