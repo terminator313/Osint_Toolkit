@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T06:22:47.795995+00:00",
+  "updatedAt": "2026-06-07T09:45:45.801287+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#bucciovertimechallenge",
+          "title": "#NIJIGift_MiniLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bucciovertimechallenge",
+          "url": "https://twitter.com/search?q=%23NIJIGift_MiniLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bussi",
+          "title": "Mormons",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bussi",
+          "url": "https://twitter.com/search?q=Mormons",
           "platform": "X/Twitter"
         },
         {
-          "title": "Canes",
+          "title": "HONEYMOON AVENUE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Canes",
+          "url": "https://twitter.com/search?q=HONEYMOON%20AVENUE",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "game development",
+          "title": "curt cignetti",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world's tallest buildings",
+          "title": "rick hendrick",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox showcase",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flood warning",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mohammad saleem",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "symptoms of the flu",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how to reduce screen time",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "latest earthquake near me",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manav suthar",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travel restrictions to canada",
+          "title": "herpetology 101",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest iphone rumors",
-          "traffic": "200",
+          "title": "better 82-0",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcus mumford",
-          "traffic": "200",
+          "title": "lottery results today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "soccer world rankings",
-          "traffic": "2000",
+          "title": "what is a data breach",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix top movies right now",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
