@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T19:54:18.063910+00:00",
+  "updatedAt": "2026-06-07T21:10:31.388277+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#BetrPicks",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Burrows",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Burrows",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hello Fresh",
+          "title": "Xbox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hello%20Fresh",
+          "url": "https://twitter.com/search?q=Xbox",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Persona 6",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Persona%206",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "unc baseball score",
+          "title": "tigers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ynet",
+          "title": "banana ball",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anduril",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jack plummer",
+          "title": "us womens open",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gustavo petro",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tornado watch",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor zilisch",
+          "title": "bari weiss cbs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ecuador vs",
+          "title": "eagles news",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el niño",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcus semien",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "myla grace leaves tna wrestling",
+          "title": "western australian shark cull",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacob parker mississippi state",
+          "title": "knox leon jolie-pitt",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "skylar diggins",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
