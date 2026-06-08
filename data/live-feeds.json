@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T14:33:02.533071+00:00",
+  "updatedAt": "2026-06-08T17:50:59.543311+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DiplomaciaVictoriosa",
+          "title": "#WWDC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DiplomaciaVictoriosa",
+          "url": "https://twitter.com/search?q=%23WWDC",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ZIGxONDO",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ZIGxONDO",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SFxPerthSantaDomiia",
+          "title": "Sam Bankman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SFxPerthSantaDomiia",
+          "url": "https://twitter.com/search?q=Sam%20Bankman",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayVibes",
+          "title": "Good Monday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#花咲みやび",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E8%8A%B1%E5%92%B2%E3%81%BF%E3%82%84%E3%81%B3",
+          "url": "https://twitter.com/search?q=Good%20Monday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "tsla stock",
-          "traffic": "5000",
+          "title": "citizenship",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brendan sorsby",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "microsoft stock price",
+          "title": "macos golden gate",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "asml stock",
+          "title": "vanilla ice",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hello fresh",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nflx stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryant park",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "s&p 500",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "meta stock",
+          "title": "sorrento valley fire",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "djia",
+          "title": "indiana fever caitlin clark",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "voo stock",
+          "title": "kennedy center trump name removal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emirates",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "big boy train ohio",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "customs and border protection funding",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
