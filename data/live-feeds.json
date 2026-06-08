@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T00:05:29.075013+00:00",
+  "updatedAt": "2026-06-08T05:12:05.644259+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NASCAR",
+          "title": "#loveislandusa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BadBoysDR",
+          "title": "#TonyAwards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BadBoysDR",
+          "url": "https://twitter.com/search?q=%23TonyAwards",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWCoSV",
+          "title": "#BaddiesUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWCoSV",
+          "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tiramisu",
+          "title": "#RHOA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tiramisu",
+          "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bosh Magic",
+          "title": "Bibi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bosh%20Magic",
+          "url": "https://twitter.com/search?q=Bibi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nelly korda major wins",
+          "title": "stephen wilson jr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas baseball score",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nifty 50",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardi b",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nelly korda fiance",
-          "traffic": "500",
+          "title": "martin de la torre",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "penn station stabbing",
-          "traffic": "500",
+          "title": "sf giants",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jennifer kupcho",
+          "title": "glen powell",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dalton rushing",
+          "title": "myles rowe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sebastian rivero",
+          "title": "rick and morty season 9 episode 3",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "knicks spurs game 3",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indy car race today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex pereira",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cameron brink",
+          "title": "alex bregman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
