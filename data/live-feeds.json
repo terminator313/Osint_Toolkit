@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T05:12:05.644259+00:00",
+  "updatedAt": "2026-06-08T10:01:46.767581+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TonyAwards",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TonyAwards",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#BaddiesUSA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOA",
+          "title": "#TonyAwards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOA",
+          "url": "https://twitter.com/search?q=%23TonyAwards",
           "platform": "X/Twitter"
         },
         {
           "title": "Bibi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Bibi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Mickey D",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Mickey%20D",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "stephen wilson jr",
+          "title": "ekaterina alexandrova",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "texas baseball score",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nifty 50",
+          "title": "jon bernthal",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardi b",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "martin de la torre",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sf giants",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "glen powell",
+          "title": "delta",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "myles rowe",
+          "title": "5g",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rick and morty season 9 episode 3",
+          "title": "lawsuit aims to stop ufc fight at the white house",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nbc cancels 9 tv shows",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex bregman",
+          "title": "杭州天气",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat advisory",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mandalorian and grogu box office",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real estate",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
