@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T22:09:17.831216+00:00",
+  "updatedAt": "2026-06-08T23:45:56.713646+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RawOnNetflix",
+          "title": "#TheFive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RawOnNetflix",
+          "url": "https://twitter.com/search?q=%23TheFive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Holds",
+          "title": "McDavid",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Holds",
+          "url": "https://twitter.com/search?q=McDavid",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gordon Wood",
+          "title": "Tom Brady",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gordon%20Wood",
+          "url": "https://twitter.com/search?q=Tom%20Brady",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "yankees vs guardians",
+          "title": "patrick ewing",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox vs rays",
+          "title": "john thune",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "terremoto",
+          "title": "andrew tate",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners vs orioles",
-          "traffic": "2000",
+          "title": "spike lee",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "openai ipo",
-          "traffic": "2000",
+          "title": "where can i watch the knicks game tonight",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "facebook settlement",
+          "title": "jeff bezos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "grand canyon",
+          "title": "jason statham",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ilia topuria",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bengals trade dexter lawrence analysis",
-          "traffic": "500",
+          "title": "cook islands",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blue lock season 3 release date",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tesla model 3",
-          "traffic": "500",
+          "title": "lioness season 3 release date",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
