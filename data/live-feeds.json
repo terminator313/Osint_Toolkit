@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:35:57.828544+00:00",
+  "updatedAt": "2026-06-08T00:05:29.075013+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#crrpbeachweek",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23crrpbeachweek",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RolandGarros",
+          "title": "#BadBoysDR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RolandGarros",
+          "url": "https://twitter.com/search?q=%23BadBoysDR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BetrPicks",
+          "title": "#GCWCoSV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "url": "https://twitter.com/search?q=%23GCWCoSV",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jahmai Jones",
+          "title": "Tiramisu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jahmai%20Jones",
+          "url": "https://twitter.com/search?q=Tiramisu",
           "platform": "X/Twitter"
         },
         {
-          "title": "Toys for Bob",
+          "title": "Bosh Magic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Toys%20for%20Bob",
+          "url": "https://twitter.com/search?q=Bosh%20Magic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "kansas baseball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack nicholson",
+          "title": "nelly korda major wins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2027 dodge charger daytona price",
+          "title": "nelly korda fiance",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers score",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nasdaq futures",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la dodgers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jt poston wife",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chun in-gee",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dutton ranch episode 5 review",
+          "title": "penn station stabbing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elecciones peru 2026",
+          "title": "jennifer kupcho",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dalton rushing",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sebastian rivero",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "knicks spurs game 3",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indy car race today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex pereira",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cameron brink",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
