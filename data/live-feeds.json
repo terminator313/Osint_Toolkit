@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:12:31.742216+00:00",
+  "updatedAt": "2026-06-08T22:09:17.831216+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#CarameloEnLCDLF6",
+          "title": "#RawOnNetflix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CarameloEnLCDLF6",
+          "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
-          "title": "Harley Quinn",
+          "title": "Holds",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harley%20Quinn",
+          "url": "https://twitter.com/search?q=Holds",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cody Campbell",
+          "title": "Gordon Wood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cody%20Campbell",
+          "url": "https://twitter.com/search?q=Gordon%20Wood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "alexis bledel tribeca film festival",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sports broadcasting act of 1961",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what time is the knicks game tonight",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "faa ground stop dallas airport",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anthony bourdain",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france",
+          "title": "yankees vs guardians",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "francia vs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "federal judge voids trump's $100000 fee requirement for h 1b visas",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil tanker",
+          "title": "red sox vs rays",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jim curtin",
+          "title": "terremoto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners vs orioles",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "openai ipo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "facebook settlement",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grand canyon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bengals trade dexter lawrence analysis",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue lock season 3 release date",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tesla model 3",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
