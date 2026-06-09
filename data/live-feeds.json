@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T10:33:34.204868+00:00",
+  "updatedAt": "2026-06-09T13:43:40.111753+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NBAFinals",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBAFinals",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ZatimaOnParamountPlus",
+          "title": "#TuesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
+          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrumpCurse",
+          "title": "#OpenSource",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpCurse",
+          "url": "https://twitter.com/search?q=%23OpenSource",
           "platform": "X/Twitter"
         },
         {
-          "title": "Clarkson",
+          "title": "Cheater",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clarkson",
+          "url": "https://twitter.com/search?q=Cheater",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Brown",
+          "title": "Sleepy Don",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Brown",
+          "url": "https://twitter.com/search?q=Sleepy%20Don",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bucks",
+          "title": "wyatt russell",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bulls",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yannick hanfmann",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angel",
+          "title": "argentina vs iceland",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "olivia burgess",
+          "title": "china vs thailand",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lennox lewis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joel bitonio",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rivian r2",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick wilson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reiner family trust dispute",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh o'connor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan reynolds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "celtics",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nets",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "belfast",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warriors",
-          "traffic": "5000",
+          "title": "jodie turner-smith",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
