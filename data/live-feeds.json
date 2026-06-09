@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T02:55:30.814301+00:00",
+  "updatedAt": "2026-06-09T06:50:09.727276+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SASvsNYK",
+          "title": "#NBAFinals",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SASvsNYK",
+          "url": "https://twitter.com/search?q=%23NBAFinals",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NBATwitter",
+          "title": "#loveislandusa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBATwitter",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BelowDeckMed",
+          "title": "#TrumpCurse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BelowDeckMed",
+          "url": "https://twitter.com/search?q=%23TrumpCurse",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kenzo",
+          "title": "Winn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kenzo",
+          "url": "https://twitter.com/search?q=Winn",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jason Hart",
+          "title": "National Anthem",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jason%20Hart",
+          "url": "https://twitter.com/search?q=National%20Anthem",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "michael bloomberg",
+          "title": "william contreras",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trader joe's lawsuit",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max muncy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh gad",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado warning",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike bloomberg",
-          "traffic": "5000",
+          "title": "tornado lawrence ks",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bloomberg",
-          "traffic": "2000",
+          "title": "taylor lautner",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dolph lundgren",
-          "traffic": "500",
+          "title": "joel kuhnel",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "super bowl 2027",
-          "traffic": "500",
+          "title": "nick kurtz",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dave chappelle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luke kornet",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska airlines",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cody bellinger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "resident alien",
+          "title": "lando norris",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
