@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T13:43:40.111753+00:00",
+  "updatedAt": "2026-06-09T16:30:28.353778+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NintendoDirect",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NintendoDirect",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LaSayonaPuraPaja",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaSayonaPuraPaja",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TuesdayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayMotivation",
+          "title": "HD-2D",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=HD-2D",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OpenSource",
+          "title": "Mary McCord",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OpenSource",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Cheater",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cheater",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Sleepy Don",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sleepy%20Don",
+          "url": "https://twitter.com/search?q=Mary%20McCord",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wyatt russell",
+          "title": "stock market today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina vs iceland",
+          "title": "spy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "market news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "china vs thailand",
+          "title": "michael mccarron",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lennox lewis",
+          "title": "june 9 primary results updates",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joel bitonio",
+          "title": "david foster",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alaric jackson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rivian r2",
+          "title": "tajikistan vs india",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "artemis 3",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patrick wilson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reiner family trust dispute",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh o'connor",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jodie turner-smith",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
