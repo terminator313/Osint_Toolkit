@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T16:30:28.353778+00:00",
+  "updatedAt": "2026-06-09T19:11:57.135358+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NintendoDirect",
+          "title": "#Destiny2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NintendoDirect",
+          "url": "https://twitter.com/search?q=%23Destiny2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaSayonaPuraPaja",
+          "title": "#WeWantDestiny3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaSayonaPuraPaja",
+          "url": "https://twitter.com/search?q=%23WeWantDestiny3",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "#TrumpMakesUsSick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=%23TrumpMakesUsSick",
           "platform": "X/Twitter"
         },
         {
-          "title": "HD-2D",
+          "title": "Star Fox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=HD-2D",
+          "url": "https://twitter.com/search?q=Star%20Fox",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mary McCord",
+          "title": "Final Fantasy Resonance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mary%20McCord",
+          "url": "https://twitter.com/search?q=Final%20Fantasy%20Resonance",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "stock market today",
-          "traffic": "5000",
+          "title": "lloyd austin",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market",
-          "traffic": "2000",
+          "title": "freeland mi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spy",
+          "title": "detroit weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mass lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sat",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luis lara",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "market news",
+          "title": "england vs ukraine",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael mccarron",
+          "title": "big rock tournament",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "june 9 primary results updates",
+          "title": "rowan blanchard",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david foster",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaric jackson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tajikistan vs india",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "artemis 3",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
