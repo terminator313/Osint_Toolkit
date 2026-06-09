@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T19:11:57.135358+00:00",
+  "updatedAt": "2026-06-09T21:17:19.709506+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Destiny2",
+          "title": "#TrumpMakesUsSick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Destiny2",
+          "url": "https://twitter.com/search?q=%23TrumpMakesUsSick",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LaSayonaPuraPaja",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaSayonaPuraPaja",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrumpMakesUsSick",
+          "title": "Fortune&#39;s Weave",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpMakesUsSick",
+          "url": "https://twitter.com/search?q=Fortune&#39;s%20Weave",
           "platform": "X/Twitter"
         },
         {
-          "title": "Star Fox",
+          "title": "BOTW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Star%20Fox",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Final Fantasy Resonance",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Final%20Fantasy%20Resonance",
+          "url": "https://twitter.com/search?q=BOTW",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lloyd austin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freeland mi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "detroit weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mass lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shell",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sat",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis lara",
+          "title": "salesforce layoff",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "england vs ukraine",
-          "traffic": "200",
+          "title": "simone biles scariest experience",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big rock tournament",
-          "traffic": "200",
+          "title": "jonathan frakes",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rowan blanchard",
-          "traffic": "200",
+          "title": "vice president residence poultry coop",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house ice border patrol bill",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark carney detroit bridge statement",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john fetterman",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ssa bisignano congress hearing",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ramat david airforce base",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "match day dozen krispy kreme",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
