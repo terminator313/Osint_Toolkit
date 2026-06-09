@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T23:45:56.713646+00:00",
+  "updatedAt": "2026-06-09T02:55:30.814301+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#SASvsNYK",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23SASvsNYK",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWDC",
+          "title": "#NBATwitter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWDC",
+          "url": "https://twitter.com/search?q=%23NBATwitter",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheFive",
+          "title": "#BelowDeckMed",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
+          "url": "https://twitter.com/search?q=%23BelowDeckMed",
           "platform": "X/Twitter"
         },
         {
-          "title": "McDavid",
+          "title": "Kenzo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=McDavid",
+          "url": "https://twitter.com/search?q=Kenzo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tom Brady",
+          "title": "Jason Hart",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tom%20Brady",
+          "url": "https://twitter.com/search?q=Jason%20Hart",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "patrick ewing",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john thune",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew tate",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spike lee",
+          "title": "michael bloomberg",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "where can i watch the knicks game tonight",
+          "title": "mike bloomberg",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeff bezos",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason statham",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ilia topuria",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cook islands",
+          "title": "bloomberg",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lioness season 3 release date",
-          "traffic": "1000",
+          "title": "dolph lundgren",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "super bowl 2027",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave chappelle",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luke kornet",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alaska airlines",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cody bellinger",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "resident alien",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
