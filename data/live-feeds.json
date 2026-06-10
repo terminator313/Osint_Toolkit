@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T08:50:47.235646+00:00",
+  "updatedAt": "2026-06-10T12:19:06.877857+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#loveislandusa",
+          "title": "#EveryYearAfter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%23EveryYearAfter",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerHouse",
+          "title": "#Boycott_BELIFT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerHouse",
+          "url": "https://twitter.com/search?q=%23Boycott_BELIFT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ToyStory5",
+          "title": "#Treat_SevEN_With_Respect",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ToyStory5",
+          "url": "https://twitter.com/search?q=%23Treat_SevEN_With_Respect",
           "platform": "X/Twitter"
         },
         {
-          "title": "Freddy",
+          "title": "Sudanese",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Freddy",
+          "url": "https://twitter.com/search?q=Sudanese",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aniya",
+          "title": "Buc-ees",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aniya",
+          "url": "https://twitter.com/search?q=Buc-ees",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "earthquake hawaii",
-          "traffic": "5000",
+          "title": "tormenta",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquakes today",
+          "title": "alexander bublik",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "something just clicked strands",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christina grimmie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jimmy kimmel",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "power outage near me",
+          "title": "mike babcock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "severe thunderstorm watch",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kare 11 weather",
+          "title": "alix earle",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "minneapolis weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samuel alito",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyrie irving",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple iphone 17 pro max",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dean cain",
+          "title": "cheers at choto",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump truth social",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xcel energy power outage",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
