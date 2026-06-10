@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T00:18:27.011407+00:00",
+  "updatedAt": "2026-06-10T04:56:46.286616+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#raindelayquestions",
+          "title": "#loveislandusa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "url": "https://twitter.com/search?q=%23loveislandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrumpMakesUsSick",
+          "title": "#SummerHouse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpMakesUsSick",
+          "url": "https://twitter.com/search?q=%23SummerHouse",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaSayonaPuraPaja",
+          "title": "#WhiteSox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaSayonaPuraPaja",
+          "url": "https://twitter.com/search?q=%23WhiteSox",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dr. King",
+          "title": "South Carolina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dr.%20King",
+          "url": "https://twitter.com/search?q=South%20Carolina",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cyclops",
+          "title": "Belfast",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cyclops",
+          "url": "https://twitter.com/search?q=Belfast",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ukraine",
-          "traffic": "1000",
+          "title": "trainspotting",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gerrit cole",
+          "title": "patton oswalt",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago sky",
-          "traffic": "500",
+          "title": "alaska air",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brasil - estados unidos",
-          "traffic": "500",
+          "title": "coleman domingo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hurricanes vs golden knights",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brazil vs usa",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs vs rockies",
+          "title": "alaska airlines",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "skylar diggins",
+          "title": "marcello hernandez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "valkyries",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sarah pidgeon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico jersey",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dylan cease",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "davis wendzel",
-          "traffic": "500",
+          "title": "nevada elections 2026",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
