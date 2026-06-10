@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T16:13:30.897057+00:00",
+  "updatedAt": "2026-06-10T19:09:41.996294+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WednesdayVibes",
+          "title": "#Justice_For_SevEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=%23Justice_For_SevEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Inflation",
+          "title": "#KarmeloAntony",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Inflation",
+          "url": "https://twitter.com/search?q=%23KarmeloAntony",
           "platform": "X/Twitter"
         },
         {
-          "title": "#THISISFOR_ONCE",
+          "title": "#Moana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23THISISFOR_ONCE",
+          "url": "https://twitter.com/search?q=%23Moana",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "Protect Ya Neck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=Protect%20Ya%20Neck",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jesse Eisenberg",
+          "title": "The Social Reckoning",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jesse%20Eisenberg",
+          "url": "https://twitter.com/search?q=The%20Social%20Reckoning",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "topps",
+          "title": "channel 3000 weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karley swindel",
+          "title": "camp pendleton fire",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states attorney general",
+          "title": "steelers roster changes brandon johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ukraine deep strike russian infrastructure",
+          "title": "madison weather",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup seat relocation issue",
+          "title": "reservoir high school",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nancy lieberman on caitlin clark",
+          "title": "ps plus extra premium june",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reflecting pool before and after",
+          "title": "tim allen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iconic by mistake",
+          "title": "england vs costa rica",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simone biles hospital",
-          "traffic": "5000",
+          "title": "shabana azeez the pitt update",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angel martinez",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
