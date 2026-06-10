@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:57:21.893123+00:00",
+  "updatedAt": "2026-06-10T00:18:27.011407+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#raindelayquestions",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TrumpMakesUsSick",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TrumpMakesUsSick",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WeWantDestiny3",
+          "title": "Dr. King",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeWantDestiny3",
+          "url": "https://twitter.com/search?q=Dr.%20King",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fortune&#39;s Weave",
+          "title": "Cyclops",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fortune&#39;s%20Weave",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "BOTW",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=BOTW",
+          "url": "https://twitter.com/search?q=Cyclops",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "paramount warner bros merger impact",
+          "title": "ukraine",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerrit cole",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nyc schools",
+          "title": "chicago sky",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardinals vs mets",
-          "traffic": "5000",
+          "title": "brasil - estados unidos",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado watch",
+          "title": "hurricanes vs golden knights",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees - guardians",
+          "title": "brazil vs usa",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs vs rockies",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "summer house reunion part 3",
+          "title": "skylar diggins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan cease",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security 2032",
+          "title": "davis wendzel",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hayward field",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeep recall",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "middle east",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
