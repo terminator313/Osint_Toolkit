@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T04:56:46.286616+00:00",
+  "updatedAt": "2026-06-10T08:50:47.235646+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WhiteSox",
+          "title": "#ToyStory5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WhiteSox",
+          "url": "https://twitter.com/search?q=%23ToyStory5",
           "platform": "X/Twitter"
         },
         {
-          "title": "South Carolina",
+          "title": "Freddy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=South%20Carolina",
+          "url": "https://twitter.com/search?q=Freddy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Belfast",
+          "title": "Aniya",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Belfast",
+          "url": "https://twitter.com/search?q=Aniya",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trainspotting",
-          "traffic": "200",
+          "title": "earthquake hawaii",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patton oswalt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska air",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coleman domingo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska airlines",
+          "title": "earthquakes today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcello hernandez",
-          "traffic": "500",
+          "title": "power outage near me",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "valkyries",
+          "title": "severe thunderstorm watch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sarah pidgeon",
-          "traffic": "500",
+          "title": "kare 11 weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mexico jersey",
+          "title": "minneapolis weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "samuel alito",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyrie irving",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 17 pro max",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nevada elections 2026",
-          "traffic": "2000",
+          "title": "dean cain",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
