@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T06:58:52.642445+00:00",
+  "updatedAt": "2026-06-11T11:26:49.876059+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tayvoodoo",
+          "title": "OG and Brunson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tayvoodoo",
+          "url": "https://twitter.com/search?q=OG%20and%20Brunson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trade Fox",
+          "title": "Fairhope",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trade%20Fox",
+          "url": "https://twitter.com/search?q=Fairhope",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "erie insurance",
+          "title": "brooks koepka",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilad janklowicz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uconn basketball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frances tiafoe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "a que hora empieza el mundial 2026",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 17 pro",
+          "title": "matt fitzpatrick",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "magda linette",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reasons for slow california counting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "australia vs bangladesh",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyrie irving",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tracy morgan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler adams",
+          "title": "arthur rinderknech",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hailey bieber",
-          "traffic": "500",
+          "title": "when is spacex ipo",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlanta falcons",
+          "title": "danica patrick",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "finals mvp odds",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
