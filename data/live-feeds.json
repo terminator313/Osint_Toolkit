@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T21:18:26.391990+00:00",
+  "updatedAt": "2026-06-11T23:06:08.387626+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FavoriteTaylorSwiftSong",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FavoriteTaylorSwiftSong",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ImmoralArmy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ImmoralArmy",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MEXRSA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MEXRSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sithole",
+          "title": "#DadQuotes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sithole",
+          "url": "https://twitter.com/search?q=%23DadQuotes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jay Clayton",
+          "title": "#FavoriteTaylorSwiftSong",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jay%20Clayton",
+          "url": "https://twitter.com/search?q=%23FavoriteTaylorSwiftSong",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ilwx",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ilwx",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "MAJOR ANNOUNCEMENT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=MAJOR%20ANNOUNCEMENT",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wilton sampaio",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ola de frío",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la hormiga gonzalez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hormiga gonzalez",
+          "title": "mariners vs orioles",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tracy fire",
+          "title": "visa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "welfare fraud",
+          "title": "independence day",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "connecticut",
+          "title": "jacob fatu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usps mail ballot proposal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lasalle county",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disclosure day",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elon musk net worth",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gilberto mora mexico",
+          "title": "amanda bynes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guadalajara",
-          "traffic": "500",
+          "title": "on the border",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
