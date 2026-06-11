@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T18:33:40.288423+00:00",
+  "updatedAt": "2026-06-11T21:18:26.391990+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SomosMéxico",
+          "title": "#FavoriteTaylorSwiftSong",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SomosM%C3%A9xico",
+          "url": "https://twitter.com/search?q=%23FavoriteTaylorSwiftSong",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCup2026FIFA",
+          "title": "#ImmoralArmy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCup2026FIFA",
+          "url": "https://twitter.com/search?q=%23ImmoralArmy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BuschColdAndSmoothSweepstakes",
+          "title": "#MEXRSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BuschColdAndSmoothSweepstakes",
+          "url": "https://twitter.com/search?q=%23MEXRSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Larry Reid",
+          "title": "Sithole",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Larry%20Reid",
+          "url": "https://twitter.com/search?q=Sithole",
           "platform": "X/Twitter"
         },
         {
-          "title": "AARON EN HOY",
+          "title": "Jay Clayton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=AARON%20EN%20HOY",
+          "url": "https://twitter.com/search?q=Jay%20Clayton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "brian gutiérrez",
+          "title": "wilton sampaio",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raúl jiménez",
+          "title": "football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ola de frío",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "世界杯直播",
-          "traffic": "200",
+          "title": "la hormiga gonzalez",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "book",
-          "traffic": "200",
+          "title": "hormiga gonzalez",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jay clayton",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ochoa",
+          "title": "tracy fire",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lyle foster",
+          "title": "welfare fraud",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roberto alvarado",
+          "title": "connecticut",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilberto mora mexico",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "landon donovan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raúl rangel",
+          "title": "guadalajara",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
