@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T23:24:10.721268+00:00",
+  "updatedAt": "2026-06-11T01:59:34.477767+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CantAffordTrump",
+          "title": "#raindelayquestions",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CantAffordTrump",
+          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#YIAYlogo",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23YIAYlogo",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#mowx",
+          "title": "#CantAffordTrump",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mowx",
+          "url": "https://twitter.com/search?q=%23CantAffordTrump",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bandar Abbas",
+          "title": "George Kirby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bandar%20Abbas",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TheFive",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
+          "url": "https://twitter.com/search?q=George%20Kirby",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jalen brunson stats",
+          "title": "aj dybantsa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karl anthony towns stats",
+          "title": "jordan clarkson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nba draft 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcus rashford",
+          "title": "zlatan ibrahimovic",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "knicks spurs game 4",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jared jones",
+          "title": "bryan adams",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "estados unidos",
-          "traffic": "500",
+          "title": "carter bryant",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harry kane",
-          "traffic": "500",
+          "title": "the bear",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mohsen mahdawi",
-          "traffic": "500",
+          "title": "victor wembanyama height",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kwqc weather",
-          "traffic": "500",
+          "title": "celebrities at knicks game tonight",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max scherzer",
+          "title": "william, prince of wales",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
