@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T19:29:21.997095+00:00",
+  "updatedAt": "2026-06-12T21:16:05.843631+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#nancyhotgirl",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23nancyhotgirl",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WokeMindVirus",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WokeMindVirus",
           "platform": "X/Twitter"
         },
         {
-          "title": "#letstrynow",
+          "title": "#CANBIH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23letstrynow",
+          "url": "https://twitter.com/search?q=%23CANBIH",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Go Spencer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Go%20Spencer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jaylen Brown",
+          "title": "Harvey Dent",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jaylen%20Brown",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Zsasz",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zsasz",
+          "url": "https://twitter.com/search?q=Harvey%20Dent",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "luc de fougerolles",
-          "traffic": "200",
+          "title": "world cup groups",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liam millar",
-          "traffic": "200",
+          "title": "how long is a soccer game",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trooping the colour",
-          "traffic": "200",
+          "title": "jonathan osorio",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "samantha busch promise to kyle",
-          "traffic": "200",
+          "title": "the boys",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uscis green card processing ruling",
-          "traffic": "2000",
+          "title": "ryan reynolds soccer team",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maxime crépeau",
-          "traffic": "200",
+          "title": "spacex employee stock ipo wealth",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alistair johnston",
-          "traffic": "200",
+          "title": "jon ossoff",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "richie laryea",
-          "traffic": "200",
+          "title": "justin gaethje",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kai cenat",
-          "traffic": "200",
+          "title": "blaze jordan",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toronto weather",
+          "title": "social security cola 2027 estimate",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
