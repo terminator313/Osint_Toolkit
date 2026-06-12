@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T21:16:05.843631+00:00",
+  "updatedAt": "2026-06-12T22:56:22.105084+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WokeMindVirus",
+          "title": "#LaysFWC26",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WokeMindVirus",
+          "url": "https://twitter.com/search?q=%23LaysFWC26",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RissaLIVE",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RissaLIVE",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Go Spencer",
+          "title": "Cue Country Roads",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Go%20Spencer",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Harvey Dent",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harvey%20Dent",
+          "url": "https://twitter.com/search?q=Cue%20Country%20Roads",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup groups",
+          "title": "landon donovan hair",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks vs reds",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "braves vs mets",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rangers vs red sox",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how long is a soccer game",
+          "title": "tigers vs guardians",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jonathan osorio",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the boys",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan reynolds soccer team",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spacex employee stock ipo wealth",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon ossoff",
+          "title": "united states immigration and customs enforcement",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "justin gaethje",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blaze jordan",
+          "title": "padres vs orioles",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security cola 2027 estimate",
+          "title": "landon donovan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince harry, duke of sussex",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jameis winston",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
