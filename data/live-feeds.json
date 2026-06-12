@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T17:21:47.626524+00:00",
+  "updatedAt": "2026-06-12T19:29:21.997095+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SPCX69",
+          "title": "#WokeMindVirus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SPCX69",
+          "url": "https://twitter.com/search?q=%23WokeMindVirus",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#facebookdown",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23facebookdown",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Schwab",
+          "title": "Jaylen Brown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Schwab",
+          "url": "https://twitter.com/search?q=Jaylen%20Brown",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trillionaire",
+          "title": "Zsasz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trillionaire",
+          "url": "https://twitter.com/search?q=Zsasz",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "college world series",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "selección de fútbol de brasil",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brian tyree henry",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rich paul",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "figma stock",
+          "title": "luc de fougerolles",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "masoud pezeshkian",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "richest people in the world",
+          "title": "liam millar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "asts",
+          "title": "trooping the colour",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hunter mays",
-          "traffic": "100",
+          "title": "samantha busch promise to kyle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uscis green card processing ruling",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maxime crépeau",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alistair johnston",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "richie laryea",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kai cenat",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "toronto weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
