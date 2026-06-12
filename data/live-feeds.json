@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T11:00:03.853682+00:00",
+  "updatedAt": "2026-06-12T14:12:54.991074+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RaisingKanan",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaisingKanan",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTS_WORLDTOUR_ARIRANG_BUSAN",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTS_WORLDTOUR_ARIRANG_BUSAN",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#2026BTSFESTA",
+          "title": "#FridayFeeling",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%232026BTSFESTA",
+          "url": "https://twitter.com/search?q=%23FridayFeeling",
           "platform": "X/Twitter"
         },
         {
-          "title": "Oracle AI Trade",
+          "title": "Happy Friday Everyone",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Oracle%20AI%20Trade",
+          "url": "https://twitter.com/search?q=Happy%20Friday%20Everyone",
           "platform": "X/Twitter"
         },
         {
-          "title": "#criticalrolespoilers",
+          "title": "Finally Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "url": "https://twitter.com/search?q=Finally%20Friday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pulse nightclub shooting",
-          "traffic": "200",
+          "title": "tesla stock",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon hamm emmy disqualification",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "janeese lewis george",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim cramer spacex ipo warning",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "estados unidos",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tatjana maria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "foster care",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox status",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elena rybakina",
+          "title": "rklb",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katie boulter",
+          "title": "rhode island t.f. green international airport",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "downdetector",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spce stock",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nauru",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "starbase texas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nyse",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasa stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is facebook down",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
