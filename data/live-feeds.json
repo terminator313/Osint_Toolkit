@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T06:41:18.707073+00:00",
+  "updatedAt": "2026-06-12T11:00:03.853682+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SoundTheSiren",
+          "title": "#BTS_WORLDTOUR_ARIRANG_BUSAN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SoundTheSiren",
+          "url": "https://twitter.com/search?q=%23BTS_WORLDTOUR_ARIRANG_BUSAN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIFAWourldCup",
+          "title": "#2026BTSFESTA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIFAWourldCup",
+          "url": "https://twitter.com/search?q=%232026BTSFESTA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Disclosure Day",
+          "title": "Oracle AI Trade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Disclosure%20Day",
+          "url": "https://twitter.com/search?q=Oracle%20AI%20Trade",
           "platform": "X/Twitter"
         },
         {
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "child care",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "childcare",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the chi",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason momoa daughter lola graduation",
+          "title": "pulse nightclub shooting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dte",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dte outage map",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "every year after season 2",
+          "title": "jon hamm emmy disqualification",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "extreme heat warning",
+          "title": "janeese lewis george",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jim cramer spacex ipo warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "estados unidos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seahawks super bowl ring",
+          "title": "tatjana maria",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "foster care",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox status",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elena rybakina",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "conor mcgregor",
+          "title": "katie boulter",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
