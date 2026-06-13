@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T16:55:10.815941+00:00",
+  "updatedAt": "2026-06-13T18:06:12.048065+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Introducing",
+          "title": "DIMPLE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Introducing",
+          "url": "https://twitter.com/search?q=DIMPLE",
           "platform": "X/Twitter"
         },
         {
-          "title": "Coin",
+          "title": "Ryan Clark",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Coin",
+          "url": "https://twitter.com/search?q=Ryan%20Clark",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "australia vs south africa",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sheetz",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boss open",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james harden",
+          "title": "the boys",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "airplane",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyra banks netflix lawsuit",
+          "title": "austin riley",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oliver okuliar",
+          "title": "rbc canadian open leaderboard",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy fury vs eddie hall",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john wayne",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shelton",
-          "traffic": "200",
+          "title": "puerto rican parade chicago",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john cusack",
-          "traffic": "200",
+          "title": "fifa world cup 2026 qualifiers",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "empty seats world cup",
-          "traffic": "10000",
+          "title": "ufl championship",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "merrill lynch",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daniil medvedev",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
