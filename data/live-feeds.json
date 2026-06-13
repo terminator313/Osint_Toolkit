@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T15:16:17.710216+00:00",
+  "updatedAt": "2026-06-13T16:55:10.815941+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BBFanFest2026D1",
+          "title": "#TicketToHeavenEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBFanFest2026D1",
+          "url": "https://twitter.com/search?q=%23TicketToHeavenEP3",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TicketToHeavenEP3",
+          "title": "Introducing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TicketToHeavenEP3",
+          "url": "https://twitter.com/search?q=Introducing",
           "platform": "X/Twitter"
         },
         {
-          "title": "USAID",
+          "title": "Coin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USAID",
+          "url": "https://twitter.com/search?q=Coin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "iran deal news",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "news.xbox",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex de minaur",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pocono raceway",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lluvia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jiri lehecka",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple tv",
+          "title": "australia vs south africa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alain delon",
+          "title": "sheetz",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lamelo ball",
+          "title": "boss open",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james harden",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "airplane",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ketv weather",
+          "title": "tyra banks netflix lawsuit",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oliver okuliar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shelton",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john cusack",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "empty seats world cup",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
