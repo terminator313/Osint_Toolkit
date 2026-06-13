@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T22:56:22.105084+00:00",
+  "updatedAt": "2026-06-13T00:20:35.085947+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#nancyhotgirl",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23nancyhotgirl",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LaysFWC26",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LaysFWC26",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RissaLIVE",
+          "title": "#ULTRA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RissaLIVE",
+          "url": "https://twitter.com/search?q=%23ULTRA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CANBIH",
+          "title": "#USMNT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CANBIH",
+          "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cue Country Roads",
+          "title": "Tulsi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cue%20Country%20Roads",
+          "url": "https://twitter.com/search?q=Tulsi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Remote",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Remote",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "landon donovan hair",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks vs reds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "braves vs mets",
+          "title": "jacob misiorowski",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rangers vs red sox",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers vs guardians",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states immigration and customs enforcement",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres vs orioles",
+          "title": "katy perry",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "landon donovan",
+          "title": "alex freeman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt freese",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry, duke of sussex",
+          "title": "chris richards",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julio enciso",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lisa blackpink",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tanner banks",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jameis winston",
+          "title": "andrew painter",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyla",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
