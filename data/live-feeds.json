@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T11:13:15.448893+00:00",
+  "updatedAt": "2026-06-13T13:04:01.556842+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#USMNT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USMNT",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#copper",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23copper",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pulisic",
+          "title": "#SaturdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pulisic",
+          "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "LA Knight",
+          "title": "DevOps",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=LA%20Knight",
+          "url": "https://twitter.com/search?q=DevOps",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Happy Birthday Mr. President",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Happy%20Birthday%20Mr.%20President",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jemma stapleton",
+          "title": "omaha weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arelys barahona-martinez detention dallas",
+          "title": "jack schlossberg",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eleanor l ross",
-          "traffic": "200",
+          "title": "kate middleton trooping the colour",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yellowstone",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "t-mobile us",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "restaurant chain",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "disney+",
+          "title": "gurnoor brar",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees shortstop trade rumors",
+          "title": "irán",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jenna elfman",
+          "title": "cbs evening news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mormon church",
-          "traffic": "1000",
+          "title": "manny pacquiao",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "why is prince william not at trooping the colour",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red lobster ai",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor fritz",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
