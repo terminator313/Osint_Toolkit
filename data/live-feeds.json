@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T05:00:33.395587+00:00",
+  "updatedAt": "2026-06-13T08:36:18.952439+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCup",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCup",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SmackDown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "Elon",
+          "title": "#WorldCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Elon",
+          "url": "https://twitter.com/search?q=%23WorldCup",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Beatriz",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Beatriz",
           "platform": "X/Twitter"
         },
         {
@@ -56,13 +56,28 @@
       "status": "ok",
       "items": [
         {
-          "title": "flu shots",
+          "title": "ind vs afg",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "judge angel kelley park ruling",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "giants game",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flu shots",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "bryce eldridge",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -72,7 +87,7 @@
         },
         {
           "title": "the strokes",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -86,23 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "they will kill you movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "gsv vs sea",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kevin hart",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stephanie ruhle",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
