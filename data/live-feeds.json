@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T21:44:12.202385+00:00",
+  "updatedAt": "2026-06-13T23:02:53.439024+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#BRAMAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BRAMAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PhaseCon2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PhaseCon2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Piers",
+          "title": "Ticketmaster",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Piers",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Blaze Jordan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blaze%20Jordan",
+          "url": "https://twitter.com/search?q=Ticketmaster",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup winners",
-          "traffic": "500",
+          "title": "mamdani",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruno guimarães",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup scores today",
+          "title": "travis scott",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casemiro",
+          "title": "mookie betts",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york mayor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "endrick",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brazil fc",
+          "title": "where is the next world cup 2030",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ismael saibari",
+          "title": "argentina vs algeria",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brahim díaz",
+          "title": "gabriel jesus",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gisele bündchen",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ufl",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom brady ex wife",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ayyoub bouaddi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brahim diaz",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
