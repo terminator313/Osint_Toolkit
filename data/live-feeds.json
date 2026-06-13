@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T20:00:28.035105+00:00",
+  "updatedAt": "2026-06-13T21:44:12.202385+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#UnitedBowl",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UnitedBowl",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#QATSUI",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23QATSUI",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "Piers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=Piers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Liberatore",
+          "title": "Blaze Jordan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Liberatore",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kennedy Center",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kennedy%20Center",
+          "url": "https://twitter.com/search?q=Blaze%20Jordan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jackson suber",
+          "title": "world cup winners",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom brady",
+          "title": "bruno guimarães",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ou baseball",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ndoye",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sui",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris stapleton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netherlands vs japan",
+          "title": "world cup scores today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sui country",
+          "title": "casemiro",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "byron buxton",
+          "title": "endrick",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elon musk house",
+          "title": "brazil fc",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ismael saibari",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brahim díaz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ayyoub bouaddi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brahim diaz",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
