@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:36:18.952439+00:00",
+  "updatedAt": "2026-06-13T11:13:15.448893+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BBFanFest2026D1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BBFanFest2026D1",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#USMNT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "#copper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23copper",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCup",
+          "title": "Pulisic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCup",
+          "url": "https://twitter.com/search?q=Pulisic",
           "platform": "X/Twitter"
         },
         {
-          "title": "Beatriz",
+          "title": "LA Knight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beatriz",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Team USA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Team%20USA",
+          "url": "https://twitter.com/search?q=LA%20Knight",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ind vs afg",
+          "title": "jemma stapleton",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arelys barahona-martinez detention dallas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eleanor l ross",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yellowstone",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "judge angel kelley park ruling",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants game",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flu shots",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryce eldridge",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jung hoo lee",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the strokes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fast and furious",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cole carrigg",
+          "title": "t-mobile us",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gsv vs sea",
+          "title": "restaurant chain",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disney+",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees shortstop trade rumors",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jenna elfman",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mormon church",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
