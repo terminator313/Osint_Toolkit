@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:20:35.085947+00:00",
+  "updatedAt": "2026-06-13T05:00:33.395587+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LaysFWC26",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaysFWC26",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ULTRA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ULTRA",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#USMNT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tulsi",
+          "title": "#WorldCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tulsi",
+          "url": "https://twitter.com/search?q=%23WorldCup",
           "platform": "X/Twitter"
         },
         {
-          "title": "Remote",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Remote",
+          "url": "https://twitter.com/search?q=%23SmackDown",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Elon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Elon",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Team USA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Team%20USA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jacob misiorowski",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katy perry",
+          "title": "flu shots",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex freeman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt freese",
+          "title": "bryce eldridge",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris richards",
+          "title": "jung hoo lee",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julio enciso",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa blackpink",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tanner banks",
+          "title": "the strokes",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andrew painter",
+          "title": "fast and furious",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyla",
-          "traffic": "5000",
+          "title": "cole carrigg",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "they will kill you movie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gsv vs sea",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin hart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stephanie ruhle",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
