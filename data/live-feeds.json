@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T13:04:01.556842+00:00",
+  "updatedAt": "2026-06-13T15:16:17.710216+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BBFanFest2026D1",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBFanFest2026D1",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#copper",
+          "title": "#BBFanFest2026D1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23copper",
+          "url": "https://twitter.com/search?q=%23BBFanFest2026D1",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "DevOps",
+          "title": "#TicketToHeavenEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DevOps",
+          "url": "https://twitter.com/search?q=%23TicketToHeavenEP3",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Birthday Mr. President",
+          "title": "USAID",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Mr.%20President",
+          "url": "https://twitter.com/search?q=USAID",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "omaha weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack schlossberg",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kate middleton trooping the colour",
+          "title": "iran deal news",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gurnoor brar",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "irán",
+          "title": "news.xbox",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cbs evening news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manny pacquiao",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "why is prince william not at trooping the colour",
+          "title": "alex de minaur",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red lobster ai",
+          "title": "pocono raceway",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lluvia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jiri lehecka",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple tv",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alain delon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lamelo ball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor fritz",
-          "traffic": "5000",
+          "title": "ketv weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
