@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T20:49:03.861551+00:00",
+  "updatedAt": "2026-06-14T22:07:15.474491+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NEDJPN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NEDJPN",
           "platform": "X/Twitter"
         },
         {
-          "title": "THREE TEAMS",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=THREE%20TEAMS",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#artfight",
+          "title": "Blake Perkins",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23artfight",
+          "url": "https://twitter.com/search?q=Blake%20Perkins",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Beirut",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Beirut",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kevin de bruyne",
+          "title": "trump truth social",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amsterdam",
+          "title": "eminem",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giannis trade",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "copa del mundo partidos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arlington",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "japan world cup jersey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denny hamlin",
+          "title": "argentina vs algeria",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "de ligt",
+          "title": "iran vs new zealand",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "famous birthdays",
+          "title": "thunderstorm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cooper pratt",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "van hecke",
-          "traffic": "500",
+          "title": "brian brobbey",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "koki ogawa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oil futures",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "conor mcgregor",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
