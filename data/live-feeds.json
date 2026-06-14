@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:56:30.763351+00:00",
+  "updatedAt": "2026-06-14T19:28:08.737635+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GERCUW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GERCUW",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ObamaAppreciationDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ObamaAppreciationDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheAngelCalledYEOSANG",
+          "title": "#Fifa_worldcup2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheAngelCalledYEOSANG",
+          "url": "https://twitter.com/search?q=%23Fifa_worldcup2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#여상의목소리로_물든여름",
+          "title": "Confiscate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%EC%97%AC%EC%83%81%EC%9D%98%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C_%EB%AC%BC%EB%93%A0%EC%97%AC%EB%A6%84",
+          "url": "https://twitter.com/search?q=Confiscate",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alemania",
+          "title": "Hotel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alemania",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Netherlands",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Netherlands",
+          "url": "https://twitter.com/search?q=Hotel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rudiger",
+          "title": "erling haaland",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "virgil van dijk",
+          "title": "andres cantor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "annapolis",
+          "title": "ayase ueda",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jimmy stanger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "schlotterbeck",
+          "title": "haaland",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup winners",
-          "traffic": "500000",
+          "title": "donyell malen",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami fc",
+          "title": "crysencio summerville",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norway world cup",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "takefusa kubo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cody gakpo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dirk nowitzki",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brooks koepka canadian open withdrawal",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers game today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump hegseth gop defense budget",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
