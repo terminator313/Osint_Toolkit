@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:28:08.737635+00:00",
+  "updatedAt": "2026-06-14T20:49:03.861551+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GERCUW",
+          "title": "#hottiegabby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GERCUW",
+          "url": "https://twitter.com/search?q=%23hottiegabby",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ObamaAppreciationDay",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ObamaAppreciationDay",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Fifa_worldcup2026",
+          "title": "#NEDJPN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fifa_worldcup2026",
+          "url": "https://twitter.com/search?q=%23NEDJPN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Confiscate",
+          "title": "THREE TEAMS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Confiscate",
+          "url": "https://twitter.com/search?q=THREE%20TEAMS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hotel",
+          "title": "#artfight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hotel",
+          "url": "https://twitter.com/search?q=%23artfight",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "erling haaland",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andres cantor",
+          "title": "kevin de bruyne",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ayase ueda",
+          "title": "amsterdam",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haaland",
+          "title": "giannis trade",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "copa del mundo partidos",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arlington",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "japan world cup jersey",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "denny hamlin",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donyell malen",
+          "title": "de ligt",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crysencio summerville",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "norway world cup",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "takefusa kubo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cody gakpo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dirk nowitzki",
+          "title": "famous birthdays",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "van hecke",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
