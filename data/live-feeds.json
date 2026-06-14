@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:39:55.209460+00:00",
+  "updatedAt": "2026-06-14T16:19:51.314023+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ObamaAppreciationDayJune14th",
+          "title": "#BarcelonaGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ObamaAppreciationDayJune14th",
+          "url": "https://twitter.com/search?q=%23BarcelonaGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BBFanFest2026D2",
+          "title": "#TheAngelCalledYEOSANG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBFanFest2026D2",
+          "url": "https://twitter.com/search?q=%23TheAngelCalledYEOSANG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Knicks2026Champs",
+          "title": "#여상의목소리로_물든여름",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Knicks2026Champs",
+          "url": "https://twitter.com/search?q=%23%EC%97%AC%EC%83%81%EC%9D%98%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C_%EB%AC%BC%EB%93%A0%EC%97%AC%EB%A6%84",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "#ObamaAppreciationDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=%23ObamaAppreciationDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Blessed Sunday",
+          "title": "Lando",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blessed%20Sunday",
+          "url": "https://twitter.com/search?q=Lando",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "when is prime day",
+          "title": "ufc schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pima county sheriff's department",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "f1 barcelona 2026",
-          "traffic": "200",
+          "title": "marlins vs pirates",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nbc news poll congressional election",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark cuban",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup today schedule",
+          "title": "cucurella",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jd vance",
+          "title": "partidos de hoy mundial 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "food and drug administration",
+          "title": "giusy meloni",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astrodome",
+          "title": "zac brown ufc white house",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "buc-ee's",
+          "title": "top gun 3",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "houston weather",
-          "traffic": "1000",
+          "title": "trump approval rating",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "princess beatrice peter phillips wedding",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
