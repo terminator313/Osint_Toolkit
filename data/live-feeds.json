@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T01:42:30.271445+00:00",
+  "updatedAt": "2026-06-14T06:38:30.084592+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NBAFinals",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NBAFinals",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NYKvsSAS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NYKvsSAS",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AEWCollision",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRAMAR",
+          "title": "White House",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRAMAR",
+          "url": "https://twitter.com/search?q=White%20House",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "Shamet",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "San Recto",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=San%20Recto",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Game 5",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Game%205",
+          "url": "https://twitter.com/search?q=Shamet",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "victor wembanyama",
-          "traffic": "50000",
+          "title": "russia",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rod stewart",
-          "traffic": "10000",
+          "title": "tunisia",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dylan harper",
-          "traffic": "10000",
+          "title": "netherlands",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wemby",
-          "traffic": "10000",
+          "title": "lck",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kicks",
-          "traffic": "100000",
+          "title": "can uzun",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espn nba scores",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is rod stewart scottish",
+          "title": "australia goalkeeper",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how tall is karl anthony towns",
-          "traffic": "2000",
+          "title": "yunus akgün",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "walton goggins",
+          "title": "fifa president",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "america's got talent",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dirk nowitzki",
-          "traffic": "500",
+          "title": "donald trump",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
