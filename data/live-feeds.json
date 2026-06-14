@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T16:19:51.314023+00:00",
+  "updatedAt": "2026-06-14T17:56:30.763351+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BarcelonaGP",
+          "title": "#ObamaAppreciationDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BarcelonaGP",
+          "url": "https://twitter.com/search?q=%23ObamaAppreciationDay",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ObamaAppreciationDay",
+          "title": "Alemania",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ObamaAppreciationDay",
+          "url": "https://twitter.com/search?q=Alemania",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lando",
+          "title": "Netherlands",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lando",
+          "url": "https://twitter.com/search?q=Netherlands",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ufc schedule",
+          "title": "rudiger",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pima county sheriff's department",
-          "traffic": "200",
+          "title": "virgil van dijk",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins vs pirates",
-          "traffic": "20000",
+          "title": "annapolis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cucurella",
+          "title": "jimmy stanger",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "schlotterbeck",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "partidos de hoy mundial 2026",
+          "title": "world cup winners",
+          "traffic": "500000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami fc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giusy meloni",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zac brown ufc white house",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "top gun 3",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump approval rating",
+          "title": "brooks koepka canadian open withdrawal",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "princess beatrice peter phillips wedding",
+          "title": "tigers game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump hegseth gop defense budget",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
