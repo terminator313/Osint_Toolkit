@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T22:07:15.474491+00:00",
+  "updatedAt": "2026-06-14T23:45:31.026963+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#hottiegabby",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hottiegabby",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NEDJPN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NEDJPN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
+          "title": "#artfight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23artfight",
           "platform": "X/Twitter"
         },
         {
-          "title": "Blake Perkins",
+          "title": "#UFCWhiteHouse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blake%20Perkins",
+          "url": "https://twitter.com/search?q=%23UFCWhiteHouse",
           "platform": "X/Twitter"
         },
         {
-          "title": "Beirut",
+          "title": "Bobbin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beirut",
+          "url": "https://twitter.com/search?q=Bobbin",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "UFC Freedom 250",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=UFC%20Freedom%20250",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump truth social",
+          "title": "west virginia baseball",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doue",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eminem",
+          "title": "philadelphia weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina vs algeria",
+          "title": "côte d'ivoire",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kendry páez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "power outage near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jay z",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eric trump",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran vs new zealand",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thunderstorm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cooper pratt",
+          "title": "boston dynamics",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian brobbey",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "koki ogawa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil futures",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "conor mcgregor",
-          "traffic": "1000",
+          "title": "dominion energy",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
