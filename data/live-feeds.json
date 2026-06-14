@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T23:02:53.439024+00:00",
+  "updatedAt": "2026-06-14T01:42:30.271445+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UnitedBowl",
+          "title": "#AEWCollision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnitedBowl",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#QATSUI",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23QATSUI",
+          "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PhaseCon2026",
+          "title": "#Svengoolie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PhaseCon2026",
+          "url": "https://twitter.com/search?q=%23Svengoolie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ticketmaster",
+          "title": "San Recto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ticketmaster",
+          "url": "https://twitter.com/search?q=San%20Recto",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Game 5",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Game%205",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mamdani",
-          "traffic": "5000",
+          "title": "victor wembanyama",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "travis scott",
+          "title": "rod stewart",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan harper",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wemby",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kicks",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "espn nba scores",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mookie betts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york mayor",
+          "title": "is rod stewart scottish",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "where is the next world cup 2030",
+          "title": "how tall is karl anthony towns",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina vs algeria",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gabriel jesus",
+          "title": "walton goggins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gisele bündchen",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufl",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom brady ex wife",
-          "traffic": "1000",
+          "title": "dirk nowitzki",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
