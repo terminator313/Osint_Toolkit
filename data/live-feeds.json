@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T04:06:08.265050+00:00",
+  "updatedAt": "2026-06-15T10:42:56.591672+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StanleyCup",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StanleyCup",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#UFC250",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC250",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carter Hart",
+          "title": "#HANxTods",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carter%20Hart",
+          "url": "https://twitter.com/search?q=%23HANxTods",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Pereira",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Pereira",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "heavyweight champion ufc",
+          "title": "new york lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "banks",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "who is the ufc heavyweight champion",
+          "title": "tyler farr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "learner tien",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marius borg høiby",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states federal judge",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gas prices",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "influencer marketing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "latest iphone rumors",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spike lee knicks ring debate",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lebanon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maxx crosby",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drake",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "khamzat chimaev",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jose mourinho",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shayne gostisbehere",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the kennedy center",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom dundon",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
