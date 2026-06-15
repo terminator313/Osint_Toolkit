@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:17:32.919017+00:00",
+  "updatedAt": "2026-06-15T20:01:22.813817+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ESPCPV",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ESPCPV",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MCMViudaDeGuerrero",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MCMViudaDeGuerrero",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "#WorldCupDaily",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23WorldCupDaily",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SPCX69",
+          "title": "Young Bob",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SPCX69",
+          "url": "https://twitter.com/search?q=Young%20Bob",
           "platform": "X/Twitter"
         },
         {
-          "title": "Belgium",
+          "title": "$300 BILLION",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Belgium",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bette Midler",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bette%20Midler",
+          "url": "https://twitter.com/search?q=%24300%20BILLION",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "foxone",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vozinha",
+          "title": "elliott abramson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "españa fc",
+          "title": "emma heming willis",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcos llorente",
+          "title": "yalla kora",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pau cubarsí",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fabián ruiz",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roberto lopes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "capo verde",
+          "title": "love island in theaters",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "freedom of speech",
+          "title": "b52",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eden hazard",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aymeric laporte",
+          "title": "hamza abdelkarim",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "google earth flight simulator",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardi b",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doku",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
