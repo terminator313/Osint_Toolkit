@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T23:45:31.026963+00:00",
+  "updatedAt": "2026-06-15T04:06:08.265050+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NEDJPN",
+          "title": "#UFCFreedom250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEDJPN",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#artfight",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23artfight",
+          "url": "https://twitter.com/search?q=%23UFCFreedom250",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Bobbin",
+          "title": "#StanleyCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bobbin",
+          "url": "https://twitter.com/search?q=%23StanleyCup",
           "platform": "X/Twitter"
         },
         {
-          "title": "UFC Freedom 250",
+          "title": "#UFC250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=UFC%20Freedom%20250",
+          "url": "https://twitter.com/search?q=%23UFC250",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Carter Hart",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Carter%20Hart",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "west virginia baseball",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doue",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "philadelphia weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "côte d'ivoire",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kendry páez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "power outage near me",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jay z",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eric trump",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boston dynamics",
+          "title": "heavyweight champion ufc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dominion energy",
+          "title": "who is the ufc heavyweight champion",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lebanon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maxx crosby",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drake",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khamzat chimaev",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose mourinho",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shayne gostisbehere",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the kennedy center",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom dundon",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
