@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T10:42:56.591672+00:00",
+  "updatedAt": "2026-06-15T16:17:32.919017+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCFreedom250",
+          "title": "#MCMViudaDeGuerrero",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCFreedom250",
+          "url": "https://twitter.com/search?q=%23MCMViudaDeGuerrero",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCWhiteHouse",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCWhiteHouse",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFC250",
+          "title": "#SPCX69",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC250",
+          "url": "https://twitter.com/search?q=%23SPCX69",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HANxTods",
+          "title": "Belgium",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HANxTods",
+          "url": "https://twitter.com/search?q=Belgium",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pereira",
+          "title": "Bette Midler",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pereira",
+          "url": "https://twitter.com/search?q=Bette%20Midler",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "new york lottery",
-          "traffic": "200",
+          "title": "foxone",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "banks",
+          "title": "vozinha",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "españa fc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcos llorente",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pau cubarsí",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fabián ruiz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roberto lopes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "capo verde",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyler farr",
-          "traffic": "200",
+          "title": "freedom of speech",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "learner tien",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marius borg høiby",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states federal judge",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gas prices",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "influencer marketing",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "latest iphone rumors",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spike lee knicks ring debate",
-          "traffic": "1000",
+          "title": "aymeric laporte",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
