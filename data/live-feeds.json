@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T20:01:22.813817+00:00",
+  "updatedAt": "2026-06-15T22:33:30.925244+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BELEGY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BELEGY",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TheFive",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TheFive",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ESPCPV",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ESPCPV",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MCMViudaDeGuerrero",
+          "title": "Arkane",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MCMViudaDeGuerrero",
+          "url": "https://twitter.com/search?q=Arkane",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCupDaily",
+          "title": "Brix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCupDaily",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Young Bob",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Young%20Bob",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "$300 BILLION",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24300%20BILLION",
+          "url": "https://twitter.com/search?q=Brix",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "elliott abramson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emma heming willis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yalla kora",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "love island in theaters",
+          "title": "mets vs reds",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "b52",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eden hazard",
+          "title": "gilmore girls leaving netflix",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hamza abdelkarim",
+          "title": "elayn hunt correctional center",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "google earth flight simulator",
-          "traffic": "200",
+          "title": "brian rodríguez",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardi b",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doku",
+          "title": "corte suprema",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "monopoly a court of thorns and roses",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diego forlan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcelo bielsa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ronald araújo",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
