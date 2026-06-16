@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:29:37.585843+00:00",
+  "updatedAt": "2026-06-16T23:58:53.132465+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#IRQNOR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23IRQNOR",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TeamRedBill",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TeamRedBill",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FRASEN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FRASEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaveStargate",
+          "title": "Andrew Benintendi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaveStargate",
+          "url": "https://twitter.com/search?q=Andrew%20Benintendi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheFive",
+          "title": "Galveston",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "2-0 France",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=2-0%20France",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jessica Tarlov",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jessica%20Tarlov",
+          "url": "https://twitter.com/search?q=Galveston",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tempo vs fever",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "white sox vs yankees",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "markiplier",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "braut haaland",
+          "title": "spencer jones",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "norway team photo",
+          "title": "drake baldwin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxborough",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays vs red sox",
+          "title": "georgia elections 2026",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zlatan ibrahimovic",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ireland vs england",
+          "title": "rick jackson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese",
+          "title": "janeese lewis george",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "argelia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colombia vs uzbekistan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor sheridan",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew benintendi",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usa network",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
