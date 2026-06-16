@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T11:40:51.294843+00:00",
+  "updatedAt": "2026-06-16T16:47:56.962315+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#ArmyOfImmorality",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23ArmyOfImmorality",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCFreedom250",
+          "title": "#TheView",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCFreedom250",
+          "url": "https://twitter.com/search?q=%23TheView",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GMMTVOuting2026",
+          "title": "#ElEsequiboEsDeVenezuela",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GMMTVOuting2026",
+          "url": "https://twitter.com/search?q=%23ElEsequiboEsDeVenezuela",
           "platform": "X/Twitter"
         },
         {
-          "title": "Belgium",
+          "title": "Pizza Hut",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Belgium",
+          "url": "https://twitter.com/search?q=Pizza%20Hut",
           "platform": "X/Twitter"
         },
         {
-          "title": "JCPOA",
+          "title": "Taco Tuesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JCPOA",
+          "url": "https://twitter.com/search?q=Taco%20Tuesday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "houston weather",
+          "title": "daniil medvedev",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan pace",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyler murray",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strait of hormuz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "francia vs senegal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor swift",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rashee rice",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa schedule today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur rinderknech",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "simon benoit",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coco gauff",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "court",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michelle randolph",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hospital",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach nunn",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david tennant",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powassan virus",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cursor",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "japan earthquake",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
