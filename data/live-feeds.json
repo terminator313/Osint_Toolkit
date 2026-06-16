@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:12:00.632143+00:00",
+  "updatedAt": "2026-06-16T22:29:37.585843+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SaveStargate",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaveStargate",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FRASEN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FRASEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ElEsequiboEsDeVenezuela",
+          "title": "#SaveStargate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ElEsequiboEsDeVenezuela",
+          "url": "https://twitter.com/search?q=%23SaveStargate",
           "platform": "X/Twitter"
         },
         {
-          "title": "CMLL",
+          "title": "#TheFive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=CMLL",
+          "url": "https://twitter.com/search?q=%23TheFive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sean Penn",
+          "title": "2-0 France",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sean%20Penn",
+          "url": "https://twitter.com/search?q=2-0%20France",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Jessica Tarlov",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Jessica%20Tarlov",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mohammad mohebi",
+          "title": "tempo vs fever",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "selección de fútbol de irán",
-          "traffic": "20000",
+          "title": "white sox vs yankees",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "voting",
+          "title": "markiplier",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lucas hernández",
-          "traffic": "200",
+          "title": "braut haaland",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mamadou sarr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul pogba",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iliman ndiaye",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ballon d'or",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zidane son",
+          "title": "norway team photo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "powerball jackpot june 2026",
+          "title": "foxborough",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jays vs red sox",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zlatan ibrahimovic",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ireland vs england",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angel reese",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
