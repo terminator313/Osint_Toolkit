@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T16:47:56.962315+00:00",
+  "updatedAt": "2026-06-16T20:12:00.632143+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ArmyOfImmorality",
+          "title": "#SaveStargate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ArmyOfImmorality",
+          "url": "https://twitter.com/search?q=%23SaveStargate",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheView",
+          "title": "#FRASEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheView",
+          "url": "https://twitter.com/search?q=%23FRASEN",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Pizza Hut",
+          "title": "CMLL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pizza%20Hut",
+          "url": "https://twitter.com/search?q=CMLL",
           "platform": "X/Twitter"
         },
         {
-          "title": "Taco Tuesday",
+          "title": "Sean Penn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Taco%20Tuesday",
+          "url": "https://twitter.com/search?q=Sean%20Penn",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "daniil medvedev",
-          "traffic": "1000",
+          "title": "mohammad mohebi",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan pace",
+          "title": "selección de fútbol de irán",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "voting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyler murray",
+          "title": "lucas hernández",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "strait of hormuz",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "francia vs senegal",
+          "title": "mamadou sarr",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor swift",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rashee rice",
+          "title": "paul pogba",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa schedule today",
+          "title": "iliman ndiaye",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur rinderknech",
+          "title": "ballon d'or",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zidane son",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simon benoit",
-          "traffic": "5000",
+          "title": "powerball jackpot june 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
