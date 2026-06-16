@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:33:30.925244+00:00",
+  "updatedAt": "2026-06-16T00:28:53.353048+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BELEGY",
+          "title": "#UFCWhiteHouse250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BELEGY",
+          "url": "https://twitter.com/search?q=%23UFCWhiteHouse250",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#MLBS6Spoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MLBS6Spoilers",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESPCPV",
+          "title": "Michael Obama",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPCPV",
+          "url": "https://twitter.com/search?q=Michael%20Obama",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arkane",
+          "title": "#BELEGY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arkane",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Brix",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brix",
+          "url": "https://twitter.com/search?q=%23BELEGY",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "mets vs reds",
+          "title": "fire",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gilmore girls leaving netflix",
+          "title": "chrissy teigen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elayn hunt correctional center",
+          "title": "iraq vs norway",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian rodríguez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corte suprema",
+          "title": "eugenio suárez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami weather",
+          "title": "maduka okoye",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "monopoly a court of thorns and roses",
+          "title": "phoenix weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diego forlan",
+          "title": "oklahoma baseball",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "macaroni and cheese allergen recall",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcelo bielsa",
+          "title": "araujo uruguay",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ronald araújo",
+          "title": "agustin canobbio",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
