@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T14:07:36.452901+00:00",
+  "updatedAt": "2026-06-17T17:28:46.665962+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DesignASprite",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DesignASprite",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SpiderManBrandNewDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayVibes",
+          "title": "#LaMafiaDeMachado",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=%23LaMafiaDeMachado",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalMascotDay",
+          "title": "Portugal",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalMascotDay",
+          "url": "https://twitter.com/search?q=Portugal",
           "platform": "X/Twitter"
         },
         {
-          "title": "unusual whales",
+          "title": "National Mascot Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=unusual%20whales",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Peter Lynch",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Peter%20Lynch",
+          "url": "https://twitter.com/search?q=National%20Mascot%20Day",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "when is prime day",
+          "title": "portugal fc",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aldi macaroni cheese recall",
-          "traffic": "200",
+          "title": "foxone",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hubert hurkacz",
-          "traffic": "200",
+          "title": "ryan craig",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "india vs netherlands",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coco gauff",
+          "title": "foxsports",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "walter parazaider",
+          "title": "marlins - phillies",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spiderman tickets",
+          "title": "rafael leão",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "i will find you netflix",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc",
+          "title": "daveigh chase",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zoe saldana",
-          "traffic": "1000",
+          "title": "nrg stadium",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bernardo silva",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "royals vs nationals",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
