@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T19:37:53.981515+00:00",
+  "updatedAt": "2026-06-17T21:59:19.071832+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ENGCRO",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ENGCRO",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SpiderManBrandNewDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#DesignASprite",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DesignASprite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaMafiaDeMachado",
+          "title": "Vitinha",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaMafiaDeMachado",
+          "url": "https://twitter.com/search?q=Vitinha",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGENEs_Fight_For_SevEN",
+          "title": "Rubio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGENEs_Fight_For_SevEN",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Happy Birthday Jo",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Jo",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Clayton",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clayton",
+          "url": "https://twitter.com/search?q=Rubio",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jameis winston",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ezri konsa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james rodriguez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "england vs croatia tickets",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nico o'reilly",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usmca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luka vušković",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inglaterra - croacia",
+          "title": "southwest airlines",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wvu baseball score",
+          "title": "djed spence",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morgan rogers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rivian layoffs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran deal",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hillary clinton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wind farm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince harry family uk visit",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usa today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severance",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
