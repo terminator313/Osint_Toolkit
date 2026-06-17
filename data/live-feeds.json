@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T17:28:46.665962+00:00",
+  "updatedAt": "2026-06-17T19:37:53.981515+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SpiderManBrandNewDay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LaMafiaDeMachado",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LaMafiaDeMachado",
           "platform": "X/Twitter"
         },
         {
-          "title": "Portugal",
+          "title": "#ENGENEs_Fight_For_SevEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Portugal",
+          "url": "https://twitter.com/search?q=%23ENGENEs_Fight_For_SevEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "National Mascot Day",
+          "title": "Happy Birthday Jo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=National%20Mascot%20Day",
+          "url": "https://twitter.com/search?q=Happy%20Birthday%20Jo",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Clayton",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Clayton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "portugal fc",
+          "title": "jameis winston",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxone",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan craig",
+          "title": "ezri konsa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxsports",
+          "title": "james rodriguez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins - phillies",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rafael leão",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daveigh chase",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nrg stadium",
+          "title": "england vs croatia tickets",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bernardo silva",
-          "traffic": "2000",
+          "title": "el niño 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "royals vs nationals",
-          "traffic": "10000",
+          "title": "nico o'reilly",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usmca",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luka vušković",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inglaterra - croacia",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wvu baseball score",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
