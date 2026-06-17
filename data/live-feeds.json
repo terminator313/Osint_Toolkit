@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T10:13:59.983831+00:00",
+  "updatedAt": "2026-06-17T14:07:36.452901+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#THOMBROWNE",
+          "title": "#SpiderManBrandNewDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23THOMBROWNE",
+          "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LVMSpoilers",
+          "title": "#WednesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LVMSpoilers",
+          "url": "https://twitter.com/search?q=%23WednesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIKKECinderellaVote",
+          "title": "#NationalMascotDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIKKECinderellaVote",
+          "url": "https://twitter.com/search?q=%23NationalMascotDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AIAgent",
+          "title": "unusual whales",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AIAgent",
+          "url": "https://twitter.com/search?q=unusual%20whales",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NOOS",
+          "title": "Peter Lynch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NOOS",
+          "url": "https://twitter.com/search?q=Peter%20Lynch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "what is a data breach",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "knicks.com/ceremonysweeps",
+          "title": "when is prime day",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "samuel alito",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexandra eala",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mikie sherrill",
+          "title": "aldi macaroni cheese recall",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elise mertens",
+          "title": "hubert hurkacz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlanta news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "defense production act of 1950",
+          "title": "india vs netherlands",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netjets crash",
+          "title": "coco gauff",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lottery results today",
+          "title": "walter parazaider",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spiderman tickets",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "i will find you netflix",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amc",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zoe saldana",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
