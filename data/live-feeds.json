@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T21:59:19.071832+00:00",
+  "updatedAt": "2026-06-17T23:45:22.157135+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SpiderManBrandNewDay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#DesignASprite",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DesignASprite",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vitinha",
+          "title": "#ThreeLions",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vitinha",
+          "url": "https://twitter.com/search?q=%23ThreeLions",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rubio",
+          "title": "KK HARVEY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rubio",
+          "url": "https://twitter.com/search?q=KK%20HARVEY",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Boyle Heights",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Boyle%20Heights",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "southwest airlines",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "djed spence",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "morgan rogers",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rivian layoffs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran deal",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hillary clinton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wind farm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince harry family uk visit",
+          "title": "widows bay season 2",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usa today",
+          "title": "georgia vs oklahoma baseball",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harry styles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "severance",
+          "title": "toronto weather",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oj simpson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "are the knicks going to the white house",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norman reedus",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joshua kimmich",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "liberty vs sky",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "belize",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
