@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T21:22:05.481880+00:00",
+  "updatedAt": "2026-06-18T23:17:31.203238+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#SUIBIH",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SUIBIH",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ToyStory5",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ToyStory5",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#HandsOffSocialSecurity",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HandsOffSocialSecurity",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ObamaDidItBetter",
+          "title": "Don Lemon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ObamaDidItBetter",
+          "url": "https://twitter.com/search?q=Don%20Lemon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#KnicksParade",
+          "title": "Nicholas Dockery",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KnicksParade",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Rockstar",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rockstar",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Dinorah Figuera",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dinorah%20Figuera",
+          "url": "https://twitter.com/search?q=Nicholas%20Dockery",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "anchor lake dam",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caitlin clark wnba all-star voting",
+          "title": "disney plus",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "orioles - mariners",
+          "title": "cardinals vs royals",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "johan manzambi",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "esmir bajraktarević",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aaron rai",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corey pavin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim carrey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elf",
+          "title": "white sox - yankees",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jensen huang",
+          "title": "dustin johnson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stonehenge",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle cooke",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mara salvatrucha",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ismaël koné",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crocodiles",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jason day",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
