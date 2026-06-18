@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T23:45:22.157135+00:00",
+  "updatedAt": "2026-06-18T03:43:59.200797+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ENGCRO",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGCRO",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DesignASprite",
+          "title": "#cinemzel26",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DesignASprite",
+          "url": "https://twitter.com/search?q=%23cinemzel26",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThreeLions",
+          "title": "#ilwx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThreeLions",
+          "url": "https://twitter.com/search?q=%23ilwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "KK HARVEY",
+          "title": "Asante",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=KK%20HARVEY",
+          "url": "https://twitter.com/search?q=Asante",
           "platform": "X/Twitter"
         },
         {
-          "title": "Boyle Heights",
+          "title": "#GHAPAN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Boyle%20Heights",
+          "url": "https://twitter.com/search?q=%23GHAPAN",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "widows bay season 2",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "georgia vs oklahoma baseball",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "harry styles",
+          "title": "lukas gage",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toronto weather",
+          "title": "guillermo rodriguez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julio rodriguez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "olivia miles",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oj simpson",
+          "title": "dr dre",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "are the knicks going to the white house",
+          "title": "western miami-dade county wildfires",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "norman reedus",
+          "title": "zac efron",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joshua kimmich",
+          "title": "the news-gazette",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liberty vs sky",
+          "title": "mandy moore",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "belize",
+          "title": "photon",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
