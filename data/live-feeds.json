@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T18:31:41.560443+00:00",
+  "updatedAt": "2026-06-18T21:22:05.481880+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HandsOffSocialSecurity",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HandsOffSocialSecurity",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ObamaDidItBetter",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ObamaDidItBetter",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#KnicksParade",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23KnicksParade",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DMDLINEUP2026",
+          "title": "Rockstar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DMDLINEUP2026",
+          "url": "https://twitter.com/search?q=Rockstar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxCosmopolitan",
+          "title": "Dinorah Figuera",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxCosmopolitan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Byram",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Byram",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Dear Hunter",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dear%20Hunter",
+          "url": "https://twitter.com/search?q=Dinorah%20Figuera",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "twins vs rangers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "suiza - bosnia y herzegovina",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emma heming willis",
+          "title": "anchor lake dam",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marc anthony",
+          "title": "caitlin clark wnba all-star voting",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "extreme heat watch",
-          "traffic": "1000",
+          "title": "orioles - mariners",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark anthony",
+          "title": "johan manzambi",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "esmir bajraktarević",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin mccarthy",
-          "traffic": "200",
+          "title": "aaron rai",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tems",
-          "traffic": "2000",
+          "title": "corey pavin",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "million dollar nannies",
-          "traffic": "200",
+          "title": "jim carrey",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bono",
+          "title": "elf",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jensen huang",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
