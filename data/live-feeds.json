@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T03:43:59.200797+00:00",
+  "updatedAt": "2026-06-18T08:45:20.209851+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#cinemzel26",
+          "title": "#kywx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23cinemzel26",
+          "url": "https://twitter.com/search?q=%23kywx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ilwx",
+          "title": "#ENGENEs_Fight_For_SevEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ilwx",
+          "url": "https://twitter.com/search?q=%23ENGENEs_Fight_For_SevEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Asante",
+          "title": "Richard Rios",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Asante",
+          "url": "https://twitter.com/search?q=Richard%20Rios",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GHAPAN",
+          "title": "In-N-Out",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GHAPAN",
+          "url": "https://twitter.com/search?q=In-N-Out",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lukas gage",
-          "traffic": "500",
+          "title": "gas",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guillermo rodriguez",
+          "title": "moscow",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julio rodriguez",
+          "title": "is claude down",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "justin gaethje suspension ufc 250",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "olivia miles",
+          "title": "colton underwood",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dr dre",
+          "title": "high wind warning",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "western miami-dade county wildfires",
-          "traffic": "500",
+          "title": "kerry washington",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zac efron",
-          "traffic": "500",
+          "title": "duke energy power outage",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the news-gazette",
-          "traffic": "500",
+          "title": "canada vs qatar prediction",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mandy moore",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "photon",
-          "traffic": "500",
+          "title": "mexico vs corea del sur",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
