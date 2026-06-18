@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T08:45:20.209851+00:00",
+  "updatedAt": "2026-06-18T12:24:00.748066+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
+          "title": "#DMDLINEUP2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23DMDLINEUP2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#kywx",
+          "title": "#GenshinSpecialProgram",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23kywx",
+          "url": "https://twitter.com/search?q=%23GenshinSpecialProgram",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGENEs_Fight_For_SevEN",
+          "title": "#ORMxBvlgariHighJewelrySG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGENEs_Fight_For_SevEN",
+          "url": "https://twitter.com/search?q=%23ORMxBvlgariHighJewelrySG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Richard Rios",
+          "title": "TEETEEPOR NEW JOURNEY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Richard%20Rios",
+          "url": "https://twitter.com/search?q=TEETEEPOR%20NEW%20JOURNEY",
           "platform": "X/Twitter"
         },
         {
-          "title": "In-N-Out",
+          "title": "ORM FRIEND OF BVLGARI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=In-N-Out",
+          "url": "https://twitter.com/search?q=ORM%20FRIEND%20OF%20BVLGARI",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "gas",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "moscow",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is claude down",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin gaethje suspension ufc 250",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colton underwood",
+          "title": "us open suspended",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "high wind warning",
+          "title": "obama center opening",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hilary duff",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juneteenth federal holiday",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kerry washington",
+          "title": "ben shelton",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chrissy teigen",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "duke energy power outage",
+          "title": "jelly roll divorce reason",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ethan quinn",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "canada vs qatar prediction",
+          "title": "usga",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mexico vs corea del sur",
+          "title": "usa network",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
