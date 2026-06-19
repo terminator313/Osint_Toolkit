@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:08:42.158993+00:00",
+  "updatedAt": "2026-06-19T22:30:57.405387+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxRollingStoneAfrica",
+          "title": "#UnitedStates",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxRollingStoneAfrica",
+          "url": "https://twitter.com/search?q=%23UnitedStates",
           "platform": "X/Twitter"
         },
         {
-          "title": "Meloni",
+          "title": "McKennie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Meloni",
+          "url": "https://twitter.com/search?q=McKennie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hezbollah",
+          "title": "Camp David",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hezbollah",
+          "url": "https://twitter.com/search?q=Camp%20David",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "yellow card rules world cup",
-          "traffic": "1000",
+          "title": "hakimi",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "souttar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup yellow card rules",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "irankunda australia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe scally",
+          "title": "reds vs yankees",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "justin dean",
+          "title": "marocco",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saibari morocco",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "che adams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sugar apple tv",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brasil vs haiti",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup 2030",
-          "traffic": "500",
+          "title": "ismael saibari",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sebastian berhalter",
-          "traffic": "10000",
+          "title": "morocco national football team",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete crow-armstrong",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "antifa",
+          "title": "brian fitzpatrick",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
