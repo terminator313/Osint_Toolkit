@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T17:55:08.241706+00:00",
+  "updatedAt": "2026-06-19T19:47:34.452019+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Paul Bearer",
+          "title": "Emancipation Proclamation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Paul%20Bearer",
+          "url": "https://twitter.com/search?q=Emancipation%20Proclamation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Galveston",
+          "title": "Go USA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Galveston",
+          "url": "https://twitter.com/search?q=Go%20USA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pulisic",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jameis winston",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states department of labor",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bezos earth fund",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ps plus july 2026 games",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ayatollah khamenei us deal stance",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john meredith",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays vs cubs",
+          "title": "sergino dest",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran israel war ceasefire",
-          "traffic": "5000",
+          "title": "women's world cup",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy paul",
-          "traffic": "1000",
+          "title": "taylor sheridan yellowstone spinoff",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiafoe",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haji wright",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fox one world cup",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orlando bloom",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "telemundo live",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alejandro zendejas",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seattle sounders",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
