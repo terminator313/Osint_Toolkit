@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:47:34.452019+00:00",
+  "updatedAt": "2026-06-19T21:08:42.158993+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#USMNT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23USMNT",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#UFC6",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC6",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SonicMe",
+          "title": "Meloni",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SonicMe",
+          "url": "https://twitter.com/search?q=Meloni",
           "platform": "X/Twitter"
         },
         {
-          "title": "Emancipation Proclamation",
+          "title": "Hezbollah",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Emancipation%20Proclamation",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Go USA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Go%20USA",
+          "url": "https://twitter.com/search?q=Hezbollah",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "sergino dest",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "women's world cup",
+          "title": "yellow card rules world cup",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor sheridan yellowstone spinoff",
+          "title": "souttar",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiafoe",
+          "title": "world cup yellow card rules",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "irankunda australia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe scally",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "justin dean",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup 2030",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sebastian berhalter",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haji wright",
+          "title": "pete crow-armstrong",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox one world cup",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orlando bloom",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "telemundo live",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alejandro zendejas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle sounders",
+          "title": "antifa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
