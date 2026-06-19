@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T02:15:52.864290+00:00",
+  "updatedAt": "2026-06-19T07:38:07.632380+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#criticalrolespoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Resurrection",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Resurrection",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MEXKOR",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MEXKOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "Zach and Bryce",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=Zach%20and%20Bryce",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JSFamilyVacation",
+          "title": "Burnham",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JSFamilyVacation",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bryce and Zach",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bryce%20and%20Zach",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Edson",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Edson",
+          "url": "https://twitter.com/search?q=Burnham",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "toy story 3",
-          "traffic": "1000",
+          "title": "max",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "who's winning the world cup",
+          "title": "billie eilish",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mazda",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the chi",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan johnson",
-          "traffic": "1000",
+          "title": "el paso weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "copa mundial de fútbol de 2026",
-          "traffic": "5000",
+          "title": "youtube.com",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese",
-          "traffic": "2000",
+          "title": "chumba casino",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lexie hull",
+          "title": "stake us",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "telegram",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sean burke",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eva longoria",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jorge campos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "preston davey",
-          "traffic": "500",
+          "title": "greyhound",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
