@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T07:38:07.632380+00:00",
+  "updatedAt": "2026-06-19T12:04:29.642433+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#criticalrolespoilers",
+          "title": "#Juneteenth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "url": "https://twitter.com/search?q=%23Juneteenth",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Resurrection",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Resurrection",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MEXKOR",
+          "title": "#FreedomDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MEXKOR",
+          "url": "https://twitter.com/search?q=%23FreedomDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zach and Bryce",
+          "title": "Makerfield",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zach%20and%20Bryce",
+          "url": "https://twitter.com/search?q=Makerfield",
           "platform": "X/Twitter"
         },
         {
-          "title": "Burnham",
+          "title": "#AllStars11",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Burnham",
+          "url": "https://twitter.com/search?q=%23AllStars11",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "max",
+          "title": "bill pulte acting intel chief",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "billie eilish",
+          "title": "opal lee",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mazda",
-          "traffic": "100",
+          "title": "heart and soul chopsticks fur elise",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the chi",
+          "title": "paula badosa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vaccinations",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "immunizations",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nicole russell usa today",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dallas weather",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex de minaur",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "halle open",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el paso weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "youtube.com",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chumba casino",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stake us",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "telegram",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "greyhound",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
