@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T15:47:52.085452+00:00",
+  "updatedAt": "2026-06-19T17:55:08.241706+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FreedomDay",
+          "title": "#UFC6",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FreedomDay",
+          "url": "https://twitter.com/search?q=%23UFC6",
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP1",
+          "title": "#OlandriaxRollingStoneAfrica",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP1",
+          "url": "https://twitter.com/search?q=%23OlandriaxRollingStoneAfrica",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeLeCayóElTeatro",
+          "title": "#SonicMe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeLeCay%C3%B3ElTeatro",
+          "url": "https://twitter.com/search?q=%23SonicMe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChi",
+          "title": "Paul Bearer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
+          "url": "https://twitter.com/search?q=Paul%20Bearer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Friday",
+          "title": "Galveston",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Friday",
+          "url": "https://twitter.com/search?q=Galveston",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "daniil medvedev",
-          "traffic": "500",
+          "title": "pulisic",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael pennel jr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pulisic injury update",
+          "title": "jameis winston",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is the strait of hormuz open",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mayweather tyson pacquiao fight litigation",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "keanu reeves",
+          "title": "united states department of labor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "judith sheldon",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usa game today",
-          "traffic": "100000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ms now",
+          "title": "bezos earth fund",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emma navarro",
+          "title": "ps plus july 2026 games",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ayatollah khamenei us deal stance",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john meredith",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jays vs cubs",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran israel war ceasefire",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy paul",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
