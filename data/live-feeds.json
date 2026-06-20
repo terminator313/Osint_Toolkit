@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T19:23:12.406915+00:00",
+  "updatedAt": "2026-06-20T20:49:34.599099+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#mcwsfinalsaltcast",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23mcwsfinalsaltcast",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Caturday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#เสน่หาวาโยตอนที่6",
+          "title": "Shane van Gisbergen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%886",
+          "url": "https://twitter.com/search?q=Shane%20van%20Gisbergen",
           "platform": "X/Twitter"
         },
         {
-          "title": "Países Bajos",
+          "title": "Steve and Jared",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pa%C3%ADses%20Bajos",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Sam Antonacci",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sam%20Antonacci",
+          "url": "https://twitter.com/search?q=Steve%20and%20Jared",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "alemania - costa de marfil",
-          "traffic": "10000",
+          "title": "amad diallo",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "college world series",
-          "traffic": "10000",
+          "title": "jacqui oatley",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ou baseball",
+          "title": "luana santos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "felix nmecha",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt shaw",
+          "title": "toronto weather",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will warren",
+          "title": "natisha hiedeman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the bahamas",
+          "title": "leroy sane",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "group e standings",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xander schauffele",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ps5 pro",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tesla model y",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "partidos de hoy mundial 2026",
+          "title": "nico schlotterbeck",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
