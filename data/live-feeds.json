@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T12:27:24.499090+00:00",
+  "updatedAt": "2026-06-20T14:41:35.524393+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PerthSantaTimeStopperInSG",
+          "title": "#askchloe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaTimeStopperInSG",
+          "url": "https://twitter.com/search?q=%23askchloe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#STARDOM",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23STARDOM",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP1",
+          "title": "#SaturdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP1",
+          "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "LINGORM ILF EP1",
+          "title": "#TicketToHeavenEP4",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=LINGORM%20ILF%20EP1",
+          "url": "https://twitter.com/search?q=%23TicketToHeavenEP4",
           "platform": "X/Twitter"
         },
         {
-          "title": "seungkwan",
+          "title": "BARTHTANRAK HEAVENLY SECRET",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=seungkwan",
+          "url": "https://twitter.com/search?q=BARTHTANRAK%20HEAVENLY%20SECRET",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "doctor who",
+          "title": "dc pride parade 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jd",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wta berlin",
-          "traffic": "200",
+          "title": "hormuz",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nyt connections hints",
-          "traffic": "200",
+          "title": "karmelo anthony video",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ou baseball unc weather delay",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jelly roll and bunnie divorce",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan blaney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "us open tee times saturday",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "claude guillemot",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "solstice 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "us open tee times",
+          "title": "taylor fritz",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pge outage",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "katie hopkins",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa schedule today",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "call of duty: black ops ii",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "u.s. open",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
