@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:53:59.696056+00:00",
+  "updatedAt": "2026-06-20T19:23:12.406915+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Meloni",
+          "title": "Países Bajos",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Meloni",
+          "url": "https://twitter.com/search?q=Pa%C3%ADses%20Bajos",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Saturday",
+          "title": "Sam Antonacci",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Saturday",
+          "url": "https://twitter.com/search?q=Sam%20Antonacci",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "virgil van dijk",
-          "traffic": "2000",
+          "title": "alemania - costa de marfil",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haaland world cup",
+          "title": "college world series",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ou baseball",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kristoffer nordfeldt",
+          "title": "matt shaw",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will warren",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "houston weather",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lucas bergvall",
+          "title": "the bahamas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "suecia",
+          "title": "xander schauffele",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caitlin clark shoes",
+          "title": "ps5 pro",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan gravenberch",
+          "title": "tesla model y",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amsterdam",
+          "title": "partidos de hoy mundial 2026",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mini crossword answers",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
