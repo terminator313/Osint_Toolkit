@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T04:50:31.457877+00:00",
+  "updatedAt": "2026-06-20T08:20:22.874528+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#STARDOM",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23STARDOM",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Ranger Suarez",
+          "title": "Montella",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ranger%20Suarez",
+          "url": "https://twitter.com/search?q=Montella",
           "platform": "X/Twitter"
         },
         {
-          "title": "Türkiye",
+          "title": "Liv Morgan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=T%C3%BCrkiye",
+          "url": "https://twitter.com/search?q=Liv%20Morgan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "can uzun",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "henry cavill",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners score",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gunnar henderson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis castillo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drake",
+          "title": "flash flood warning",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "candace owens",
-          "traffic": "500",
+          "title": "afghanistan national cricket team vs india national cricket team match scorecard",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wwe smackdown live",
+          "title": "today wordle answers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rebel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "personal injury attorney",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san antonio weather",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete alonso",
-          "traffic": "500",
+          "title": "rockstar games gta vi",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paraguay red card",
-          "traffic": "100000",
+          "title": "copa mundial de fútbol",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dutton ranch episode 7 recap",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
