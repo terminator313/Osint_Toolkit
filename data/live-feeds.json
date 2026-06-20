@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T00:11:17.113185+00:00",
+  "updatedAt": "2026-06-20T04:50:31.457877+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#USMNT",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USMNT",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tadc",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tadc",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheAmazingDigitalCircus",
+          "title": "#TURPAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheAmazingDigitalCircus",
+          "url": "https://twitter.com/search?q=%23TURPAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFC6",
+          "title": "Ranger Suarez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC6",
+          "url": "https://twitter.com/search?q=Ranger%20Suarez",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pulisic",
+          "title": "Türkiye",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pulisic",
+          "url": "https://twitter.com/search?q=T%C3%BCrkiye",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ben rice",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs rockies",
+          "title": "can uzun",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gannon doak",
+          "title": "henry cavill",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brasil - haití",
-          "traffic": "20000",
+          "title": "mariners score",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brésil – haïti",
-          "traffic": "1000",
+          "title": "gunnar henderson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lyndon dykes",
-          "traffic": "1000",
+          "title": "luis castillo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "regina hall",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guardians vs astros",
+          "title": "drake",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom kim",
-          "traffic": "1000",
+          "title": "candace owens",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "savannah bananas",
+          "title": "wwe smackdown live",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete alonso",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paraguay red card",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
