@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T22:30:57.405387+00:00",
+  "updatedAt": "2026-06-20T00:11:17.113185+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#tadc",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23tadc",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TheAmazingDigitalCircus",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TheAmazingDigitalCircus",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#UFC6",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC6",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UnitedStates",
+          "title": "Pulisic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnitedStates",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "McKennie",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=McKennie",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Camp David",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Camp%20David",
+          "url": "https://twitter.com/search?q=Pulisic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hakimi",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reds vs yankees",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marocco",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saibari morocco",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "che adams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sugar apple tv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brasil vs haiti",
+          "title": "ben rice",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ismael saibari",
-          "traffic": "5000",
+          "title": "pirates vs rockies",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morocco national football team",
+          "title": "gannon doak",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brasil - haití",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brésil – haïti",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lyndon dykes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "regina hall",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian fitzpatrick",
-          "traffic": "500",
+          "title": "guardians vs astros",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom kim",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah bananas",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
