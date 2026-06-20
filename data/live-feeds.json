@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T20:49:34.599099+00:00",
+  "updatedAt": "2026-06-20T22:04:35.267072+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#UFCVegas119",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UFCVegas119",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GERCIV",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GERCIV",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NEDSWE",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NEDSWE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mcwsfinalsaltcast",
+          "title": "Bill Maher",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mcwsfinalsaltcast",
+          "url": "https://twitter.com/search?q=Bill%20Maher",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "Will Warren",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Shane van Gisbergen",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Shane%20van%20Gisbergen",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Steve and Jared",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Steve%20and%20Jared",
+          "url": "https://twitter.com/search?q=Will%20Warren",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "amad diallo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacqui oatley",
+          "title": "guéla doué",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luana santos",
-          "traffic": "200",
+          "title": "nick woltemade",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "felix nmecha",
+          "title": "germany coach",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brown germany",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "undav germany",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leon shahbazyan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toronto weather",
+          "title": "thomas muller",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "natisha hiedeman",
+          "title": "cubs game",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sam burns",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leroy sane",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "group e standings",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple iphone",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nico schlotterbeck",
+          "title": "antonio rüdiger",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
