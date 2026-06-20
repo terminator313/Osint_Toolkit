@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T08:20:22.874528+00:00",
+  "updatedAt": "2026-06-20T10:57:01.861298+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#STARDOM",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23STARDOM",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TURPAR",
+          "title": "#วาดฝันวันวิวาห์EP1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TURPAR",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP1",
           "platform": "X/Twitter"
         },
         {
-          "title": "Montella",
+          "title": "#PerthSantaTimeStopperInSG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Montella",
+          "url": "https://twitter.com/search?q=%23PerthSantaTimeStopperInSG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Liv Morgan",
+          "title": "Caine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Liv%20Morgan",
+          "url": "https://twitter.com/search?q=Caine",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Türkiye",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=T%C3%BCrkiye",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "flash flood warning",
+          "title": "meijer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sabalenka",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "afghanistan national cricket team vs india national cricket team match scorecard",
+          "title": "nueva york",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "today wordle answers",
-          "traffic": "10000",
+          "title": "m&ms",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rebel",
+          "title": "criminal lawyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "personal injury attorney",
+          "title": "car accident attorney",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "injury lawyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san antonio weather",
+          "title": "wrongful death attorney",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "afg vs ind",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockstar games gta vi",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "copa mundial de fútbol",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dutton ranch episode 7 recap",
-          "traffic": "2000",
+          "title": "crystal lawson florida",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
