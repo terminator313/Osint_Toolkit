@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:16:18.175175+00:00",
+  "updatedAt": "2026-06-20T17:53:59.696056+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Caturday",
+          "title": "#NEDSWE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23NEDSWE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TicketToHeavenEP4",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TicketToHeavenEP4",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#askchloe",
+          "title": "Meloni",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23askchloe",
+          "url": "https://twitter.com/search?q=Meloni",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "Good Saturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=Good%20Saturday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "japan vs tunisia",
-          "traffic": "200",
+          "title": "virgil van dijk",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "samantha ruth prabhu",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "candace cameron bure",
+          "title": "haaland world cup",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy paul",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coin",
+          "title": "kristoffer nordfeldt",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amazon prime day",
+          "title": "houston weather",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lucas bergvall",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "khloe kardashian",
+          "title": "suecia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eala",
+          "title": "caitlin clark shoes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ella langley tour",
-          "traffic": "1000",
+          "title": "ryan gravenberch",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atp halle",
+          "title": "amsterdam",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mini crossword answers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
