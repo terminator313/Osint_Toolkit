@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T22:04:35.267072+00:00",
+  "updatedAt": "2026-06-20T23:44:38.249036+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NEDSWE",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEDSWE",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bill Maher",
+          "title": "Ozzie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bill%20Maher",
+          "url": "https://twitter.com/search?q=Ozzie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Will Warren",
+          "title": "Vans",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Warren",
+          "url": "https://twitter.com/search?q=Vans",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "guéla doué",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick woltemade",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "germany coach",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brown germany",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "undav germany",
+          "title": "ecuador vs",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leon shahbazyan",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thomas muller",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs game",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sam burns",
+          "title": "jack schlossberg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "antonio rüdiger",
+          "title": "lainey wilson",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "banana ball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros game today",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "waymo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "manny machado",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "svengoolie tonight",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah bananas",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sky vs wings",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
