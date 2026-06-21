@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T16:14:33.873362+00:00",
+  "updatedAt": "2026-06-21T18:04:25.229856+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#EnemiesWithBenefitsEP8",
+          "title": "#ESPKSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EnemiesWithBenefitsEP8",
+          "url": "https://twitter.com/search?q=%23ESPKSA",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Spain vs Saudi Arabia",
+          "title": "SawFace",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Spain%20vs%20Saudi%20Arabia",
+          "url": "https://twitter.com/search?q=SawFace",
           "platform": "X/Twitter"
         },
         {
-          "title": "Big Foe",
+          "title": "Olmo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Big%20Foe",
+          "url": "https://twitter.com/search?q=Olmo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "yamal",
-          "traffic": "1000",
+          "title": "ou baseball game today",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "españa",
+          "title": "chase burns",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unai simón",
+          "title": "matt lafleur",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "group h standings",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rodri",
+          "title": "ftr",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "salem aldawsari",
+          "title": "nhl draft",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation network",
+          "title": "cardinals vs royals",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elmer rodriguez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where is the us open this year",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "special olympics",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation servers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "egypt vs new zealand",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lottery",
-          "traffic": "1000",
+          "title": "world cup 2030",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
