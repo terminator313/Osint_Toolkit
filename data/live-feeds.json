@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T11:44:58.763269+00:00",
+  "updatedAt": "2026-06-21T14:06:37.077868+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#tvlspoilers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tvlspoilers",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#PRADAxENHYPEN",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PRADAxENHYPEN",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SundayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#KUNxTHOMBROWNE",
+          "title": "So the Lord",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KUNxTHOMBROWNE",
+          "url": "https://twitter.com/search?q=So%20the%20Lord",
           "platform": "X/Twitter"
         },
         {
-          "title": "KUN for MFW 2026",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=KUN%20for%20MFW%202026",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "epstein files",
+          "title": "mothers day",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "community show",
+          "title": "tim scott",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us open tee times",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emma navarro",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nuno borges",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new zealand vs england",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sarah sherman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "berlin open",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran world cup",
+          "title": "india vs south africa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goose msg",
-          "traffic": "1000",
+          "title": "matteo arnaldi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uruguay vs cabo verde",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "france pierron",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage rates",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "india women's national cricket team vs south africa women's national cricket team match scorecard",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john mulaney",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paul avery all my children",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
