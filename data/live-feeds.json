@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T04:01:15.626731+00:00",
+  "updatedAt": "2026-06-21T08:45:34.109427+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCVegas119",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCVegas119",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#tvlspoilers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWCollision",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#TokyoRevengers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23TokyoRevengers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kape",
+          "title": "Eloy Room",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kape",
+          "url": "https://twitter.com/search?q=Eloy%20Room",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SAMURAIBLUE",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SAMURAIBLUE",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tunez",
+          "title": "ban vs aus",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pixar toy story 5",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix voicemails for isabelle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "posiciones de selección de fútbol de túnez contra selección de fútbol de japón",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "financial company",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "investments",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "goose band",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "india a vs sri lanka a",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bronny james",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockies game",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "チュニジア 対 日本",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angelina jolie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hardy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cleveland cavaliers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mn twins",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexandra daddario",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "twins",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hugh jackman",
-          "traffic": "500",
+          "title": "belgium vs iran",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
