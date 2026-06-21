@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:11:50.265028+00:00",
+  "updatedAt": "2026-06-21T21:53:26.405981+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HANxTodsSS27",
+          "title": "#ExcitingWorldCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HANxTodsSS27",
+          "url": "https://twitter.com/search?q=%23ExcitingWorldCup",
           "platform": "X/Twitter"
         },
         {
-          "title": "#hustle",
+          "title": "#BELIRN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hustle",
+          "url": "https://twitter.com/search?q=%23BELIRN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "#IndyCar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=%23IndyCar",
           "platform": "X/Twitter"
         },
         {
-          "title": "Keider Montero",
+          "title": "Venable",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Keider%20Montero",
+          "url": "https://twitter.com/search?q=Venable",
           "platform": "X/Twitter"
         },
         {
-          "title": "HAN AT TODS MFW",
+          "title": "Niko",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=HAN%20AT%20TODS%20MFW",
+          "url": "https://twitter.com/search?q=Niko",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "taylor sheridan yellowstone spinoff",
+          "title": "darwin nunez",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "federico valverde",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brady tkachuk",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "connor zilisch",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bet awards 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brent crews",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "federico viñas",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cabo verde goalkeeper",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sandra cuevas",
+          "title": "us open playoff format",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin magnussen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "furia vs falcons cs2",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lance stephenson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emiliano grillo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jac caglianone",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyrrell hatton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran soccer team",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lottie woad",
+          "title": "devin booker",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
