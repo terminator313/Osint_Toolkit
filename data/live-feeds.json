@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T21:53:26.405981+00:00",
+  "updatedAt": "2026-06-21T23:10:35.884695+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ExcitingWorldCup",
+          "title": "#USOpen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ExcitingWorldCup",
+          "url": "https://twitter.com/search?q=%23USOpen",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BELIRN",
+          "title": "#TimeToHunt",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BELIRN",
+          "url": "https://twitter.com/search?q=%23TimeToHunt",
           "platform": "X/Twitter"
         },
         {
-          "title": "#IndyCar",
+          "title": "#CapeVerde",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IndyCar",
+          "url": "https://twitter.com/search?q=%23CapeVerde",
           "platform": "X/Twitter"
         },
         {
-          "title": "Venable",
+          "title": "Kevin Pina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Venable",
+          "url": "https://twitter.com/search?q=Kevin%20Pina",
           "platform": "X/Twitter"
         },
         {
-          "title": "Niko",
+          "title": "Zilisch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Niko",
+          "url": "https://twitter.com/search?q=Zilisch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "darwin nunez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "federico valverde",
+          "title": "chayce mcdermott",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brady tkachuk",
+          "title": "pga championship 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "connor zilisch",
+          "title": "aaron rai",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bet awards 2026",
+          "title": "the open championship 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brent crews",
-          "traffic": "200",
+          "title": "michaela onyenwere",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "federico viñas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cabo verde goalkeeper",
+          "title": "blaze alexander",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us open playoff format",
+          "title": "araujo uruguay",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiger woods",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wyndham clark mom",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "devin booker",
+          "title": "prince harry father's day photo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
