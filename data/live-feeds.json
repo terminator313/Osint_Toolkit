@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T21:30:37.183123+00:00",
+  "updatedAt": "2026-06-22T23:18:03.448265+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BetrPicks",
+          "title": "#FRAIRQ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "url": "https://twitter.com/search?q=%23FRAIRQ",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARGAUT",
+          "title": "#Iraq",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARGAUT",
+          "url": "https://twitter.com/search?q=%23Iraq",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nikita",
+          "title": "Atleti",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nikita",
+          "url": "https://twitter.com/search?q=Atleti",
           "platform": "X/Twitter"
         },
         {
-          "title": "HHOF",
+          "title": "John James",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=HHOF",
+          "url": "https://twitter.com/search?q=John%20James",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dembele",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees vs tigers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france vs norway",
+          "title": "george pino",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zidane iqbal",
+          "title": "ali sanchez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom petty",
-          "traffic": "200",
+          "title": "guardians vs white sox",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frança x iraque",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "poetica coffee",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guthrie",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manu koné",
+          "title": "diamondbacks vs cardinals",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cws game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers vs twins",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "student debt",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thundercats animated film news",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mohamed diawara",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah guthrie mom",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
