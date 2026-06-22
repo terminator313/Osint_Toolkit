@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T08:37:07.076455+00:00",
+  "updatedAt": "2026-06-22T14:36:48.214643+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HOTD",
+          "title": "#KUNxTHOMBROWNESS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
+          "url": "https://twitter.com/search?q=%23KUNxTHOMBROWNESS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HouseOfTheDragon",
+          "title": "#MFW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
+          "url": "https://twitter.com/search?q=%23MFW",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HorizonAluminum",
+          "title": "#FIFAPrediction",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HorizonAluminum",
+          "url": "https://twitter.com/search?q=%23FIFAPrediction",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tierra",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tierra",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LVMenSS27",
+          "title": "#Valko",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LVMenSS27",
+          "url": "https://twitter.com/search?q=%23Valko",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "news on 6",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aldi blind boxes giveaway",
+          "title": "dow jones industrial average",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "news 9 okc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "okc weather",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bangkok",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hilary duff",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hossam abdelmaguid",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather storms tornadoes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan vs algeria",
+          "title": "mu stock price",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina vs austria prediction",
-          "traffic": "5000",
+          "title": "jason kidd",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "broadcom stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "margot robbie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kourtney kardashian travis barker father's day",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "microsoft stock price",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hive stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "obama presidential center criticisms",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cat stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
