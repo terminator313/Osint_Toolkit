@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T23:10:35.884695+00:00",
+  "updatedAt": "2026-06-22T02:01:32.366102+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#USOpen",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USOpen",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TimeToHunt",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TimeToHunt",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CapeVerde",
+          "title": "#90DayFiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CapeVerde",
+          "url": "https://twitter.com/search?q=%2390DayFiance",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kevin Pina",
+          "title": "#BaddiesGoneWild",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kevin%20Pina",
+          "url": "https://twitter.com/search?q=%23BaddiesGoneWild",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zilisch",
+          "title": "Wyndham Clark",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zilisch",
+          "url": "https://twitter.com/search?q=Wyndham%20Clark",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "chayce mcdermott",
+          "title": "olivia cooke",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pga championship 2026",
+          "title": "vancouver weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aaron rai",
+          "title": "vancouver stadium",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the open championship 2026",
+          "title": "zach love island",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michaela onyenwere",
+          "title": "james norton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blaze alexander",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "araujo uruguay",
+          "title": "bread recall",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiger woods",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wyndham clark mom",
+          "title": "british columbia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry father's day photo",
+          "title": "john wayne",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aegon targaryen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "len bias",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
