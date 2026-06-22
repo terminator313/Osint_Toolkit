@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T02:01:32.366102+00:00",
+  "updatedAt": "2026-06-22T08:37:07.076455+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#90DayFiance",
+          "title": "#HorizonAluminum",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2390DayFiance",
+          "url": "https://twitter.com/search?q=%23HorizonAluminum",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesGoneWild",
+          "title": "Tierra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesGoneWild",
+          "url": "https://twitter.com/search?q=Tierra",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wyndham Clark",
+          "title": "#LVMenSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wyndham%20Clark",
+          "url": "https://twitter.com/search?q=%23LVMenSS27",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "olivia cooke",
+          "title": "news on 6",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aldi blind boxes giveaway",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "news 9 okc",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vancouver weather",
+          "title": "okc weather",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bangkok",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hilary duff",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vancouver stadium",
+          "title": "hossam abdelmaguid",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather storms tornadoes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zach love island",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james norton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bread recall",
+          "title": "jordan vs algeria",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "british columbia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john wayne",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aegon targaryen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "len bias",
-          "traffic": "500",
+          "title": "argentina vs austria prediction",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
