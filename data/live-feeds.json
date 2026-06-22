@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T14:36:48.214643+00:00",
+  "updatedAt": "2026-06-22T18:44:12.213042+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#KUNxTHOMBROWNESS27",
+          "title": "#ARGAUT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KUNxTHOMBROWNESS27",
+          "url": "https://twitter.com/search?q=%23ARGAUT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MFW",
+          "title": "#LaSayonaEsLaNada",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MFW",
+          "url": "https://twitter.com/search?q=%23LaSayonaEsLaNada",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIFAPrediction",
+          "title": "#vava",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIFAPrediction",
+          "url": "https://twitter.com/search?q=%23vava",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "Pessi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=Pessi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Valko",
+          "title": "Quantum",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Valko",
+          "url": "https://twitter.com/search?q=Quantum",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "dow jones industrial average",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mu stock price",
+          "title": "spurs klay thompson trade rumors",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason kidd",
+          "title": "shakira",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "who is shakira dating",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerard piqué",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shakira kids",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "broadcom stock",
+          "title": "not alone movie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "margot robbie",
-          "traffic": "200",
+          "title": "julian alvarez",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kourtney kardashian travis barker father's day",
-          "traffic": "200",
+          "title": "wwe raw",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "microsoft stock price",
-          "traffic": "200",
+          "title": "lionel messi net worth",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hive stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "obama presidential center criticisms",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cat stock",
+          "title": "argentina fixtures",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
