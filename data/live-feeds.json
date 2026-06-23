@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T15:45:58.010029+00:00",
+  "updatedAt": "2026-06-23T17:52:11.376601+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BestVPS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BestVPS",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#VenezuelaProgresaEnPaz",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VenezuelaProgresaEnPaz",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#gachiakuta169",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23gachiakuta169",
           "platform": "X/Twitter"
         },
         {
-          "title": "Prime Day",
+          "title": "#BestVPS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Prime%20Day",
+          "url": "https://twitter.com/search?q=%23BestVPS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Birthday Sonic",
+          "title": "#JunePaintedBySUNOO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Sonic",
+          "url": "https://twitter.com/search?q=%23JunePaintedBySUNOO",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Dennis Weaver",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Dennis%20Weaver",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Prime Day",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Prime%20Day",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "david trone april mcclain delaney",
+          "title": "fabio cannavaro",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pepe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt miller",
+          "title": "ronaldo goal",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "selección de fútbol de portugal",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "big tigger",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "electoral fraud",
+          "title": "roberto martinez",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris wright",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal x uzbequistão",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "green card",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rastafarian",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john james",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bed bath and beyond",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cholesterol",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is claude down?",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qqq",
+          "title": "emma watson",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "immigration news",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
