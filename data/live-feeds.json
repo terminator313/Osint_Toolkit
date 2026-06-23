@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T20:01:07.696002+00:00",
+  "updatedAt": "2026-06-23T21:55:58.393617+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ENGGHA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ENGGHA",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#JacksonWangxLVMenSS27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23JacksonWangxLVMenSS27",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PORUZB",
+          "title": "Raven",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PORUZB",
+          "url": "https://twitter.com/search?q=Raven",
           "platform": "X/Twitter"
         },
         {
-          "title": "Calgary",
+          "title": "Nuno Mendes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Calgary",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tom Cruise",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tom%20Cruise",
+          "url": "https://twitter.com/search?q=Nuno%20Mendes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ballon d'or",
-          "traffic": "100",
+          "title": "jordan kyrou",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mass lottery",
-          "traffic": "200",
+          "title": "saka",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wendell pierce",
-          "traffic": "100",
+          "title": "bode miller",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nationwide expedited removals decision",
-          "traffic": "200",
+          "title": "iñaki williams",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiger woods",
-          "traffic": "200",
+          "title": "declan rice",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states presidential approval rating",
-          "traffic": "200",
+          "title": "elliot anderson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brendan sorsby",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red dead redemption 3",
+          "title": "england world cup schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hannah brown",
-          "traffic": "500",
+          "title": "jerome opoku",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire weather watch",
+          "title": "william eklund",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "health care fraud",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
