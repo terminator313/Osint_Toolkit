@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:18:03.448265+00:00",
+  "updatedAt": "2026-06-23T01:29:50.439049+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#imwithdirtcam",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23imwithdirtcam",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WWERaw",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWERaw",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Iraq",
+          "title": "Gerrit Cole",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Iraq",
+          "url": "https://twitter.com/search?q=Gerrit%20Cole",
           "platform": "X/Twitter"
         },
         {
-          "title": "Atleti",
+          "title": "Quantum",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Atleti",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "John James",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=John%20James",
+          "url": "https://twitter.com/search?q=Quantum",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "george pino",
+          "title": "ariana madix",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ali sanchez",
+          "title": "ismaïla sarr",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vikings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians vs white sox",
+          "title": "jalen hurts",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norway soccer players",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "group i standings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "edouard mendy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "braut haaland",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "halland",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs cardinals",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cws game today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers vs twins",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "student debt",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thundercats animated film news",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mohamed diawara",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "savannah guthrie mom",
+          "title": "lj mercurius",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
