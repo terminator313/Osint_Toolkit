@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T05:47:54.696152+00:00",
+  "updatedAt": "2026-06-23T09:35:21.534215+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#loveislandseason8",
+          "title": "#ZatimaOnParamountPlus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandseason8",
+          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MCWS",
+          "title": "#PrimeDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MCWS",
+          "url": "https://twitter.com/search?q=%23PrimeDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GuardsBall",
+          "title": "#TESTME_6",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GuardsBall",
+          "url": "https://twitter.com/search?q=%23TESTME_6",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bryson Graham",
+          "title": "Crude Oil",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bryson%20Graham",
+          "url": "https://twitter.com/search?q=Crude%20Oil",
           "platform": "X/Twitter"
         },
         {
-          "title": "jungkook",
+          "title": "Baylor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=jungkook",
+          "url": "https://twitter.com/search?q=Baylor",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "colombia vs dr congo",
-          "traffic": "500",
+          "title": "snap junk food restriction ruling",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bts",
-          "traffic": "500",
+          "title": "artificial intelligence news",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "senate housing affordability bill",
+          "title": "akshar yoga kendraa 21 guinness world records",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frozen food recall",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mason miller",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "detroit pistons",
+          "title": "what is a data breach",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ibrahim maza",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres game today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aj dybantsa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lebron james",
+          "title": "soccer world rankings",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lottery results today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "soccer highlights today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cryptocurrency trading",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tennis scores today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what is a heat dome",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
