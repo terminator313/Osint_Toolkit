@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T15:17:39.422017+00:00",
+  "updatedAt": "2026-06-24T17:26:33.252463+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CR7TheGoat",
+          "title": "#stayselcaday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CR7TheGoat",
+          "url": "https://twitter.com/search?q=%23stayselcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DestinyclinicxPerthSanta",
+          "title": "#AriasTraidor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DestinyclinicxPerthSanta",
+          "url": "https://twitter.com/search?q=%23AriasTraidor",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FREEPC",
+          "title": "#SONGZIOSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FREEPC",
+          "url": "https://twitter.com/search?q=%23SONGZIOSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JIMINxDIOR",
+          "title": "Lakers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JIMINxDIOR",
+          "url": "https://twitter.com/search?q=Lakers",
           "platform": "X/Twitter"
         },
         {
-          "title": "KUN&#39;s MFW",
+          "title": "Conan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=KUN&#39;s%20MFW",
+          "url": "https://twitter.com/search?q=Conan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "earthquake",
-          "traffic": "500",
+          "title": "world cup rankings 2026",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "save america act",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mstr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zaccharie risacher",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mstr stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mu stock",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dram stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup 2026 qualifying groups",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "social security administration",
+          "title": "supergirl",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iga świątek",
-          "traffic": "1000",
+          "title": "daisy chain festival",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aldi blind box",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake ca",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake california",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dianna russini",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uber stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake near me",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
