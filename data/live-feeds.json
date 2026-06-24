@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T21:09:15.016849+00:00",
+  "updatedAt": "2026-06-24T22:46:34.592407+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PMSLive",
+          "title": "#SCOBRA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PMSLive",
+          "url": "https://twitter.com/search?q=%23SCOBRA",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Gunn",
+          "title": "Promise David",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gunn",
+          "url": "https://twitter.com/search?q=Promise%20David",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cassidy",
+          "title": "Rayan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cassidy",
+          "url": "https://twitter.com/search?q=Rayan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jonathan swan",
+          "title": "brasil",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "royals vs rays",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is haiti eliminated from world cup",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dram",
+          "title": "marruecos vs",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "posiciones de mundial",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sndk",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "audrey rich amber alert",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lakers knicks mavs suns trade",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "suiza vs canada",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dansby swanson",
+          "title": "haiti morocco",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump reflecting pool",
-          "traffic": "200",
+          "title": "escocia vs. brasil",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kennedy center tarp",
-          "traffic": "2000",
+          "title": "jules breach",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico vs chequia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mac jones",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cottonwood fire",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
