@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:08:32.459431+00:00",
+  "updatedAt": "2026-06-24T01:24:57.745060+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ENGGHA",
+          "title": "#NBADraft",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGGHA",
+          "url": "https://twitter.com/search?q=%23NBADraft",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGvsGHA",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGvsGHA",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#stlblues",
+          "title": "#SeeRed",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stlblues",
+          "url": "https://twitter.com/search?q=%23SeeRed",
           "platform": "X/Twitter"
         },
         {
-          "title": "USAID",
+          "title": "Eklund",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USAID",
+          "url": "https://twitter.com/search?q=Eklund",
           "platform": "X/Twitter"
         },
         {
-          "title": "Foden",
+          "title": "#TakeNote",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Foden",
+          "url": "https://twitter.com/search?q=%23TakeNote",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ed bastian",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack white",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sean evans",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stuart fails to save the universe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ice warehouse detention lawsuits",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rangers vs marlins",
+          "title": "is league down",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "panamá - croacia",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steam",
+          "title": "brad lander",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaylen brown trade rumors",
+          "title": "jalen hurts",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morez johnson jr",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brayden burries",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "destiny 2",
+          "title": "dallas mavericks",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "athletics vs giants",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maryland primary election",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cooper flagg",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warriors",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
