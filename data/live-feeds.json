@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T05:36:11.737720+00:00",
+  "updatedAt": "2026-06-24T09:25:47.422171+00:00",
   "sources": {
     "fofa": {
       "status": "error",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DiorSummer27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DiorSummer27",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#JIMINxPFW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JIMINxPFW",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#StrayKids_RUN_IT_OutNow",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23StrayKids_RUN_IT_OutNow",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NBADraft",
+          "title": "DELTARUNE TODAY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBADraft",
+          "url": "https://twitter.com/search?q=DELTARUNE%20TODAY",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWENXT",
+          "title": "Carr",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Christian Anderson",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christian%20Anderson",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Aniya",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aniya",
+          "url": "https://twitter.com/search?q=Carr",
           "platform": "X/Twitter"
         }
       ],
@@ -56,28 +56,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "what is a heat dome",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mirra andreeva",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deep sea ghost shark costa rica",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "jodie foster",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "padres",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "amber alert",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "primary elections results",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres score",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -98,11 +103,6 @@
         {
           "title": "turquoise alert",
           "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres game today",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
