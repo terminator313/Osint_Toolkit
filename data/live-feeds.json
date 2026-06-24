@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-24T09:25:47.422171+00:00",
+  "updatedAt": "2026-06-24T12:04:55.613340+00:00",
   "sources": {
     "fofa": {
-      "status": "error",
+      "status": "empty",
       "items": [],
-      "error": "The read operation timed out"
+      "error": "No items parsed."
     },
     "urlhaus": {
       "status": "error",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DiorSummer27",
+          "title": "#JIMINxDior",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DiorSummer27",
+          "url": "https://twitter.com/search?q=%23JIMINxDior",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StrayKids_RUN_IT_OutNow",
+          "title": "#LVMSpoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StrayKids_RUN_IT_OutNow",
+          "url": "https://twitter.com/search?q=%23LVMSpoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "DELTARUNE TODAY",
+          "title": "JP Morgan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DELTARUNE%20TODAY",
+          "url": "https://twitter.com/search?q=JP%20Morgan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carr",
+          "title": "Prince Jimin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carr",
+          "url": "https://twitter.com/search?q=Prince%20Jimin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "what is a heat dome",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mirra andreeva",
+          "title": "zendaya",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deep sea ghost shark costa rica",
+          "title": "slate truck",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jodie foster",
+          "title": "dustin poirier arrested",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "padres",
-          "traffic": "5000",
+          "title": "jacqui heinrich wedding",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amber alert",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres game",
+          "title": "aipac",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bosnia vs qatar",
+          "title": "housing affordability bill",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "czechia vs mexico",
-          "traffic": "500",
+          "title": "george kittle",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "turquoise alert",
-          "traffic": "20000",
+          "title": "money",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kay adams",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julianne nicholson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
