@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:26:33.252463+00:00",
+  "updatedAt": "2026-06-24T19:11:25.329649+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#stayselcaday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stayselcaday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AriasTraidor",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AriasTraidor",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SONGZIOSS27",
+          "title": "#stayselcaday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SONGZIOSS27",
+          "url": "https://twitter.com/search?q=%23stayselcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lakers",
+          "title": "#RHUGT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lakers",
+          "url": "https://twitter.com/search?q=%23RHUGT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Conan",
+          "title": "JP Morgan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Conan",
+          "url": "https://twitter.com/search?q=JP%20Morgan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Tuch",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Tuch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup rankings 2026",
-          "traffic": "20000",
+          "title": "taylor swift msg",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "supergirl",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daisy chain festival",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aldi blind box",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake ca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake california",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake today",
+          "title": "bosnia and herzegovina vs qatar",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dianna russini",
+          "title": "mexico game today",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex tuch",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uber stock",
-          "traffic": "500",
+          "title": "micron earnings",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake near me",
-          "traffic": "50000",
+          "title": "trump administration election rule lawsuit",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bitcoin price",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "government shutdown",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supergirl",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "u.s. senior open",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
