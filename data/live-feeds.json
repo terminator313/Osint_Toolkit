@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:11:25.329649+00:00",
+  "updatedAt": "2026-06-24T21:09:15.016849+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AriasTraidor",
+          "title": "#deltarunespoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AriasTraidor",
+          "url": "https://twitter.com/search?q=%23deltarunespoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#stayselcaday",
+          "title": "#PMSLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stayselcaday",
+          "url": "https://twitter.com/search?q=%23PMSLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHUGT",
+          "title": "#Switzerland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHUGT",
+          "url": "https://twitter.com/search?q=%23Switzerland",
           "platform": "X/Twitter"
         },
         {
-          "title": "JP Morgan",
+          "title": "Gunn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JP%20Morgan",
+          "url": "https://twitter.com/search?q=Gunn",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tuch",
+          "title": "Cassidy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tuch",
+          "url": "https://twitter.com/search?q=Cassidy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taylor swift msg",
+          "title": "jonathan swan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bosnia and herzegovina vs qatar",
-          "traffic": "5000",
+          "title": "dram",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mexico game today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex tuch",
+          "title": "posiciones de mundial",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "micron earnings",
-          "traffic": "5000",
+          "title": "sndk",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump administration election rule lawsuit",
+          "title": "audrey rich amber alert",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lakers knicks mavs suns trade",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "suiza vs canada",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dansby swanson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bitcoin price",
-          "traffic": "5000",
+          "title": "trump reflecting pool",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "government shutdown",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supergirl",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "u.s. senior open",
-          "traffic": "500",
+          "title": "kennedy center tarp",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
