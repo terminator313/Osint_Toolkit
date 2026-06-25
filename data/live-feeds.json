@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:46:34.592407+00:00",
+  "updatedAt": "2026-06-25T00:10:38.999714+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#deltarunespoilers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23deltarunespoilers",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SCOBRA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SCOBRA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Switzerland",
+          "title": "#deltarunespoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Switzerland",
+          "url": "https://twitter.com/search?q=%23deltarunespoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Promise David",
+          "title": "#temblor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Promise%20David",
+          "url": "https://twitter.com/search?q=%23temblor",
           "platform": "X/Twitter"
         },
         {
           "title": "Rayan",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Rayan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Isidor",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Isidor",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brasil",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals vs rays",
+          "title": "david kampf",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is haiti eliminated from world cup",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marruecos vs",
+          "title": "endrick",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haiti morocco",
+          "title": "fever game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fever game today",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tarik skubal",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "escocia vs. brasil",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jules breach",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico vs chequia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mac jones",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cottonwood fire",
+          "title": "terremoto hoy",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "epic games battle pass changes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hulu",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerard butler",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paul goldschmidt",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
