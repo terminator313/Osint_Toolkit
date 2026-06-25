@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T00:10:38.999714+00:00",
+  "updatedAt": "2026-06-25T04:44:43.123896+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SCOBRA",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SCOBRA",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#temblor",
+          "title": "#Terremoto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23temblor",
+          "url": "https://twitter.com/search?q=%23Terremoto",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rayan",
+          "title": "Thune",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rayan",
+          "url": "https://twitter.com/search?q=Thune",
           "platform": "X/Twitter"
         },
         {
-          "title": "Isidor",
+          "title": "Romo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Isidor",
+          "url": "https://twitter.com/search?q=Romo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "david kampf",
+          "title": "xbox",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "endrick",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever game",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever game today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tarik skubal",
+          "title": "giants",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "terremoto hoy",
-          "traffic": "500",
+          "title": "playstation",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "epic games battle pass changes",
-          "traffic": "500",
+          "title": "tim allen",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hulu",
+          "title": "dalton rushing",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max muncy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david peterson",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gerard butler",
-          "traffic": "5000",
+          "title": "car accident lawyer",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paul goldschmidt",
+          "title": "japan vs sweden",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex launch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
