@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T11:14:02.615492+00:00",
+  "updatedAt": "2026-06-25T13:35:15.217977+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MadeWithDreaminaAI",
+          "title": "#水無世燐央ラストライブ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MadeWithDreaminaAI",
+          "url": "https://twitter.com/search?q=%23%E6%B0%B4%E7%84%A1%E4%B8%96%E7%87%90%E5%A4%AE%E3%83%A9%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#deltarunespoilers",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23deltarunespoilers",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "WNBA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=WNBA",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
           "title": "La Guaira",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=La%20Guaira",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#unhingedpit",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23unhingedpit",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "baby boomer average net worth",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will smith jada pinkett smith?",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usa vs turkey",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "copa mundial de fútbol",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "juan manuel cerundolo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "senate war powers vote",
+          "title": "absolute batman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "e15",
-          "traffic": "200",
+          "title": "al horford",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pride match",
-          "traffic": "200",
+          "title": "matt fitzpatrick",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves score",
-          "traffic": "200",
+          "title": "pce report",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeremy grantham",
-          "traffic": "200",
+          "title": "patrick dempsey",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jordan spieth",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "millie bobby brown",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marianne lake",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lionel richie",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "madison keys",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
