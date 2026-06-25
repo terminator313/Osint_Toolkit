@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:19:55.359145+00:00",
+  "updatedAt": "2026-06-25T23:51:54.448384+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,18 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#HappyBirthdayManon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HappyBirthdayManon",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TidesofFortune",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TidesofFortune",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#IvoryCoast",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23IvoryCoast",
@@ -36,18 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GloriousPortugalHour",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "Roundup",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roundup",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Nicolas Pepe",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nicolas%20Pepe",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup bracket",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amadeus lombardi",
+          "title": "lucas bergvall",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "partidos de hoy mundial 2026",
+          "title": "gregg phillips",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isak hien",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dirk nowitzki",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "johnny knoxville",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doug martin",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cma fest 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clarence house london",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom sandoval",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "partidos mundial 2026",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup fixtures",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "copa mundial de fútbol de 2026",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astros vs tigers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tunisia vs netherlands",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa standings",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "posiciones de mundial",
-          "traffic": "50000",
+          "title": "日本 対 スウェーデン",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
