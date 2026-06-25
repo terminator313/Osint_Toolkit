@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T04:44:43.123896+00:00",
+  "updatedAt": "2026-06-25T08:21:16.318220+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#deltarunespoilers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23deltarunespoilers",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GTA6",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GTA6",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Thune",
+          "title": "Susie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thune",
+          "url": "https://twitter.com/search?q=Susie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Romo",
+          "title": "Rushing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Romo",
+          "url": "https://twitter.com/search?q=Rushing",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "xbox",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants",
+          "title": "car insurance",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation",
+          "title": "shipping",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tim allen",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dalton rushing",
+          "title": "flights",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max muncy",
-          "traffic": "2000",
+          "title": "steam summer sale 2026",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david peterson",
-          "traffic": "5000",
+          "title": "fortnite",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident lawyer",
+          "title": "hotels",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel studios avengers endgame re-release",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "japan vs sweden",
+          "title": "time",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex launch",
+          "title": "disneyland ticket prices",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tennis scores today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
