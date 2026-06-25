@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T18:31:49.760148+00:00",
+  "updatedAt": "2026-06-25T20:54:19.208979+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WeLoatheElon",
+          "title": "#TrumpsHousingCrisis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeLoatheElon",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TejRan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
+          "url": "https://twitter.com/search?q=%23TrumpsHousingCrisis",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#tommavi",
+          "title": "#WeLoatheElon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
+          "url": "https://twitter.com/search?q=%23WeLoatheElon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NOLIMIT",
+          "title": "Wolves",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NOLIMIT",
+          "url": "https://twitter.com/search?q=Wolves",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Riley Green",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Riley%20Green",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fifa world cup players",
-          "traffic": "10000",
+          "title": "ecuador coach",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vaccine",
+          "title": "george michael",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa world cup 2026 group d qualifiers table",
+          "title": "brandon aiyuk",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strait of hormuz news",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alito sotomayor",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "curaçao vs côte d'ivoire",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sean hannity",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "absolute batman animated series",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ecuador vs alemania",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roundup supreme court",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom dundon",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "surgery",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hendrix lapierre",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "allure katseye",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bangladesh vs india",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supreme court hawaii",
-          "traffic": "1000",
+          "title": "michael douglas",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
