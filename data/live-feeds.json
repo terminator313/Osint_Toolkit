@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T20:54:19.208979+00:00",
+  "updatedAt": "2026-06-25T22:19:55.359145+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TrumpsHousingCrisis",
+          "title": "#ECUGER",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpsHousingCrisis",
+          "url": "https://twitter.com/search?q=%23ECUGER",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Mining",
+          "title": "#IvoryCoast",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Mining",
+          "url": "https://twitter.com/search?q=%23IvoryCoast",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WeLoatheElon",
+          "title": "#GloriousPortugalHour",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeLoatheElon",
+          "url": "https://twitter.com/search?q=%23GloriousPortugalHour",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wolves",
+          "title": "Roundup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wolves",
+          "url": "https://twitter.com/search?q=Roundup",
           "platform": "X/Twitter"
         },
         {
-          "title": "Riley Green",
+          "title": "Nicolas Pepe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Riley%20Green",
+          "url": "https://twitter.com/search?q=Nicolas%20Pepe",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ecuador coach",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "george michael",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon aiyuk",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strait of hormuz news",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alito sotomayor",
+          "title": "world cup bracket",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "curaçao vs côte d'ivoire",
-          "traffic": "50000",
+          "title": "amadeus lombardi",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sean hannity",
+          "title": "partidos de hoy mundial 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "partidos mundial 2026",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "absolute batman animated series",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ecuador vs alemania",
+          "title": "world cup fixtures",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael douglas",
-          "traffic": "500",
+          "title": "copa mundial de fútbol de 2026",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros vs tigers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tunisia vs netherlands",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa standings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "posiciones de mundial",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
