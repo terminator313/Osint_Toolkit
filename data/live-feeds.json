@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T13:10:13.950051+00:00",
+  "updatedAt": "2026-06-26T15:38:05.788639+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#วาดฝันวันวิวาห์EP2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP2",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LastFourWatched",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ClickUp",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ClickUp",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OBSIDIANRANK1",
+          "title": "Stallone",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OBSIDIANRANK1",
+          "url": "https://twitter.com/search?q=Stallone",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ZOMST",
+          "title": "#LetterboxdFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZOMST",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Turkey",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Turkey",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ivan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ivan",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "madison keys",
+          "title": "isaiah joe",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gma deals and steals",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "senate walks back rebuke",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eastbourne tennis",
+          "title": "florida",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeremy grantham",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john bolton plea deal",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen duren",
+          "title": "royal caribbean whale strike alaska",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "resilience",
+          "title": "toby samuel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ufc white house audience statistics",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tomodachi life update patch notes",
+          "title": "prince harry meghan uk travel",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jamal morton",
-          "traffic": "1000",
+          "title": "kobe draft pack",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "beijing",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "markwayne mullin",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "npr",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
