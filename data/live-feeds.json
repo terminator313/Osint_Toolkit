@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T03:31:48.131701+00:00",
+  "updatedAt": "2026-06-26T07:50:43.021613+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DreaminaAtAnnecy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DreaminaAtAnnecy",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Verzuz",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Verzuz",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TURUSA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TURUSA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Pretty Ricky",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pretty%20Ricky",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "Omarion",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Omarion",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Pulisic",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Pulisic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "christian pulisic",
-          "traffic": "20000",
+          "title": "tomodachi life update",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mia hamm",
+          "title": "cloud",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "h&m",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fireworks nyc",
-          "traffic": "500",
+          "title": "red",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oleksandr usyk",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how long is halftime in the world cup",
+          "title": "famous birthdays",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how long is world cup half time",
-          "traffic": "500",
+          "title": "mountain dew 5 cent bundles",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ozan kabak",
-          "traffic": "500",
+          "title": "egypt vs iran",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "youngest player in world cup 2026",
-          "traffic": "500",
+          "title": "christian mccaffrey",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "messi statue",
-          "traffic": "500",
+          "title": "law & order",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yildiz",
-          "traffic": "500",
+          "title": "katseye group update on manon",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
