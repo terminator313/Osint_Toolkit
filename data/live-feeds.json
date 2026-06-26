@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T23:51:54.448384+00:00",
+  "updatedAt": "2026-06-26T03:31:48.131701+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ECUGER",
+          "title": "#Verzuz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ECUGER",
+          "url": "https://twitter.com/search?q=%23Verzuz",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HappyBirthdayManon",
+          "title": "#USMNT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HappyBirthdayManon",
+          "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TidesofFortune",
+          "title": "#TURUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TidesofFortune",
+          "url": "https://twitter.com/search?q=%23TURUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#IvoryCoast",
+          "title": "Pretty Ricky",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IvoryCoast",
+          "url": "https://twitter.com/search?q=Pretty%20Ricky",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GloriousPortugalHour",
+          "title": "Omarion",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GloriousPortugalHour",
+          "url": "https://twitter.com/search?q=Omarion",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lucas bergvall",
+          "title": "christian pulisic",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mia hamm",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gregg phillips",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isak hien",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dirk nowitzki",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "johnny knoxville",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doug martin",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cma fest 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clarence house london",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom sandoval",
+          "title": "fireworks nyc",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "日本 対 スウェーデン",
+          "title": "oleksandr usyk",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how long is halftime in the world cup",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how long is world cup half time",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ozan kabak",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "youngest player in world cup 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "messi statue",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yildiz",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
