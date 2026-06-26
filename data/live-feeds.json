@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T10:49:38.373393+00:00",
+  "updatedAt": "2026-06-26T13:10:13.950051+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ClickUp",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ClickUp",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OBSIDIANRANK1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OBSIDIANRANK1",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#criticalrolespoilers",
+          "title": "Turkey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "url": "https://twitter.com/search?q=Turkey",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Verzuz",
+          "title": "Ivan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Verzuz",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Corbin",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Corbin",
+          "url": "https://twitter.com/search?q=Ivan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "vaccinations",
-          "traffic": "10000",
+          "title": "madison keys",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tatjana maria",
-          "traffic": "500",
+          "title": "gma deals and steals",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wimbledon 2026",
+          "title": "senate walks back rebuke",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vaccines",
+          "title": "eastbourne tennis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maris nichols",
+          "title": "jeremy grantham",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john bolton plea deal",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen duren",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "resilience",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "immunizations",
-          "traffic": "200",
+          "title": "tomodachi life update patch notes",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clima de hoy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tendencia",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dutton ranch episode 8",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karen derrico",
-          "traffic": "100",
+          "title": "jamal morton",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
