@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T07:50:43.021613+00:00",
+  "updatedAt": "2026-06-26T10:49:38.373393+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DreaminaAtAnnecy",
+          "title": "#OBSIDIANRANK1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DreaminaAtAnnecy",
+          "url": "https://twitter.com/search?q=%23OBSIDIANRANK1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ZOMST",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ZOMST",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#criticalrolespoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#USMNT",
+          "title": "Corbin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USMNT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Omarion",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Omarion",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Pulisic",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pulisic",
+          "url": "https://twitter.com/search?q=Corbin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tomodachi life update",
-          "traffic": "200",
+          "title": "vaccinations",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cloud",
+          "title": "tatjana maria",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "h&m",
+          "title": "wimbledon 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red",
+          "title": "vaccines",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "famous birthdays",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mountain dew 5 cent bundles",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "egypt vs iran",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian mccaffrey",
+          "title": "maris nichols",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "law & order",
-          "traffic": "2000",
+          "title": "immunizations",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katseye group update on manon",
-          "traffic": "2000",
+          "title": "clima de hoy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tendencia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dutton ranch episode 8",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karen derrico",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
