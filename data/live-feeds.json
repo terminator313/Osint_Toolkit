@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T11:53:28.254803+00:00",
+  "updatedAt": "2026-06-27T13:28:33.970969+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#loveislandusa",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislandusa",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTSTICKETS",
+          "title": "#loveisland2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTSTICKETS",
+          "url": "https://twitter.com/search?q=%23loveisland2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cape Verde",
+          "title": "Aniya",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cape%20Verde",
+          "url": "https://twitter.com/search?q=Aniya",
           "platform": "X/Twitter"
         },
         {
-          "title": "Amora",
+          "title": "Oracle AI Trade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Amora",
+          "url": "https://twitter.com/search?q=Oracle%20AI%20Trade",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "f1 schedule",
+          "title": "tahir abdullayev",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahrain",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madison keys",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mass lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wimbledon 2026",
+          "title": "ethan quinn",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "waffle",
+          "title": "azerbaijan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "minnesota vikings",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scott eastwood",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "western states 100",
+          "title": "andy beshear",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wnba news",
+          "title": "bears",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pakistan vs netherlands",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amber alert",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rory mcilroy travelers championship absence",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "connections hint today",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jefferson nascimento",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
