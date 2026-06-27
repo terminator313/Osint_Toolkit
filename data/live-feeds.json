@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:51:54.308118+00:00",
+  "updatedAt": "2026-06-27T21:00:37.355577+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCBaku",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCBaku",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NightOfChampions",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NightOfChampions",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gerrit Cole",
+          "title": "#UFCBaku",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gerrit%20Cole",
+          "url": "https://twitter.com/search?q=%23UFCBaku",
           "platform": "X/Twitter"
         },
         {
-          "title": "Seth",
+          "title": "Roman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Seth",
+          "url": "https://twitter.com/search?q=Roman",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Gunther",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Gunther",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "red sox",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon aiyuk",
+          "title": "anya taylor-joy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "herpes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soccer today",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rangers vs blue jays",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "viktor hovland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ricky saints",
+          "title": "gta 6 preorder sales",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colombia portugal",
-          "traffic": "1000",
+          "title": "panamá - inglaterra",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ausl",
+          "title": "croacia - ghana",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john carlson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ivan ivan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexander karmanov",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harry styles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bron breakker",
+          "title": "aroldis chapman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiffany stratton",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
