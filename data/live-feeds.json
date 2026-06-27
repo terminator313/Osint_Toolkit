@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T04:33:38.539500+00:00",
+  "updatedAt": "2026-06-27T07:48:00.396190+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Egypt",
+          "title": "ariana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Egypt",
+          "url": "https://twitter.com/search?q=ariana",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cossa",
+          "title": "Offside",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cossa",
+          "url": "https://twitter.com/search?q=Offside",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "gabby williams",
+          "title": "extreme heat watch",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden state valkyries",
-          "traffic": "500",
+          "title": "vanderpump rules",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coach",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taremi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fernando mendoza",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "de bruyne",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaxon cover",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "love island",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tierra love island",
+          "title": "wildfires utah",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mexico vs ecuador",
-          "traffic": "2000",
+          "title": "fanta vanilla cherry spritz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nicholas rossi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "okc weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "england vs panama",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "congo vs uzbekistan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa games tomorrow",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colombia vs portugal prediction",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
