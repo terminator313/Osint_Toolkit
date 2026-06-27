@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:06:19.707173+00:00",
+  "updatedAt": "2026-06-27T11:53:28.254803+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP2",
+          "title": "#NIKKEsummer2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP2",
+          "url": "https://twitter.com/search?q=%23NIKKEsummer2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "#BTSTICKETS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23BTSTICKETS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Deliverance",
+          "title": "Cape Verde",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Deliverance",
+          "url": "https://twitter.com/search?q=Cape%20Verde",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gabby Williams",
+          "title": "Amora",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gabby%20Williams",
+          "url": "https://twitter.com/search?q=Amora",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "giorgia meloni donald trump tension",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 no disc",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "temporary protected status",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "congressional black caucus",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lebron james trade",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "margot robbie",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "naomi osaka",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "中国尊",
+          "title": "f1 schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alaskaair",
+          "title": "bahrain",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "madison keys",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mass lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvel rivals",
+          "title": "wimbledon 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "waffle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "minnesota vikings",
           "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott eastwood",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "western states 100",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba news",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
