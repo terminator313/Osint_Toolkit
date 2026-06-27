@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T18:01:31.050177+00:00",
+  "updatedAt": "2026-06-27T19:51:54.308118+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCBaku",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCBaku",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#WWENOC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWENOC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LoveIslanUSA",
+          "title": "#UFCBaku",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LoveIslanUSA",
+          "url": "https://twitter.com/search?q=%23UFCBaku",
           "platform": "X/Twitter"
         },
         {
-          "title": "Eric Nolan",
+          "title": "#NightOfChampions",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Eric%20Nolan",
+          "url": "https://twitter.com/search?q=%23NightOfChampions",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "Gerrit Cole",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=Gerrit%20Cole",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Seth",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Seth",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mercury vs tempo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "independence day",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oba femi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ron harper jr",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pierce mbuyi",
+          "title": "red sox",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ina garten",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "granit xhaka",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prime video nascar cup announcers",
+          "title": "brandon aiyuk",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe iginla",
+          "title": "herpes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nelly korda",
-          "traffic": "2000",
+          "title": "soccer today",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rangers vs blue jays",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "viktor hovland",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ricky saints",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colombia portugal",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ausl",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bron breakker",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
