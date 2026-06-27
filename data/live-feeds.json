@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T07:48:00.396190+00:00",
+  "updatedAt": "2026-06-27T10:06:19.707173+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#วาดฝันวันวิวาห์EP2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP2",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SmackDown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "Deliverance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=Deliverance",
           "platform": "X/Twitter"
         },
         {
-          "title": "ariana",
+          "title": "Gabby Williams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ariana",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Offside",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Offside",
+          "url": "https://twitter.com/search?q=Gabby%20Williams",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "extreme heat watch",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vanderpump rules",
+          "title": "giorgia meloni donald trump tension",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wildfires utah",
-          "traffic": "2000",
+          "title": "gta 6 no disc",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fanta vanilla cherry spritz",
+          "title": "temporary protected status",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "congressional black caucus",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lebron james trade",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "margot robbie",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naomi osaka",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "中国尊",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nicholas rossi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "okc weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "england vs panama",
+          "title": "alaskaair",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "congo vs uzbekistan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa games tomorrow",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colombia vs portugal prediction",
-          "traffic": "200",
+          "title": "marvel rivals",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
