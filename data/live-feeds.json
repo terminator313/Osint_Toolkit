@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:37:34.046279+00:00",
+  "updatedAt": "2026-06-27T18:01:31.050177+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#WWENOC",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WWENOC",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LoveIslanUSA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LoveIslanUSA",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Eric Nolan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Eric%20Nolan",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Caturday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#เสน่หาวาโยตอนที่7",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%887",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "THE AIR BLEEDING LOVE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=THE%20AIR%20BLEEDING%20LOVE",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Almakhan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Almakhan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taxpayers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brek liske",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tomas galvas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michal oleksiejczuk",
+          "title": "mercury vs tempo",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon carlo",
+          "title": "independence day",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hector bello",
-          "traffic": "500",
+          "title": "oba femi",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "western",
+          "title": "ron harper jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big tigger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xavier villeneuve",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa world cup 2026 qualifiers table",
+          "title": "pierce mbuyi",
           "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ina garten",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "granit xhaka",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prime video nascar cup announcers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe iginla",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nelly korda",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
