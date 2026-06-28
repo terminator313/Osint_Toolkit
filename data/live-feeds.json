@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T00:00:28.207350+00:00",
+  "updatedAt": "2026-06-28T04:59:13.552296+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWENOC",
+          "title": "#boxing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENOC",
+          "url": "https://twitter.com/search?q=%23boxing",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tvlspoilers",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tvlspoilers",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PANENG",
+          "title": "#Justice2nd",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PANENG",
+          "url": "https://twitter.com/search?q=%23Justice2nd",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mainoo",
+          "title": "Happy Birthday Elon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mainoo",
+          "url": "https://twitter.com/search?q=Happy%20Birthday%20Elon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Baeza",
+          "title": "Ben Whittaker",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Baeza",
+          "url": "https://twitter.com/search?q=Ben%20Whittaker",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "marco rubio",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james rodriguez",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joao felix",
+          "title": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james rodríguez",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pedro neto",
+          "title": "antonela roccuzzo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cristiano ronaldo wife",
+          "title": "amanda bynes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saturday night live",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colombie – portugal",
+          "title": "lionel messi",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "south africa vs canada",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sparks vs fever",
+          "title": "golden boot race",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flooding kentucky",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "posiciones de selección de fútbol de croacia contra selección de fútbol de ghana",
+          "title": "messi net worth",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jimmy butler",
-          "traffic": "2000",
+          "title": "barco argentina",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
