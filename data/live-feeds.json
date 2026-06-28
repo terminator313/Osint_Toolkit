@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T15:48:18.210860+00:00",
+  "updatedAt": "2026-06-28T17:08:45.339731+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AustrianGP",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AustrianGP",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SeductiveSunday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SeductiveSunday",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#AustrianGP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AustrianGP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#EnemiesWithBenefitsEP9",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23EnemiesWithBenefitsEP9",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kimi",
+          "title": "Sunday Funday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kimi",
+          "url": "https://twitter.com/search?q=Sunday%20Funday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ben stokes",
-          "traffic": "500",
+          "title": "india vs australia",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ken paxton james talarico polls",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elbridge a colby",
+          "title": "seattle pride parade 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heat wave forecast",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "birthright citizenship in the united states",
+          "title": "홍명보",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill maher mark twain prize",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "larry page",
+          "title": "brazil vs japan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "larry david new show",
+          "title": "bahrain iran attack",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix show cancellations",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "essential american songbook",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shane lowry caddie change",
-          "traffic": "1000",
+          "title": "bet awards",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "melat kiros",
-          "traffic": "500",
+          "title": "coach",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "selección de fútbol de japón",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
