@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T21:37:18.534507+00:00",
+  "updatedAt": "2026-06-28T23:00:28.019178+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Azzi",
+          "title": "Kuhnel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Azzi",
+          "url": "https://twitter.com/search?q=Kuhnel",
           "platform": "X/Twitter"
         },
         {
-          "title": "Senga",
+          "title": "#BETAwards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Senga",
+          "url": "https://twitter.com/search?q=%23BETAwards",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs",
+          "title": "nicole felce",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris johnson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pga tour",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tpc river highlands",
+          "title": "liberty vs valkyries",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "banana ball",
-          "traffic": "5000",
+          "title": "mike dewine",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "serena williams tennis comeback",
+          "title": "shane van gisbergen",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "collin morikawa",
+          "title": "cyberpunk edgerunners season 2",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "betty white",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joel kuhnel",
-          "traffic": "500",
+          "title": "aew forbidden door 2026",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris sale",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "washington mystics",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill cassidy robert kennedy criticism",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netherlands vs morocco",
+          "title": "bill cassidy donald trump congress",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
