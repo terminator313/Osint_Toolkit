@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T08:26:23.807762+00:00",
+  "updatedAt": "2026-06-28T10:40:21.003296+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#TAEHYUNGxCELINE",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TAEHYUNGxCELINE",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PPxSTAKE",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PPxSTAKE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#boxing",
+          "title": "#ProvamedxWilliam",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23boxing",
+          "url": "https://twitter.com/search?q=%23ProvamedxWilliam",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWWanted",
+          "title": "Crawford",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWWanted",
+          "url": "https://twitter.com/search?q=Crawford",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "Fundora",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gamboa",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gamboa",
+          "url": "https://twitter.com/search?q=Fundora",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "david bromstad television future",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen brunson mariska hargitay broadway",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose alvarado knicks contract",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car accident lawyer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat wave",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alan ritchson motor city movie",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "selena gomez",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zim vs ban",
-          "traffic": "500",
+          "title": "bangladesh vs zimbabwe",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "from",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "buc ee's locations",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "from season 5",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "msi lol",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather tornado warning",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardi b",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vergil ortiz",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amanda bynes",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
