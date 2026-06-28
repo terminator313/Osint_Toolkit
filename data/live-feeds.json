@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T22:35:15.234221+00:00",
+  "updatedAt": "2026-06-28T00:00:28.207350+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NightOfChampions",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NightOfChampions",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#tvlspoilers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Roman",
+          "title": "#PANENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roman",
+          "url": "https://twitter.com/search?q=%23PANENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Flake",
+          "title": "Mainoo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Flake",
+          "url": "https://twitter.com/search?q=Mainoo",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Baeza",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Baeza",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "david beckham",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks vs rays",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cody gakpo",
+          "title": "marco rubio",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john terry",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom homan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fireworks",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump patriot passport design",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlotte weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jude bellingham",
+          "title": "james rodriguez",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jonathan isaac",
+          "title": "joao felix",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james rodríguez",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pedro neto",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cristiano ronaldo wife",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colombie – portugal",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sparks vs fever",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "posiciones de selección de fútbol de croacia contra selección de fútbol de ghana",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jimmy butler",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
