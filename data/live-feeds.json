@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T04:59:13.552296+00:00",
+  "updatedAt": "2026-06-28T08:26:23.807762+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#PPxSTAKE",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PPxSTAKE",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#boxing",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23boxing",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#GCWWanted",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23GCWWanted",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Justice2nd",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Justice2nd",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Birthday Elon",
+          "title": "Gamboa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Elon",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ben Whittaker",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ben%20Whittaker",
+          "url": "https://twitter.com/search?q=Gamboa",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
-          "traffic": "5000",
+          "title": "selena gomez",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "antonela roccuzzo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amanda bynes",
+          "title": "zim vs ban",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "saturday night live",
+          "title": "buc ee's locations",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "from season 5",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "msi lol",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather tornado warning",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardi b",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lionel messi",
-          "traffic": "100000",
+          "title": "posiciones de selección de fútbol de argelia contra selección de fútbol de austria",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "south africa vs canada",
+          "title": "vergil ortiz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amanda bynes",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "golden boot race",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flash flooding kentucky",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "messi net worth",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barco argentina",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
