@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:44:01.551967+00:00",
+  "updatedAt": "2026-06-28T20:11:46.415122+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SeductiveSunday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GreenWall",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GreenWall",
           "platform": "X/Twitter"
         },
         {
-          "title": "#EnemiesWithBenefitsEP9",
+          "title": "#TNASlammiversary",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EnemiesWithBenefitsEP9",
+          "url": "https://twitter.com/search?q=%23TNASlammiversary",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lupe",
+          "title": "#brickbybrick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lupe",
+          "url": "https://twitter.com/search?q=%23brickbybrick",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "Bregman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=Bregman",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Barcola",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Barcola",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mikal bridges",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert lewandowski",
+          "title": "pga leaderboard",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sudáfrica - canadá",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hornets roster",
+          "title": "ronwen williams",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "royals vs white sox",
-          "traffic": "5000",
+          "title": "matthew ashley foster-smith",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins vs cardinals",
-          "traffic": "2000",
+          "title": "jessica shepard",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miles bridges",
-          "traffic": "20000",
+          "title": "mbekezeli mbokazi",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooke henderson",
-          "traffic": "5000",
+          "title": "r&b tour setlist",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astros vs tigers",
+          "title": "richie laryea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fault",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reds vs pirates",
-          "traffic": "5000",
+          "title": "serena williams doping testing",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what channel is the nascar race on today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
