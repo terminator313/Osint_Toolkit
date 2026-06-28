@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T14:21:52.302692+00:00",
+  "updatedAt": "2026-06-28T15:48:18.210860+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TAEHYUNGxCELINE",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TAEHYUNGxCELINE",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "#JacksonWang",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=%23JacksonWang",
           "platform": "X/Twitter"
         },
         {
-          "title": "Department of Education",
+          "title": "#EnemiesWithBenefitsEP9",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Department%20of%20Education",
+          "url": "https://twitter.com/search?q=%23EnemiesWithBenefitsEP9",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ansem",
+          "title": "Kimi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ansem",
+          "url": "https://twitter.com/search?q=Kimi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
+          "title": "ben stokes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ken paxton james talarico polls",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elbridge a colby",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat wave forecast",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "birthright citizenship in the united states",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill maher mark twain prize",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "larry page",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "larry david new show",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa world cup 2026 bracket predictor",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "shane lowry caddie change",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "minneapolis weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dp world tour",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "melat kiros",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xrp ledger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cbs sunday morning",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noaa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "declaration of independence",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
