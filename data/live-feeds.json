@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T18:07:27.936052+00:00",
+  "updatedAt": "2026-06-29T20:23:26.718932+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#skel",
+          "title": "#BRAJPN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23skel",
+          "url": "https://twitter.com/search?q=%23BRAJPN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#yilongma",
+          "title": "#IKnewItIKnewYou",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23yilongma",
+          "url": "https://twitter.com/search?q=%23IKnewItIKnewYou",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Wimbledon",
+          "title": "#SAMURAIBLUE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wimbledon",
+          "url": "https://twitter.com/search?q=%23SAMURAIBLUE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Rashmer",
+          "title": "Marcus Fakatou",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Rashmer",
+          "url": "https://twitter.com/search?q=Marcus%20Fakatou",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "#MCMQuiereEstallidoSocial",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
+          "url": "https://twitter.com/search?q=%23MCMQuiereEstallidoSocial",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rui hachimura",
+          "title": "brandon nakashima",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs fire country show updates",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox sports world cup",
+          "title": "miami",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lotería real",
+          "title": "fifa schedule",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "copa do mundo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "takehiro tomiyasu",
+          "title": "north carolina jail",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paqueta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marquinhos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thylane blondeau",
+          "title": "calendario mundial 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ronaldinho",
-          "traffic": "2000",
+          "title": "usa vs bosnia and herzegovina",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox",
-          "traffic": "2000",
+          "title": "next world cup game",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fubo",
-          "traffic": "2000",
+          "title": "alemania - paraguay",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
