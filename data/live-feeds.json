@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T11:57:30.661607+00:00",
+  "updatedAt": "2026-06-29T15:54:07.253965+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#yilongma",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23yilongma",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BETAwards",
+          "title": "#Wimbledon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BETAwards",
+          "url": "https://twitter.com/search?q=%23Wimbledon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#V8_Album_OutNow",
+          "title": "Kavanaugh",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23V8_Album_OutNow",
+          "url": "https://twitter.com/search?q=Kavanaugh",
           "platform": "X/Twitter"
         },
         {
-          "title": "#V8_시동걸자",
+          "title": "Sinner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23V8_%EC%8B%9C%EB%8F%99%EA%B1%B8%EC%9E%90",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ForbiddenDoor",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ForbiddenDoor",
+          "url": "https://twitter.com/search?q=Sinner",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rafael jodar",
-          "traffic": "200",
+          "title": "bella hadid",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "learner tien",
-          "traffic": "200",
+          "title": "naomi osaka",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marly kinney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rick scott donald trump meeting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serena williams",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "southwest airlines st. louis cuts",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "natalie harp",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrey rublev",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "south korea president demands investigation into early world cup exit",
+          "title": "mail-in ballots supreme court",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "belinda bencic",
-          "traffic": "200",
+          "title": "arizona proof of citizenship voting",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ken paxton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sandro mamukelashvili",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor fritz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael zheng",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kecmanovic",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "when does nba free agency start",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
