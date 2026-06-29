@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T21:50:50.302763+00:00",
+  "updatedAt": "2026-06-29T22:54:48.450078+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BRAJPN",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRAJPN",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "#IKnewItIKnewYou",
+          "title": "#GERPAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IKnewItIKnewYou",
+          "url": "https://twitter.com/search?q=%23GERPAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SAMURAIBLUE",
+          "title": "#RipCity",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SAMURAIBLUE",
+          "url": "https://twitter.com/search?q=%23RipCity",
           "platform": "X/Twitter"
         },
         {
-          "title": "Marcus Fakatou",
+          "title": "Vini",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marcus%20Fakatou",
+          "url": "https://twitter.com/search?q=Vini",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MCMQuiereEstallidoSocial",
+          "title": "Jean Carroll",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MCMQuiereEstallidoSocial",
+          "url": "https://twitter.com/search?q=Jean%20Carroll",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nc jail inmate takeover",
-          "traffic": "1000",
+          "title": "world cup extra time rules",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alemanha x paraguai",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonathan kuminga",
+          "title": "woltemade",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "monaco",
+          "title": "jalen duren",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "waldemar anton",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "landry shamet",
+          "title": "nationals vs red sox",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick woltemade",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rangers vs guardians",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers vs yankees",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jrue holiday",
+          "title": "mets vs blue jays",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deni avdija",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jetblue jfk airport drone collision",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boston weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "antonio rüdiger",
+          "title": "manuel neuer",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
