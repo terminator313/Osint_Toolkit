@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T06:45:17.053563+00:00",
+  "updatedAt": "2026-06-29T11:57:30.661607+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MondayMotivation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BETAwards",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BETAwards",
           "platform": "X/Twitter"
         },
         {
+          "title": "#V8_Album_OutNow",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23V8_Album_OutNow",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#V8_시동걸자",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23V8_%EC%8B%9C%EB%8F%99%EA%B1%B8%EC%9E%90",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ForbiddenDoor",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ForbiddenDoor",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#HOTD",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ospreay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ospreay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#HouseOfTheDragon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "msi 2026",
+          "title": "rafael jodar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big bear eaglets sandy",
-          "traffic": "20000",
+          "title": "learner tien",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rj jett",
-          "traffic": "1000",
+          "title": "marly kinney",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "40 degrees celsius",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the patriot",
+          "title": "rick scott donald trump meeting",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "common",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "queen latifah",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lizzo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anthony davis",
+          "title": "serena williams",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasa swift telescope rescue mission",
+          "title": "southwest airlines st. louis cuts",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natalie harp",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrey rublev",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "south korea president demands investigation into early world cup exit",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "belinda bencic",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
