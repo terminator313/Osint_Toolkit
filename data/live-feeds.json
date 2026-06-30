@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T20:28:39.468331+00:00",
+  "updatedAt": "2026-06-30T21:58:15.361754+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Wimbledon",
+          "title": "#AriZonaGolfWang",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wimbledon",
+          "url": "https://twitter.com/search?q=%23AriZonaGolfWang",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LakeShow",
+          "title": "#Wimbledon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LakeShow",
+          "url": "https://twitter.com/search?q=%23Wimbledon",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Arkane",
+          "title": "Pelinka",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arkane",
+          "url": "https://twitter.com/search?q=Pelinka",
           "platform": "X/Twitter"
         },
         {
-          "title": "Oscar Bobb",
+          "title": "Karamo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Oscar%20Bobb",
+          "url": "https://twitter.com/search?q=Karamo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "francia - suecia",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark harmon ncis: origins return",
+          "title": "lucas bergvall",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "france – suède",
+          "title": "jacob widell zetterström",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "real madrid",
-          "traffic": "100",
+          "title": "michael olise",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what time is mexico game today",
+          "title": "metlife stadium",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disney settlement",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rabiot",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nike stock",
+          "title": "mbappe girlfriend",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "didier deschamps",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael byrne harry potter",
-          "traffic": "100",
+          "title": "valiant shield torpedo strike lpd-10",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "electric forest 2026 baby",
+          "title": "viktor gyökeres",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lizzo 2026 bet awards appearance",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dave portnoy",
-          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
