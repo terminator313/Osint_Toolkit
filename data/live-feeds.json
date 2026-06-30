@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T00:02:39.637048+00:00",
+  "updatedAt": "2026-06-30T04:43:41.084237+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#NEDMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23NEDMAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GERPAR",
+          "title": "#STAKE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GERPAR",
+          "url": "https://twitter.com/search?q=%23STAKE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GERvsPAR",
+          "title": "#NEDvsMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GERvsPAR",
+          "url": "https://twitter.com/search?q=%23NEDvsMAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jonathan Tah",
+          "title": "Parmida",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jonathan%20Tah",
+          "url": "https://twitter.com/search?q=Parmida",
           "platform": "X/Twitter"
         },
         {
-          "title": "HIAC",
+          "title": "Timber",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=HIAC",
+          "url": "https://twitter.com/search?q=Timber",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fifa rankings",
-          "traffic": "10000",
+          "title": "norway vs ivory coast",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup bracket 2026",
+          "title": "walton goggins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shohei ohtani",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs standings",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup games tomorrow",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kimmich",
+          "title": "morocco vs canada",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "twins vs astros",
+          "title": "fifa games tomorrow",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "northern lights forecast",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup winners",
-          "traffic": "2000",
+          "title": "mariners game today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "germany goalie",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "neuer",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres vs cubs",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pima county sheriff's department",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon marsh",
-          "traffic": "1000",
+          "title": "where is the next world cup 2030",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
