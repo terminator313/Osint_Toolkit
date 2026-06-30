@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T04:43:41.084237+00:00",
+  "updatedAt": "2026-06-30T08:28:33.747033+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NEDMAR",
+          "title": "#NoEraPenal",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEDMAR",
+          "url": "https://twitter.com/search?q=%23NoEraPenal",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NEDvsMAR",
+          "title": "#NEDMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEDvsMAR",
+          "url": "https://twitter.com/search?q=%23NEDMAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Parmida",
+          "title": "Moroccan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Parmida",
+          "url": "https://twitter.com/search?q=Moroccan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Timber",
+          "title": "Gakpo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Timber",
+          "url": "https://twitter.com/search?q=Gakpo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "norway vs ivory coast",
+          "title": "hotel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bank",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "banking",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haitians",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "water damage near me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kirk franklin philadelphia",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sandro mamukelashvili",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,43 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shohei ohtani",
+          "title": "ivory coast vs norway",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs standings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup games tomorrow",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "morocco vs canada",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa games tomorrow",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "northern lights forecast",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners game today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "where is the next world cup 2030",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
