@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:54:48.450078+00:00",
+  "updatedAt": "2026-06-30T00:02:39.637048+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RipCity",
+          "title": "#GERvsPAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RipCity",
+          "url": "https://twitter.com/search?q=%23GERvsPAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vini",
+          "title": "Jonathan Tah",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vini",
+          "url": "https://twitter.com/search?q=Jonathan%20Tah",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jean Carroll",
+          "title": "HIAC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jean%20Carroll",
+          "url": "https://twitter.com/search?q=HIAC",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup extra time rules",
+          "title": "fifa rankings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup bracket 2026",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "woltemade",
+          "title": "kimmich",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jalen duren",
+          "title": "twins vs astros",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "waldemar anton",
+          "title": "world cup winners",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "germany goalie",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nationals vs red sox",
-          "traffic": "2000",
+          "title": "neuer",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick woltemade",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rangers vs guardians",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers vs yankees",
+          "title": "padres vs cubs",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets vs blue jays",
+          "title": "pima county sheriff's department",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "manuel neuer",
-          "traffic": "2000",
+          "title": "brandon marsh",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
