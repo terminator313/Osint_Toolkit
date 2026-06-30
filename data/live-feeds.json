@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:18:28.704435+00:00",
+  "updatedAt": "2026-06-30T20:28:39.468331+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Wimbledon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Wimbledon",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#LakeShow",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LakeShow",
           "platform": "X/Twitter"
         },
         {
-          "title": "#gachiakuta170",
+          "title": "#CIVNOR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta170",
+          "url": "https://twitter.com/search?q=%23CIVNOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ONEPIECE1187",
+          "title": "Arkane",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ONEPIECE1187",
+          "url": "https://twitter.com/search?q=Arkane",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tom Kean",
+          "title": "Oscar Bobb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tom%20Kean",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Pregnancy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pregnancy",
+          "url": "https://twitter.com/search?q=Oscar%20Bobb",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "odegaard",
-          "traffic": "100",
+          "title": "francia - suecia",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "strait of hormuz news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nicolas pepe",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stan wawrinka",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "braut haaland",
+          "title": "mark harmon ncis: origins return",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "youtubetv",
-          "traffic": "200",
+          "title": "france – suède",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxsports",
+          "title": "real madrid",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cox",
+          "title": "what time is mexico game today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nike stock",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael byrne harry potter",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nusa norway",
-          "traffic": "2000",
+          "title": "electric forest 2026 baby",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nicolas pépé",
-          "traffic": "200",
+          "title": "lizzo 2026 bet awards appearance",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave portnoy",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
