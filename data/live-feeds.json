@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T01:39:17.658194+00:00",
+  "updatedAt": "2026-07-01T06:25:04.563772+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MEXECU",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MEXECU",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BRINGBACKVALKO",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BRINGBACKVALKO",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#loveiandusa",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23loveiandusa",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AriZonaGolfWang",
+          "title": "Dave Roberts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AriZonaGolfWang",
+          "url": "https://twitter.com/search?q=Dave%20Roberts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWENXT",
+          "title": "Fable 5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ecuador",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ecuador",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Constitution",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Constitution",
+          "url": "https://twitter.com/search?q=Fable%205",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lou trivino",
+          "title": "what is july 1st",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico jersey 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rio ferdinand",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trea turner",
+          "title": "bovada",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colorado election results",
-          "traffic": "10000",
+          "title": "wyatt mills",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason statham",
-          "traffic": "2000",
+          "title": "colombia vs ghana",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gilberto mora",
-          "traffic": "2000",
+          "title": "how many more games in the world cup",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "keon ellis",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raúl rangel",
+          "title": "world cup standings today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "estadio banorte",
-          "traffic": "500",
+          "title": "partidos del mundial 2026",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usa coach soccer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connelly early",
-          "traffic": "1000",
+          "title": "belgium vs senegal",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
