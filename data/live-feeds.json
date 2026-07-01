@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:04:41.508553+00:00",
+  "updatedAt": "2026-07-01T18:24:21.764708+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CanadaDay",
+          "title": "#CFB27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CanadaDay",
+          "url": "https://twitter.com/search?q=%23CFB27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NattyStatesOfAmerica",
+          "title": "#ENGCOD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NattyStatesOfAmerica",
+          "url": "https://twitter.com/search?q=%23ENGCOD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyGiveaways",
+          "title": "#ENGDRC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyGiveaways",
+          "url": "https://twitter.com/search?q=%23ENGDRC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Village People",
+          "title": "Bobby Bonilla",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Village%20People",
+          "url": "https://twitter.com/search?q=Bobby%20Bonilla",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFold7",
+          "title": "Cole Palmer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFold7",
+          "url": "https://twitter.com/search?q=Cole%20Palmer",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "united states senate",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitchell robinson",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eng vs ind",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nikola vucevic",
+          "title": "rebecca lowe",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "inglaterra - rd congo",
-          "traffic": "20000",
+          "title": "england mexico",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "refinance rates",
-          "traffic": "20000",
+          "title": "john o. brennan",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick robertson",
-          "traffic": "1000",
+          "title": "mexico vs england prediction",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mortgage rates",
+          "title": "connor clifton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "detención",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "judge",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ps plus july 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sergei bobrovsky",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike conley",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "moe wagner",
-          "traffic": "1000",
+          "title": "devon levi",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
