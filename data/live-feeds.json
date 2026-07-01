@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:18:17.287955+00:00",
+  "updatedAt": "2026-07-01T01:39:17.658194+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#loveiandusa",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23loveiandusa",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AriZonaGolfWang",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AriZonaGolfWang",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FRASWE",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRASWE",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRINGBACKVALKO",
+          "title": "Ecuador",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRINGBACKVALKO",
+          "url": "https://twitter.com/search?q=Ecuador",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kavanaugh",
+          "title": "Constitution",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kavanaugh",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Nicene Creed",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nicene%20Creed",
+          "url": "https://twitter.com/search?q=Constitution",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rays vs royals",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usa vs bosnia",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ruby rose",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "désiré doué",
+          "title": "lou trivino",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states midterm election",
+          "title": "trea turner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chad michael murray",
+          "title": "colorado election results",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jason statham",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilberto mora",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "keon ellis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raúl rangel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "estadio banorte",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goleadores del mundial",
-          "traffic": "1000",
+          "title": "usa coach soccer",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rayan cherki",
+          "title": "connelly early",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alligator attack florida",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france vs paraguay",
-          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
