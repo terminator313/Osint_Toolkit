@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:23:12.236996+00:00",
+  "updatedAt": "2026-07-01T21:59:26.256469+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGCOD",
+          "title": "#4MILLION",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGCOD",
+          "url": "https://twitter.com/search?q=%234MILLION",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGDRC",
+          "title": "#WorldCupFIFA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGDRC",
+          "url": "https://twitter.com/search?q=%23WorldCupFIFA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Canada",
+          "title": "Panama Canal",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Canada",
+          "url": "https://twitter.com/search?q=Panama%20Canal",
           "platform": "X/Twitter"
         },
         {
-          "title": "North Dakota",
+          "title": "Drury",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=North%20Dakota",
+          "url": "https://twitter.com/search?q=Drury",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "darnell nurse",
+          "title": "victor oladipo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs standings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "judge sullivan usps ballot ruling",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael conforto",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thibaut courtois",
+          "title": "doku",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boone jenner",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick paul",
+          "title": "ford electrician fired",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shakir mukhamadullin",
+          "title": "cubs",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael weatherly ncis return",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan shea",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chad michael murray",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mh 60s water landing arabian sea",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daniil tarasov",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blaise taylor",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "unknown worlds krafton bonus dispute",
-          "traffic": "200",
+          "title": "sean durzi",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
