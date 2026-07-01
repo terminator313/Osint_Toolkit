@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:18:30.867176+00:00",
+  "updatedAt": "2026-07-01T16:04:41.508553+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#XMen97",
+          "title": "#NattyStatesOfAmerica",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23XMen97",
+          "url": "https://twitter.com/search?q=%23NattyStatesOfAmerica",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "#GalaxyGiveaways",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=%23GalaxyGiveaways",
           "platform": "X/Twitter"
         },
         {
-          "title": "Calais",
+          "title": "Village People",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Calais",
+          "url": "https://twitter.com/search?q=Village%20People",
           "platform": "X/Twitter"
         },
         {
-          "title": "Will Wheaton",
+          "title": "#GalaxyZFold7",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Wheaton",
+          "url": "https://twitter.com/search?q=%23GalaxyZFold7",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tobias harris",
+          "title": "united states senate",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "meta stock",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nuno borges",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "victor marx",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kessler tennis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flavio cobolli",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "happy canada day",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john collins",
+          "title": "mitchell robinson",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aryna sabalenka",
+          "title": "eng vs ind",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nikola vucevic",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inglaterra - rd congo",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "refinance rates",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick robertson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage rates",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david streever ice warning email",
-          "traffic": "10000",
+          "title": "mike conley",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "moe wagner",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
