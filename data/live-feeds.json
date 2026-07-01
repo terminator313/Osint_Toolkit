@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T06:25:04.563772+00:00",
+  "updatedAt": "2026-07-01T10:29:22.050796+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MEXECU",
+          "title": "#XMen97",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MEXECU",
+          "url": "https://twitter.com/search?q=%23XMen97",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRINGBACKVALKO",
+          "title": "#BRINGVALKOBACK",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRINGBACKVALKO",
+          "url": "https://twitter.com/search?q=%23BRINGVALKOBACK",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveiandusa",
+          "title": "#artfight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveiandusa",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Dave Roberts",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dave%20Roberts",
+          "url": "https://twitter.com/search?q=%23artfight",
           "platform": "X/Twitter"
         },
         {
           "title": "Fable 5",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Fable%205",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Diana DeGette",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Diana%20DeGette",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "what is july 1st",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico jersey 2026",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rio ferdinand",
+          "title": "cuba",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bovada",
+          "title": "france heat wave temperatures",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wyatt mills",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colombia vs ghana",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how many more games in the world cup",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup standings today",
+          "title": "alycia parks",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "partidos del mundial 2026",
-          "traffic": "2000",
+          "title": "strands hint today",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "belgium vs senegal",
-          "traffic": "2000",
+          "title": "vinton county ohio",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "long island",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "myong joun student loan ruling",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nina totenberg npr alito error",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sam's club americana sundae",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "microsoft layoffs xbox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
