@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:29:22.050796+00:00",
+  "updatedAt": "2026-07-01T13:18:30.867176+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#CanadaDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CanadaDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#XMen97",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23XMen97",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRINGVALKOBACK",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRINGVALKOBACK",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#artfight",
+          "title": "Calais",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23artfight",
+          "url": "https://twitter.com/search?q=Calais",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fable 5",
+          "title": "Will Wheaton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fable%205",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Diana DeGette",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Diana%20DeGette",
+          "url": "https://twitter.com/search?q=Will%20Wheaton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cuba",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france heat wave temperatures",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alycia parks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strands hint today",
+          "title": "tobias harris",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vinton county ohio",
-          "traffic": "100",
+          "title": "meta stock",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "long island",
+          "title": "nuno borges",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "myong joun student loan ruling",
-          "traffic": "1000",
+          "title": "victor marx",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nina totenberg npr alito error",
-          "traffic": "20000",
+          "title": "kessler tennis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sam's club americana sundae",
-          "traffic": "100",
+          "title": "flavio cobolli",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "microsoft layoffs xbox",
+          "title": "happy canada day",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john collins",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aryna sabalenka",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david streever ice warning email",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
