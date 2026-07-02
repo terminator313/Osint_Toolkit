@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T18:12:51.513175+00:00",
+  "updatedAt": "2026-07-02T20:01:06.213805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ALLCAPS",
+          "title": "#Spain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ALLCAPS",
+          "url": "https://twitter.com/search?q=%23Spain",
           "platform": "X/Twitter"
         },
         {
-          "title": "#America250",
+          "title": "#TrumpRepublicanCorruption",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23America250",
+          "url": "https://twitter.com/search?q=%23TrumpRepublicanCorruption",
           "platform": "X/Twitter"
         },
         {
-          "title": "James Armstrong",
+          "title": "Pirro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=James%20Armstrong",
+          "url": "https://twitter.com/search?q=Pirro",
           "platform": "X/Twitter"
         },
         {
-          "title": "Stand Your Ground",
+          "title": "Norway",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stand%20Your%20Ground",
+          "url": "https://twitter.com/search?q=Norway",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "james o'halloran",
-          "traffic": "500",
+          "title": "españa vs",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jasmine paolini",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mamdani 78 degrees",
+          "title": "lamine yamal",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wnba all-star voting results",
+          "title": "penelope cruz",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael gregoritsch",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kash patel fbi election probe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "laroyce hawkins chicago pd exit",
-          "traffic": "1000",
+          "title": "dow",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national mall",
-          "traffic": "50000",
+          "title": "david hearn",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "preschool",
+          "title": "tesla",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "retirement planning",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brais mendez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "childcare",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "a qué hora juega españa",
+          "title": "marlins vs rockies",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
