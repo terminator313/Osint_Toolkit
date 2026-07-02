@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T11:52:13.754484+00:00",
+  "updatedAt": "2026-07-02T13:55:33.702464+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BringValkoBack",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BringValkoBack",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#artfight",
+          "title": "#NIKKESummerSnapshot",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23artfight",
+          "url": "https://twitter.com/search?q=%23NIKKESummerSnapshot",
           "platform": "X/Twitter"
         },
         {
-          "title": "#恋与深空",
+          "title": "#ThursdayThoughts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hyunjin",
+          "title": "UCMJ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hyunjin",
+          "url": "https://twitter.com/search?q=UCMJ",
           "platform": "X/Twitter"
         },
         {
-          "title": "Clara",
+          "title": "Leavenworth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clara",
+          "url": "https://twitter.com/search?q=Leavenworth",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hamden ohio",
-          "traffic": "500",
+          "title": "brandon nakashima",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tour de france 2026",
+          "title": "iga świątek",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kansas city chiefs",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dish wireless chapter 11",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "malta kissing elephants arch collapse",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "truck accident attorney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oksana selekhmeteva",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diana shnaider",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex de minaur",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cyclospora",
+          "title": "alexandra eala",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyra caterina grant",
-          "traffic": "200",
+          "title": "katie swan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "madison keys",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iga swiatek",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dan dan noodles tom tom",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dutton ranch season ending",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather chicago",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
