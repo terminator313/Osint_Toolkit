@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:55:33.702464+00:00",
+  "updatedAt": "2026-07-02T16:04:43.543436+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#KeepValkoAlive",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23KeepValkoAlive",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ThursdayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIKKESummerSnapshot",
+          "title": "#VenezuelaPorLaVida",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIKKESummerSnapshot",
+          "url": "https://twitter.com/search?q=%23VenezuelaPorLaVida",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayThoughts",
+          "title": "North Sea",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
+          "url": "https://twitter.com/search?q=North%20Sea",
           "platform": "X/Twitter"
         },
         {
-          "title": "UCMJ",
+          "title": "Fourth of July",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=UCMJ",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Leavenworth",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Leavenworth",
+          "url": "https://twitter.com/search?q=Fourth%20of%20July",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brandon nakashima",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iga świątek",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kansas city chiefs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexandra eala",
+          "title": "olli maatta",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katie swan",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madison keys",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iga swiatek",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dan dan noodles tom tom",
+          "title": "lexie hull",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dutton ranch season ending",
+          "title": "stephen a smith jaylen brown",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather chicago",
-          "traffic": "500",
+          "title": "tsa",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brad dalke",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fireworks near me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple stock price",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "price of gold",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oracle stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states immigration and customs enforcement",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
