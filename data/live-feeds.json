@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T16:04:43.543436+00:00",
+  "updatedAt": "2026-07-02T18:12:51.513175+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#ALLCAPS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23ALLCAPS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VenezuelaPorLaVida",
+          "title": "#America250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VenezuelaPorLaVida",
+          "url": "https://twitter.com/search?q=%23America250",
           "platform": "X/Twitter"
         },
         {
-          "title": "North Sea",
+          "title": "James Armstrong",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=North%20Sea",
+          "url": "https://twitter.com/search?q=James%20Armstrong",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fourth of July",
+          "title": "Stand Your Ground",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fourth%20of%20July",
+          "url": "https://twitter.com/search?q=Stand%20Your%20Ground",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "olli maatta",
+          "title": "james o'halloran",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jasmine paolini",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mamdani 78 degrees",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lexie hull",
+          "title": "wnba all-star voting results",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stephen a smith jaylen brown",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tsa",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brad dalke",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fireworks near me",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple stock price",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "price of gold",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oracle stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states immigration and customs enforcement",
+          "title": "laroyce hawkins chicago pd exit",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "national mall",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "preschool",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brais mendez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "childcare",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "a qué hora juega españa",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
