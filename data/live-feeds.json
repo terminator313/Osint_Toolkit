@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:01:06.213805+00:00",
+  "updatedAt": "2026-07-02T21:43:23.743325+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#KeepValkoAlive",
+          "title": "#ESPAUT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KeepValkoAlive",
+          "url": "https://twitter.com/search?q=%23ESPAUT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Spain",
+          "title": "#KeepValkoAlive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Spain",
+          "url": "https://twitter.com/search?q=%23KeepValkoAlive",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Pirro",
+          "title": "Fourth of July",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pirro",
+          "url": "https://twitter.com/search?q=Fourth%20of%20July",
           "platform": "X/Twitter"
         },
         {
-          "title": "Norway",
+          "title": "Alaba",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Norway",
+          "url": "https://twitter.com/search?q=Alaba",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "españa vs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lamine yamal",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "penelope cruz",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael gregoritsch",
+          "title": "england vs south africa",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kash patel fbi election probe",
-          "traffic": "500",
+          "title": "mohammad bagher ghalibaf",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dow",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david hearn",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tesla",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "retirement planning",
+          "title": "lamine yamal girlfriend",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins vs rockies",
-          "traffic": "10000",
+          "title": "kyle anderson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pedri",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "melania trump amazon documentary earnings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "court",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fireworks",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ro khanna",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joanna gaines attic tour",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
