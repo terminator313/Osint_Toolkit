@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T05:57:47.796162+00:00",
+  "updatedAt": "2026-07-02T09:21:11.210178+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#BringValkoBack",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23BringValkoBack",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCup",
+          "title": "#artfight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCup",
+          "url": "https://twitter.com/search?q=%23artfight",
           "platform": "X/Twitter"
         },
         {
-          "title": "Philly",
+          "title": "Pulisic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Philly",
+          "url": "https://twitter.com/search?q=Pulisic",
           "platform": "X/Twitter"
         },
         {
@@ -56,8 +56,23 @@
       "status": "ok",
       "items": [
         {
-          "title": "jonathan kuminga",
+          "title": "atlas v rocket launch",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "houston rockets",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rosalia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonathan kuminga",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -76,33 +91,18 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rocket launch today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "marvin bagley",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "tom hanks",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "diamondbacks",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa kudrow",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers score",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
