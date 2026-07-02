@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:43:23.743325+00:00",
+  "updatedAt": "2026-07-02T23:04:00.579378+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Fourth of July",
+          "title": "#AX2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fourth%20of%20July",
+          "url": "https://twitter.com/search?q=%23AX2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alaba",
+          "title": "Rodri",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alaba",
+          "url": "https://twitter.com/search?q=Rodri",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "england vs south africa",
-          "traffic": "100",
+          "title": "taylor swift net worth",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mohammad bagher ghalibaf",
-          "traffic": "100",
+          "title": "portugal x croácia",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lamine yamal girlfriend",
+          "title": "portugal – croatie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyus jones",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "princess kate three peaks challenge",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rafael leão",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pedro neto",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diogo jota",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle anderson",
-          "traffic": "500",
+          "title": "diogo jota death",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pedri",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "melania trump amazon documentary earnings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "court",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fireworks",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ro khanna",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joanna gaines attic tour",
-          "traffic": "500",
+          "title": "portugal - croacia",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
