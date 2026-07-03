@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T11:30:37.684199+00:00",
+  "updatedAt": "2026-07-03T13:59:07.350163+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,21 +20,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "#FridayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AllStars11",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AllStars11",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaisingKanan",
+          "title": "#DragRace",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaisingKanan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#RaoBahadur",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaoBahadur",
+          "url": "https://twitter.com/search?q=%23DragRace",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Roki",
+          "title": "America 250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roki",
+          "url": "https://twitter.com/search?q=America%20250",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "landman",
-          "traffic": "200",
+          "title": "nuclear program of iran",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big bear lake bald eagles",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup 2026",
-          "traffic": "1000000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mt rushmore",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tour de france 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brad dalke",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "погода",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "claire liu",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alerta por calor extremo",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "openai",
+          "title": "terry crews",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica pegula",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david muir",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wi vs sl",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "people",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "novak djokovic",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "motor1",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince william",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ilona maher",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
