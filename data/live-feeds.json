@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T13:59:07.350163+00:00",
+  "updatedAt": "2026-07-03T15:56:04.744712+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FridayVibes",
+          "title": "#วาดฝันวันวิวาห์EP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP3",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AllStars11",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AllStars11",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DragRace",
+          "title": "#VenezuelaEsEsperanza",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DragRace",
+          "url": "https://twitter.com/search?q=%23VenezuelaEsEsperanza",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jack Smith",
+          "title": "#LetterboxdFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jack%20Smith",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "America 250",
+          "title": "Taylor Swift",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=America%20250",
+          "url": "https://twitter.com/search?q=Taylor%20Swift",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nuclear program of iran",
+          "title": "rayan rupert",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "terry crews",
+          "title": "jon pardi",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "4th of july fireworks near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sri lanka vs west indies",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jessica pegula",
+          "title": "rich eisen",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david muir",
+          "title": "tommy paul",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wi vs sl",
+          "title": "rich paul",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "people",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "novak djokovic",
+          "title": "tennis",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "motor1",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince william",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ilona maher",
+          "title": "denny hamlin",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bmw international open 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
