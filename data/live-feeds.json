@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T17:26:15.945717+00:00",
+  "updatedAt": "2026-07-03T18:46:24.399026+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#วาดฝันวันวิวาห์EP3",
+          "title": "#Egypt",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP3",
+          "url": "https://twitter.com/search?q=%23Egypt",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LastFourWatched",
+          "title": "#วาดฝันวันวิวาห์EP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP3",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetterboxdFriday",
+          "title": "Vando",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "url": "https://twitter.com/search?q=Vando",
           "platform": "X/Twitter"
         },
         {
-          "title": "RED Friday",
+          "title": "Heat 2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RED%20Friday",
+          "url": "https://twitter.com/search?q=Heat%202",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "deandre ayton",
+          "title": "severe thunderstorm warning",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico vs inglaterra",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "australia - egipto",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ange postecoglou",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles q. brown jr.",
+          "title": "fairlane mall",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the odyssey",
+          "title": "judge kenney philadelphia ice lawsuit",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mananchaya sawangkaew",
-          "traffic": "500",
+          "title": "mohamed salah",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sabalenka",
+          "title": "omar marmoush",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pardon",
+          "title": "pitt jolie miraval lawsuit",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hegseth",
+          "title": "pamela anderson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pool",
-          "traffic": "20000",
+          "title": "ice detention",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nestory irankunda",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
