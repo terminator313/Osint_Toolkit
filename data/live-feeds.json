@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T20:13:02.950204+00:00",
+  "updatedAt": "2026-07-03T21:39:38.370876+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Egypt",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Egypt",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#250YearsOfFreedom",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23250YearsOfFreedom",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AUSEGY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AUSEGY",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Uganda",
+          "title": "Danny Briere",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Uganda",
+          "url": "https://twitter.com/search?q=Danny%20Briere",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dearborn",
+          "title": "#BudSummerOf250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dearborn",
+          "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "preschool",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "childcare",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noah kahan pittsburgh",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño forecast",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haissem hassan",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "auger aliassime",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nascar dale earnhardt jr",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "claude giroux",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals vs cubs",
+          "title": "argentina - cabo verde",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leo carlsson",
+          "title": "miami weather",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon pardi marriage split",
           "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gigi hadid",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt ryan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "awer mabil",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump pardons",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "neil gorsuch",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how far has egypt gone in the world cup",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah dugan",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
