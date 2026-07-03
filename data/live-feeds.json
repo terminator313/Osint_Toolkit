@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T01:09:30.466694+00:00",
+  "updatedAt": "2026-07-03T05:13:27.296716+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PORCRO",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PORCRO",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AEWCollision",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PORvsCRO",
+          "title": "#PORCRO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PORvsCRO",
+          "url": "https://twitter.com/search?q=%23PORCRO",
           "platform": "X/Twitter"
         },
         {
-          "title": "Austria",
+          "title": "#HSRSpecialProgram",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Austria",
+          "url": "https://twitter.com/search?q=%23HSRSpecialProgram",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cooper Ingle",
+          "title": "Flo Rida",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cooper%20Ingle",
+          "url": "https://twitter.com/search?q=Flo%20Rida",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Perisic",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Perisic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "georgina rodríguez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gonçalo ramos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karoline leavitt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ronaldo team",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "micron technology",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "enola holmes cast",
+          "title": "madonna",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elle cast",
+          "title": "paul gervase",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "la dodgers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump park signage lawsuit",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy edman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norovirus",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "offsides in soccer",
-          "traffic": "2000",
+          "title": "dakota johnson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "messi age",
+          "title": "fourth of july baseball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cuatro de julio",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ronaldo net worth",
-          "traffic": "2000",
+          "title": "sarah pidgeon",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
