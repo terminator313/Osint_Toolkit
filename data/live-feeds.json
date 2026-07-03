@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T18:46:24.399026+00:00",
+  "updatedAt": "2026-07-03T20:13:02.950204+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP3",
+          "title": "#250YearsOfFreedom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP3",
+          "url": "https://twitter.com/search?q=%23250YearsOfFreedom",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChi",
+          "title": "#NicVansxRampage",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
+          "url": "https://twitter.com/search?q=%23NicVansxRampage",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vando",
+          "title": "Uganda",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vando",
+          "url": "https://twitter.com/search?q=Uganda",
           "platform": "X/Twitter"
         },
         {
-          "title": "Heat 2",
+          "title": "Dearborn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Heat%202",
+          "url": "https://twitter.com/search?q=Dearborn",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "severe thunderstorm warning",
+          "title": "preschool",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "childcare",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah kahan pittsburgh",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el niño forecast",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haissem hassan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "auger aliassime",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nascar dale earnhardt jr",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "claude giroux",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardinals vs cubs",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leo carlsson",
           "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico vs inglaterra",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fairlane mall",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "judge kenney philadelphia ice lawsuit",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mohamed salah",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "omar marmoush",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pitt jolie miraval lawsuit",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pamela anderson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ice detention",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nestory irankunda",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
