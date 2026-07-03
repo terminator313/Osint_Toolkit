@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T05:13:27.296716+00:00",
+  "updatedAt": "2026-07-03T08:34:07.261616+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWCollision",
+          "title": "#RaisingKanan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23RaisingKanan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PORCRO",
+          "title": "#Dodgers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PORCRO",
+          "url": "https://twitter.com/search?q=%23Dodgers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HSRSpecialProgram",
+          "title": "#AvatarLegends",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HSRSpecialProgram",
+          "url": "https://twitter.com/search?q=%23AvatarLegends",
           "platform": "X/Twitter"
         },
         {
-          "title": "Flo Rida",
+          "title": "Dylan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Flo%20Rida",
+          "url": "https://twitter.com/search?q=Dylan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Perisic",
+          "title": "#JusticeForValko",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Perisic",
+          "url": "https://twitter.com/search?q=%23JusticeForValko",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "cloud",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usa world cup soccer",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cartoon network",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sk hynix stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mission impossible",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "madonna",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "paul gervase",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la dodgers",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "donald trump park signage lawsuit",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tommy edman",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "norovirus",
-          "traffic": "1000",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "dakota johnson",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fourth of july baseball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cuatro de julio",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sarah pidgeon",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
