@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:39:38.370876+00:00",
+  "updatedAt": "2026-07-03T23:01:02.057587+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ARGCPV",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ARGCPV",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#250YearsOfFreedom",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23250YearsOfFreedom",
           "platform": "X/Twitter"
         },
         {
+          "title": "#fifaworld26",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23fifaworld26",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Patrick Beach",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Patrick%20Beach",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AUSEGY",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AUSEGY",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#NicVansxRampage",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NicVansxRampage",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Danny Briere",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Danny%20Briere",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#BudSummerOf250",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "argentina - cabo verde",
-          "traffic": "20000",
+          "title": "messi wife",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon pardi marriage split",
+          "title": "shakira",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gigi hadid",
-          "traffic": "5000",
+          "title": "mets vs braves",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt ryan",
+          "title": "ronaldo age",
+          "traffic": "1000000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orioles vs reds",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dte power outage",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pique",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "awer mabil",
+          "title": "emiliano martínez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump pardons",
+          "title": "maradona",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "neil gorsuch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how far has egypt gone in the world cup",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hannah dugan",
-          "traffic": "500",
+          "title": "diego simeone",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
