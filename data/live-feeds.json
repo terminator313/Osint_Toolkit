@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T01:07:37.535172+00:00",
+  "updatedAt": "2026-07-04T05:07:43.273106+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#holoSerendipity",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23holoSerendipity",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SmackDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SmackDown",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ARGCPV",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ARGCPV",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Fıfaworldcup",
+          "title": "#COLGHA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23F%C4%B1faworldcup",
+          "url": "https://twitter.com/search?q=%23COLGHA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARGvsCPV",
+          "title": "Zigi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARGvsCPV",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "OFFICIAL UPDATE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=OFFICIAL%20UPDATE",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "HOT UPDATE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=HOT%20UPDATE",
+          "url": "https://twitter.com/search?q=Zigi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup schedule",
-          "traffic": "200000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup bracket",
-          "traffic": "100000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox vs angels",
+          "title": "vaccines",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "capo verde argentina",
+          "title": "flu shots",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fiba world cup",
+          "title": "immunizations",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cafu",
-          "traffic": "1000",
+          "title": "shohei ohtani",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trace adkins",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers vs diamondbacks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cleveland weather",
+          "title": "ohtani",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians game",
+          "title": "dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers game today",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "teoscar hernández",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "july 4th",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jameis winston",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
