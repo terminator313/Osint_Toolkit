@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T14:08:25.049207+00:00",
+  "updatedAt": "2026-07-04T15:40:58.637198+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TicketToHeavenFinalEP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TicketToHeavenFinalEP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GodBlessUSA",
+          "title": "Founding Fathers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GodBlessUSA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Freedom",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Freedom",
+          "url": "https://twitter.com/search?q=Founding%20Fathers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lena dunham taylor swift wedding",
-          "traffic": "2000",
+          "title": "india vs england",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "beyonce",
-          "traffic": "200",
+          "title": "brad dalke",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill hemmer",
-          "traffic": "200",
+          "title": "jasmine paolini",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cricinfo",
+          "title": "usa vs england",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fourth of july fireworks",
+          "title": "july 4th fireworks near me",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup top 16",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcos giron",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tennis scores",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jones beach air show",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flavio cobolli",
+          "title": "bristol 4th of july parade",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince harry",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toddler found alive in morgue",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gas station near me",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill clinton",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
