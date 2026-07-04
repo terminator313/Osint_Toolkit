@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T20:07:53.606411+00:00",
+  "updatedAt": "2026-07-04T21:27:25.139023+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Beyoncé",
+          "title": "Iryna Zarutska",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beyonc%C3%A9",
+          "url": "https://twitter.com/search?q=Iryna%20Zarutska",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ounahi",
+          "title": "Beyoncé",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ounahi",
+          "url": "https://twitter.com/search?q=Beyonc%C3%A9",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fire pits",
+          "title": "fifa world rankings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aaron wise",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wnba games today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "next world cup game",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "landon donovan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiafoe",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zac blair",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bono",
+          "title": "olise france",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "berrettini",
+          "title": "odyssey",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicagoland speedway",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lincoln financial field",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mar",
+          "title": "manu koné",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brahim diaz",
-          "traffic": "1000",
+          "title": "zach johnson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john deere classic 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boston pops 4th of july",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
