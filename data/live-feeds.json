@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T18:30:45.472642+00:00",
+  "updatedAt": "2026-07-04T20:07:53.606411+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#USA250",
+          "title": "#tvlspoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USA250",
+          "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CashInWithRitas",
+          "title": "#CANMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CashInWithRitas",
+          "url": "https://twitter.com/search?q=%23CANMAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Southern Poverty Law Center",
+          "title": "Beyoncé",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Southern%20Poverty%20Law%20Center",
+          "url": "https://twitter.com/search?q=Beyonc%C3%A9",
           "platform": "X/Twitter"
         },
         {
-          "title": "For 250",
+          "title": "Ounahi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=For%20250",
+          "url": "https://twitter.com/search?q=Ounahi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "azzedine ounahi",
+          "title": "fire pits",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oil tanker u-turn hormuz",
-          "traffic": "500",
+          "title": "wnba games today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morocco fc",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ridley scott",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "7 wonders of america",
+          "title": "next world cup game",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur fery",
+          "title": "landon donovan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiafoe",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gianni infantino",
+          "title": "zac blair",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shakur stevenson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hakimi soccer",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "4th of july movies",
+          "title": "bono",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "berrettini",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brahim diaz",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
