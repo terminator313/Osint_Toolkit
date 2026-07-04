@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T23:01:02.057587+00:00",
+  "updatedAt": "2026-07-04T01:07:37.535172+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#250YearsOfFreedom",
+          "title": "#Fıfaworldcup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23250YearsOfFreedom",
+          "url": "https://twitter.com/search?q=%23F%C4%B1faworldcup",
           "platform": "X/Twitter"
         },
         {
-          "title": "#fifaworld26",
+          "title": "#ARGvsCPV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23fifaworld26",
+          "url": "https://twitter.com/search?q=%23ARGvsCPV",
           "platform": "X/Twitter"
         },
         {
-          "title": "Patrick Beach",
+          "title": "OFFICIAL UPDATE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Patrick%20Beach",
+          "url": "https://twitter.com/search?q=OFFICIAL%20UPDATE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AUSEGY",
+          "title": "HOT UPDATE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AUSEGY",
+          "url": "https://twitter.com/search?q=HOT%20UPDATE",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "messi wife",
+          "title": "world cup schedule",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup bracket",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox vs angels",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shakira",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mets vs braves",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ronaldo age",
-          "traffic": "1000000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orioles vs reds",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dte power outage",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pique",
+          "title": "capo verde argentina",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emiliano martínez",
+          "title": "fiba world cup",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maradona",
+          "title": "cafu",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diego simeone",
+          "title": "trace adkins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brewers vs diamondbacks",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cleveland weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guardians game",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
