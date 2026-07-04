@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:32:24.868142+00:00",
+  "updatedAt": "2026-07-04T12:05:52.625850+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#4thJuly",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%234thJuly",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#เสน่หาวาโยตอนจบ",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Parmida",
+          "title": "250 Years",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Parmida",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Colombia",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Colombia",
+          "url": "https://twitter.com/search?q=250%20Years",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "catherine, princess of wales",
+          "title": "dp world tour",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael strahan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al roker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tormenta",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barbora krejčíková",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matthew mcconaughey",
+          "title": "british grand prix",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex de minaur",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marta kostyuk",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity trading",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "space x",
+          "title": "wordle help",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peachtree road race 2026",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "motorcycle accident attorney",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cloud",
+          "title": "is sam's club open on the 4th of july",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russia news",
-          "traffic": "100",
+          "title": "ashlyn krueger",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dakota johnson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
