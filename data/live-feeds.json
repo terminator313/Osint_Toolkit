@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T15:40:58.637198+00:00",
+  "updatedAt": "2026-07-04T17:02:27.073205+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#CaelenStrayfe3D",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23CaelenStrayfe3D",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TicketToHeavenFinalEP",
+          "title": "May God",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TicketToHeavenFinalEP",
+          "url": "https://twitter.com/search?q=May%20God",
           "platform": "X/Twitter"
         },
         {
-          "title": "Founding Fathers",
+          "title": "James Wood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Founding%20Fathers",
+          "url": "https://twitter.com/search?q=James%20Wood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "india vs england",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brad dalke",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jasmine paolini",
+          "title": "cirstea",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usa vs england",
+          "title": "javeayah harris",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "july 4th fireworks near me",
+          "title": "valkyries vs dream",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelly ripa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "martina navratilova",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lost",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew giuliani",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup top 16",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marcos giron",
+          "title": "malia obama",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tennis scores",
-          "traffic": "500",
+          "title": "caroline wozniacki",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jones beach air show",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bristol 4th of july parade",
-          "traffic": "200",
+          "title": "fireworks nyc",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
