@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T12:05:52.625850+00:00",
+  "updatedAt": "2026-07-04T14:08:25.049207+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#เสน่หาวาโยตอนจบ",
+          "title": "#USA250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A",
+          "url": "https://twitter.com/search?q=%23USA250",
           "platform": "X/Twitter"
         },
         {
-          "title": "#holoSerendipity",
+          "title": "#TicketToHeavenFinalEP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23holoSerendipity",
+          "url": "https://twitter.com/search?q=%23TicketToHeavenFinalEP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#artfight2026ᅠ",
+          "title": "#GodBlessUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23artfight2026%E1%85%A0",
+          "url": "https://twitter.com/search?q=%23GodBlessUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "250 Years",
+          "title": "#Freedom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=250%20Years",
+          "url": "https://twitter.com/search?q=%23Freedom",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dp world tour",
-          "traffic": "1000",
+          "title": "lena dunham taylor swift wedding",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael strahan",
+          "title": "beyonce",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill hemmer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cricinfo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "al roker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tormenta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barbora krejčíková",
+          "title": "fourth of july fireworks",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "british grand prix",
+          "title": "flavio cobolli",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wordle help",
+          "title": "prince harry",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is sam's club open on the 4th of july",
-          "traffic": "200",
+          "title": "toddler found alive in morgue",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ashlyn krueger",
-          "traffic": "200",
+          "title": "gas station near me",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dakota johnson",
-          "traffic": "200",
+          "title": "bill clinton",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
