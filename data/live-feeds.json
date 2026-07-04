@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T05:07:43.273106+00:00",
+  "updatedAt": "2026-07-04T08:09:35.552629+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "#เสน่หาวาโยตอนจบ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%9A",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARGCPV",
+          "title": "#northernlights",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARGCPV",
+          "url": "https://twitter.com/search?q=%23northernlights",
           "platform": "X/Twitter"
         },
         {
-          "title": "#COLGHA",
+          "title": "#aurora",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23COLGHA",
+          "url": "https://twitter.com/search?q=%23aurora",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zigi",
+          "title": "Shiori",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zigi",
+          "url": "https://twitter.com/search?q=Shiori",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "vaccines",
+          "title": "washington dc extreme heat wave",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jaidyn alexis and bravo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tanner scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelsey rowing",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "happy 4th of july 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vaccines",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,37 +96,12 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shohei ohtani",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ohtani",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "teoscar hernández",
+          "title": "vaccinations",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "july 4th",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jameis winston",
+          "title": "shane wright",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
