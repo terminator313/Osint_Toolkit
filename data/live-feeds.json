@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:28:54.791731+00:00",
+  "updatedAt": "2026-07-04T23:34:22.080907+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#4thJuly",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%234thJuly",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#PARFRA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PARFRA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tvlspoilers",
+          "title": "#4thJuly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tvlspoilers",
+          "url": "https://twitter.com/search?q=%234thJuly",
           "platform": "X/Twitter"
         },
         {
-          "title": "France and Paraguay",
+          "title": "#FRAPAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=France%20and%20Paraguay",
+          "url": "https://twitter.com/search?q=%23FRAPAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Roots",
+          "title": "Doval",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Roots",
+          "url": "https://twitter.com/search?q=Doval",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Safest",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Safest",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "seal",
+          "title": "abdullah mason",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nancy pelosi",
-          "traffic": "2000",
+          "title": "ppl power outage",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pittsburgh fireworks",
-          "traffic": "100",
+          "title": "new air force one",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "f35 fighter jet",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dc fireworks",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monica barbaro",
+          "title": "galarza",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mbappe girlfriend",
+          "title": "ester expósito",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "william saliba",
+          "title": "paraguay goalie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jules koundé",
+          "title": "doue",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "france",
-          "traffic": "5000",
+          "title": "kerr kriisa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cherki",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rayan cherki",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
