@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T17:02:27.073205+00:00",
+  "updatedAt": "2026-07-04T18:30:45.472642+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#CaelenStrayfe3D",
+          "title": "#CashInWithRitas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CaelenStrayfe3D",
+          "url": "https://twitter.com/search?q=%23CashInWithRitas",
           "platform": "X/Twitter"
         },
         {
-          "title": "May God",
+          "title": "Southern Poverty Law Center",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=May%20God",
+          "url": "https://twitter.com/search?q=Southern%20Poverty%20Law%20Center",
           "platform": "X/Twitter"
         },
         {
-          "title": "James Wood",
+          "title": "For 250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=James%20Wood",
+          "url": "https://twitter.com/search?q=For%20250",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cirstea",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "javeayah harris",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "valkyries vs dream",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly ripa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "martina navratilova",
+          "title": "azzedine ounahi",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lost",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew giuliani",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "malia obama",
+          "title": "oil tanker u-turn hormuz",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caroline wozniacki",
+          "title": "morocco fc",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ridley scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "7 wonders of america",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fery",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fireworks nyc",
+          "title": "gianni infantino",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shakur stevenson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hakimi soccer",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "4th of july movies",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
