@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T12:49:24.797808+00:00",
+  "updatedAt": "2026-07-05T14:41:16.693633+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Promotion",
+          "title": "#promotion",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Promotion",
+          "url": "https://twitter.com/search?q=%23promotion",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DENTISTEXPERTHSANTA",
+          "title": "#BritishGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DENTISTEXPERTHSANTA",
+          "url": "https://twitter.com/search?q=%23BritishGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "#EnemiesWithBenefitsFinalEP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=%23EnemiesWithBenefitsFinalEP",
           "platform": "X/Twitter"
         },
         {
-          "title": "Antifa",
+          "title": "Patriot Front",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Antifa",
+          "url": "https://twitter.com/search?q=Patriot%20Front",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wild Berry",
+          "title": "EWB FINAL EP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wild%20Berry",
+          "url": "https://twitter.com/search?q=EWB%20FINAL%20EP",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "rickie fowler john deere classic",
+          "title": "hampton beach shooting",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa schedule today",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump accounts",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "parasite outbreak",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jones beach air show 2026",
+          "title": "warren buffett",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pensacola shooting",
+          "title": "stars and stripes",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states midterm election",
-          "traffic": "500",
+          "title": "jk simmons",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air force one",
+          "title": "england mexico",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daycare",
-          "traffic": "500",
+          "title": "roman safiullin",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pittsburgh weather",
+          "title": "karolína muchová",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wsj",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travis kelce reaction dolly parton",
+          "title": "pegula tennis",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
