@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T20:35:17.417677+00:00",
+  "updatedAt": "2026-07-05T21:59:39.044087+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BRANOR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BRANOR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GCWBYW8",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GCWBYW8",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRANOR",
+          "title": "Fermin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRANOR",
+          "url": "https://twitter.com/search?q=Fermin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Martin Perez",
+          "title": "Sabalenka",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Martin%20Perez",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Claudio",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Claudio",
+          "url": "https://twitter.com/search?q=Sabalenka",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "youtube tv",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vini jr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fox one",
+          "title": "leonardo dicaprio",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new jersey weather",
+          "title": "s&p 500 2026 market prediction",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "endrick",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "powerball july 4 2026 jackpot",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris rock",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zombieland",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "norway royal family",
+          "title": "jalen brunson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "club de futbol cruz azul femenil",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "riley greene",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "erling haaland",
-          "traffic": "500000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bruno guimarães",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "neymar",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haaland soccer player",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ørjan nyland",
-          "traffic": "2000",
+          "title": "carlos carrasco",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
