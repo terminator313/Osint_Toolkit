@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T02:53:43.056353+00:00",
+  "updatedAt": "2026-07-05T06:39:15.314386+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#holoSerendipity",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23holoSerendipity",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MasonBell",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MasonBell",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mother Nature",
+          "title": "Fireworks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mother%20Nature",
+          "url": "https://twitter.com/search?q=Fireworks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Francia",
+          "title": "Mbappe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Francia",
+          "url": "https://twitter.com/search?q=Mbappe",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nissan stadium",
+          "title": "will smith",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coney island shooting",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "denzel washington",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flood warning",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "newport beach news",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "waikiki fireworks",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "provo fire",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs",
-          "traffic": "20000",
+          "title": "seattle fireworks",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maren morris",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan gosling",
+          "title": "westgate shooting",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick jonas",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rays vs astros",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonas brothers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon aiyuk",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "breaking news",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freedom over texas 2026",
+          "title": "chelan hills fire",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
