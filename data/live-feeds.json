@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:59:39.044087+00:00",
+  "updatedAt": "2026-07-05T23:11:00.223282+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWBYW8",
+          "title": "#BadBoysDR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWBYW8",
+          "url": "https://twitter.com/search?q=%23BadBoysDR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#promotion",
+          "title": "#BRAvsNOR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23promotion",
+          "url": "https://twitter.com/search?q=%23BRAvsNOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fermin",
+          "title": "More Info in Article Below",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fermin",
+          "url": "https://twitter.com/search?q=More%20Info%20in%20Article%20Below",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sabalenka",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sabalenka",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "leonardo dicaprio",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "s&p 500 2026 market prediction",
+          "title": "georgina rodríguez",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "endrick",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball july 4 2026 jackpot",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris rock",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zombieland",
+          "title": "lionel richie concerts postponed",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jalen brunson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "club de futbol cruz azul femenil",
+          "title": "legionnaires disease nyc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "riley greene",
+          "title": "house of the dragon season 3 episode 3",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "argentina vs egypt",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rowdy tellez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos carrasco",
+          "title": "who is left in the world cup",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "france vs morocco",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lafc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "draftkings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
