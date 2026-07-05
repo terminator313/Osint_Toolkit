@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:34:22.080907+00:00",
+  "updatedAt": "2026-07-05T02:53:43.056353+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PARFRA",
+          "title": "#250YearsStrong",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PARFRA",
+          "url": "https://twitter.com/search?q=%23250YearsStrong",
           "platform": "X/Twitter"
         },
         {
-          "title": "#4thJuly",
+          "title": "#Svengoolie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%234thJuly",
+          "url": "https://twitter.com/search?q=%23Svengoolie",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FRAPAR",
+          "title": "#MasonBell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAPAR",
+          "url": "https://twitter.com/search?q=%23MasonBell",
           "platform": "X/Twitter"
         },
         {
-          "title": "Doval",
+          "title": "Mother Nature",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Doval",
+          "url": "https://twitter.com/search?q=Mother%20Nature",
           "platform": "X/Twitter"
         },
         {
-          "title": "Safest",
+          "title": "Francia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Safest",
+          "url": "https://twitter.com/search?q=Francia",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "abdullah mason",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ppl power outage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new air force one",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "galarza",
+          "title": "nissan stadium",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ester expósito",
+          "title": "cubs",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maren morris",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan gosling",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick jonas",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays vs astros",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonas brothers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon aiyuk",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "breaking news",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "freedom over texas 2026",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paraguay goalie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doue",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kerr kriisa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cherki",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rayan cherki",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
