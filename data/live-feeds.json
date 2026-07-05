@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T19:14:29.182705+00:00",
+  "updatedAt": "2026-07-05T20:35:17.417677+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GCWBYW8",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GCWBYW8",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#promotion",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23promotion",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Wimbledon",
+          "title": "#BRANOR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wimbledon",
+          "url": "https://twitter.com/search?q=%23BRANOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CarameloEnFoodBazaar",
+          "title": "Martin Perez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CarameloEnFoodBazaar",
+          "url": "https://twitter.com/search?q=Martin%20Perez",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lewis",
+          "title": "Claudio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lewis",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#BritishGP",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BritishGP",
+          "url": "https://twitter.com/search?q=Claudio",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sheamus",
+          "title": "youtube tv",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vini jr",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben kohles",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "current mortgage rates",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kate middleton three peaks challenge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike johnson",
+          "title": "fox one",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "supernatural",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sinner",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flag of the united states",
+          "title": "new jersey weather",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astros game today",
-          "traffic": "20000",
+          "title": "norway royal family",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians game today",
-          "traffic": "500",
+          "title": "erling haaland",
+          "traffic": "500000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bruno guimarães",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "neymar",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haaland soccer player",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ørjan nyland",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
