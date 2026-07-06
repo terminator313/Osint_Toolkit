@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T17:20:05.750254+00:00",
+  "updatedAt": "2026-07-06T19:14:50.969362+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFlip7",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFlip7",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#tommavi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Double Fine",
+          "title": "#GalaxyZFlip7",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Double%20Fine",
+          "url": "https://twitter.com/search?q=%23GalaxyZFlip7",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Clippers",
+          "title": "Portugal vs Spain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Clippers",
+          "url": "https://twitter.com/search?q=Portugal%20vs%20Spain",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Bethesda",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Bethesda",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kate mansi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noskova tennis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states department of justice",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wrigley field",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rasul douglas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rui hachimura",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pringles pop dog buns",
+          "title": "mikel oyarzabal",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ukraine drone strike omsk refinery",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michelle buteau",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the hunting party nbc status",
+          "title": "lamine yamal age",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal – espagne",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jey uso",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon snow game of thrones 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aaron wiggins thunder hawks trade",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "demar derozan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "graham platner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal x espanha",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portugal - españa",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
