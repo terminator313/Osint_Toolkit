@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T14:05:46.864397+00:00",
+  "updatedAt": "2026-07-06T17:20:05.750254+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MondayMotivation",
+          "title": "#WhiteHouseBarbie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23WhiteHouseBarbie",
           "platform": "X/Twitter"
         },
         {
-          "title": "#jonita",
+          "title": "#GalaxyZFlip7",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jonita",
+          "url": "https://twitter.com/search?q=%23GalaxyZFlip7",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ProtegerYSalvarVidas",
+          "title": "Double Fine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ProtegerYSalvarVidas",
+          "url": "https://twitter.com/search?q=Double%20Fine",
           "platform": "X/Twitter"
         },
         {
-          "title": "As a Belgian",
+          "title": "The Clippers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=As%20a%20Belgian",
+          "url": "https://twitter.com/search?q=The%20Clippers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "orcl stock",
+          "title": "kate mansi",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark consuelos",
+          "title": "noskova tennis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paolini",
-          "traffic": "1000",
+          "title": "united states department of justice",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cristo fernández",
+          "title": "wrigley field",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rasul douglas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jasmine paolini",
+          "title": "rui hachimura",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexandra eala",
-          "traffic": "5000",
+          "title": "pringles pop dog buns",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "medicine",
+          "title": "ukraine drone strike omsk refinery",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "assassin's creed black flag resynced",
+          "title": "michelle buteau",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wulf stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tour de france stage 3",
-          "traffic": "500",
+          "title": "the hunting party nbc status",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
