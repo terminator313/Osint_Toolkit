@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T21:09:52.975222+00:00",
+  "updatedAt": "2026-07-06T22:45:23.673531+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#tommavi",
+          "title": "#MeToo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
+          "url": "https://twitter.com/search?q=%23MeToo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Infantino",
+          "title": "The Odyssey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Infantino",
+          "url": "https://twitter.com/search?q=The%20Odyssey",
           "platform": "X/Twitter"
         },
         {
-          "title": "Piers",
+          "title": "Being a Nazi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Piers",
+          "url": "https://twitter.com/search?q=Being%20a%20Nazi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mikel merino",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitch mcconnell health",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño forecast",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clint dempsey",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cucurella",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maxx crosby",
+          "title": "interpol",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toronto police",
-          "traffic": "200",
+          "title": "cpsc rowenta vacuum recall",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ballon d'or winners",
-          "traffic": "500",
+          "title": "ballistic missile submarine",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ferran torres",
+          "title": "carli lloyd",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin durant",
+          "title": "mitch mcconnell",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees vs rays",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros vs nationals",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler robinson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "france vs morocco",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carlos sainz penalty british gp",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
