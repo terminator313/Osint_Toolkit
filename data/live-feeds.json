@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T10:15:46.496429+00:00",
+  "updatedAt": "2026-07-06T14:05:46.864397+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HOTD",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MEXENG",
+          "title": "#jonita",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MEXENG",
+          "url": "https://twitter.com/search?q=%23jonita",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NightmareUnderground",
+          "title": "#tommavi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NightmareUnderground",
+          "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Edson",
+          "title": "#ProtegerYSalvarVidas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Edson",
+          "url": "https://twitter.com/search?q=%23ProtegerYSalvarVidas",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ochoa",
+          "title": "As a Belgian",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ochoa",
+          "url": "https://twitter.com/search?q=As%20a%20Belgian",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mayor of new york city",
+          "title": "orcl stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kelleys island",
+          "title": "mark consuelos",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry",
-          "traffic": "200",
+          "title": "paolini",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paige spiranac",
-          "traffic": "200",
+          "title": "cristo fernández",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nancy pelosi husband",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tradingview",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zohran mamdani",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "swimming",
+          "title": "jasmine paolini",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "movies",
-          "traffic": "2000",
+          "title": "alexandra eala",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flight status",
-          "traffic": "200",
+          "title": "medicine",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "assassin's creed black flag resynced",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wulf stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tour de france stage 3",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
