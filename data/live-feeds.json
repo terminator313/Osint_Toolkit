@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T19:14:50.969362+00:00",
+  "updatedAt": "2026-07-06T21:09:52.975222+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#PORESP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PORESP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#tommavi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFlip7",
+          "title": "Infantino",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFlip7",
+          "url": "https://twitter.com/search?q=Infantino",
           "platform": "X/Twitter"
         },
         {
-          "title": "Portugal vs Spain",
+          "title": "Piers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Portugal%20vs%20Spain",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bethesda",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bethesda",
+          "url": "https://twitter.com/search?q=Piers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mikel oyarzabal",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lamine yamal age",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portugal – espagne",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jey uso",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon snow game of thrones 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aaron wiggins thunder hawks trade",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "demar derozan",
+          "title": "mikel merino",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "graham platner",
+          "title": "mitch mcconnell health",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el niño forecast",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clint dempsey",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cucurella",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maxx crosby",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portugal x espanha",
+          "title": "toronto police",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ballon d'or winners",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portugal - españa",
-          "traffic": "20000",
+          "title": "ferran torres",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin durant",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
