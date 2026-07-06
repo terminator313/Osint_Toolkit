@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T05:54:05.588453+00:00",
+  "updatedAt": "2026-07-06T10:15:46.496429+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MEXENG",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MEXENG",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#HOTD",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCup",
+          "title": "#MEXENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCup",
+          "url": "https://twitter.com/search?q=%23MEXENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mexicans",
+          "title": "#NightmareUnderground",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mexicans",
+          "url": "https://twitter.com/search?q=%23NightmareUnderground",
           "platform": "X/Twitter"
         },
         {
-          "title": "Santi",
+          "title": "Edson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Santi",
+          "url": "https://twitter.com/search?q=Edson",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ochoa",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ochoa",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "copa mundial de fútbol",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle seahawks",
+          "title": "mayor of new york city",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cher",
+          "title": "kelleys island",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sebastian rulli",
-          "traffic": "10000",
+          "title": "prince harry",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rittman ohio",
-          "traffic": "500",
+          "title": "paige spiranac",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iron bird seed",
-          "traffic": "20000",
+          "title": "nancy pelosi husband",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "76ers embiid trade rumors",
-          "traffic": "1000",
+          "title": "tradingview",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dalton knecht",
-          "traffic": "1000",
+          "title": "zohran mamdani",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is colombia still in the world cup",
+          "title": "swimming",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chivas",
-          "traffic": "1000",
+          "title": "movies",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flight status",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
