@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T23:11:00.223282+00:00",
+  "updatedAt": "2026-07-06T01:15:04.088619+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NASCAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NASCAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BRANOR",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BRANOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BadBoysDR",
+          "title": "#baddiesgonewild",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BadBoysDR",
+          "url": "https://twitter.com/search?q=%23baddiesgonewild",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRAvsNOR",
+          "title": "OFFICIAL UPDATE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRAvsNOR",
+          "url": "https://twitter.com/search?q=OFFICIAL%20UPDATE",
           "platform": "X/Twitter"
         },
         {
-          "title": "More Info in Article Below",
+          "title": "Odegaard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=More%20Info%20in%20Article%20Below",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#NASCAR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=Odegaard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "georgina rodríguez",
+          "title": "raul jimenez",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diego maradona",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alireza faghani",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lionel richie concerts postponed",
+          "title": "jorge sanchez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "legionnaires disease nyc",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "house of the dragon season 3 episode 3",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina vs egypt",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rowdy tellez",
+          "title": "1986 world cup",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "who is left in the world cup",
+          "title": "rota",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "france vs morocco",
+          "title": "gilberto mora",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "declan rice",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bellingham",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lafc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "draftkings",
-          "traffic": "500",
+          "title": "césar montes",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
