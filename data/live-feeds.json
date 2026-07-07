@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T18:31:05.183253+00:00",
+  "updatedAt": "2026-07-07T20:48:18.782648+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#gachiakuta171",
+          "title": "#CFBPlayDontPay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta171",
+          "url": "https://twitter.com/search?q=%23CFBPlayDontPay",
           "platform": "X/Twitter"
         },
         {
-          "title": "La Trice",
+          "title": "#EGYARG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=La%20Trice",
+          "url": "https://twitter.com/search?q=%23EGYARG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pfizer",
+          "title": "Switzerland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pfizer",
+          "url": "https://twitter.com/search?q=Switzerland",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "did argentina win",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "a qué hora juega colombia",
+          "title": "kevon looney",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden boot race 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soccer",
-          "traffic": "100000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina jersey",
+          "title": "ben crump",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "geno auriemma",
+          "title": "activision black ops ps5 port",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how old is messi",
+          "title": "nypost",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "columbia",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa rankings",
-          "traffic": "10000",
+          "title": "trump greenland",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cu",
+          "title": "murat yakin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina next game",
+          "title": "marc messier",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "breel embolo",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gustavo puerta",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
