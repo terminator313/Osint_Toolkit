@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T04:32:17.152409+00:00",
+  "updatedAt": "2026-07-07T08:21:27.782449+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#USMNT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USMNT",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#USABEL",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23USABEL",
           "platform": "X/Twitter"
         },
         {
-          "title": "Poch",
+          "title": "#ETTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Poch",
+          "url": "https://twitter.com/search?q=%23ETTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "Everything Trump",
+          "title": "McKennie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Everything%20Trump",
+          "url": "https://twitter.com/search?q=McKennie",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Tommy James",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Tommy%20James",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "colbert",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "octavia spencer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiffany haddish",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tomi adeyemi book movie adaptation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "owen murphy",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nba summer league scores",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wwe",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle karros",
+          "title": "climate change",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sylvester stallone",
+          "title": "artificial intelligence",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bitcoin price",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hotel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pool",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "台风",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "openai",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves game",
-          "traffic": "2000",
+          "title": "jaswant singh khalra",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
