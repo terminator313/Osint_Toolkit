@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T11:24:00.848118+00:00",
+  "updatedAt": "2026-07-07T13:32:47.045760+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ZatimaOnParamountPlus",
+          "title": "#omegle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
+          "url": "https://twitter.com/search?q=%23omegle",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWERaw",
+          "title": "#TuesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ETTD",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ETTD",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Freeman",
+          "title": "Raymond James",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Freeman",
+          "url": "https://twitter.com/search?q=Raymond%20James",
           "platform": "X/Twitter"
         },
         {
-          "title": "#USABEL",
+          "title": "MetalCore",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USABEL",
+          "url": "https://twitter.com/search?q=MetalCore",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jim cramer new stock picks",
+          "title": "donovan mitchell",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coco gauff",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon ossoff",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tianwen-2",
-          "traffic": "100",
+          "title": "erdogan",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big tigger",
-          "traffic": "100",
+          "title": "dwayne johnson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry daily mail lawsuit",
+          "title": "jannik sinner",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rahm emanuel tel aviv speech",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fiserv",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sling",
+          "title": "doj trump tax lawsuit settlement",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john oliver",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sony ps plus july 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strait of hormuz news",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "publix organic blueberry recall",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt seelinger tigers mets trade",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather boston",
-          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
