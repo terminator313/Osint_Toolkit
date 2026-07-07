@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:09:38.459929+00:00",
+  "updatedAt": "2026-07-07T23:29:03.852808+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Chennedy Carter",
+          "title": "Egipto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chennedy%20Carter",
+          "url": "https://twitter.com/search?q=Egipto",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "athletics vs tigers",
-          "traffic": "1000",
+          "title": "fifa world cup brackets",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners vs marlins",
-          "traffic": "1000",
+          "title": "guardians vs twins",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sri lanka vs west indies",
+          "title": "red sox vs white sox",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xhaka switzerland",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves vs pirates",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs vs orioles",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cucho hernández",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max holloway",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "embolo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "encino fire",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nueva york",
+          "title": "angels vs rangers",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "who plays tomorrow in the world cup",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "true detective",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "irs covid tax refund deadline",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arby's",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andres escobar",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
