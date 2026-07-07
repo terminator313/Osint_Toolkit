@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T13:32:47.045760+00:00",
+  "updatedAt": "2026-07-07T16:28:25.702950+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#gachiakuta171",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23gachiakuta171",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#omegle",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23omegle",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayMotivation",
+          "title": "#ONEPIECE1188",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=%23ONEPIECE1188",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "Pegula",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=Pegula",
           "platform": "X/Twitter"
         },
         {
-          "title": "Raymond James",
+          "title": "#nolimits",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Raymond%20James",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "MetalCore",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=MetalCore",
+          "url": "https://twitter.com/search?q=%23nolimits",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "donovan mitchell",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coco gauff",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon ossoff",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "erdogan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dwayne johnson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jannik sinner",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rahm emanuel tel aviv speech",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fiserv",
+          "title": "victor wembanyama",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "doj trump tax lawsuit settlement",
-          "traffic": "2000",
+          "title": "quinn simmons",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john oliver",
-          "traffic": "1000",
+          "title": "argentina x egito",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "samantha morton",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david cronenberg",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naomi osaka",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marshawn kneeland",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "argentine – égypte",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states congress",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karolína muchová",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
