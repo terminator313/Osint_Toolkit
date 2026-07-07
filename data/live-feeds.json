@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T08:21:27.782449+00:00",
+  "updatedAt": "2026-07-07T11:24:00.848118+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#ZatimaOnParamountPlus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23ZatimaOnParamountPlus",
           "platform": "X/Twitter"
         },
         {
-          "title": "#USABEL",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23USABEL",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "McKennie",
+          "title": "Freeman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=McKennie",
+          "url": "https://twitter.com/search?q=Freeman",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tommy James",
+          "title": "#USABEL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tommy%20James",
+          "url": "https://twitter.com/search?q=%23USABEL",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "climate change",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "artificial intelligence",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin price",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hotel",
+          "title": "jim cramer new stock picks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pool",
-          "traffic": "500",
+          "title": "tianwen-2",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new york weather",
-          "traffic": "500",
+          "title": "big tigger",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "台风",
+          "title": "prince harry daily mail lawsuit",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hm",
-          "traffic": "500",
+          "title": "sling",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "openai",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaswant singh khalra",
+          "title": "sony ps plus july 2026",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strait of hormuz news",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "publix organic blueberry recall",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt seelinger tigers mets trade",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather boston",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
