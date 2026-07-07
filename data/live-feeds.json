@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:48:18.782648+00:00",
+  "updatedAt": "2026-07-07T22:09:38.459929+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#bb28",
+          "title": "#ApeAi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bb28",
+          "url": "https://twitter.com/search?q=%23ApeAi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARGEGY",
+          "title": "#bb28",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARGEGY",
+          "url": "https://twitter.com/search?q=%23bb28",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#EGYARG",
+          "title": "Chennedy Carter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EGYARG",
+          "url": "https://twitter.com/search?q=Chennedy%20Carter",
           "platform": "X/Twitter"
         },
         {
-          "title": "Switzerland",
+          "title": "Looney",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Switzerland",
+          "url": "https://twitter.com/search?q=Looney",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kevon looney",
-          "traffic": "2000",
+          "title": "athletics vs tigers",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben crump",
-          "traffic": "500",
+          "title": "mariners vs marlins",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "activision black ops ps5 port",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nypost",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "columbia",
+          "title": "sri lanka vs west indies",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump greenland",
+          "title": "braves vs pirates",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "murat yakin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marc messier",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "breel embolo",
+          "title": "cubs vs orioles",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gustavo puerta",
+          "title": "cucho hernández",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max holloway",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "embolo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "encino fire",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nueva york",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
