@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T16:28:25.702950+00:00",
+  "updatedAt": "2026-07-07T18:31:05.183253+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#bb28",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23bb28",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ARGEGY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ARGEGY",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#gachiakuta171",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23gachiakuta171",
           "platform": "X/Twitter"
         },
         {
-          "title": "#omegle",
+          "title": "La Trice",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23omegle",
+          "url": "https://twitter.com/search?q=La%20Trice",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ONEPIECE1188",
+          "title": "Pfizer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ONEPIECE1188",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Pegula",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pegula",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#nolimits",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23nolimits",
+          "url": "https://twitter.com/search?q=Pfizer",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "victor wembanyama",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quinn simmons",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina x egito",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samantha morton",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david cronenberg",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "naomi osaka",
+          "title": "did argentina win",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marshawn kneeland",
+          "title": "a qué hora juega colombia",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "golden boot race 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "soccer",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "argentina jersey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentine – égypte",
+          "title": "geno auriemma",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how old is messi",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states congress",
-          "traffic": "200",
+          "title": "fifa rankings",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karolína muchová",
-          "traffic": "200",
+          "title": "world cu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "argentina next game",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
