@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T17:58:39.748685+00:00",
+  "updatedAt": "2026-07-08T19:45:30.793969+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HoodiesOn",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HoodiesOn",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#momson",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23momson",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#CFBPlayDontPay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23CFBPlayDontPay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#omegle",
+          "title": "Ederson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23omegle",
+          "url": "https://twitter.com/search?q=Ederson",
           "platform": "X/Twitter"
         },
         {
-          "title": "#nolimits",
+          "title": "Robinhood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23nolimits",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "H-1B",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=H-1B",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "No World Cup",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=No%20World%20Cup",
+          "url": "https://twitter.com/search?q=Robinhood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "norway team sick",
+          "title": "alexia putellas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kate upton",
+          "title": "phil regan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fire pits",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "connor bedard",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandy norwood",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new trial",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mackenzie shirilla",
-          "traffic": "500",
+          "title": "7-eleven",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iphone 18 pro max",
+          "title": "news",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "china tornadoes",
+          "title": "e jean carroll",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wimbledon bracket",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lockheed martin",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "princess charlotte 90s style",
+          "title": "golden state warriors",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marco rubio",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katie couric amnesia",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
