@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:05:19.420581+00:00",
+  "updatedAt": "2026-07-08T22:32:02.476805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#momson",
+          "title": "#mcrlondon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23momson",
+          "url": "https://twitter.com/search?q=%23mcrlondon",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "The Pitt",
+          "title": "Lorenzo Salgado Araujo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Pitt",
+          "url": "https://twitter.com/search?q=Lorenzo%20Salgado%20Araujo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Khabib",
+          "title": "Botox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Khabib",
+          "url": "https://twitter.com/search?q=Botox",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kazuma okamoto",
+          "title": "southwest emergency flight diversion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "france morocco",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "von miller",
+          "title": "fever schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united airlines window seat lawsuit",
+          "title": "what",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states federal judge",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ayo edebiri",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "siriusxm",
+          "title": "luke wilson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cristina sanz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lauren sánchez bezos",
+          "title": "kylie jenner pink hair",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bricks and minifigs",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hailey bieber son jack blues",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sirius xm",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "francia vs marruecos",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earth quasi moon",
-          "traffic": "2000",
+          "title": "darrell sheets",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
