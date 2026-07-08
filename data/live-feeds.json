@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T16:05:20.726268+00:00",
+  "updatedAt": "2026-07-08T17:58:39.748685+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#EnjambreDeRatas",
+          "title": "#CFBPlayDontPay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EnjambreDeRatas",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#peai",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23peai",
+          "url": "https://twitter.com/search?q=%23CFBPlayDontPay",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Bob Myers",
+          "title": "#nolimits",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bob%20Myers",
+          "url": "https://twitter.com/search?q=%23nolimits",
           "platform": "X/Twitter"
         },
         {
-          "title": "Robinhood",
+          "title": "H-1B",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robinhood",
+          "url": "https://twitter.com/search?q=H-1B",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "No World Cup",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=No%20World%20Cup",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jac caglianone",
+          "title": "norway team sick",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simone biles",
+          "title": "kate upton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher nolan the odyssey backlash",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andy beshear",
+          "title": "mackenzie shirilla",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rahm emanuel",
-          "traffic": "500",
+          "title": "iphone 18 pro max",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joy behar",
+          "title": "china tornadoes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wimbledon bracket",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "soccer fifa world cup",
-          "traffic": "20000",
+          "title": "lockheed martin",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bears training camp",
+          "title": "princess charlotte 90s style",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marco rubio",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fbi argentina",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dunkin king kylie",
-          "traffic": "200",
+          "title": "katie couric amnesia",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
