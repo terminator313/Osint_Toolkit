@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T09:55:54.318806+00:00",
+  "updatedAt": "2026-07-08T11:46:09.111803+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#peai",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23peai",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#François_Letexier_unfair",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Fran%C3%A7ois_Letexier_unfair",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DigimonUPComing0715",
+          "title": "#HudsonxBalenciaga",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DigimonUPComing0715",
+          "url": "https://twitter.com/search?q=%23HudsonxBalenciaga",
           "platform": "X/Twitter"
         },
         {
-          "title": "#newllithealings",
+          "title": "Hump Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23newllithealings",
+          "url": "https://twitter.com/search?q=Hump%20Day",
           "platform": "X/Twitter"
         },
         {
-          "title": "$CASHCAT",
+          "title": "Robinhood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24CASHCAT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ever Crisis",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ever%20Crisis",
+          "url": "https://twitter.com/search?q=Robinhood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mario kart tour",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark rutte",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil futures",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "car accident lawyer",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "高善文",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stock market today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "msi 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin",
+          "title": "cyclospora",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "microsoft",
+          "title": "orcl stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charlie hall",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "here comes trouble strands",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wimbledon schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasdaq futures",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "windy city smokeout",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walmart kroger target food recalls",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "degrom",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lyndsey fifield",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
