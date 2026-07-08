@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T11:46:09.111803+00:00",
+  "updatedAt": "2026-07-08T13:59:43.733285+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#François_Letexier_unfair",
+          "title": "#EnjambreDeRatas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fran%C3%A7ois_Letexier_unfair",
+          "url": "https://twitter.com/search?q=%23EnjambreDeRatas",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hump Day",
+          "title": "winwin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hump%20Day",
+          "url": "https://twitter.com/search?q=winwin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Robinhood",
+          "title": "Bob Myers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robinhood",
+          "url": "https://twitter.com/search?q=Bob%20Myers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "cyclospora",
-          "traffic": "1000",
+          "title": "fox news",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "orcl stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlie hall",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "here comes trouble strands",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wimbledon schedule",
+          "title": "assassin creed black flag resynced",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasdaq futures",
+          "title": "tim bontemps",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "windy city smokeout",
-          "traffic": "100",
+          "title": "palantir",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "walmart kroger target food recalls",
-          "traffic": "100",
+          "title": "today show",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "degrom",
-          "traffic": "100",
+          "title": "charles iii",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lyndsey fifield",
+          "title": "downdetector",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "islamic republic of japan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "california dmv license test irregularities",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paolini",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
