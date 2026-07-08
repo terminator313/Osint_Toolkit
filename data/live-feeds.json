@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T01:03:00.555277+00:00",
+  "updatedAt": "2026-07-08T04:44:21.562238+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ApeAi",
+          "title": "#DigimonUPComing0715",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ApeAi",
+          "url": "https://twitter.com/search?q=%23DigimonUPComing0715",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#WWENXT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#bb28",
+          "title": "AJ Johnson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bb28",
+          "url": "https://twitter.com/search?q=AJ%20Johnson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Looney",
+          "title": "Zack Wheeler",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Looney",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bandar Abbas",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bandar%20Abbas",
+          "url": "https://twitter.com/search?q=Zack%20Wheeler",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "harmeet dhillon voting letters",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates score",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kevin mcgonigle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor thomas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andruw monasterio",
+          "title": "jordan romano",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "khris middleton",
-          "traffic": "2000",
+          "title": "count binface",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jessica shepard",
-          "traffic": "1000",
+          "title": "evan phillips",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "a. j. ewing",
+          "title": "mason miller",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex freeland",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quinten post",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sofia vergara",
-          "traffic": "1000",
+          "title": "allison janney",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "azzi fudd",
+          "title": "padres game",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiffany haddish",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giants game",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
