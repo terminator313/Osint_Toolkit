@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T19:45:30.793969+00:00",
+  "updatedAt": "2026-07-08T21:05:19.420581+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Ederson",
+          "title": "The Pitt",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ederson",
+          "url": "https://twitter.com/search?q=The%20Pitt",
           "platform": "X/Twitter"
         },
         {
-          "title": "Robinhood",
+          "title": "Khabib",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robinhood",
+          "url": "https://twitter.com/search?q=Khabib",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alexia putellas",
+          "title": "kazuma okamoto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phil regan",
-          "traffic": "200",
+          "title": "france morocco",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire pits",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor bedard",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandy norwood",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new trial",
+          "title": "von miller",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "7-eleven",
+          "title": "united airlines window seat lawsuit",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "news",
-          "traffic": "5000",
+          "title": "siriusxm",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "e jean carroll",
-          "traffic": "1000",
+          "title": "lauren sánchez bezos",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden state warriors",
-          "traffic": "1000",
+          "title": "hailey bieber son jack blues",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sirius xm",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "francia vs marruecos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earth quasi moon",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
