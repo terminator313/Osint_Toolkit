@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T13:59:43.733285+00:00",
+  "updatedAt": "2026-07-08T16:05:20.726268+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#peai",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23peai",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#EnjambreDeRatas",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23EnjambreDeRatas",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HudsonxBalenciaga",
+          "title": "#peai",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HudsonxBalenciaga",
+          "url": "https://twitter.com/search?q=%23peai",
           "platform": "X/Twitter"
         },
         {
-          "title": "winwin",
+          "title": "#omegle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=winwin",
+          "url": "https://twitter.com/search?q=%23omegle",
           "platform": "X/Twitter"
         },
         {
           "title": "Bob Myers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Bob%20Myers",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Robinhood",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Robinhood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fox news",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "assassin creed black flag resynced",
+          "title": "jac caglianone",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tim bontemps",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palantir",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "today show",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles iii",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "downdetector",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "islamic republic of japan",
+          "title": "simone biles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "california dmv license test irregularities",
+          "title": "christopher nolan the odyssey backlash",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paolini",
+          "title": "andy beshear",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rahm emanuel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joy behar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "soccer fifa world cup",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bears training camp",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fbi argentina",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dunkin king kylie",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
