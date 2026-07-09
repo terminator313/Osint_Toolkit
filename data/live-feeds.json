@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T04:29:29.683303+00:00",
+  "updatedAt": "2026-07-09T08:02:37.543059+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Valkols6th",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Valkols6th",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TheValley",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TheValley",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWBeachBreak",
+          "title": "Alex Call",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWBeachBreak",
+          "url": "https://twitter.com/search?q=Alex%20Call",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tanner Banks",
+          "title": "Kelsey Mitchell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tanner%20Banks",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jake Bennett",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jake%20Bennett",
+          "url": "https://twitter.com/search?q=Kelsey%20Mitchell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "regina hall",
+          "title": "childcare",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "padres game",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert pattinson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiffany haddish",
+          "title": "ice",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fold 8",
+          "title": "tesla",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alan roden",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mn twins",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roki sasaki",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ximena herrera",
+          "title": "zim vs ban",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyasha harris",
-          "traffic": "500",
+          "title": "gpt 5.6",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cyberpunk 2077",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fifa soccer world cup",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ubisoft",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hilary duff",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
