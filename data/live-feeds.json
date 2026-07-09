@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T21:02:36.257509+00:00",
+  "updatedAt": "2026-07-09T22:49:12.741716+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrumpsWarOfChoice",
+          "title": "#FIFAworldcupFootball",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpsWarOfChoice",
+          "url": "https://twitter.com/search?q=%23FIFAworldcupFootball",
           "platform": "X/Twitter"
         },
         {
-          "title": "#momson",
+          "title": "#FRAvsMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23momson",
+          "url": "https://twitter.com/search?q=%23FRAvsMAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kody",
+          "title": "Tyler",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kody",
+          "url": "https://twitter.com/search?q=Tyler",
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenagee",
+          "title": "Black Ops 2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenagee",
+          "url": "https://twitter.com/search?q=Black%20Ops%202",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "antoine griezmann",
+          "title": "homerun derby 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pilot jumps out of plane",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners vs marlins",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gerard piqué",
+          "title": "sixers summer league",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "larry millete",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pique",
+          "title": "cuartos de final mundial 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mbappe girlfriend",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "upamecano",
+          "title": "football games today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather boston",
+          "title": "ladera ranch fire",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "goleadores del mundial 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump airport",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psg",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kounde",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince harry uk royal visit",
+          "title": "ester exposito",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
