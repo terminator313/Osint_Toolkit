@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T19:07:23.213192+00:00",
+  "updatedAt": "2026-07-09T21:02:36.257509+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#momson",
+          "title": "#FRAMAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23momson",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#teenagee",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenagee",
+          "url": "https://twitter.com/search?q=%23FRAMAR",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Mitch Keller",
+          "title": "#momson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mitch%20Keller",
+          "url": "https://twitter.com/search?q=%23momson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Austin Wells",
+          "title": "Kody",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Austin%20Wells",
+          "url": "https://twitter.com/search?q=Kody",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#teenagee",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23teenagee",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pittsburgh weather",
+          "title": "antoine griezmann",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerard piqué",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white house columns",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brett harris",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quansah red card",
+          "title": "pique",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox - white sox",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jared leto",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben rice",
+          "title": "mbappe girlfriend",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation",
+          "title": "upamecano",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather boston",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump airport",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patrick sandoval",
+          "title": "psg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drew rasmussen",
-          "traffic": "2000",
+          "title": "kounde",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince harry uk royal visit",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
