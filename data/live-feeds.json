@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T22:32:02.476805+00:00",
+  "updatedAt": "2026-07-09T00:07:05.780325+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HoodiesOn",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HoodiesOn",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#mcrlondon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mcrlondon",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#CFBPlayDontPay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23CFBPlayDontPay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lorenzo Salgado Araujo",
+          "title": "#HoodiesOn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lorenzo%20Salgado%20Araujo",
+          "url": "https://twitter.com/search?q=%23HoodiesOn",
           "platform": "X/Twitter"
         },
         {
-          "title": "Botox",
+          "title": "#STAYsLoveCHANGBIN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Botox",
+          "url": "https://twitter.com/search?q=%23STAYsLoveCHANGBIN",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Justin Crawford",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Justin%20Crawford",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Chani",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Chani",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "southwest emergency flight diversion",
+          "title": "albania",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fever schedule",
+          "title": "brandon marsh",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what",
-          "traffic": "5000",
+          "title": "angel",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states federal judge",
-          "traffic": "500",
+          "title": "nick kurtz",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ayo edebiri",
+          "title": "kris jenner",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luke wilson",
+          "title": "ohio horror house",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cristina sanz",
-          "traffic": "200",
+          "title": "dillon dingler",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kylie jenner pink hair",
+          "title": "royals - mets",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chase burns",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bricks and minifigs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "darrell sheets",
+          "title": "cs2 update",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
