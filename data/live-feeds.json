@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T11:24:21.891987+00:00",
+  "updatedAt": "2026-07-10T13:26:02.984263+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#FridayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FridayFeeling",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FridayFeeling",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RaisingKanan",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RaisingKanan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MSI2026",
+          "title": "#FridayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MSI2026",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "FuelCell",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=FuelCell",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Marvin",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marvin",
+          "url": "https://twitter.com/search?q=%23FridayMotivation",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "emily ratajkowski",
+          "title": "jamie pollard",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "friday",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indw vs en-w",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kia telluride fire recall",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryson dechambeau",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill simmons lebron james cavs",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scottish open tv coverage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cincinnati weather",
+          "title": "olivia fery",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hegseth beard policy",
+          "title": "lenin movie review",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kathy griffin",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wyatt russell goldie hawn kurt russell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hardrock 100",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fery",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peter capaldi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lithuania",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paris riot",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
