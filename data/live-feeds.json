@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T17:45:51.314452+00:00",
+  "updatedAt": "2026-07-10T19:24:19.666610+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#วาดฝันวันวิวาห์EP4",
+          "title": "#teenager",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP4",
+          "url": "https://twitter.com/search?q=%23teenager",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenager",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenager",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#momson",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23momson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sinner",
+          "title": "Secretary Rubio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sinner",
+          "url": "https://twitter.com/search?q=Secretary%20Rubio",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Djokovic",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Djokovic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "air canada plane montreal airport",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "immigration",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike boynton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna wintour",
+          "title": "jeremy doku",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karim adeyemi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corte suprema",
+          "title": "dani olmo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cole hauser",
+          "title": "lamine yamal age",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doku",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how old is lamine yamal",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aymeric laporte",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colin kaepernick",
+          "title": "what color is spain wearing today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "los angeles weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor swift nyc wedding fees",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tielemans",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cory sandhagen",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abc nbc cbs july ratings",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
