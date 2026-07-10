@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T22:49:12.741716+00:00",
+  "updatedAt": "2026-07-10T00:02:51.193950+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tyler",
+          "title": "Bryce Harper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyler",
+          "url": "https://twitter.com/search?q=Bryce%20Harper",
           "platform": "X/Twitter"
         },
         {
-          "title": "Black Ops 2",
+          "title": "Catholic Charities",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Black%20Ops%202",
+          "url": "https://twitter.com/search?q=Catholic%20Charities",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "homerun derby 2026",
-          "traffic": "200",
+          "title": "brady singer",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pilot jumps out of plane",
-          "traffic": "200",
+          "title": "jake rogers",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners vs marlins",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sixers summer league",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "larry millete",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cuartos de final mundial 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "football games today",
+          "title": "bobby flay",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ladera ranch fire",
+          "title": "ms now",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "méxico",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers game",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goleadores del mundial 2026",
+          "title": "storm vs dream",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryce miller",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ester exposito",
-          "traffic": "200",
+          "title": "victor marx",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex stock ipo",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
