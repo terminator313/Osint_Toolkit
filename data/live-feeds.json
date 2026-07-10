@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T21:59:59.729760+00:00",
+  "updatedAt": "2026-07-10T23:07:34.538243+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#mcrlondon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23mcrlondon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dr. Phil",
+          "title": "frank iero",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dr.%20Phil",
+          "url": "https://twitter.com/search?q=frank%20iero",
           "platform": "X/Twitter"
         },
         {
-          "title": "Witsel",
+          "title": "Fabian Ruiz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Witsel",
+          "url": "https://twitter.com/search?q=Fabian%20Ruiz",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "bam adebayo",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler herro",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cleveland cavaliers lebron james",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina vs suiza",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france vs spain odds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "timberwolves hornets nets bulls trade",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spurs announcer fired",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elaine chao",
+          "title": "victor wembanyama",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sheinelle jones",
-          "traffic": "1000",
+          "title": "athletics vs white sox",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mikal bridges",
+          "title": "tampa weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nirav shah",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "valkyries vs sun",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather tampa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "austin weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fetterman mccormick joint fundraising committee",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uap",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "klystron 9",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
