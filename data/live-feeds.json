@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T15:54:27.356665+00:00",
+  "updatedAt": "2026-07-10T17:45:51.314452+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LastFourWatched",
+          "title": "#teenager",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "url": "https://twitter.com/search?q=%23teenager",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zverev",
+          "title": "#momson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zverev",
+          "url": "https://twitter.com/search?q=%23momson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Letterboxd",
+          "title": "Sinner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Letterboxd",
+          "url": "https://twitter.com/search?q=Sinner",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "indiana fever sophie cunningham",
+          "title": "air canada plane montreal airport",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos alcaraz",
+          "title": "immigration",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl top 100",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mary stoiana",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jorge jesus",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chase elliott",
+          "title": "mike boynton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katy perry",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "housing bill unsigned trump",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carnival new cruise ship 2029",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "h-1b visa",
+          "title": "anna wintour",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karim adeyemi",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "corte suprema",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cole hauser",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colin kaepernick",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cory sandhagen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abc nbc cbs july ratings",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
