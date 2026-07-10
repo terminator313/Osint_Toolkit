@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T00:02:51.193950+00:00",
+  "updatedAt": "2026-07-10T04:32:37.738095+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FRAMAR",
+          "title": "#bb28",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAMAR",
+          "url": "https://twitter.com/search?q=%23bb28",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIFAworldcupFootball",
+          "title": "#ValkoWasFramed",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIFAworldcupFootball",
+          "url": "https://twitter.com/search?q=%23ValkoWasFramed",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FRAvsMAR",
+          "title": "#TheRealMe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAvsMAR",
+          "url": "https://twitter.com/search?q=%23TheRealMe",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bryce Harper",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bryce%20Harper",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Catholic Charities",
+          "title": "#BigBrother",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Catholic%20Charities",
+          "url": "https://twitter.com/search?q=%23BigBrother",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brady singer",
+          "title": "tiffany haddish",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jake rogers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bobby flay",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ms now",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "méxico",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers game",
+          "title": "carla leite",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm vs dream",
+          "title": "future the real me",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah waddingham",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clippers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres game",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryce miller",
+          "title": "better call saul",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gray whales",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victor marx",
+          "title": "maxime raynaud",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex stock ipo",
-          "traffic": "500",
+          "title": "terrance mckinney",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
