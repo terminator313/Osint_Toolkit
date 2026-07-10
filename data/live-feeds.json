@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T08:20:33.388619+00:00",
+  "updatedAt": "2026-07-10T11:24:21.891987+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RaisingKanan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaisingKanan",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ValkoWasFramed",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ValkoWasFramed",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheRealMe",
+          "title": "#RaisingKanan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheRealMe",
+          "url": "https://twitter.com/search?q=%23RaisingKanan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bb28",
+          "title": "#MSI2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bb28",
+          "url": "https://twitter.com/search?q=%23MSI2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wagler",
+          "title": "FuelCell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wagler",
+          "url": "https://twitter.com/search?q=FuelCell",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Marvin",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Marvin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "joe rogan",
+          "title": "emily ratajkowski",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pitch black release date",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luka dončić",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stranger things season 5",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el nino hurricane season",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "台风路径",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new subdivisions",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flight status",
+          "title": "friday",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "台风",
+          "title": "indw vs en-w",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kia telluride fire recall",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bayeux tapestry",
+          "title": "bryson dechambeau",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nashville weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill simmons lebron james cavs",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottish open tv coverage",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cincinnati weather",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hegseth beard policy",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
