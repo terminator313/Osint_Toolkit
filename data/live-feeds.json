@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T20:48:50.527156+00:00",
+  "updatedAt": "2026-07-10T21:59:59.729760+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Spain",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Spain",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#teenager",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23teenager",
           "platform": "X/Twitter"
         },
         {
-          "title": "Olmo",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Olmo",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Michael Oliver",
+          "title": "Dr. Phil",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Michael%20Oliver",
+          "url": "https://twitter.com/search?q=Dr.%20Phil",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Witsel",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Witsel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "senne lammens",
-          "traffic": "10000",
+          "title": "bam adebayo",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "belgium goalie",
+          "title": "tyler herro",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cleveland cavaliers lebron james",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dwyane wade",
+          "title": "argentina vs suiza",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tammy duckworth",
+          "title": "france vs spain odds",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "timberwolves hornets nets bulls trade",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ferran torres",
+          "title": "spurs announcer fired",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elaine chao",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "myles garrett",
+          "title": "sheinelle jones",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "el niño weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kingston preyear",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "belgium players",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "norway england",
+          "title": "mikal bridges",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
