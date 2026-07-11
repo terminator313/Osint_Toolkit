@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T12:31:44.686718+00:00",
+  "updatedAt": "2026-07-11T14:20:58.541975+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SaturdayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ValkoIsLoved",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ValkoIsLoved",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#MSI2026",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MSI2026",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "Benny",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Benny",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "SB19 HEADLINES OPM",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=SB19%20HEADLINES%20OPM",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "paula badosa",
+          "title": "big",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeline vandromme",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hairstyle",
+          "title": "cricbuzz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gen z years",
-          "traffic": "100",
+          "title": "abigail thorn",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahamas plane crash",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gordie howe international bridge",
+          "title": "evian championship",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "linda noskova",
-          "traffic": "200",
+          "title": "copa mundial de fútbol",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dermot murnaghan",
-          "traffic": "200",
+          "title": "supernatural",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "massachusetts beach swimming closures",
-          "traffic": "100",
+          "title": "federico cina",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tour de france stage 8",
-          "traffic": "100",
+          "title": "mary-kate and ashley olsen",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kerri greenidge",
+          "title": "ms rachel",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
