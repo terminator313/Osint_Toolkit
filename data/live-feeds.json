@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T16:28:01.137559+00:00",
+  "updatedAt": "2026-07-11T17:31:02.517883+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#tvlspoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23tvlspoilers",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PeachAndMeSeriesEP1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP1",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HWCafe",
+          "title": "Jayden Adams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HWCafe",
+          "url": "https://twitter.com/search?q=Jayden%20Adams",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "#MLBDraft",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Benny",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Benny",
+          "url": "https://twitter.com/search?q=%23MLBDraft",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "liberty vs lynx",
+          "title": "georgia lottery",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jesse bisiwu",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patricia heaton",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what time does norway play today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jos buttler",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim merlier",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "farid basharat",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlotte weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marion bartoli",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tormenta",
+          "title": "avengers doomsday",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quasi moon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "movies",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "levante - leganés",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bankruptcy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ferrari lewis hamilton 2027 contract",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air canada landing video montreal",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jake bauers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kate middleton",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
