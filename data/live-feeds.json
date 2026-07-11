@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T00:56:05.194458+00:00",
+  "updatedAt": "2026-07-11T04:12:15.009969+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#teenager",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenager",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESPBEL",
+          "title": "#bb28",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPBEL",
+          "url": "https://twitter.com/search?q=%23bb28",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ometv",
+          "title": "#TheLastDriveIn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ometv",
+          "url": "https://twitter.com/search?q=%23TheLastDriveIn",
           "platform": "X/Twitter"
         },
         {
-          "title": "Veto",
+          "title": "Mallory",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Veto",
+          "url": "https://twitter.com/search?q=Mallory",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dan Patrick",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dan%20Patrick",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fires near me",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bowling",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elly de la cruz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "appletv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler nickel",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bulls vs grizzlies summer league",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "best movies streaming now",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dutton ranch episodes",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees game today",
+          "title": "reese witherspoon",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiffany haddish",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amber alert",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rae burrell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nikita krylov",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luis rengifo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jazz chisholm jr.",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "austin wells",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gas station near me",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kike hernandez",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
