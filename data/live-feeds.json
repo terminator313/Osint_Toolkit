@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:13:18.346901+00:00",
+  "updatedAt": "2026-07-11T23:25:43.649038+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#tvlspoilers",
+          "title": "#ENGNOR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tvlspoilers",
+          "url": "https://twitter.com/search?q=%23ENGNOR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cody Durden",
+          "title": "#NORvsENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cody%20Durden",
+          "url": "https://twitter.com/search?q=%23NORvsENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "DESERT SONG",
+          "title": "Ryan Gandra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DESERT%20SONG",
+          "url": "https://twitter.com/search?q=Ryan%20Gandra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "thierry henry",
+          "title": "world cup extra time rules",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexi lalas",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zlatan",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saka",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "waymo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ibrahimovic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eberechi eze",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gable steveson ufc",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe rogan",
+          "title": "real madrid",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casey schmitt",
+          "title": "england soccer players",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "semi final world cup",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uk",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup overtime rules",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "derek hill",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khosla ventures",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trent grisham",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "masataka yoshida",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
