@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T20:08:54.546893+00:00",
+  "updatedAt": "2026-07-11T21:21:52.540687+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Trey Ebel",
+          "title": "Subway",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trey%20Ebel",
+          "url": "https://twitter.com/search?q=Subway",
           "platform": "X/Twitter"
         },
         {
-          "title": "Eric Booth Jr.",
+          "title": "Carter Beck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Eric%20Booth%20Jr.",
+          "url": "https://twitter.com/search?q=Carter%20Beck",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "carson wiggins",
-          "traffic": "500",
+          "title": "fox one",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "partido de hoy",
+          "title": "haaland soccer player",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fubo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thomas tuchel",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcus allen",
-          "traffic": "500",
+          "title": "ørjan nyland",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trey ebel",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carter beck",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cruz azul",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "san francisco 49ers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ace reese",
+          "title": "elliot anderson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cade townsend",
-          "traffic": "1000",
+          "title": "foxsports",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coleman borthwick",
+          "title": "itvx",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "manchester city",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "erling haaland salary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
