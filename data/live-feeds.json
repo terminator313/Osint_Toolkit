@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:21:52.540687+00:00",
+  "updatedAt": "2026-07-11T22:13:18.346901+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MLBDraft",
+          "title": "#UFC329",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MLBDraft",
+          "url": "https://twitter.com/search?q=%23UFC329",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NORENG",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NORENG",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFC329",
+          "title": "Cody Durden",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC329",
+          "url": "https://twitter.com/search?q=Cody%20Durden",
           "platform": "X/Twitter"
         },
         {
-          "title": "Subway",
+          "title": "DESERT SONG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Subway",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Carter Beck",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carter%20Beck",
+          "url": "https://twitter.com/search?q=DESERT%20SONG",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fox one",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haaland soccer player",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fubo",
+          "title": "thierry henry",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thomas tuchel",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ørjan nyland",
+          "title": "alexi lalas",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elliot anderson",
+          "title": "zlatan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saka",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "waymo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ibrahimovic",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eberechi eze",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gable steveson ufc",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe rogan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxsports",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "itvx",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manchester city",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "erling haaland salary",
-          "traffic": "500",
+          "title": "casey schmitt",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
