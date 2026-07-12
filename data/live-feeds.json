@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T18:26:28.709339+00:00",
+  "updatedAt": "2026-07-12T19:38:42.668449+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Ralph Norman",
+          "title": "Never Nikki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ralph%20Norman",
+          "url": "https://twitter.com/search?q=Never%20Nikki",
           "platform": "X/Twitter"
         },
         {
-          "title": "Heart Attack",
+          "title": "Matthew Boyd",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Heart%20Attack",
+          "url": "https://twitter.com/search?q=Matthew%20Boyd",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mlb tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tarik skubal",
+          "title": "trump lawyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm vs mystics",
+          "title": "portland thorns vs seattle reign fc",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liberty vs tempo",
+          "title": "kaulig companies championship",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luke pettitte",
+          "title": "austin wells",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colin jost",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "orlando weather",
+          "title": "pickleball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harrison ford",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mardy fish",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wimbledon prize money",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "princess of wales",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach thornton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "married at first sight season 20",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "athletics vs white sox",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angels vs twins",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
