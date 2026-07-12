@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T20:42:46.411810+00:00",
+  "updatedAt": "2026-07-12T21:47:36.715441+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#DirtyWater",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DirtyWater",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SeductiveSunday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Olandria",
+          "title": "Zack Wheeler",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Olandria",
+          "url": "https://twitter.com/search?q=Zack%20Wheeler",
           "platform": "X/Twitter"
         },
         {
-          "title": "Congratulations Ben",
+          "title": "Bello",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Congratulations%20Ben",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tapper",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tapper",
+          "url": "https://twitter.com/search?q=Bello",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "austin reaves",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nwsl",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alianza lima vs deportivo cali",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather houston",
+          "title": "danna paola",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets",
-          "traffic": "10000",
+          "title": "rangers game today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox",
-          "traffic": "5000",
+          "title": "fifa creator cup",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran attacks uae today",
-          "traffic": "5000",
+          "title": "cnbc worst states to live in",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patrick peterson",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dbacks - dodgers",
+          "title": "president trump plane security",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mackenzie scott",
+          "title": "dick vitale",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "toronto tempo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "law and order svu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dell curry",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ron johnson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
