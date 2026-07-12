@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:03:25.481701+00:00",
+  "updatedAt": "2026-07-12T04:51:04.125351+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NORENG",
+          "title": "#UFC239",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NORENG",
+          "url": "https://twitter.com/search?q=%23UFC239",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWCollision",
+          "title": "#ARGSUI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23ARGSUI",
           "platform": "X/Twitter"
         },
         {
-          "title": "Quiznos",
+          "title": "Aaron Rodgers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Quiznos",
+          "url": "https://twitter.com/search?q=Aaron%20Rodgers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Madueke",
+          "title": "Scaloni",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Madueke",
+          "url": "https://twitter.com/search?q=Scaloni",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "maradona",
+          "title": "fifa schedule 2026",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan garcia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dust advisory",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "enzo fernández",
+          "title": "dominick cruz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "slavery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thomas annunziata",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sinner vs zverev",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "murat yakin",
-          "traffic": "1000",
+          "title": "ben stiller",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diego maradona",
-          "traffic": "1000",
+          "title": "world cup bracket",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rodrigo de paul",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexis mac allister",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lionel messi wife",
+          "title": "lakers summer league roster",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gregor kobel",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina đấu với thụy sĩ",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jhoan duran",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
