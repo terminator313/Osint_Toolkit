@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T07:27:19.339100+00:00",
+  "updatedAt": "2026-07-12T09:27:04.609878+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFC239",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC239",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Toonami",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bison",
+          "title": "#MyAdventuresWithSuperman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bison",
+          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
           "platform": "X/Twitter"
         },
         {
-          "title": "Scaloni",
+          "title": "Grim Reaper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Scaloni",
+          "url": "https://twitter.com/search?q=Grim%20Reaper",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Vaxxed",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Vaxxed",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "mitch mcconnell",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nytimes",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump truth social",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix subscription",
+          "title": "notizie del mondo",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xero",
+          "title": "best movies to watch now",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "best movies on streaming",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "لیندسی گراهام",
+          "title": "taylor swift new album",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran qatar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "associated press",
+          "title": "météo cette semaine",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "notizie oggi",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "msi finals",
+          "title": "que ver en netflix",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new films hbo max july",
-          "traffic": "100",
+          "title": "tim scott",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wetter diese woche",
+          "title": "hle vs blg",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
