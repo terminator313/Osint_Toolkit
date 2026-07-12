@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T09:27:04.609878+00:00",
+  "updatedAt": "2026-07-12T10:54:07.691016+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HolyOfHoliesAgenda",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HolyOfHoliesAgenda",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BYDSEALION5DMixLingLingKwong",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BYDSEALION5DMixLingLingKwong",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#UFC329",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC329",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "John McCain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=John%20McCain",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MyAdventuresWithSuperman",
+          "title": "Paddy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Grim Reaper",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grim%20Reaper",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Vaxxed",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vaxxed",
+          "url": "https://twitter.com/search?q=Paddy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "notizie del mondo",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "best movies to watch now",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "best movies on streaming",
+          "title": "earthquake near me",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor swift new album",
-          "traffic": "100",
+          "title": "senate majority",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran qatar",
+          "title": "georgia lottery",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mass lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "météo cette semaine",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "notizie oggi",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "que ver en netflix",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim scott",
+          "title": "earthquake now",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hle vs blg",
+          "title": "earthquake",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rory mcilroy",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "space mirror",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather next week",
           "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cnn news",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
