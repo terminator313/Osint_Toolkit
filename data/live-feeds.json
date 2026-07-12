@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:44:45.840240+00:00",
+  "updatedAt": "2026-07-12T23:51:55.779237+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NicVansxLIV",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NicVansxLIV",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GCWMelee",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GCWMelee",
           "platform": "X/Twitter"
         },
         {
-          "title": "#holla",
+          "title": "#BadBoysDR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23holla",
+          "url": "https://twitter.com/search?q=%23BadBoysDR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Wimbledon",
+          "title": "Ashley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wimbledon",
+          "url": "https://twitter.com/search?q=Ashley",
           "platform": "X/Twitter"
         },
         {
-          "title": "Newspaper",
+          "title": "No IV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Newspaper",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Finley",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Finley",
+          "url": "https://twitter.com/search?q=No%20IV",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "graham norton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "china south china sea",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steven fisk",
+          "title": "scott peterson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uaw shawn fain federal probe",
+          "title": "frank vogel",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott pelley",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tucson weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica shepard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael j fox",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emelec - barcelona sc",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carson hocevar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seth rogen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "layoff",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sky vs wings",
+          "title": "arizona diamondbacks",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers vs diamondbacks",
-          "traffic": "2000",
+          "title": "azzi fudd",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quinn hughes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jays - padres",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
