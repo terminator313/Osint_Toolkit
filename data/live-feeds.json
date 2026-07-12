@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T19:38:42.668449+00:00",
+  "updatedAt": "2026-07-12T20:42:46.411810+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Olandria",
+          "title": "#Wimbledon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Olandria",
+          "url": "https://twitter.com/search?q=%23Wimbledon",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "#Olandria",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=%23Olandria",
           "platform": "X/Twitter"
         },
         {
-          "title": "Never Nikki",
+          "title": "Congratulations Ben",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Never%20Nikki",
+          "url": "https://twitter.com/search?q=Congratulations%20Ben",
           "platform": "X/Twitter"
         },
         {
-          "title": "Matthew Boyd",
+          "title": "Tapper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Matthew%20Boyd",
+          "url": "https://twitter.com/search?q=Tapper",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump lawyer",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portland thorns vs seattle reign fc",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kaulig companies championship",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "austin wells",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colin jost",
+          "title": "austin reaves",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pickleball",
+          "title": "nwsl",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alianza lima vs deportivo cali",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather houston",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harrison ford",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mardy fish",
+          "title": "mets",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wimbledon prize money",
-          "traffic": "1000",
+          "title": "red sox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "princess of wales",
-          "traffic": "500",
+          "title": "iran attacks uae today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick peterson",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dbacks - dodgers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mackenzie scott",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
