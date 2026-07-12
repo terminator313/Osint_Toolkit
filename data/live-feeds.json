@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T21:47:36.715441+00:00",
+  "updatedAt": "2026-07-12T22:44:45.840240+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GCWMelee",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GCWMelee",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#holla",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23holla",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Wimbledon",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Wimbledon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DirtyWater",
+          "title": "Newspaper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DirtyWater",
+          "url": "https://twitter.com/search?q=Newspaper",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Finley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Zack Wheeler",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zack%20Wheeler",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bello",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bello",
+          "url": "https://twitter.com/search?q=Finley",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "danna paola",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rangers game today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa creator cup",
+          "title": "graham norton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cnbc worst states to live in",
+          "title": "china south china sea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "steven fisk",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "president trump plane security",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dick vitale",
+          "title": "uaw shawn fain federal probe",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toronto tempo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "law and order svu",
+          "title": "emelec - barcelona sc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dell curry",
-          "traffic": "200",
+          "title": "carson hocevar",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ron johnson",
-          "traffic": "200",
+          "title": "seth rogen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "layoff",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sky vs wings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers vs diamondbacks",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
