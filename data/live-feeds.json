@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T17:29:11.069633+00:00",
+  "updatedAt": "2026-07-13T18:57:57.119229+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#TejRan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TejRan",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#jonita",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23jonita",
@@ -32,15 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "Tim Scott",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Event Horizon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Event%20Horizon",
+          "url": "https://twitter.com/search?q=Tim%20Scott",
           "platform": "X/Twitter"
         },
         {
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "russia",
+          "title": "illinois lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl top 100",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roger penske",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl top 100 players of 2026",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wi vs nz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maria sakkari",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new fallout game",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tokyo labrador lochaber rescue",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "houston weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james fishback",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "francia vs españa",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake now",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake los angeles",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "crm stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump irs lawsuit",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york knicks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaume munar",
+          "title": "san antonio spurs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
