@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T23:51:55.779237+00:00",
+  "updatedAt": "2026-07-13T02:35:42.443851+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NicVansxLIV",
+          "title": "#RHOA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NicVansxLIV",
+          "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWMelee",
+          "title": "#90DayFiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWMelee",
+          "url": "https://twitter.com/search?q=%2390DayFiance",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BadBoysDR",
+          "title": "#BaddiesUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BadBoysDR",
+          "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ashley",
+          "title": "CNBC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ashley",
+          "url": "https://twitter.com/search?q=CNBC",
           "platform": "X/Twitter"
         },
         {
-          "title": "No IV",
+          "title": "Will Riley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=No%20IV",
+          "url": "https://twitter.com/search?q=Will%20Riley",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "scott peterson",
+          "title": "aegon targaryen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haboob",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frank vogel",
+          "title": "rosie o'donnell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "geld",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankee stadium",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paul newman",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nba summer league scores",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "katie thurston",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott pelley",
+          "title": "when is the love island reunion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tucson weather",
+          "title": "nalyssa smith",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica shepard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael j fox",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arizona diamondbacks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "azzi fudd",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quinn hughes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays - padres",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
