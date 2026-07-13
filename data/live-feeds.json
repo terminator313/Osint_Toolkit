@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T12:29:30.587202+00:00",
+  "updatedAt": "2026-07-13T15:25:39.697197+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#jonita",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23jonita",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#个人女大学生",
+          "title": "#Rashmer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E4%B8%AA%E4%BA%BA%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F",
+          "url": "https://twitter.com/search?q=%23Rashmer",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayVibes",
+          "title": "Tom Cruise",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayVibes",
+          "url": "https://twitter.com/search?q=Tom%20Cruise",
           "platform": "X/Twitter"
         },
         {
-          "title": "Baleba",
+          "title": "#tommavi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Baleba",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ace of Spies",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ace%20of%20Spies",
+          "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "rachael ray",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cody williams",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño–southern oscillation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cuba news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justices barrett and kagan hearings",
+          "title": "darline graham",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago bears",
+          "title": "apple iphone 18 pro max",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "et stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tony romo",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gev stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "smr stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "palantir stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mta",
-          "traffic": "200",
+          "title": "amc stock",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charles iii",
-          "traffic": "500",
+          "title": "nio stock",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "%s",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kris humphries",
+          "title": "vxus",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
