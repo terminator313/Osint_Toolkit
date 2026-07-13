@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T02:35:42.443851+00:00",
+  "updatedAt": "2026-07-13T06:15:17.286424+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HOTD",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HOTD",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RHOA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#90DayFiance",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2390DayFiance",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSA",
+          "title": "Yankee Stadium",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSA",
+          "url": "https://twitter.com/search?q=Yankee%20Stadium",
           "platform": "X/Twitter"
         },
         {
-          "title": "CNBC",
+          "title": "Blaney",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=CNBC",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Will Riley",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Riley",
+          "url": "https://twitter.com/search?q=Blaney",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "aegon targaryen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haboob",
+          "title": "rihanna",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rosie o'donnell",
+          "title": "sam neill",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat wave",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "geld",
+          "title": "kyle larson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankee stadium",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul newman",
+          "title": "christopher bell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nba summer league scores",
+          "title": "tyler reddick",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "latest iphone rumors",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor swift new album",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pistons",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katie thurston",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when is the love island reunion",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nalyssa smith",
+          "title": "actualités aujourd'hui",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
