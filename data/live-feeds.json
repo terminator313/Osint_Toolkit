@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T18:57:57.119229+00:00",
+  "updatedAt": "2026-07-13T20:16:32.908031+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TejRan",
+          "title": "#SwiftDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#jonita",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jonita",
+          "url": "https://twitter.com/search?q=%23SwiftDay",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tim Scott",
+          "title": "#TejRan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tim%20Scott",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carrie",
+          "title": "Biddeford",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carrie",
+          "url": "https://twitter.com/search?q=Biddeford",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#jonita",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23jonita",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "illinois lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl top 100",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roger penske",
+          "title": "kylie jenner",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl top 100 players of 2026",
+          "title": "rob dieperink",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wi vs nz",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maria sakkari",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new fallout game",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tokyo labrador lochaber rescue",
+          "title": "amd",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "houston weather",
+          "title": "tom segura",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lewis hamilton",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "archie lilibet king charles meeting",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alycia parks",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peso mexicano",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san antonio spurs",
+          "title": "stat",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump jr.",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
