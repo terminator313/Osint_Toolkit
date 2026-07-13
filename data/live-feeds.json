@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T15:25:39.697197+00:00",
+  "updatedAt": "2026-07-13T17:29:11.069633+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Rashmer",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Rashmer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tom Cruise",
+          "title": "#TejRan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tom%20Cruise",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tommavi",
+          "title": "Event Horizon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
+          "url": "https://twitter.com/search?q=Event%20Horizon",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Carrie",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Carrie",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "darline graham",
-          "traffic": "1000",
+          "title": "russia",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 18 pro max",
+          "title": "james fishback",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "et stock",
+          "title": "francia vs españa",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tony romo",
+          "title": "earthquake now",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake los angeles",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crm stock",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gev stock",
-          "traffic": "100",
+          "title": "donald trump irs lawsuit",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "smr stock",
-          "traffic": "100",
+          "title": "new york knicks",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "palantir stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nio stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vxus",
-          "traffic": "200",
+          "title": "jaume munar",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
