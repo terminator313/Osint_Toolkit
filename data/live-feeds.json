@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T22:29:37.418699+00:00",
+  "updatedAt": "2026-07-13T23:28:07.454486+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SwiftDay",
+          "title": "#tommavi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SwiftDay",
+          "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Nepotism",
+          "title": "Debbie Dingle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nepotism",
+          "url": "https://twitter.com/search?q=Debbie%20Dingle",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tommavi",
+          "title": "#jonita",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
+          "url": "https://twitter.com/search?q=%23jonita",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pete hegseth pentagon doj leak taskforce",
-          "traffic": "200",
+          "title": "netflix",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "munetaka murakami",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ps plus extra july 2026",
+          "title": "junior caminero",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cboe volatility index",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "college basketball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince harry family traditions diana",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ledson fire",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom herman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ziaire williams",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kfc popcorn chicken",
+          "title": "all american",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "albert pujols",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix free trial",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barry bonds",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ios 27 public beta",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daytime emmy nominations 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plane crash today",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plane crash",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
