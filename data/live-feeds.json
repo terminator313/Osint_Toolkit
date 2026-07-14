@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T00:54:00.498696+00:00",
+  "updatedAt": "2026-07-14T03:55:04.430258+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWTSNextPro",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWTSNextPro",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AllStarGame",
+          "title": "#STLCards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AllStarGame",
+          "url": "https://twitter.com/search?q=%23STLCards",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kobe Johnson",
+          "title": "Lyra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kobe%20Johnson",
+          "url": "https://twitter.com/search?q=Lyra",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gulf of Mexico",
+          "title": "Ben Rice",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gulf%20of%20Mexico",
+          "url": "https://twitter.com/search?q=Ben%20Rice",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "celtics news",
-          "traffic": "500",
+          "title": "halo project ekur",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aaron judge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oba femi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "plane crashed",
+          "title": "christopher nolan",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "william contreras",
+          "title": "马兴瑞",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russell westbrook",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wilson contreras",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cash app state attorneys settlement",
+          "title": "trey alexander",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tv guide",
+          "title": "tzuyu",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago bulls",
+          "title": "bulls summer league game",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gen z years",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dewanna bonner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hyundai ev battery defect recall",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ricky alvarez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
