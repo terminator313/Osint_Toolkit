@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T03:55:04.430258+00:00",
+  "updatedAt": "2026-07-14T06:08:59.377993+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Lyra",
+          "title": "Seth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lyra",
+          "url": "https://twitter.com/search?q=Seth",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ben Rice",
+          "title": "Contreras",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ben%20Rice",
+          "url": "https://twitter.com/search?q=Contreras",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "halo project ekur",
+          "title": "météo demain",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher nolan",
+          "title": "stock market news today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "马兴瑞",
+          "title": "agenus",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trey alexander",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tzuyu",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bulls summer league game",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gen z years",
+          "title": "nachrichten heute",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dewanna bonner",
+          "title": "what is new on netflix",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what is a heat index",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "latest iphone rumors",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup qualifiers schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hyundai ev battery defect recall",
+          "title": "cryptocurrency trading",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ricky alvarez",
-          "traffic": "500",
+          "title": "lottery results today",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
