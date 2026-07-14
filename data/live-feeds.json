@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T08:35:09.762478+00:00",
+  "updatedAt": "2026-07-14T10:43:12.344878+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "$TRUMPCOIN",
+          "title": "Seth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24TRUMPCOIN",
+          "url": "https://twitter.com/search?q=Seth",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "netflix top movies right now",
-          "traffic": "500",
+          "title": "jpm stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "h&m",
-          "traffic": "1000",
+          "title": "flyers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what is a heat dome",
-          "traffic": "500",
+          "title": "ct lottery",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "notizie del mondo",
-          "traffic": "1000",
+          "title": "powerball",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tennis scores today",
-          "traffic": "1000",
+          "title": "howard lutnick",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "influencer marketing",
-          "traffic": "1000",
+          "title": "aviso de calor",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "météo demain",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stock market news today",
+          "title": "eng vs ind",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nachrichten heute",
-          "traffic": "1000",
+          "title": "christopher nolan matt damon the odyssey",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "best streaming services",
-          "traffic": "2000",
+          "title": "san antonio weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bastille day 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
