@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:08:57.883384+00:00",
+  "updatedAt": "2026-07-14T21:30:10.732843+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RTXPowersPlay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FRAESP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FRAESP",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FIFAWordlCup2026",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FIFAWordlCup2026",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Jeffries",
+          "title": "Damn France",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jeffries",
+          "url": "https://twitter.com/search?q=Damn%20France",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BeyondTheGates",
+          "title": "Pedri",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BeyondTheGates",
+          "url": "https://twitter.com/search?q=Pedri",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "world cup score",
-          "traffic": "200000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mls",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "where is the next world cup 2030",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saliba injury",
+          "title": "fifa games",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fbi agents lindsey graham home",
-          "traffic": "1000",
+          "title": "barcelona",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taco bell parasite outbreak",
-          "traffic": "20000",
+          "title": "mbappe age",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unai simon",
+          "title": "inglaterra vs argentina",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2022 world cup final",
+          "title": "world cup winners list",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "national defense authorization act vote",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jules koundé",
-          "traffic": "500",
+          "title": "falklands war",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ballon d'or winners",
-          "traffic": "500",
+          "title": "has england ever won the world cup",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mandy matney contempt order",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lamine yamal parents",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
