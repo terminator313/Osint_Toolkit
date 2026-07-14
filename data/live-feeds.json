@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:38:05.092417+00:00",
+  "updatedAt": "2026-07-14T20:08:57.883384+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxAmazon",
+          "title": "#FRAESP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxAmazon",
+          "url": "https://twitter.com/search?q=%23FRAESP",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Johnson",
+          "title": "Jeffries",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
+          "url": "https://twitter.com/search?q=Jeffries",
           "platform": "X/Twitter"
         },
         {
-          "title": "Times Square",
+          "title": "#BeyondTheGates",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Times%20Square",
+          "url": "https://twitter.com/search?q=%23BeyondTheGates",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "francia - españa",
+          "title": "world cup score",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mls",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where is the next world cup 2030",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saliba injury",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fbi agents lindsey graham home",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taco bell parasite outbreak",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "unai simon",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sully sullenberger",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xfinity 2023 cyber breach settlement",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noah kahan chicago",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sndk stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lucid",
+          "title": "2022 world cup final",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kash patel",
-          "traffic": "1000",
+          "title": "jules koundé",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaime faria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what time is world cup game today",
-          "traffic": "1000",
+          "title": "ballon d'or winners",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
