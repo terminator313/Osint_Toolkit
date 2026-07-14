@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:33:45.649324+00:00",
+  "updatedAt": "2026-07-14T23:52:16.386510+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESPFRA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPFRA",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ChilisinSeattle",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ChilisinSeattle",
           "platform": "X/Twitter"
         },
         {
-          "title": "Man of Tomorrow",
+          "title": "Mike Johnson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Man%20of%20Tomorrow",
+          "url": "https://twitter.com/search?q=Mike%20Johnson",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "England or Argentina",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=England%20or%20Argentina",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mystics vs tempo",
+          "title": "marina mabrey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "why is the sun orange today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump prime-time address thursday",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tikey hayes",
+          "title": "once upon a time in hollywood",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taco bell cyclosporiasis",
+          "title": "sonia citron",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt miller",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex rodriguez",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chelsea gray",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mahmoud ahmadinejad",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david ortiz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris sale",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "landon donovan",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jameis winston",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "senate democrats ndaa blockage",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "star trek mtg",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aircraft pilot",
-          "traffic": "10000",
+          "title": "h&m",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
