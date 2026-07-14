@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T15:56:06.212371+00:00",
+  "updatedAt": "2026-07-14T17:14:52.007170+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RTXPowersPlay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ChilisinSeattle",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ChilisinSeattle",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxTIME100",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxTIME100",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayMotivation",
+          "title": "Times Square",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=Times%20Square",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PortfolioDay",
+          "title": "Jeffries",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PortfolioDay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Elena Kagan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Elena%20Kagan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tony Gilroy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tony%20Gilroy",
+          "url": "https://twitter.com/search?q=Jeffries",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "portland fire",
-          "traffic": "200",
+          "title": "broadcom stock",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "suni lee",
-          "traffic": "200",
+          "title": "joe amabile early stage glioma",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whoopi goldberg",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the mandalorian and grogu digital release",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ashley hinson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gervonta davis",
+          "title": "oracle stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amy coney barrett",
-          "traffic": "1000",
+          "title": "zara",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dubai uae",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ncis new york",
+          "title": "amd stock price",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john leguizamo",
+          "title": "ally",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sebastian baez",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paula badosa",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "v",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "e jean carroll",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
