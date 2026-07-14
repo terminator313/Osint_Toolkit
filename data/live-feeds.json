@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T23:28:07.454486+00:00",
+  "updatedAt": "2026-07-14T00:54:00.498696+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Rashmer",
+          "title": "#HRDerby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Rashmer",
+          "url": "https://twitter.com/search?q=%23HRDerby",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tommavi",
+          "title": "#DWTSNextPro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
+          "url": "https://twitter.com/search?q=%23DWTSNextPro",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "#AllStarGame",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
+          "url": "https://twitter.com/search?q=%23AllStarGame",
           "platform": "X/Twitter"
         },
         {
-          "title": "Debbie Dingle",
+          "title": "Kobe Johnson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Debbie%20Dingle",
+          "url": "https://twitter.com/search?q=Kobe%20Johnson",
           "platform": "X/Twitter"
         },
         {
-          "title": "#jonita",
+          "title": "Gulf of Mexico",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jonita",
+          "url": "https://twitter.com/search?q=Gulf%20of%20Mexico",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "netflix",
-          "traffic": "10000",
+          "title": "celtics news",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "junior caminero",
-          "traffic": "1000",
+          "title": "aaron judge",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "all american",
+          "title": "oba femi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plane crashed",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "albert pujols",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix free trial",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barry bonds",
+          "title": "william contreras",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ios 27 public beta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daytime emmy nominations 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "plane crash today",
+          "title": "russell westbrook",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "plane crash",
+          "title": "wilson contreras",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cash app state attorneys settlement",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tv guide",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicago bulls",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
