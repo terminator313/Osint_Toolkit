@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T21:30:10.732843+00:00",
+  "updatedAt": "2026-07-14T22:33:45.649324+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#ESPFRA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ESPFRA",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ChilisinSeattle",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ChilisinSeattle",
           "platform": "X/Twitter"
         },
         {
-          "title": "Damn France",
+          "title": "Man of Tomorrow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Damn%20France",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Pedri",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pedri",
+          "url": "https://twitter.com/search?q=Man%20of%20Tomorrow",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fifa games",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barcelona",
+          "title": "mystics vs tempo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mbappe age",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inglaterra vs argentina",
+          "title": "why is the sun orange today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup winners list",
+          "title": "trump prime-time address thursday",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national defense authorization act vote",
-          "traffic": "1000",
+          "title": "tikey hayes",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "falklands war",
+          "title": "taco bell cyclosporiasis",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "has england ever won the world cup",
-          "traffic": "1000",
+          "title": "landon donovan",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mandy matney contempt order",
-          "traffic": "1000",
+          "title": "jameis winston",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lamine yamal parents",
-          "traffic": "1000",
+          "title": "senate democrats ndaa blockage",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "star trek mtg",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aircraft pilot",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
