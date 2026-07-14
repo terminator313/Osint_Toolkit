@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T17:14:52.007170+00:00",
+  "updatedAt": "2026-07-14T18:38:05.092417+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#OlandriaxAmazon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OlandriaxAmazon",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ChilisinSeattle",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ChilisinSeattle",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxTIME100",
+          "title": "Mike Johnson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxTIME100",
+          "url": "https://twitter.com/search?q=Mike%20Johnson",
           "platform": "X/Twitter"
         },
         {
           "title": "Times Square",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Times%20Square",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jeffries",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jeffries",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "broadcom stock",
+          "title": "francia - españa",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sully sullenberger",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe amabile early stage glioma",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oracle stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zara",
+          "title": "xfinity 2023 cyber breach settlement",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amd stock price",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ally",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sebastian baez",
+          "title": "noah kahan chicago",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paula badosa",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "v",
+          "title": "michigan lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "e jean carroll",
+          "title": "sndk stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lucid",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kash patel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jaime faria",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what time is world cup game today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
