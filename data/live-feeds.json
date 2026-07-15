@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T16:19:38.992733+00:00",
+  "updatedAt": "2026-07-15T17:46:03.763569+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LGRW",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LGRW",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NationalHotDogDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalHotDogDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BuschCashCrop",
+          "title": "#FundHealthcareNotWars",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BuschCashCrop",
+          "url": "https://twitter.com/search?q=%23FundHealthcareNotWars",
           "platform": "X/Twitter"
         },
         {
-          "title": "Durbin",
+          "title": "#Rashmer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Durbin",
+          "url": "https://twitter.com/search?q=%23Rashmer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Adam Silver",
+          "title": "Ossoff",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Adam%20Silver",
+          "url": "https://twitter.com/search?q=Ossoff",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TejRan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "michael weatherly",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bzzr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "octavia spencer",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what time is the soccer game today",
+          "title": "deportación",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm vs sky",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dell stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lance mccullers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marsha blackburn",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "florida",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sylvester stallone",
+          "title": "derio - athletic",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paulina porizkova",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick shirley",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patti labelle mlb anthem performance",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the odyssey",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lyon - servette",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natisha hiedeman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "katie britt",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sparks vs lynx",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
