@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T12:51:07.274129+00:00",
+  "updatedAt": "2026-07-15T14:47:55.285209+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#LGRW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LGRW",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TAGHeuerxFaye",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TAGHeuerxFaye",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "#WednesdayWisdom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayVibes",
+          "title": "Chris Ilitch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=Chris%20Ilitch",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mullin",
+          "title": "Matt Reeves",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mullin",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Mikoto",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mikoto",
+          "url": "https://twitter.com/search?q=Matt%20Reeves",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "prince harry news",
+          "title": "keltie knight",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nhl schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sylvester stallone",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyrannosaurus rex fossil",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ppi",
+          "title": "the batman part ii",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "love island winners 2026",
+          "title": "the challenge season 42",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west indies vs ireland",
-          "traffic": "200",
+          "title": "the batman 2",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wednesday",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trinity tatum",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arthur rinderknech",
+          "title": "retirement",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "current mortgage rates",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage rates",
+          "title": "zimbabwe vs bangladesh",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wildfire map",
-          "traffic": "200",
+          "title": "prince harry, duke of sussex",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
