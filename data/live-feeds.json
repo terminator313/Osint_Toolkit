@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T20:32:10.646558+00:00",
+  "updatedAt": "2026-07-15T21:58:03.846262+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalHotDogDay",
+          "title": "#ENGvsARG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalHotDogDay",
+          "url": "https://twitter.com/search?q=%23ENGvsARG",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Ossoff",
+          "title": "Blanche",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ossoff",
+          "url": "https://twitter.com/search?q=Blanche",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pokemon Center",
+          "title": "Lionel Messi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pokemon%20Center",
+          "url": "https://twitter.com/search?q=Lionel%20Messi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "david beckham",
-          "traffic": "5000",
+          "title": "lamine yamal",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cristian romero",
-          "traffic": "500",
+          "title": "drop site news",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "beckham",
-          "traffic": "5000",
+          "title": "messi stats",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the challenge cutthroat season 42 cast",
+          "title": "vamos argentina",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "messi jersey argentina",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "next world cup game",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "special forces season 5 cast",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andres cantor",
+          "title": "league of legends",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will grier",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reflect orbital",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup final tickets",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how long is half time world cup",
+          "title": "world cup 2018",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spain vs argentina odds",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "howard stern layoffs",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
