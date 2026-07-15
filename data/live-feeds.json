@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T17:46:03.763569+00:00",
+  "updatedAt": "2026-07-15T19:07:25.159309+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FundHealthcareNotWars",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FundHealthcareNotWars",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Rashmer",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Rashmer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ossoff",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ossoff",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#TejRan",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TejRan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Stallone",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Stallone",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Pokemon Center",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Pokemon%20Center",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "deportación",
+          "title": "ps6",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "derio - athletic",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paulina porizkova",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick shirley",
+          "title": "law",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patti labelle mlb anthem performance",
+          "title": "잉글랜드 대 아르헨티나",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angleterre – argentine",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fcc approval reflect orbital mirror",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inglaterra - argentina",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the odyssey",
-          "traffic": "100000",
+          "title": "giuliano simeone",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lyon - servette",
+          "title": "air quality ct",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "natisha hiedeman",
+          "title": "steve burton daytime emmy nomination",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rep nancy mace immigration bill",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katie britt",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sparks vs lynx",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
