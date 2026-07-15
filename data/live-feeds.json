@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T14:47:55.285209+00:00",
+  "updatedAt": "2026-07-15T16:19:38.992733+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TAGHeuerxFaye",
+          "title": "#NationalHotDogDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TAGHeuerxFaye",
+          "url": "https://twitter.com/search?q=%23NationalHotDogDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayWisdom",
+          "title": "#BuschCashCrop",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+          "url": "https://twitter.com/search?q=%23BuschCashCrop",
           "platform": "X/Twitter"
         },
         {
-          "title": "Chris Ilitch",
+          "title": "Durbin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chris%20Ilitch",
+          "url": "https://twitter.com/search?q=Durbin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Matt Reeves",
+          "title": "Adam Silver",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Matt%20Reeves",
+          "url": "https://twitter.com/search?q=Adam%20Silver",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "keltie knight",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nhl schedule",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sylvester stallone",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyrannosaurus rex fossil",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the batman part ii",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the challenge season 42",
+          "title": "michael weatherly",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the batman 2",
+          "title": "bzzr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "octavia spencer",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "retirement",
+          "title": "what time is the soccer game today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zimbabwe vs bangladesh",
-          "traffic": "2000",
+          "title": "storm vs sky",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry, duke of sussex",
+          "title": "dell stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lance mccullers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marsha blackburn",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florida",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sylvester stallone",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
