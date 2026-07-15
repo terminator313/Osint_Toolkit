@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:07:25.159309+00:00",
+  "updatedAt": "2026-07-15T20:32:10.646558+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,27 +20,27 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ENGARG",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ENGARG",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NationalHotDogDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalHotDogDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Rashmer",
+          "title": "#ARGENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Rashmer",
+          "url": "https://twitter.com/search?q=%23ARGENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "Ossoff",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Stallone",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stallone",
+          "url": "https://twitter.com/search?q=Ossoff",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ps6",
+          "title": "david beckham",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cristian romero",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "law",
-          "traffic": "500",
+          "title": "beckham",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "잉글랜드 대 아르헨티나",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angleterre – argentine",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fcc approval reflect orbital mirror",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inglaterra - argentina",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giuliano simeone",
+          "title": "the challenge cutthroat season 42 cast",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air quality ct",
+          "title": "special forces season 5 cast",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "steve burton daytime emmy nomination",
+          "title": "andres cantor",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rep nancy mace immigration bill",
+          "title": "will grier",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reflect orbital",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup final tickets",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "how long is half time world cup",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
