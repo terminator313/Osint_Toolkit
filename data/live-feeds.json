@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T05:13:48.678047+00:00",
+  "updatedAt": "2026-07-15T07:28:13.825687+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AGT",
+          "title": "#SLM2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AGT",
+          "url": "https://twitter.com/search?q=%23SLM2",
           "platform": "X/Twitter"
         },
         {
-          "title": "Smoltz",
+          "title": "Tim Conway",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Smoltz",
+          "url": "https://twitter.com/search?q=Tim%20Conway",
           "platform": "X/Twitter"
         },
         {
-          "title": "fnaf 2",
+          "title": "Mullin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=fnaf%202",
+          "url": "https://twitter.com/search?q=Mullin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "molly shannon",
+          "title": "space exploration",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire pit",
+          "title": "climate change",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "météo demain",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "plex server problems",
+          "title": "best movies on netflix",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt damon",
-          "traffic": "5000",
+          "title": "disneyland ticket prices",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameron carr",
-          "traffic": "500",
+          "title": "cryptocurrency trading",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paypal stock",
-          "traffic": "500",
+          "title": "xero",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kim mathers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ike barinholtz",
+          "title": "nba standings",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robbie avila",
-          "traffic": "1000",
+          "title": "what is a heat dome",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aeropuerto",
-          "traffic": "500",
+          "title": "showdown",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
