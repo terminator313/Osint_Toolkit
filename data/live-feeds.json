@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:58:03.846262+00:00",
+  "updatedAt": "2026-07-15T23:01:25.488658+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Blanche",
+          "title": "ETBs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blanche",
+          "url": "https://twitter.com/search?q=ETBs",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lionel Messi",
+          "title": "Finalissima",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lionel%20Messi",
+          "url": "https://twitter.com/search?q=Finalissima",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "lamine yamal",
+          "title": "uvalde texas",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drop site news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "messi stats",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vamos argentina",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "messi jersey argentina",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "next world cup game",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "league of legends",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup 2018",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spain vs argentina odds",
+          "title": "trump irs audit immunity hearing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "howard stern layoffs",
+          "title": "dexter resurrection season 2 actors",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "r kelly",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage news daily",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "houston",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coast guard alcatraz boat search",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "french open",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hormuz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the rookie hulu extended cut",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
