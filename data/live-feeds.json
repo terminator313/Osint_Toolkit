@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T23:52:16.386510+00:00",
+  "updatedAt": "2026-07-15T02:12:41.796490+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FRAESP",
+          "title": "#AllStarGame",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAESP",
+          "url": "https://twitter.com/search?q=%23AllStarGame",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIFAWordlCup2026",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIFAWordlCup2026",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ChilisinSeattle",
+          "title": "#AGT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ChilisinSeattle",
+          "url": "https://twitter.com/search?q=%23AGT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Johnson",
+          "title": "Mike Trout",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Johnson",
+          "url": "https://twitter.com/search?q=Mike%20Trout",
           "platform": "X/Twitter"
         },
         {
-          "title": "England or Argentina",
+          "title": "Klay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=England%20or%20Argentina",
+          "url": "https://twitter.com/search?q=Klay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "marina mabrey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "once upon a time in hollywood",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sonia citron",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt miller",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex rodriguez",
+          "title": "foster griffin",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chelsea gray",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mahmoud ahmadinejad",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david ortiz",
+          "title": "daycare",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris sale",
+          "title": "nick martinez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mel b",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete buttigieg",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yandy diaz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunger games",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe ryan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "polymarket",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "h&m",
+          "title": "miguel vargas",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
