@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T20:55:00.347049+00:00",
+  "updatedAt": "2026-07-16T22:01:49.494014+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ZenMux",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ZenMux",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BetrPicks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ColombiaRevivalFlames",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ColombiaRevivalFlames",
           "platform": "X/Twitter"
         },
         {
-          "title": "#pastapass",
+          "title": "West Hollywood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23pastapass",
+          "url": "https://twitter.com/search?q=West%20Hollywood",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BeliftStopOverworkingArtists",
+          "title": "RIP MJ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BeliftStopOverworkingArtists",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Faldo",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Faldo",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gemini 3.5 Pro",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gemini%203.5%20Pro",
+          "url": "https://twitter.com/search?q=RIP%20MJ",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "isrg stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "white house teleprompter operator suspended",
+          "title": "lewis hamilton",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago fire",
+          "title": "chuck schumer",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nflx stock",
-          "traffic": "10000",
+          "title": "us military testosterone screening",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lioness season 3 taylor sheridan",
+          "title": "connor mcmichael",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "starship",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "student visas",
+          "title": "mets vs phillies",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bab al mandab strait",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prosecutor of the international criminal court",
+          "title": "taylor farms",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brad keller",
+          "title": "ella langley denim darling campaign",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house gop veterans bill delay",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lewis hamilton kids",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "birkenstock repetto ballet clogs",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
