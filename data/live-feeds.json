@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T04:07:07.459862+00:00",
+  "updatedAt": "2026-07-16T06:41:26.716880+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Fletcher",
+          "title": "Kaitlyn Chen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Fletcher",
+          "url": "https://twitter.com/search?q=Kaitlyn%20Chen",
           "platform": "X/Twitter"
         },
         {
-          "title": "Massie",
+          "title": "Bellingham",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Massie",
+          "url": "https://twitter.com/search?q=Bellingham",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "zendaya",
-          "traffic": "2000",
+          "title": "jennifer lawrence",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kim kardashian",
+          "title": "tsmc stock",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hyunjung lee",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryson dechambeau",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angelina jolie",
+          "title": "hal williams",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "britney spears",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new monkey species",
-          "traffic": "1000",
+          "title": "carl isom mcdaniel bison encounter",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aja wilson",
-          "traffic": "2000",
+          "title": "micah richards",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hunger games",
-          "traffic": "2000",
+          "title": "jd vance",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shilo sanders",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ilona maher",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "existential war",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john slattery",
+          "title": "kim kardashian 1973 ford bronco",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
