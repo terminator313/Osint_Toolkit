@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T11:16:20.189095+00:00",
+  "updatedAt": "2026-07-16T12:58:08.832948+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ENGARG",
+          "title": "#ThursdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGARG",
+          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ValkoIsValuable",
+          "title": "#VertuoWorldwithLingOrm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ValkoIsValuable",
+          "url": "https://twitter.com/search?q=%23VertuoWorldwithLingOrm",
           "platform": "X/Twitter"
         },
         {
-          "title": "España",
+          "title": "LINGORM X NESPRESSO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Espa%C3%B1a",
+          "url": "https://twitter.com/search?q=LINGORM%20X%20NESPRESSO",
           "platform": "X/Twitter"
         },
         {
-          "title": "Batman",
+          "title": "Lula",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Batman",
+          "url": "https://twitter.com/search?q=Lula",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "usa network",
+          "title": "how old is anne hathaway",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jay shetty",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air now gov",
-          "traffic": "100",
+          "title": "goes-19",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather forecast",
+          "title": "julia garner",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fires",
+          "title": "apple iphone 18 leaks",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james talarico",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "talarico",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robert macintyre",
+          "title": "alex smalley",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christina ricci",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jet",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colin farrell",
+          "title": "portland weather",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noaa hurricane",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather philadelphia",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will grier panthers retirement",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
