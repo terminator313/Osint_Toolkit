@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:01:49.494014+00:00",
+  "updatedAt": "2026-07-16T23:24:11.185660+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#AskBryce",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AskBryce",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BetrPicks",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ColombiaRevivalFlames",
+          "title": "Gallego",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ColombiaRevivalFlames",
+          "url": "https://twitter.com/search?q=Gallego",
           "platform": "X/Twitter"
         },
         {
-          "title": "West Hollywood",
+          "title": "Rubio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=West%20Hollywood",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "RIP MJ",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=RIP%20MJ",
+          "url": "https://twitter.com/search?q=Rubio",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lewis hamilton",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chuck schumer",
+          "title": "taylor frankie paul",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us military testosterone screening",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor mcmichael",
+          "title": "canelo alvarez on terence crawford",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets vs phillies",
-          "traffic": "5000",
+          "title": "mlb schedule",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor farms",
+          "title": "the lincoln lawyer season 5",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "francisco alvarez",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christian scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spider man brand new day release date",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what time is big brother on tonight",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ella langley denim darling campaign",
-          "traffic": "1000",
+          "title": "iphone 18 pro apple leaks",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "house gop veterans bill delay",
+          "title": "claude lemieux",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lewis hamilton kids",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "birkenstock repetto ballet clogs",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
