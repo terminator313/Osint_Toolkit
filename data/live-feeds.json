@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T19:40:15.851215+00:00",
+  "updatedAt": "2026-07-16T20:55:00.347049+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#个人女大学生",
+          "title": "#BeliftStopOverworkingArtists",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E4%B8%AA%E4%BA%BA%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F",
+          "url": "https://twitter.com/search?q=%23BeliftStopOverworkingArtists",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gary Trent",
+          "title": "Faldo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gary%20Trent",
+          "url": "https://twitter.com/search?q=Faldo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tyrese Haliburton",
+          "title": "Gemini 3.5 Pro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyrese%20Haliburton",
+          "url": "https://twitter.com/search?q=Gemini%203.5%20Pro",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "goog stock",
+          "title": "isrg stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "white house teleprompter operator suspended",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicago fire",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trey gowdy",
+          "title": "nflx stock",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lioness season 3 taylor sheridan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "samantha busch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boosie badazz",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john f. kennedy center for the performing arts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe root",
+          "title": "starship",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "verizon layoffs july 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "today",
+          "title": "student visas",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chloe fineman",
+          "title": "bab al mandab strait",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amber alert",
+          "title": "prosecutor of the international criminal court",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brad keller",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
