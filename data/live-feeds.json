@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T15:07:10.525886+00:00",
+  "updatedAt": "2026-07-16T16:47:57.758337+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UnidosPorVenezuela",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnidosPorVenezuela",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#thursdayvibes",
+          "title": "#AllRoundsOnBeckham",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23thursdayvibes",
+          "url": "https://twitter.com/search?q=%23AllRoundsOnBeckham",
           "platform": "X/Twitter"
         },
         {
-          "title": "Thirsty Thursday",
+          "title": "Kimi K3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
+          "url": "https://twitter.com/search?q=Kimi%20K3",
           "platform": "X/Twitter"
         },
         {
-          "title": "Thankful Thursday",
+          "title": "Low T",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thankful%20Thursday",
+          "url": "https://twitter.com/search?q=Low%20T",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "new england patriots",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander bublik",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nhl schedule release",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rklb stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "smh stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drake maye",
+          "title": "gary trent jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix stock",
+          "title": "chase burns",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "israel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "copa mundial de fútbol",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "henrik stenson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oracle stock",
+          "title": "nhl 27",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mitch mcconnell prolonged senate absence",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nbis stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "asts",
-          "traffic": "2000",
+          "title": "new jersey home meteorite fragments",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox fall sunday schedule",
-          "traffic": "2000",
+          "title": "spacex",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
