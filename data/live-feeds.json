@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T00:55:17.549741+00:00",
+  "updatedAt": "2026-07-16T04:07:07.459862+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ENGARG",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGARG",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#iubb",
+          "title": "#NextGenNYC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iubb",
+          "url": "https://twitter.com/search?q=%23NextGenNYC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cage",
+          "title": "Kyle Fletcher",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cage",
+          "url": "https://twitter.com/search?q=Kyle%20Fletcher",
           "platform": "X/Twitter"
         },
         {
-          "title": "The English",
+          "title": "Massie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20English",
+          "url": "https://twitter.com/search?q=Massie",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kelsey mitchell",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stephen curry",
+          "title": "zendaya",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasa exoplanet discovery beta pictoris",
+          "title": "kim kardashian",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "veronica burton",
+          "title": "angelina jolie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "submarine",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alysa liu",
+          "title": "new monkey species",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aliyah boston",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pentagon cuba military options",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cadillac ranch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maximum pleasure guaranteed tv show",
+          "title": "aja wilson",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunger games",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shilo sanders",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ilona maher",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "existential war",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john slattery",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
