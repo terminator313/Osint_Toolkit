@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:41:26.716880+00:00",
+  "updatedAt": "2026-07-16T09:11:34.177494+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
+          "title": "#VertuoWorldwithLingOrm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23VertuoWorldwithLingOrm",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NextGenNYC",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NextGenNYC",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kaitlyn Chen",
+          "title": "#hxh414",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kaitlyn%20Chen",
+          "url": "https://twitter.com/search?q=%23hxh414",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bellingham",
+          "title": "Streamer University",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bellingham",
+          "url": "https://twitter.com/search?q=Streamer%20University",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jennifer lawrence",
+          "title": "phil hellmuth",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scientists fight trump grant proposal",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sean combs star island sale",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "黄瑞雪",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tsmc stock",
+          "title": "what did jude bellingham say to messi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2026 年 fifa 世界杯",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hyunjung lee",
-          "traffic": "200",
+          "title": "vegetables",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryson dechambeau",
-          "traffic": "500",
+          "title": "swimming",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hal williams",
-          "traffic": "2000",
+          "title": "fortnite servers",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "britney spears",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carl isom mcdaniel bison encounter",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "micah richards",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jd vance",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kim kardashian 1973 ford bronco",
-          "traffic": "500",
+          "title": "movies",
+          "traffic": "200000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
