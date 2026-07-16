@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T12:58:08.832948+00:00",
+  "updatedAt": "2026-07-16T15:07:10.525886+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ThursdayMotivation",
+          "title": "#ThursdayThoughts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
+          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#UnidosPorVenezuela",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23UnidosPorVenezuela",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VertuoWorldwithLingOrm",
+          "title": "#thursdayvibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VertuoWorldwithLingOrm",
+          "url": "https://twitter.com/search?q=%23thursdayvibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "LINGORM X NESPRESSO",
+          "title": "Thirsty Thursday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=LINGORM%20X%20NESPRESSO",
+          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lula",
+          "title": "Thankful Thursday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lula",
+          "url": "https://twitter.com/search?q=Thankful%20Thursday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "how old is anne hathaway",
+          "title": "new england patriots",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jay shetty",
+          "title": "alexander bublik",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goes-19",
+          "title": "nhl schedule release",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rklb stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julia garner",
+          "title": "smh stock",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drake maye",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 18 leaks",
+          "title": "oracle stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "asts",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james talarico",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "talarico",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex smalley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christina ricci",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portland weather",
-          "traffic": "200",
+          "title": "fox fall sunday schedule",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
