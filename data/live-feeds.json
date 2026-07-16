@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:01:25.488658+00:00",
+  "updatedAt": "2026-07-16T00:55:17.549741+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGvsARG",
+          "title": "#ValkoIsValuable",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGvsARG",
+          "url": "https://twitter.com/search?q=%23ValkoIsValuable",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARGENG",
+          "title": "#iubb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARGENG",
+          "url": "https://twitter.com/search?q=%23iubb",
           "platform": "X/Twitter"
         },
         {
-          "title": "ETBs",
+          "title": "Cage",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ETBs",
+          "url": "https://twitter.com/search?q=Cage",
           "platform": "X/Twitter"
         },
         {
-          "title": "Finalissima",
+          "title": "The English",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Finalissima",
+          "url": "https://twitter.com/search?q=The%20English",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "uvalde texas",
-          "traffic": "10000",
+          "title": "kelsey mitchell",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump irs audit immunity hearing",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dexter resurrection season 2 actors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "r kelly",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage news daily",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "houston",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coast guard alcatraz boat search",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "french open",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hormuz",
+          "title": "stephen curry",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the rookie hulu extended cut",
-          "traffic": "5000",
+          "title": "nasa exoplanet discovery beta pictoris",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "veronica burton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "submarine",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alysa liu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aliyah boston",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pentagon cuba military options",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cadillac ranch",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maximum pleasure guaranteed tv show",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
