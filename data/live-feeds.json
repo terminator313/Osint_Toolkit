@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T04:14:38.153585+00:00",
+  "updatedAt": "2026-07-17T06:36:52.837157+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LoserTrumpsElectionLies",
+          "title": "#BTS_NORMAL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LoserTrumpsElectionLies",
+          "url": "https://twitter.com/search?q=%23BTS_NORMAL",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "#zzzSpecialProgram",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=%23zzzSpecialProgram",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arrests",
+          "title": "ABC and NBC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arrests",
+          "url": "https://twitter.com/search?q=ABC%20and%20NBC",
           "platform": "X/Twitter"
         },
         {
-          "title": "The 2020",
+          "title": "Devens",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%202020",
+          "url": "https://twitter.com/search?q=Devens",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "necaxa vs atlante f.c. standings",
-          "traffic": "2000",
+          "title": "veterans benefits bill",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what time does heartstopper forever come out",
+          "title": "oc fair",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trojan war",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elliot page",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yael padilla",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robin williams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the dodo",
+          "title": "technology news",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lebron james free agency decision",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "killing eve",
+          "title": "ryan garcia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elissa slotkin",
+          "title": "red flag (fire weather) warning",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "baker mayfield",
+          "title": "cable tv",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chivas",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dci scores",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daughter from hell",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
