@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:13:22.273510+00:00",
+  "updatedAt": "2026-07-17T17:37:03.456689+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#iufb",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23iufb",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Monshun Sales",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Monshun%20Sales",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#LastFourWatched",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LastFourWatched",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TheChi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LetterboxdFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "anime expeditions codes",
+          "title": "francesco molinari",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryson dechambeau scottie scheffler the open",
+          "title": "chiapas",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryson dechambeau",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "queen camilla",
-          "traffic": "2000",
+          "title": "alycia parks",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy fleetwood",
+          "title": "the east palace netflix review",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peter thiel",
+          "title": "secret lair stardew valley",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us canada panasonic toaster recall",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sara rodriguez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "georgia bureau of investigation",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tomorrowland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico earthquake",
+          "title": "rays vs red sox",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cruise ship",
+          "title": "stefanos tsitsipas",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "monshun sales",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
