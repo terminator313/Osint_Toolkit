@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:21:23.885840+00:00",
+  "updatedAt": "2026-07-17T22:16:56.285530+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BudSummerOf250",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BudSummerOf250",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#FursuitFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#TheOpen",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TheOpen",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hong",
+          "title": "#BudSummerOf250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hong",
+          "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChi",
+          "title": "#TheFive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
+          "url": "https://twitter.com/search?q=%23TheFive",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ashley Webb",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ashley%20Webb",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Move the 1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Move%20the%201",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ethan pocic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boat",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bethesda fallout 3",
+          "title": "trump international airport",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex molcan",
+          "title": "turkish airlines",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians game today",
+          "title": "kamaru usman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "public charge rule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anna leigh waters",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abdul el-sayed",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bison",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup 3rd place match",
+          "title": "bethesda fallout 3",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ford motor news",
-          "traffic": "2000",
+          "title": "mirror",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dick durbin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kick",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "america's most wanted",
+          "title": "boat",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
