@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T11:04:54.897679+00:00",
+  "updatedAt": "2026-07-17T12:42:07.086879+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#heartstopperforever",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23heartstopperforever",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tvlspoilers",
+          "title": "#DragRace",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tvlspoilers",
+          "url": "https://twitter.com/search?q=%23DragRace",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Meatloaf",
+          "title": "#heartstopperforever",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Meatloaf",
+          "url": "https://twitter.com/search?q=%23heartstopperforever",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ashley webb maine",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bangladesh vs zimbabwe",
+          "title": "william shatner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andy burnham",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "julia grabher",
+          "title": "pierceson coody",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "data center",
+          "title": "friday",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cost of living",
+          "title": "lebanon",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coca cola fairlife",
+          "title": "terence crawford",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "casper ruud",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yulia putintseva",
-          "traffic": "200",
+          "title": "arresto",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sheamus",
-          "traffic": "200",
+          "title": "luciano darderi",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "william, prince of wales",
-          "traffic": "200",
+          "title": "dallas cowboys",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nuno borges",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
