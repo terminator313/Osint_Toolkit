@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:04:11.549546+00:00",
+  "updatedAt": "2026-07-17T20:26:40.193194+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#ด้วงกับเธอที่Netflix",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88Netflix",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#วาดฝันวันวิวาห์EP5",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP5",
           "platform": "X/Twitter"
         },
         {
-          "title": "#iufb",
+          "title": "Ashley Webb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iufb",
+          "url": "https://twitter.com/search?q=Ashley%20Webb",
           "platform": "X/Twitter"
         },
         {
-          "title": "Josh Cribbs",
+          "title": "#TheChi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Josh%20Cribbs",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Home Alone 2",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Home%20Alone%202",
+          "url": "https://twitter.com/search?q=%23TheChi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hearts - rayo vallecano",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fox news iran",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madewell tj maxx sweater recall",
+          "title": "bears",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mortal kombat 2 hbo max",
+          "title": "will smith bilaal salaam dispute",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "armando rubio daughter arizona icu",
+          "title": "prince william emmy nominations",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usmnt mauricio pochettino future",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "besiktas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "petra marcinko",
+          "title": "red sox schedule",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "markwayne mullin dhs election security",
-          "traffic": "5000",
+          "title": "caleb durbin",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gainbridge fieldhouse garth brooks",
-          "traffic": "1000",
+          "title": "red sox score",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joseph ziegler bungie departure",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan gerard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paige lorenze",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
