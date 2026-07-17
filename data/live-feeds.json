@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T06:36:52.837157+00:00",
+  "updatedAt": "2026-07-17T09:06:47.841101+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TrumpSpeech",
+          "title": "#tvlspoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpSpeech",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#BTS_NORMAL",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTS_NORMAL",
+          "url": "https://twitter.com/search?q=%23tvlspoilers",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "ABC and NBC",
+          "title": "#BTS_NORMAL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ABC%20and%20NBC",
+          "url": "https://twitter.com/search?q=%23BTS_NORMAL",
           "platform": "X/Twitter"
         },
         {
-          "title": "Devens",
+          "title": "#TrumpSpeech",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Devens",
+          "url": "https://twitter.com/search?q=%23TrumpSpeech",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Nolan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Nolan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "veterans benefits bill",
-          "traffic": "10000",
+          "title": "weather today",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oc fair",
+          "title": "fairlife milk",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plot spoiler",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phone",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raphael collignon",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trojan war",
+          "title": "klystron 9",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "technology news",
-          "traffic": "1000",
+          "title": "news fitness",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan garcia",
+          "title": "sam nordquist",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red flag (fire weather) warning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cable tv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chivas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dci scores",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daughter from hell",
-          "traffic": "1000",
+          "title": "earthquake near me",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
