@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T00:59:24.135956+00:00",
+  "updatedAt": "2026-07-17T04:14:38.153585+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ZenMux",
+          "title": "#TrumpSpeech",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZenMux",
+          "url": "https://twitter.com/search?q=%23TrumpSpeech",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AskBryce",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AskBryce",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Newsmax",
+          "title": "Arrests",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Newsmax",
+          "url": "https://twitter.com/search?q=Arrests",
           "platform": "X/Twitter"
         },
         {
-          "title": "Starship",
+          "title": "The 2020",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Starship",
+          "url": "https://twitter.com/search?q=The%202020",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "juan soto",
+          "title": "necaxa vs atlante f.c. standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what time does heartstopper forever come out",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elliot page",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yael padilla",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robin williams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the dodo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe flacco",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pete buttigieg",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "necaxa vs atlante",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dalma maradona",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ohio lottery",
+          "title": "lebron james free agency decision",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west indies vs new zealand",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "project runway",
+          "title": "killing eve",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tv guide",
+          "title": "elissa slotkin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liberty vs wings",
-          "traffic": "10000",
+          "title": "baker mayfield",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
