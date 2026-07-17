@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:16:56.285530+00:00",
+  "updatedAt": "2026-07-17T23:22:31.434964+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheFive",
+          "title": "#BLOODSAGA_IN_DALLAS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
+          "url": "https://twitter.com/search?q=%23BLOODSAGA_IN_DALLAS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ashley Webb",
+          "title": "Odysseus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ashley%20Webb",
+          "url": "https://twitter.com/search?q=Odysseus",
           "platform": "X/Twitter"
         },
         {
-          "title": "Move the 1",
+          "title": "Mike Cox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Move%20the%201",
+          "url": "https://twitter.com/search?q=Mike%20Cox",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump international airport",
+          "title": "tom brady logan paul",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dream vs tempo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marlins vs brewers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "turkish airlines",
-          "traffic": "500",
+          "title": "tropical storm forecast florida",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kamaru usman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "public charge rule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna leigh waters",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abdul el-sayed",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bison",
+          "title": "chris johnson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bethesda fallout 3",
-          "traffic": "5000",
+          "title": "zachary chernicky",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mirror",
-          "traffic": "1000",
+          "title": "sparks vs sky",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boat",
-          "traffic": "1000",
+          "title": "crew gaines farm stand sold out",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fluminense vs bragantino",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "storm vs fever",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
