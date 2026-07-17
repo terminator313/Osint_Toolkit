@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T14:41:54.715834+00:00",
+  "updatedAt": "2026-07-17T16:13:22.273510+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldEmojiDay",
+          "title": "#TheChi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldEmojiDay",
+          "url": "https://twitter.com/search?q=%23TheChi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LetterboxdFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "shay mitchell",
+          "title": "anime expeditions codes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameron young",
+          "title": "bryson dechambeau scottie scheffler the open",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "queen camilla",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy fleetwood",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tomorrowland 2026",
+          "title": "peter thiel",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gainbridge fieldhouse",
+          "title": "sara rodriguez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oracle stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "smh stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity",
+          "title": "georgia bureau of investigation",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "voo stock",
-          "traffic": "1000",
+          "title": "tomorrowland",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aapl stock",
+          "title": "mexico earthquake",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cruise ship",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
