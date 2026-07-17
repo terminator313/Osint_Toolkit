@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T23:24:11.185660+00:00",
+  "updatedAt": "2026-07-17T00:59:24.135956+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LoserTrumpsElectionLies",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LoserTrumpsElectionLies",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AskBryce",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AskBryce",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BetrPicks",
+          "title": "Newsmax",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "url": "https://twitter.com/search?q=Newsmax",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gallego",
+          "title": "Starship",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gallego",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Rubio",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rubio",
+          "url": "https://twitter.com/search?q=Starship",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taylor frankie paul",
+          "title": "juan soto",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "canelo alvarez on terence crawford",
+          "title": "joe flacco",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb schedule",
-          "traffic": "1000",
+          "title": "pete buttigieg",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the lincoln lawyer season 5",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "francisco alvarez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian scott",
+          "title": "necaxa vs atlante",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spider man brand new day release date",
+          "title": "dalma maradona",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what time is big brother on tonight",
-          "traffic": "2000",
+          "title": "ohio lottery",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iphone 18 pro apple leaks",
+          "title": "west indies vs new zealand",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "project runway",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tv guide",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "liberty vs wings",
           "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "claude lemieux",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
