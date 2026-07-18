@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T23:22:31.434964+00:00",
+  "updatedAt": "2026-07-18T00:54:10.840526+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TheOpen",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheOpen",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BudSummerOf250",
+          "title": "#loveafterlockup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BudSummerOf250",
+          "url": "https://twitter.com/search?q=%23loveafterlockup",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BLOODSAGA_IN_DALLAS",
+          "title": "#asknattie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLOODSAGA_IN_DALLAS",
+          "url": "https://twitter.com/search?q=%23asknattie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Odysseus",
+          "title": "Bri Jones",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Odysseus",
+          "url": "https://twitter.com/search?q=Bri%20Jones",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Cox",
+          "title": "Roki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Cox",
+          "url": "https://twitter.com/search?q=Roki",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tom brady logan paul",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dream vs tempo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marlins vs brewers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tropical storm forecast florida",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris johnson",
+          "title": "león vs atlas",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zachary chernicky",
+          "title": "trey ebel",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sparks vs sky",
+          "title": "tigers vs angels",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crew gaines farm stand sold out",
+          "title": "hbo max raised by wolves",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fluminense vs bragantino",
+          "title": "hyundai recalls",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm vs fever",
-          "traffic": "10000",
+          "title": "scott peterson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luis madrigal",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saturday night main event",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wilyer abreu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atl. nacional vs deportivo táchira",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
