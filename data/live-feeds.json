@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T14:51:58.132197+00:00",
+  "updatedAt": "2026-07-18T15:54:55.845357+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Wildberries",
+          "title": "Jim Crow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wildberries",
+          "url": "https://twitter.com/search?q=Jim%20Crow",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayMotivation",
+          "title": "Brad Faxon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayMotivation",
+          "url": "https://twitter.com/search?q=Brad%20Faxon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "andrey rublev",
+          "title": "los angeles police department",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "old farmer's almanac fall weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "club friendlies",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "man united vs wrexham",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mamdani netanyahu",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mutv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grandparent",
+          "title": "seattle reign fc vs gotham",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "francesco molinari",
+          "title": "iran",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hugo dellien",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "notts county vs nottm forest",
+          "title": "ralph norman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karim khan",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flooding in texas",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "when is the world cup final 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackson suber",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy fleetwood",
-          "traffic": "2000",
+          "title": "james harden lebron james free agency",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
