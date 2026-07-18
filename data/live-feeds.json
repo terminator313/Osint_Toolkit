@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T17:55:06.247814+00:00",
+  "updatedAt": "2026-07-18T19:00:54.465562+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesEP2",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP2",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SNME",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PerthSantaConcertD1",
+          "title": "#CODxPleasures",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaConcertD1",
+          "url": "https://twitter.com/search?q=%23CODxPleasures",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HWCafe",
+          "title": "La Familia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HWCafe",
+          "url": "https://twitter.com/search?q=La%20Familia",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Severe Thunderstorm Watch",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Severe%20Thunderstorm%20Watch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "morgan rogers",
-          "traffic": "1000",
+          "title": "mets vs phillies",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan",
+          "title": "sam burns wife",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "severe thunderstorm watch",
-          "traffic": "200000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob gonzalez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan gerard",
+          "title": "braga - celta de vigo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bear steals golf clubs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leioa - athletic",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portland thorns vs denver summit",
+          "title": "anthony rizzo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kristen bell",
+          "title": "ausl",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jentry pace critical condition",
+          "title": "olot - rcd espanyol",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration usps ballot changes",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brendan carr",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "keith colburn",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dirty rain nyc",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
