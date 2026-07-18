@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T00:54:10.840526+00:00",
+  "updatedAt": "2026-07-18T03:53:17.578009+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#OPLive",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OPLive",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#OPNation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OPNation",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#loveafterlockup",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23loveafterlockup",
           "platform": "X/Twitter"
         },
         {
-          "title": "#asknattie",
+          "title": "Gerrit Cole",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23asknattie",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bri Jones",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bri%20Jones",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Roki",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roki",
+          "url": "https://twitter.com/search?q=Gerrit%20Cole",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "león vs atlas",
+          "title": "mega millions numbers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harry ford",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego padres",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ludwika paleta",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "helix apartments st louis park",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trey ebel",
+          "title": "justin jefferson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigers vs angels",
+          "title": "jennifer welch",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hbo max raised by wolves",
+          "title": "rabid bat",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hyundai recalls",
-          "traffic": "500",
+          "title": "inde navarrette",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott peterson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis madrigal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saturday night main event",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wilyer abreu",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atl. nacional vs deportivo táchira",
-          "traffic": "500",
+          "title": "trojan war",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
