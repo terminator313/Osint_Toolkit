@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T16:55:41.421548+00:00",
+  "updatedAt": "2026-07-18T17:55:06.247814+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#SNME",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SNME",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PerthSantaConcertD1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PerthSantaConcertD1",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lando",
+          "title": "#HWCafe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lando",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Zirkzee",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zirkzee",
+          "url": "https://twitter.com/search?q=%23HWCafe",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "boat",
+          "title": "morgan rogers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jordan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severe thunderstorm watch",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacob gonzalez",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan gerard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bear steals golf clubs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leioa - athletic",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paula badosa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denny sanford",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc theater",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tbt tournament",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs guardians",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlético petróleos de luanda - valencia c. f.",
+          "title": "portland thorns vs denver summit",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lebron james free agency odds",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ford bronco",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new delta flights to philippines",
+          "title": "kristen bell",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jentry pace critical condition",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
