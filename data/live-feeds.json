@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T03:53:17.578009+00:00",
+  "updatedAt": "2026-07-18T06:02:49.240245+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#PerthSantaConcertD1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PerthSantaConcertD1",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SmackDown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SmackDown",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPNation",
+          "title": "Grisham",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPNation",
+          "url": "https://twitter.com/search?q=Grisham",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveafterlockup",
+          "title": "Bryson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveafterlockup",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gerrit Cole",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gerrit%20Cole",
+          "url": "https://twitter.com/search?q=Bryson",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mega millions numbers",
+          "title": "emily willis now",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cal raleigh",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nyc tornado warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "손흥민",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harry ford",
+          "title": "kirby yates",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy mcmillen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san diego padres",
+          "title": "sam worthington",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ludwika paleta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "helix apartments st louis park",
+          "title": "andrés chaparro",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "justin jefferson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jennifer welch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rabid bat",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inde navarrette",
+          "title": "sonam wangchuk",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trojan war",
-          "traffic": "1000",
+          "title": "fallout games",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
