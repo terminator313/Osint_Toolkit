@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T20:11:53.804507+00:00",
+  "updatedAt": "2026-07-18T21:22:13.167528+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#JesusTheMasterHealer",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JesusTheMasterHealer",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SNME",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SNME",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Caturday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PaybackEP8",
+          "title": "#CODxPleasures",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PaybackEP8",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Arteta",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arteta",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "JJ Watt",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=JJ%20Watt",
+          "url": "https://twitter.com/search?q=%23CODxPleasures",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "zach guthrie lakers assistant",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tour de france standings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna melisano",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle bylin jeremy morrison lawsuit",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marshall manning freshman quarterback",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian leroy duncan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david malukas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tornado warning rochester ny",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox game today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "country music",
+          "title": "golden boot race 2026",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcus rashford",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florida hurricane forecast",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fernando villalona",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "austin bashi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cooper flagg",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "connor bedard",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "provo canyon school",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chase hooper",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fatima kline",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
