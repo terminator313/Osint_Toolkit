@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:21:43.395789+00:00",
+  "updatedAt": "2026-07-18T23:25:14.981884+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Maignan",
+          "title": "Baby Vino",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Maignan",
+          "url": "https://twitter.com/search?q=Baby%20Vino",
           "platform": "X/Twitter"
         },
         {
-          "title": "France vs England",
+          "title": "RJ Harris",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=France%20vs%20England",
+          "url": "https://twitter.com/search?q=RJ%20Harris",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "crystal palace",
-          "traffic": "1000",
+          "title": "sports",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "messi and lamine yamal",
-          "traffic": "1000",
+          "title": "cycling",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup final location",
+          "title": "time",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "swimming",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pasta",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kasper schmeichel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottie scheffler the open putting",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mitch mcconnell health",
-          "traffic": "20000",
+          "title": "fever game today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jahmai jones",
+          "title": "netflix movies",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ester expósito",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haskell stakes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "most goals scored in a world cup",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patrick sandoval",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saliba",
-          "traffic": "1000",
+          "title": "alaskaair",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
