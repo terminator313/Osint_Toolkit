@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T09:55:16.241628+00:00",
+  "updatedAt": "2026-07-18T11:01:22.013872+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Caitlin Clark",
+          "title": "Jimothy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Caitlin%20Clark",
+          "url": "https://twitter.com/search?q=Jimothy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "Odysseus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=Odysseus",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "british open tv schedule",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raphael collignon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shomari figures",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mega millions $672 million jackpot",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity etf",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pamela anderson",
+          "title": "local weather",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andrew truelove",
-          "traffic": "500",
+          "title": "epileptic",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "allen iverson",
-          "traffic": "500",
+          "title": "senna",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake now",
+          "title": "sweeteners",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael weatherly",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tsarukyan vs covington raf 11",
-          "traffic": "500",
+          "title": "jason statham",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air quality index columbus ohio",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "central ohio air quality alerts",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fantasy",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sunny hostin",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
