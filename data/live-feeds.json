@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:22:13.167528+00:00",
+  "updatedAt": "2026-07-18T22:21:43.395789+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#mcrmadrid",
+          "title": "#FRAENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mcrmadrid",
+          "url": "https://twitter.com/search?q=%23FRAENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JesusTheMasterHealer",
+          "title": "#UFCOKC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JesusTheMasterHealer",
+          "url": "https://twitter.com/search?q=%23UFCOKC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SNME",
+          "title": "#ENGFRA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SNME",
+          "url": "https://twitter.com/search?q=%23ENGFRA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "Maignan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=Maignan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CODxPleasures",
+          "title": "France vs England",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CODxPleasures",
+          "url": "https://twitter.com/search?q=France%20vs%20England",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "golden boot race 2026",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marcus rashford",
+          "title": "crystal palace",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida hurricane forecast",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fernando villalona",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "austin bashi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cooper flagg",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor bedard",
+          "title": "messi and lamine yamal",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "provo canyon school",
+          "title": "world cup final location",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mitch mcconnell health",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jahmai jones",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ester expósito",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chase hooper",
+          "title": "haskell stakes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fatima kline",
+          "title": "most goals scored in a world cup",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick sandoval",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saliba",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
