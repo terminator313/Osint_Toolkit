@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T11:01:22.013872+00:00",
+  "updatedAt": "2026-07-18T12:11:33.811433+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NewShapeofGalaxy",
+          "title": "#bb28",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NewShapeofGalaxy",
+          "url": "https://twitter.com/search?q=%23bb28",
           "platform": "X/Twitter"
         },
         {
-          "title": "#STARDOM",
+          "title": "#PeachAndMeSeriesEP2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23STARDOM",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP2",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jimothy",
+          "title": "Biden",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jimothy",
+          "url": "https://twitter.com/search?q=Biden",
           "platform": "X/Twitter"
         },
         {
-          "title": "Odysseus",
+          "title": "IMAX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Odysseus",
+          "url": "https://twitter.com/search?q=IMAX",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "local weather",
-          "traffic": "100",
+          "title": "texas flash flooding",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "epileptic",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "senna",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sweeteners",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael weatherly",
+          "title": "shilo sanders",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason statham",
+          "title": "flight",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air quality index columbus ohio",
-          "traffic": "1000",
+          "title": "clement tabur",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "central ohio air quality alerts",
-          "traffic": "100",
+          "title": "luciano darderi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fantasy",
-          "traffic": "100",
+          "title": "burton vs leicester city",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sunny hostin",
-          "traffic": "100",
+          "title": "kyrian jacquet",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado warning nyc",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jennifer lawrence",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "airnow.gov map",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
