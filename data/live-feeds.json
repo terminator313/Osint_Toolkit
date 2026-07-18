@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T08:18:20.127338+00:00",
+  "updatedAt": "2026-07-18T09:55:16.241628+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NewShapeofGalaxy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NewShapeofGalaxy",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#STARDOM",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23STARDOM",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Caitlin Clark",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Caitlin%20Clark",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SmackDown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OPLive",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Boardwalk Empire",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Boardwalk%20Empire",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Odysseus",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Odysseus",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "andrew truelove",
+          "title": "british open tv schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raphael collignon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shomari figures",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "allen iverson",
+          "title": "mega millions $672 million jackpot",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity etf",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pamela anderson",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew truelove",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "allen iverson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,37 +101,7 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake los angeles",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "tsarukyan vs covington raf 11",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gas",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hunger games",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "was the trojan war real",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fc juárez vs club puebla standings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emily willis now",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
