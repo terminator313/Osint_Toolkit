@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:11:33.811433+00:00",
+  "updatedAt": "2026-07-18T13:55:59.552905+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PerthSantaConcertD1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaConcertD1",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#bb28",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23bb28",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Biden",
+          "title": "#PerthSantaConcertD1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Biden",
+          "url": "https://twitter.com/search?q=%23PerthSantaConcertD1",
           "platform": "X/Twitter"
         },
         {
-          "title": "IMAX",
+          "title": "#ValkoIsValuable",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=IMAX",
+          "url": "https://twitter.com/search?q=%23ValkoIsValuable",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Troy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Troy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "texas flash flooding",
+          "title": "tommy fleetwood",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shilo sanders",
+          "title": "manchester united",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan fox golfer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flight",
+          "title": "notts county vs nottm forest",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clement tabur",
-          "traffic": "200",
+          "title": "f1 qualifying",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luciano darderi",
-          "traffic": "200",
+          "title": "ron howard on john wayne",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "burton vs leicester city",
-          "traffic": "200",
+          "title": "lotte vs betis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyrian jacquet",
-          "traffic": "200",
+          "title": "cathie wood",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado warning nyc",
-          "traffic": "2000",
+          "title": "world cup final time",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jennifer lawrence",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "airnow.gov map",
-          "traffic": "200",
+          "title": "national ice cream day 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
