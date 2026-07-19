@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:17:48.324027+00:00",
+  "updatedAt": "2026-07-19T20:22:53.182952+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Spain",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Spain",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BTSxWORLDCUP2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BTSxWORLDCUP2026",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WorldCupSpainvsArgentina",
+          "title": "Bruce Buffer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCupSpainvsArgentina",
+          "url": "https://twitter.com/search?q=Bruce%20Buffer",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cason Wallace",
+          "title": "Robbie Williams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cason%20Wallace",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Cam Young",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cam%20Young",
+          "url": "https://twitter.com/search?q=Robbie%20Williams",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "maria becerra",
+          "title": "dudamel",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kalshi",
+          "title": "nicolás otamendi",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espn",
+          "title": "ted lasso",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "telemundo",
+          "title": "jason sudeikis",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina national anthem",
+          "title": "alexi lalas",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ted lasso cast",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rodri",
+          "title": "l martinez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fubo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spain national anthem",
+          "title": "hailey bieber",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how often is the world cup",
-          "traffic": "500",
+          "title": "callum turner",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "slavko vinčić",
+          "title": "jose mourinho",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
