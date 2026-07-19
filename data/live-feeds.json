@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:25:14.981884+00:00",
+  "updatedAt": "2026-07-19T01:00:03.563835+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FRAENG",
+          "title": "#SNME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAENG",
+          "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENGFRA",
+          "title": "#FRAENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENGFRA",
+          "url": "https://twitter.com/search?q=%23FRAENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Baby Vino",
+          "title": "Fatal Influence",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Baby%20Vino",
+          "url": "https://twitter.com/search?q=Fatal%20Influence",
           "platform": "X/Twitter"
         },
         {
-          "title": "RJ Harris",
+          "title": "Tristan Tate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RJ%20Harris",
+          "url": "https://twitter.com/search?q=Tristan%20Tate",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sports",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cycling",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "time",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "swimming",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pasta",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kasper schmeichel",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scottie scheffler the open putting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever game today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix movies",
+          "title": "monterrey - santos",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alaskaair",
+          "title": "cam skattebo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "club america",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah rapp",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karl anthony towns",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indiana fever schedule",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "md lottery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fever game",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "america vs",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guadalajara - toluca",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
