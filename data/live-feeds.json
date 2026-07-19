@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T15:55:39.827521+00:00",
+  "updatedAt": "2026-07-19T16:57:11.229808+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BelgianGP",
+          "title": "#BTSxWORLDCUP2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BelgianGP",
+          "url": "https://twitter.com/search?q=%23BTSxWORLDCUP2026",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PerthSantaConcertD2",
+          "title": "#BelgianGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
+          "url": "https://twitter.com/search?q=%23BelgianGP",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SeductiveSunday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
           "title": "PERTHSANTA NEVER ENOUGH",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=PERTHSANTA%20NEVER%20ENOUGH",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Antonelli",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Antonelli",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pistons kevin durant trade rumors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travis kelce taylor swift rumors",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tour de france standings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tucson shooting",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nissan altima",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonas vingegaard",
+          "title": "ryan fox golf",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spain jersey",
+          "title": "rohit sharma",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marsha blackburn",
+          "title": "military strike",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sparks vs wings",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "remco evenepoel",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "al pacino",
-          "traffic": "500",
+          "title": "zaccharie risacher",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clement tabur",
-          "traffic": "500",
+          "title": "dodgers - yankees",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zlatan ibrahimovic",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scheffler",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "espncricinfo",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
