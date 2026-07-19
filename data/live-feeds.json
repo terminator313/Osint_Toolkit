@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:16:09.856907+00:00",
+  "updatedAt": "2026-07-19T14:37:49.503089+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BelgianGP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BelgianGP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PerthSantaConcertD2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LingOrmPhuketFanMeet",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LingOrmPhuketFanMeet",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ojay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ojay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SeductiveSunday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NationalIceCreamDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NationalIceCreamDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Lila",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Lila",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "apple tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rory mcilroy bryson dechambeau",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tommy fleetwood",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "appletv",
+          "title": "stuart fails to save the universe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "figure skating",
+          "title": "kimi antonelli",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grandparents happy hour bill minnesota",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2030 world cup stadium locations",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flash flooding nyc",
-          "traffic": "50000",
+          "title": "duane ward",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2026 election democratic approval gap",
+          "title": "daycares",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "house of the dragon episode 5",
-          "traffic": "200",
+          "title": "asheville shooting",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kh-59",
-          "traffic": "200",
+          "title": "armando rubio daughter arizona icu",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andrew giuliani",
+          "title": "travel warning",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astrological sign",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
