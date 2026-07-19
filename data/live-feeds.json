@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:06:00.537004+00:00",
+  "updatedAt": "2026-07-19T09:26:14.115238+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SNME",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SNME",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#UFCOKC",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCOKC",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#PerthSantaConcertD2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
           "platform": "X/Twitter"
         },
         {
-          "title": "PERTHSANTA NEVER ENOUGH",
+          "title": "#SNME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=PERTHSANTA%20NEVER%20ENOUGH",
+          "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
           "title": "#Toonami",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Toonami",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Lacy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Lacy",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Melody",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Melody",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,36 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "lisa zaar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2026 年 fifa 世界杯",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill maher",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "facebook",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity etf",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince george prince william eton",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "cloud",
           "traffic": "200",
@@ -66,43 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fidelity bitcoin",
+          "title": "fidelity investments",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "fidelity funds",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "latest news",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stock market today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "technology news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matty healy",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "car accident attorney",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
