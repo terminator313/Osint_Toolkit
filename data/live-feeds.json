@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:22:53.182952+00:00",
+  "updatedAt": "2026-07-19T21:23:19.531973+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -19,6 +19,12 @@
     "trends24": {
       "status": "ok",
       "items": [
+        {
+          "title": "#ESPARG",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ESPARG",
+          "platform": "X/Twitter"
+        },
         {
           "title": "#Spain",
           "metric": "Trend",
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Bruce%20Buffer",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "Robbie Williams",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robbie%20Williams",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dudamel",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nicolás otamendi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ted lasso",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason sudeikis",
+          "title": "argentina red card",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexi lalas",
+          "title": "golden glove world cup 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "e fernandez argentina",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diego simeone",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "merino spain",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "goalie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sergio ramos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ted lasso cast",
+          "title": "paul wesley",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iniesta",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "la liga",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "l martinez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hailey bieber",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "callum turner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jose mourinho",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
