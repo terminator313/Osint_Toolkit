@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T11:55:49.052929+00:00",
+  "updatedAt": "2026-07-19T13:16:09.856907+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#PerthSantaConcertD2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SundayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "#LingOrmPhuketFanMeet",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=%23LingOrmPhuketFanMeet",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesEP2",
+          "title": "Ojay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP2",
+          "url": "https://twitter.com/search?q=Ojay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Athena",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Athena",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kamu",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kamu",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "boston globe",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tormenta eléctrica",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "princess charlene 2026 red cross ball",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "modric",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sam burns wife",
+          "title": "apple tv",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ukraine news",
-          "traffic": "100",
+          "title": "rory mcilroy bryson dechambeau",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "events",
-          "traffic": "20000",
+          "title": "tommy fleetwood",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maps",
-          "traffic": "20000",
+          "title": "appletv",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rickie fowler",
+          "title": "figure skating",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noaa hurricane",
+          "title": "flash flooding nyc",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2026 election democratic approval gap",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house of the dragon episode 5",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kh-59",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew giuliani",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
