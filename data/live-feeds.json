@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T16:57:11.229808+00:00",
+  "updatedAt": "2026-07-19T17:59:29.747669+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WorldCupSpainvsArgentina",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WorldCupSpainvsArgentina",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BTSxWORLDCUP2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BTSxWORLDCUP2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalIceCreamDay",
+          "title": "#BTSHALFTIMESHOW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalIceCreamDay",
+          "url": "https://twitter.com/search?q=%23BTSHALFTIMESHOW",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BelgianGP",
+          "title": "#TheOpen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BelgianGP",
+          "url": "https://twitter.com/search?q=%23TheOpen",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Mavs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "PERTHSANTA NEVER ENOUGH",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=PERTHSANTA%20NEVER%20ENOUGH",
+          "url": "https://twitter.com/search?q=Mavs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ryan fox golf",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rohit sharma",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "military strike",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sparks vs wings",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "remco evenepoel",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zaccharie risacher",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers - yankees",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zlatan ibrahimovic",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scheffler",
+          "title": "ishowspeed",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espncricinfo",
-          "traffic": "100",
+          "title": "world cup final tickets",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan fox family",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alix earle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wwe summerslam 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the open payouts 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "summerslam 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "depresión tropical",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ludvig åberg",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ed harris dutton ranch season 2",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
