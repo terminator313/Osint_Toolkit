@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T09:26:14.115238+00:00",
+  "updatedAt": "2026-07-19T10:53:03.519254+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Melody",
+          "title": "Colby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Melody",
+          "url": "https://twitter.com/search?q=Colby",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lisa zaar",
-          "traffic": "500",
+          "title": "canada wildfires air quality",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2026 年 fifa 世界杯",
-          "traffic": "500",
+          "title": "national hurricane center",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill maher",
+          "title": "cindy burbank senate withdrawal",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "facebook",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity etf",
+          "title": "the open tee times",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince george prince william eton",
-          "traffic": "200",
+          "title": "iceberg lettuce",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cloud",
-          "traffic": "200",
+          "title": "belgian grand prix",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tacoma narrows bridge closure",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity investments",
+          "title": "curt cignetti indiana football recruiting",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fidelity funds",
+          "title": "facebook instagram",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cricbuzz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba historic performance caitlin clark",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
