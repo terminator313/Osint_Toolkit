@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:23:19.531973+00:00",
+  "updatedAt": "2026-07-19T22:25:07.823542+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Spain",
+          "title": "#OnEveryCorner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Spain",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#BTSxWORLDCUP2026",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTSxWORLDCUP2026",
+          "url": "https://twitter.com/search?q=%23OnEveryCorner",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Bruce Buffer",
+          "title": "Ted Lasso",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bruce%20Buffer",
+          "url": "https://twitter.com/search?q=Ted%20Lasso",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Super Bowl",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Super%20Bowl",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "argentina red card",
-          "traffic": "1000",
+          "title": "angel reese",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden glove world cup 2026",
+          "title": "golden ball world cup",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ferran torres girlfriend",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "e fernandez argentina",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diego simeone",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "merino spain",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "goalie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sergio ramos",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul wesley",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iniesta",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la liga",
+          "title": "madrid",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will messi play 2030 world cup",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "premier league schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ballon d'or rankings",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rosalia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "messi family",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
