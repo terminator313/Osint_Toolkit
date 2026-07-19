@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T14:37:49.503089+00:00",
+  "updatedAt": "2026-07-19T15:55:39.827521+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PerthSantaConcertD2",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#SeductiveSunday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NationalIceCreamDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalIceCreamDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lila",
+          "title": "#PerthSantaConcertD2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lila",
+          "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "PERTHSANTA NEVER ENOUGH",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=PERTHSANTA%20NEVER%20ENOUGH",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Antonelli",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Antonelli",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "stuart fails to save the universe",
+          "title": "pistons kevin durant trade rumors",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kimi antonelli",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grandparents happy hour bill minnesota",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2030 world cup stadium locations",
+          "title": "travis kelce taylor swift rumors",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "duane ward",
+          "title": "tour de france standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tucson shooting",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nissan altima",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonas vingegaard",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daycares",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "asheville shooting",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "armando rubio daughter arizona icu",
+          "title": "spain jersey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "travel warning",
-          "traffic": "1000",
+          "title": "marsha blackburn",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astrological sign",
+          "title": "al pacino",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clement tabur",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
