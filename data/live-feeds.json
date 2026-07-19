@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T22:25:07.823542+00:00",
+  "updatedAt": "2026-07-19T23:28:25.526235+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OnEveryCorner",
+          "title": "#ESPvsARG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OnEveryCorner",
+          "url": "https://twitter.com/search?q=%23ESPvsARG",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Ted Lasso",
+          "title": "Muppets",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ted%20Lasso",
+          "url": "https://twitter.com/search?q=Muppets",
           "platform": "X/Twitter"
         },
         {
-          "title": "Super Bowl",
+          "title": "#mundialdefútbol2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Super%20Bowl",
+          "url": "https://twitter.com/search?q=%23mundialdef%C3%BAtbol2026",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "angel reese",
-          "traffic": "5000",
+          "title": "what time is big brother on tonight",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden ball world cup",
-          "traffic": "5000",
+          "title": "victor munoz",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "real madrid",
+          "title": "huffpost",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "premier league",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ferran torres girlfriend",
+          "title": "queen of spain",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "world cup mvp",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "madrid",
+          "title": "maxi rodriguez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will messi play 2030 world cup",
+          "title": "cubarsi edad",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "premier league schedule",
+          "title": "parades",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ballon d'or rankings",
+          "title": "which country has the most world cups",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rosalia",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "messi family",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
