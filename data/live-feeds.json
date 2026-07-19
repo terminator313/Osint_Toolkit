@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T01:00:03.563835+00:00",
+  "updatedAt": "2026-07-19T04:27:55.594914+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FRAENG",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FRAENG",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fatal Influence",
+          "title": "Bayley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fatal%20Influence",
+          "url": "https://twitter.com/search?q=Bayley",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tristan Tate",
+          "title": "Kelsey Mitchell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tristan%20Tate",
+          "url": "https://twitter.com/search?q=Kelsey%20Mitchell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "monterrey - santos",
+          "title": "tarik skubal",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "curry barker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ludwika paleta",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "powerball",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cam skattebo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "club america",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hannah rapp",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karl anthony towns",
+          "title": "snl tonight",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "indiana fever schedule",
-          "traffic": "10000",
+          "title": "desire netflix",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "md lottery",
-          "traffic": "500",
+          "title": "chivas de guadalajara vs toluca fc standings",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fever game",
-          "traffic": "20000",
+          "title": "mariners game today",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "america vs",
-          "traffic": "200",
+          "title": "san francisco giants",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guadalajara - toluca",
-          "traffic": "50000",
+          "title": "emily willis now",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
