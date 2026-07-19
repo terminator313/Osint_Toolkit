@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T04:27:55.594914+00:00",
+  "updatedAt": "2026-07-19T07:06:00.537004+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#PerthSantaConcertD2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23PerthSantaConcertD2",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bayley",
+          "title": "PERTHSANTA NEVER ENOUGH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bayley",
+          "url": "https://twitter.com/search?q=PERTHSANTA%20NEVER%20ENOUGH",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kelsey Mitchell",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kelsey%20Mitchell",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tarik skubal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "curry barker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ludwika paleta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snl tonight",
+          "title": "cloud",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "desire netflix",
+          "title": "tacoma narrows bridge closure",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity bitcoin",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chivas de guadalajara vs toluca fc standings",
-          "traffic": "5000",
+          "title": "fidelity funds",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners game today",
+          "title": "latest news",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san francisco giants",
+          "title": "weather today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emily willis now",
+          "title": "technology news",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matty healy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car accident attorney",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
