@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T11:21:34.514912+00:00",
+  "updatedAt": "2026-07-20T13:25:19.531418+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MondayMotivation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ESPARG",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ESPARG",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SNME",
+          "title": "Madonna",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SNME",
+          "url": "https://twitter.com/search?q=Madonna",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tom Cruise",
+          "title": "Rory",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tom%20Cruise",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#UFCOkc",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCOkc",
+          "url": "https://twitter.com/search?q=Rory",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "connections hint today",
+          "title": "warde manuel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ohio state college football ranking",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hayden panettiere",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amc",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alycia parks",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yannick hanfmann",
+          "title": "camilo ugo carabelli",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pamela adlon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david hearn trump pool case",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andy burnham wife",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "severe weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samsung sk hynix leveraged etfs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tynan thompson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lindsay clancy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gisele bündchen",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stephanie white",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taylor farms lettuce cyclospora outbreak",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cbs evening news viewership",
-          "traffic": "200",
+          "title": "usa today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
