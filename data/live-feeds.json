@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T08:23:49.620911+00:00",
+  "updatedAt": "2026-07-20T11:21:34.514912+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HOTD",
+          "title": "#ESPARG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
+          "url": "https://twitter.com/search?q=%23ESPARG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GrandConcert",
+          "title": "#BTSHALFTIMESHOW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GrandConcert",
+          "url": "https://twitter.com/search?q=%23BTSHALFTIMESHOW",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Umamusume",
+          "title": "#SNME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Umamusume",
+          "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HouseOfTheDragon",
+          "title": "Tom Cruise",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
+          "url": "https://twitter.com/search?q=Tom%20Cruise",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rodri",
+          "title": "#UFCOkc",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rodri",
+          "url": "https://twitter.com/search?q=%23UFCOkc",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "movies",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2026 年 fifa 世界杯",
+          "title": "connections hint today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cycling",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nyt strands hints",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity bitcoin",
+          "title": "yannick hanfmann",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest news",
-          "traffic": "10000",
+          "title": "severe weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "technology news",
-          "traffic": "2000",
+          "title": "samsung sk hynix leveraged etfs",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather today",
-          "traffic": "5000",
+          "title": "tynan thompson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cártel de jalisco nueva generación",
-          "traffic": "500",
+          "title": "lindsay clancy",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market today",
-          "traffic": "5000",
+          "title": "gisele bündchen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stephanie white",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor farms lettuce cyclospora outbreak",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs evening news viewership",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
