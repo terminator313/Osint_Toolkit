@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T23:28:25.526235+00:00",
+  "updatedAt": "2026-07-20T01:06:21.656717+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTSHALFTIMESHOW",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTSHALFTIMESHOW",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Muppets",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Muppets",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#mundialdefútbol2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23mundialdef%C3%BAtbol2026",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Gavi",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Gavi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Barcelona",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Barcelona",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "what time is big brother on tonight",
+          "title": "aaron judge",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victor munoz",
+          "title": "house third reconciliation package",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "huffpost",
+          "title": "keanu reeves",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "premier league",
-          "traffic": "2000",
+          "title": "bbc news",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "queen of spain",
+          "title": "big brother spoilers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world cup mvp",
+          "title": "yankees schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robert wagner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hawk netflix",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maxi rodriguez",
-          "traffic": "500",
+          "title": "anderson cooper",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubarsi edad",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "parades",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "which country has the most world cups",
-          "traffic": "500",
+          "title": "jackie robinson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
