@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T05:04:11.369109+00:00",
+  "updatedAt": "2026-07-20T08:23:49.620911+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HouseOfTheDragon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GrandConcert",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GrandConcert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Logano",
+          "title": "#Umamusume",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Logano",
+          "url": "https://twitter.com/search?q=%23Umamusume",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOA",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOA",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Rodri",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Rodri",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "herald",
-          "traffic": "500",
+          "title": "movies",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air force one",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "avengers doomsday tickets",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sandy brondello comment",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "europe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "google play services",
+          "title": "2026 年 fifa 世界杯",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "legionnaires disease",
-          "traffic": "500",
+          "title": "cycling",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ralph sampson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yaxel lendeborg",
+          "title": "nyt strands hints",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cedric coward",
+          "title": "fidelity bitcoin",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "latest news",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "technology news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cártel de jalisco nueva generación",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market today",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
