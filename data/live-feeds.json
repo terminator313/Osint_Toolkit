@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T13:25:19.531418+00:00",
+  "updatedAt": "2026-07-20T15:27:49.440002+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESPARG",
+          "title": "#LaMayorSumaDeFelicidad",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPARG",
+          "url": "https://twitter.com/search?q=%23LaMayorSumaDeFelicidad",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTSHALFTIMESHOW",
+          "title": "#MondayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTSHALFTIMESHOW",
+          "url": "https://twitter.com/search?q=%23MondayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Madonna",
+          "title": "Namor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Madonna",
+          "url": "https://twitter.com/search?q=Namor",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rory",
+          "title": "HOAs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rory",
+          "url": "https://twitter.com/search?q=HOAs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "warde manuel",
+          "title": "ignacio buse",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jersey mike's ipo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ohio state college football ranking",
-          "traffic": "200",
+          "title": "field of dreams game 2026",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hayden panettiere",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alycia parks",
+          "title": "united airlines employee passenger confrontation",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "camilo ugo carabelli",
+          "title": "nolan wells funeral",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pamela adlon",
+          "title": "shang chi",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david hearn trump pool case",
+          "title": "kevin keegan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "legionnaires disease outbreak",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lego star wars 2027 sets",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andy burnham wife",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usa today",
-          "traffic": "500",
+          "title": "abdul el-sayed",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
