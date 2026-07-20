@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:27:49.440002+00:00",
+  "updatedAt": "2026-07-20T16:57:19.242768+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,6 +56,41 @@
       "status": "ok",
       "items": [
         {
+          "title": "jon ossoff",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "military air base",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "artificial sweeteners cognitive decline",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "le'veon bell",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new jersey meteorite organic molecules",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elizabeth ii",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pep guardiola",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "ignacio buse",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -66,43 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "field of dreams game 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united airlines employee passenger confrontation",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nolan wells funeral",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shang chi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kevin keegan",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "legionnaires disease outbreak",
+          "title": "incendiary device",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lego star wars 2027 sets",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abdul el-sayed",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
