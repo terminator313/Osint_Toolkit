@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T20:18:51.919234+00:00",
+  "updatedAt": "2026-07-20T21:41:46.930629+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#IndyCar",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23IndyCar",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaMayorSumaDeFelicidad",
+          "title": "Typewriter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaMayorSumaDeFelicidad",
+          "url": "https://twitter.com/search?q=Typewriter",
           "platform": "X/Twitter"
         },
         {
-          "title": "Russos",
+          "title": "Infinity Vision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Russos",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Shuri",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Shuri",
+          "url": "https://twitter.com/search?q=Infinity%20Vision",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "house republican conference",
-          "traffic": "500",
+          "title": "dow jones industrial average",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin feige",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "devonte wyatt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cancer",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "selección de fútbol de argentina",
+          "title": "coffee consumption",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amal clooney",
+          "title": "de",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cuba news",
+          "title": "kwwl weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration immigration green cards",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "david hearn pool liner case",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan clark",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grand theft auto vi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aleksander čeferin",
-          "traffic": "1000",
+          "title": "roberto ayala",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hegseth",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "klm kl706 tenerife diversion",
+          "title": "opinion poll",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
