@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T16:57:19.242768+00:00",
+  "updatedAt": "2026-07-20T18:54:56.489408+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HappyBirthdayJustin",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HappyBirthdayJustin",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayVibes",
+          "title": "Russos",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayVibes",
+          "url": "https://twitter.com/search?q=Russos",
           "platform": "X/Twitter"
         },
         {
-          "title": "Namor",
+          "title": "Shuri",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Namor",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "HOAs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=HOAs",
+          "url": "https://twitter.com/search?q=Shuri",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jon ossoff",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "military air base",
+          "title": "klm kl706 tenerife diversion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "artificial sweeteners cognitive decline",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "le'veon bell",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new jersey meteorite organic molecules",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elizabeth ii",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pep guardiola",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ignacio buse",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jersey mike's ipo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "incendiary device",
+          "title": "matisse thybulle",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seth halvorsen",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angie katsanevas",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daniel ortega",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colonel sanders",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kurt kromm ford aramark cookie dispute",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex stock price",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "politics",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottie pippen",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
