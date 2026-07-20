@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T01:06:21.656717+00:00",
+  "updatedAt": "2026-07-20T05:04:11.369109+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ESPARG",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPARG",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESPvsARG",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESPvsARG",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mundialdefútbol2026",
+          "title": "#GrandConcert",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mundialdef%C3%BAtbol2026",
+          "url": "https://twitter.com/search?q=%23GrandConcert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gavi",
+          "title": "Logano",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gavi",
+          "url": "https://twitter.com/search?q=Logano",
           "platform": "X/Twitter"
         },
         {
-          "title": "Barcelona",
+          "title": "#RHOA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Barcelona",
+          "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "aaron judge",
+          "title": "herald",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "house third reconciliation package",
+          "title": "air force one",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "keanu reeves",
-          "traffic": "200",
+          "title": "avengers doomsday tickets",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bbc news",
-          "traffic": "200",
+          "title": "sandy brondello comment",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big brother spoilers",
+          "title": "europe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "google play services",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert wagner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hawk netflix",
+          "title": "legionnaires disease",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anderson cooper",
+          "title": "ralph sampson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jackie robinson",
-          "traffic": "1000",
+          "title": "yaxel lendeborg",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cedric coward",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
