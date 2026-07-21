@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T22:58:14.965012+00:00",
+  "updatedAt": "2026-07-21T00:02:01.499835+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#IndyCar",
+          "title": "#AskEdman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IndyCar",
+          "url": "https://twitter.com/search?q=%23AskEdman",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "#GuardsBall",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23GuardsBall",
           "platform": "X/Twitter"
         },
         {
-          "title": "Typewriter",
+          "title": "Nicaragua",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Typewriter",
+          "url": "https://twitter.com/search?q=Nicaragua",
           "platform": "X/Twitter"
         },
         {
-          "title": "Infinity Vision",
+          "title": "Hoskins",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Infinity%20Vision",
+          "url": "https://twitter.com/search?q=Hoskins",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amy fisher",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orioles vs red sox",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres vs braves",
+          "title": "liberty vs wings",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rays vs blue jays",
+          "title": "tommy edman",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vini jr",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox game",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marlins vs astros",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "motor city",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark walter",
+          "title": "joe ryan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers vs phillies",
+          "title": "tigers vs cubs",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pirates vs yankees",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason bateman",
+          "title": "white sox vs rangers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "twins vs guardians",
+          "title": "marco rubio",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lawsuit",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
