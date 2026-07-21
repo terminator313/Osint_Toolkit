@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-21T03:54:54.583117+00:00",
+  "updatedAt": "2026-07-21T06:26:52.508634+00:00",
   "sources": {
     "fofa": {
-      "status": "empty",
+      "status": "error",
       "items": [],
-      "error": "No items parsed."
+      "error": "The read operation timed out"
     },
     "urlhaus": {
       "status": "error",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#raindelayquestions",
+          "title": "#Cubs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "url": "https://twitter.com/search?q=%23Cubs",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DirtyWater",
+          "title": "#ILUN4",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DirtyWater",
+          "url": "https://twitter.com/search?q=%23ILUN4",
           "platform": "X/Twitter"
         },
         {
-          "title": "Freddy Peralta",
+          "title": "Nancy Grace",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Freddy%20Peralta",
+          "url": "https://twitter.com/search?q=Nancy%20Grace",
           "platform": "X/Twitter"
         },
         {
-          "title": "Joe Hendry",
+          "title": "Schrager",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Joe%20Hendry",
+          "url": "https://twitter.com/search?q=Schrager",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "phoenix weather",
+          "title": "thom tillis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "in n out",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marcello hernandez",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sadie sink",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colman domingo",
+          "title": "chiqui tapia",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jaafar jackson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julio rodriguez",
+          "title": "flau'jae johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nolan arenado",
-          "traffic": "500",
+          "title": "garlic powder recall",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amanda seyfried",
-          "traffic": "500",
+          "title": "cal raleigh",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aaron rodgers family",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shakira austin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john mozeliak",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lebron james",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jhoan duran",
-          "traffic": "500",
+          "title": "nicaraguan president daniel ortega",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
