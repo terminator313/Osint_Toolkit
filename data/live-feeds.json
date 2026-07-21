@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T22:26:14.201800+00:00",
+  "updatedAt": "2026-07-21T23:28:43.000229+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Dwight",
+          "title": "Olive Garden",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dwight",
+          "url": "https://twitter.com/search?q=Olive%20Garden",
           "platform": "X/Twitter"
         },
         {
-          "title": "Doja",
+          "title": "Tard Knocks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Doja",
+          "url": "https://twitter.com/search?q=Tard%20Knocks",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dodgers - phillies",
+          "title": "southwest new nonstop routes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "la la land poster",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan jeffers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlético-mg x bahia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joshua kuroda-grauer",
+          "title": "warren buffett cnbc stock market",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump approval net negative poll",
+          "title": "mandalorian",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncis season 24 cast news",
-          "traffic": "1000",
+          "title": "wkbn weather",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ed harris yellowstone series involvement",
+          "title": "julio iglesias",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump bbc financial records lawsuit",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "walsall vs aston villa",
+          "title": "allergy medication recalled",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john thune",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drill instructor",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox game today",
-          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
