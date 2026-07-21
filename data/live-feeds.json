@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T21:19:52.416079+00:00",
+  "updatedAt": "2026-07-21T22:26:14.201800+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Mistakenly",
+          "title": "Dwight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mistakenly",
+          "url": "https://twitter.com/search?q=Dwight",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kaylee Hottle",
+          "title": "Doja",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kaylee%20Hottle",
+          "url": "https://twitter.com/search?q=Doja",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bruce springsteen",
+          "title": "dodgers - phillies",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atlético-mg x bahia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joshua kuroda-grauer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "education department student loans",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "puerto rico plane crash",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "smci stock",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa murkowski",
+          "title": "trump approval net negative poll",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "craig melvin",
+          "title": "ncis season 24 cast news",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ed harris yellowstone series involvement",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stubhub",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united flight diversion arizona military base",
+          "title": "walsall vs aston villa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooke rollins",
-          "traffic": "2000",
+          "title": "john thune",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "susan collins",
+          "title": "drill instructor",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox game today",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
