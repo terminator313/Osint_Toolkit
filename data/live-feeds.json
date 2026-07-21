@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T16:53:43.754105+00:00",
+  "updatedAt": "2026-07-21T18:14:30.863869+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Scalise",
+          "title": "Lee Evan Caplin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Scalise",
+          "url": "https://twitter.com/search?q=Lee%20Evan%20Caplin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Other Mother",
+          "title": "C$0.68",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Other%20Mother",
+          "url": "https://twitter.com/search?q=C%240.68",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "florian lipowitz",
+          "title": "california minnesota medicaid funding freeze",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mv barima",
+          "title": "dante dowdell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raphael collignon",
+          "title": "rory mcilroy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mohsen mahdawi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chip kelly",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bart scott",
+          "title": "jaime faria",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sophie cunningham sports illustrated",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red bull racing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anna kournikova",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordyn brooks",
+          "title": "elizabeth warren student loan bill",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cam newton",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sunshine protection act",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "malcolm jamal warner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anthony taylor",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlie woods",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
