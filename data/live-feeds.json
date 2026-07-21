@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T11:22:16.677687+00:00",
+  "updatedAt": "2026-07-21T12:51:56.856633+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Blade",
+          "title": "#PutThatInYourPipe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blade",
+          "url": "https://twitter.com/search?q=%23PutThatInYourPipe",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kirsten storms brandon barash legal battle",
-          "traffic": "200",
+          "title": "gma deals and steals",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "interstate 80",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiempo de hoy",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "craneware data breach",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "homelessness",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "météo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "radar",
+          "title": "nws",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uscis",
-          "traffic": "500",
+          "title": "miomir kecmanovic",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pickaxe mountain",
+          "title": "today show",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eric ripert",
-          "traffic": "100",
+          "title": "cleveland weather",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pablo carreno busta",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gen x",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new american airlines dfw lounge",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robbie williams white substance",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "truck accident lawyer",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
