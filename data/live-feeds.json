@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T18:14:30.863869+00:00",
+  "updatedAt": "2026-07-21T19:59:18.151108+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#gachiakuta172",
+          "title": "#Yoroll",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta172",
+          "url": "https://twitter.com/search?q=%23Yoroll",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ATSD",
+          "title": "#RHONY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ATSD",
+          "url": "https://twitter.com/search?q=%23RHONY",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AtinySelcaDay",
+          "title": "#PayToVoteSaveAct",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AtinySelcaDay",
+          "url": "https://twitter.com/search?q=%23PayToVoteSaveAct",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lee Evan Caplin",
+          "title": "danielle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lee%20Evan%20Caplin",
+          "url": "https://twitter.com/search?q=danielle",
           "platform": "X/Twitter"
         },
         {
-          "title": "C$0.68",
+          "title": "Dwight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=C%240.68",
+          "url": "https://twitter.com/search?q=Dwight",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "california minnesota medicaid funding freeze",
-          "traffic": "200",
+          "title": "stubhub",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dante dowdell",
-          "traffic": "200",
+          "title": "brooke rollins",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rory mcilroy",
+          "title": "susan collins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united flight diversion arizona military base",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado warning near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severe thunderstorm watch",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thea booysen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wlwt",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mohsen mahdawi",
-          "traffic": "200",
+          "title": "nz vs wi",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chip kelly",
+          "title": "watch vs warning",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaime faria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sophie cunningham sports illustrated",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red bull racing",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna kournikova",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elizabeth warren student loan bill",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
