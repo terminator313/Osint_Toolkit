@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T19:59:18.151108+00:00",
+  "updatedAt": "2026-07-21T21:19:52.416079+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Yoroll",
+          "title": "#AIOdysseyByYoroll",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Yoroll",
+          "url": "https://twitter.com/search?q=%23AIOdysseyByYoroll",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PayToVoteSaveAct",
+          "title": "#PMSLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PayToVoteSaveAct",
+          "url": "https://twitter.com/search?q=%23PMSLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "danielle",
+          "title": "Mistakenly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=danielle",
+          "url": "https://twitter.com/search?q=Mistakenly",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dwight",
+          "title": "Kaylee Hottle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dwight",
+          "url": "https://twitter.com/search?q=Kaylee%20Hottle",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "bruce springsteen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "education department student loans",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "puerto rico plane crash",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "smci stock",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lisa murkowski",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "craig melvin",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "stubhub",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "united flight diversion arizona military base",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "brooke rollins",
-          "traffic": "1000",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "susan collins",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united flight diversion arizona military base",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tornado warning near me",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "severe thunderstorm watch",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thea booysen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wlwt",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nz vs wi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "watch vs warning",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
