@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T00:02:01.499835+00:00",
+  "updatedAt": "2026-07-21T03:54:54.583117+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HappyBirthdayJustin",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HappyBirthdayJustin",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AskEdman",
+          "title": "#raindelayquestions",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AskEdman",
+          "url": "https://twitter.com/search?q=%23raindelayquestions",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GuardsBall",
+          "title": "#DirtyWater",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GuardsBall",
+          "url": "https://twitter.com/search?q=%23DirtyWater",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nicaragua",
+          "title": "Freddy Peralta",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nicaragua",
+          "url": "https://twitter.com/search?q=Freddy%20Peralta",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hoskins",
+          "title": "Joe Hendry",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hoskins",
+          "url": "https://twitter.com/search?q=Joe%20Hendry",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "liberty vs wings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tommy edman",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vini jr",
+          "title": "phoenix weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox game",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marlins vs astros",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "motor city",
+          "title": "colman domingo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe ryan",
+          "title": "julio rodriguez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigers vs cubs",
-          "traffic": "5000",
+          "title": "nolan arenado",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white sox vs rangers",
-          "traffic": "2000",
+          "title": "amanda seyfried",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marco rubio",
-          "traffic": "5000",
+          "title": "aaron rodgers family",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shakira austin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john mozeliak",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lebron james",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jhoan duran",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
