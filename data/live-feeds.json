@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T09:08:57.773646+00:00",
+  "updatedAt": "2026-07-21T11:22:16.677687+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#wildcardclub",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23wildcardclub",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#HappyBirthdayJustin",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HappyBirthdayJustin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Uribe",
+          "title": "#RAINDELAYQUESTIONS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Uribe",
+          "url": "https://twitter.com/search?q=%23RAINDELAYQUESTIONS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Azzi",
+          "title": "Blade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Azzi",
+          "url": "https://twitter.com/search?q=Blade",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Spain",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Spain",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fidelity bitcoin",
+          "title": "kirsten storms brandon barash legal battle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "interstate 80",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident attorney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ella langley stage dress issue",
+          "title": "tiempo de hoy",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "panna udvardy",
+          "title": "craneware data breach",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "homelessness",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "polio",
+          "title": "météo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "d4vd",
+          "title": "radar",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thom tillis",
+          "title": "uscis",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pickaxe mountain",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "in n out",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marcello hernandez",
-          "traffic": "2000",
+          "title": "eric ripert",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
