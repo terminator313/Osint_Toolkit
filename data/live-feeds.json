@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T18:40:21.837007+00:00",
+  "updatedAt": "2026-07-22T20:10:19.777774+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NBA2K27",
+          "title": "#HealthcareNotWarfare",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBA2K27",
+          "url": "https://twitter.com/search?q=%23HealthcareNotWarfare",
           "platform": "X/Twitter"
         },
         {
-          "title": "#momson",
+          "title": "#GalaxyGiveaways",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23momson",
+          "url": "https://twitter.com/search?q=%23GalaxyGiveaways",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LingOrmAtDiorSiamParagon",
+          "title": "#GalaxyZFold8",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LingOrmAtDiorSiamParagon",
+          "url": "https://twitter.com/search?q=%23GalaxyZFold8",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hump Day",
+          "title": "Christian Encarnacion",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hump%20Day",
+          "url": "https://twitter.com/search?q=Christian%20Encarnacion",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arclight",
+          "title": "Jon Sumrall",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arclight",
+          "url": "https://twitter.com/search?q=Jon%20Sumrall",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "red sox score",
+          "title": "us secret services",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox",
-          "traffic": "20000",
+          "title": "yankees",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mercury vs sparks",
+          "title": "google earnings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stuart fails to save the universe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dale earnhardt jr.",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maidenhead united vs wolves",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jake bennett",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trae young",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "valencia c. f. - cd eldense",
+          "title": "napheesa collier",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hegseth defense secretary",
+          "title": "bill ott grand canyon discovery",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chick fil a loyalty account breach",
+          "title": "mcdonald's menu",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christian encarnacion-strand",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gerrit cole",
-          "traffic": "500",
+          "title": "juez federal de los estados unidos",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
