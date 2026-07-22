@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T21:36:17.628816+00:00",
+  "updatedAt": "2026-07-22T23:00:22.177214+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DirtyWater",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DirtyWater",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GalaxyGiveaways",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GalaxyGiveaways",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Pete Golding",
+          "title": "#DirtyWater",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pete%20Golding",
+          "url": "https://twitter.com/search?q=%23DirtyWater",
           "platform": "X/Twitter"
         },
         {
-          "title": "NDAA",
+          "title": "6 Democrats",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=NDAA",
+          "url": "https://twitter.com/search?q=6%20Democrats",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Section 219",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Section%20219",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jordan spieth 3m open withdrawal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "instagram messages outage",
+          "title": "chicago vs inter miami",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "capital one settlement payment delay",
+          "title": "aces vs mystics",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ndaa section 219",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alejandra jaramillo",
+          "title": "new york city vs columbus",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trumprx",
-          "traffic": "1000",
+          "title": "jackie update",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lebron james offseason decision",
+          "title": "fifa team of the tournament 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david gabriel georges",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike collins",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ssi",
+          "title": "maple street biscuit company sold",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ibm earnings",
+          "title": "marines",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "president trump dover dignified transfer",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "caitlin clark",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
