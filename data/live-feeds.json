@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T09:57:28.543389+00:00",
+  "updatedAt": "2026-07-22T11:49:44.276718+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#XMen97",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23XMen97",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#WWENXT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWENXT",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#XMen97",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23XMen97",
           "platform": "X/Twitter"
         },
         {
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nottm forest vs blackburn rovers",
+          "title": "sitcom",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mane",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jade jones",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris blake griffith",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "great white shark southern california",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "airline",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim tebow",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ip",
+          "title": "daniel siad",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "game of thrones lena headey",
-          "traffic": "100",
+          "title": "john cornyn",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur rinderknech",
+          "title": "irs spain world cup",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthea hartig smithsonian congressional hearing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barron trump world cup",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "t stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red bull racing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cher mary bono royalties lawsuit",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is it safe to eat lettuce right now",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
