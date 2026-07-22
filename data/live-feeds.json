@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:28:43.000229+00:00",
+  "updatedAt": "2026-07-22T00:57:37.792515+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WWENXT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WWENXT",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AGT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AGT",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AIOdysseyByYoroll",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AIOdysseyByYoroll",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHONY",
+          "title": "Jay Bilas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHONY",
+          "url": "https://twitter.com/search?q=Jay%20Bilas",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PMSLive",
+          "title": "Brandon Sproat",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PMSLive",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Olive Garden",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Olive%20Garden",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tard Knocks",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tard%20Knocks",
+          "url": "https://twitter.com/search?q=Brandon%20Sproat",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "southwest new nonstop routes",
+          "title": "jared young",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "la la land poster",
-          "traffic": "500",
+          "title": "brandon sproat",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan jeffers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "today",
+          "title": "framber valdez",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "warren buffett cnbc stock market",
+          "title": "jason robertson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor swift & travis kelce wedding security",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "st jude",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mandalorian",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wkbn weather",
+          "title": "cruz azul - puebla",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julio iglesias",
+          "title": "marlins - astros",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump bbc financial records lawsuit",
-          "traffic": "5000",
+          "title": "delcy rodríguez",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "allergy medication recalled",
-          "traffic": "2000",
+          "title": "calfire",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
