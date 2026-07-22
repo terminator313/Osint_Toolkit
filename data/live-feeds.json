@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T13:47:11.370715+00:00",
+  "updatedAt": "2026-07-22T15:39:26.554877+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#LingOrmAtDiorSiamParagon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LingOrmAtDiorSiamParagon",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#XMen97",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23XMen97",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WednesdayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayVibes",
+          "title": "Happy Hump",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=Happy%20Hump",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PutThatInYourPipe",
+          "title": "Victor Wembanyama",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PutThatInYourPipe",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Simon Peter",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Simon%20Peter",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WednesdayWisdom",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+          "url": "https://twitter.com/search?q=Victor%20Wembanyama",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "paula badosa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nba 2k27",
+          "title": "spurs vs mk dons",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "naacp",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bab al-mandab strait",
+          "title": "alexander bublik",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maya joint",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jimothy the raccoon",
+          "title": "alex molcan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anson mount",
+          "title": "tyler smith",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tracee ellis ross",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "frank bisignano",
+          "title": "ted lasso season 4",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ignacio buse",
+          "title": "verizon outage",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is instagram down",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patricia clarkson",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "midterm house toss-up races",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nuno borges",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
