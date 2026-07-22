@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T17:15:48.773481+00:00",
+  "updatedAt": "2026-07-22T18:40:21.837007+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LingOrmAtDiorSiamParagon",
+          "title": "#NBA2K27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LingOrmAtDiorSiamParagon",
+          "url": "https://twitter.com/search?q=%23NBA2K27",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#XMen97",
+          "title": "#LingOrmAtDiorSiamParagon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23XMen97",
+          "url": "https://twitter.com/search?q=%23LingOrmAtDiorSiamParagon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fusion Frenzy",
+          "title": "Hump Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fusion%20Frenzy",
+          "url": "https://twitter.com/search?q=Hump%20Day",
           "platform": "X/Twitter"
         },
         {
-          "title": "Daniel Siad",
+          "title": "Arclight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Daniel%20Siad",
+          "url": "https://twitter.com/search?q=Arclight",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "argentina red card",
-          "traffic": "1000",
+          "title": "red sox score",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike johnson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "casemiro",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mali",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amazon prime subscription lawsuit payout",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs yankees",
+          "title": "red sox",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napoli vs arezzo",
+          "title": "mercury vs sparks",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maidenhead united vs wolves",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nic and olandria",
-          "traffic": "5000",
+          "title": "jake bennett",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "instagram messages",
-          "traffic": "10000",
+          "title": "trae young",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex ipo stock performance",
-          "traffic": "2000",
+          "title": "valencia c. f. - cd eldense",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete hegseth defense secretary",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chick fil a loyalty account breach",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gerrit cole",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
