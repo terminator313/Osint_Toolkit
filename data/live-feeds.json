@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T00:57:37.792515+00:00",
+  "updatedAt": "2026-07-22T04:19:41.566948+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AGT",
+          "title": "#InTheCity",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AGT",
+          "url": "https://twitter.com/search?q=%23InTheCity",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AIOdysseyByYoroll",
+          "title": "#holodori",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AIOdysseyByYoroll",
+          "url": "https://twitter.com/search?q=%23holodori",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jay Bilas",
+          "title": "Tanner Scott",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jay%20Bilas",
+          "url": "https://twitter.com/search?q=Tanner%20Scott",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brandon Sproat",
+          "title": "Cornyn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brandon%20Sproat",
+          "url": "https://twitter.com/search?q=Cornyn",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jared young",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon sproat",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "framber valdez",
+          "title": "lebron",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason robertson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taylor swift & travis kelce wedding security",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "st jude",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cruz azul - puebla",
+          "title": "cetirizine recall",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins - astros",
+          "title": "mega millions",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colman domingo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jay feely",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "delcy rodríguez",
+          "title": "mariners",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami heat",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "whitney cummings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "calfire",
+          "title": "pumas",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rockies",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
