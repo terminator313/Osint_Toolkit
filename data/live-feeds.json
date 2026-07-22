@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T04:19:41.566948+00:00",
+  "updatedAt": "2026-07-22T07:08:45.630789+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#InTheCity",
+          "title": "#SB19BackInTheUS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23InTheCity",
+          "url": "https://twitter.com/search?q=%23SB19BackInTheUS",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tanner Scott",
+          "title": "Neelix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tanner%20Scott",
+          "url": "https://twitter.com/search?q=Neelix",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cornyn",
+          "title": "Zac Thornton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cornyn",
+          "url": "https://twitter.com/search?q=Zac%20Thornton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "lebron",
+          "title": "power outage near me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "monkey",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cetirizine recall",
-          "traffic": "10000",
+          "title": "memphis weather",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mega millions",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colman domingo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jay feely",
+          "title": "jason alexander",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners",
-          "traffic": "5000",
+          "title": "seth meyers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami heat",
+          "title": "ricki lake facelift photos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charles manson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben affleck",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whitney cummings",
-          "traffic": "500",
+          "title": "rebel wilson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pumas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rockies",
+          "title": "kuminga",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
