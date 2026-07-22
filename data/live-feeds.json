@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T20:10:19.777774+00:00",
+  "updatedAt": "2026-07-22T21:36:17.628816+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HealthcareNotWarfare",
+          "title": "#DirtyWater",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HealthcareNotWarfare",
+          "url": "https://twitter.com/search?q=%23DirtyWater",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Christian Encarnacion",
+          "title": "Pete Golding",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christian%20Encarnacion",
+          "url": "https://twitter.com/search?q=Pete%20Golding",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jon Sumrall",
+          "title": "NDAA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jon%20Sumrall",
+          "url": "https://twitter.com/search?q=NDAA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "us secret services",
-          "traffic": "2000",
+          "title": "jordan spieth 3m open withdrawal",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees",
+          "title": "instagram messages outage",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "google earnings",
+          "title": "capital one settlement payment delay",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stuart fails to save the universe",
+          "title": "alejandra jaramillo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dale earnhardt jr.",
+          "title": "trumprx",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napheesa collier",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill ott grand canyon discovery",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mcdonald's menu",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian encarnacion-strand",
+          "title": "lebron james offseason decision",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "juez federal de los estados unidos",
+          "title": "david gabriel georges",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike collins",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ssi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ibm earnings",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
