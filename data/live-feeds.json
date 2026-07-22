@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T15:39:26.554877+00:00",
+  "updatedAt": "2026-07-22T17:15:48.773481+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#momson",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23momson",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#XMen97",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23XMen97",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "Fusion Frenzy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=Fusion%20Frenzy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Hump",
+          "title": "Daniel Siad",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Hump",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Victor Wembanyama",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Victor%20Wembanyama",
+          "url": "https://twitter.com/search?q=Daniel%20Siad",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spurs vs mk dons",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander bublik",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex molcan",
+          "title": "argentina red card",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyler smith",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ted lasso season 4",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "verizon outage",
+          "title": "mike johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is instagram down",
+          "title": "casemiro",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mali",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amazon prime subscription lawsuit payout",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pirates vs yankees",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napoli vs arezzo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nic and olandria",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patricia clarkson",
-          "traffic": "1000",
+          "title": "instagram messages",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "midterm house toss-up races",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nuno borges",
-          "traffic": "500",
+          "title": "spacex ipo stock performance",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
