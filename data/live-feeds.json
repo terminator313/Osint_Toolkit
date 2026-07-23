@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T00:59:09.690077+00:00",
+  "updatedAt": "2026-07-23T04:22:16.693899+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FREEFUZZY",
+          "title": "#holodori",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FREEFUZZY",
+          "url": "https://twitter.com/search?q=%23holodori",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RBNY",
+          "title": "#SDCC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RBNY",
+          "url": "https://twitter.com/search?q=%23SDCC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lewandowski",
+          "title": "Thekla",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lewandowski",
+          "url": "https://twitter.com/search?q=Thekla",
           "platform": "X/Twitter"
         },
         {
-          "title": "Snit",
+          "title": "Divine Dominion",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Snit",
+          "url": "https://twitter.com/search?q=Divine%20Dominion",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "burger king whopper guarantee",
+          "title": "azzi fudd",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seattle sounders vs austin",
+          "title": "colman domingo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joan collins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sydney taylor",
+          "title": "diego luna",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben affleck",
+          "title": "powerball numbers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max muncy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba all star game",
+          "title": "heath ledger",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon hamm",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "internacional vs cruzeiro",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sporting cristal - bragantino",
+          "title": "kenley jansen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daylight saving time senate debate",
+          "title": "jim jordan jack smith doj referral",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yordan alvarez",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lil wayne",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
