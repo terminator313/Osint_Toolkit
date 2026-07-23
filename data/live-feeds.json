@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:34:14.870645+00:00",
+  "updatedAt": "2026-07-23T22:53:41.077018+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UnidaVenezuelaRenace",
+          "title": "#TheFive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnidaVenezuelaRenace",
+          "url": "https://twitter.com/search?q=%23TheFive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GuardsBall",
+          "title": "Go Elon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GuardsBall",
+          "url": "https://twitter.com/search?q=Go%20Elon",
           "platform": "X/Twitter"
         },
         {
-          "title": "$INTC",
+          "title": "Jack Smith",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24INTC",
+          "url": "https://twitter.com/search?q=Jack%20Smith",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "adam sandler",
+          "title": "hairstyle",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs cardinals",
+          "title": "southwest flight attendant immigration case",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ransom canyon season 2",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex bowman",
-          "traffic": "2000",
+          "title": "cecily tynan",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kash patel",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "estados unidos",
+          "title": "corinthians vs remo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ron marinaccio",
+          "title": "riot",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ebenezer",
+          "title": "fifa team of the tournament 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "princess",
+          "title": "honda ridgeline",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diego pavia",
+          "title": "royals vs tigers",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bullhead catfish cancer",
-          "traffic": "20000",
+          "title": "starship flight 13",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
