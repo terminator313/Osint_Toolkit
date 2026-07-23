@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:44:43.142569+00:00",
+  "updatedAt": "2026-07-23T20:10:19.330794+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Copper",
+          "title": "#Olandria",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Copper",
+          "url": "https://twitter.com/search?q=%23Olandria",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MiningStocks",
+          "title": "#SDCC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MiningStocks",
+          "url": "https://twitter.com/search?q=%23SDCC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ometv",
+          "title": "#UnidaVenezuelaRenace",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ometv",
+          "url": "https://twitter.com/search?q=%23UnidaVenezuelaRenace",
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenagee",
+          "title": "Rogue Orbit",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenagee",
+          "url": "https://twitter.com/search?q=Rogue%20Orbit",
           "platform": "X/Twitter"
         },
         {
-          "title": "RIP Will",
+          "title": "Braves",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RIP%20Will",
+          "url": "https://twitter.com/search?q=Braves",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "kyle busch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bradley pierce on robin williams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amy's lentil soup recall",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kylie kelce taylor swift relationship",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new cyclospora outbreak",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "resident evil 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "software",
+          "title": "twins",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vance boelter",
-          "traffic": "5000",
+          "title": "a toxic love story netflix",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "st. gallen vs benfica",
-          "traffic": "5000",
+          "title": "córdoba - sevilla",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan adams cancelled european tour",
+          "title": "brianna turner",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supplemental security income",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tps haiti",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ratepayer protection pledge",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gavin williams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "senate banking committee trump nominees",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthony edwards married",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
