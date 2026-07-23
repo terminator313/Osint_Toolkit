@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:53:41.077018+00:00",
+  "updatedAt": "2026-07-23T23:58:04.564491+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#PeanutButterAndChocolateDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PeanutButterAndChocolateDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SDCC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SDCC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheFive",
+          "title": "Maxie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
+          "url": "https://twitter.com/search?q=Maxie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Go Elon",
+          "title": "Christmas Carol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Go%20Elon",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jack Smith",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jack%20Smith",
+          "url": "https://twitter.com/search?q=Christmas%20Carol",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hairstyle",
+          "title": "randy dobnak",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "southwest flight attendant immigration case",
+          "title": "concacaf nations league",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ransom canyon season 2",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cecily tynan",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corinthians vs remo",
+          "title": "banana ball",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "riot",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fifa team of the tournament 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "honda ridgeline",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals vs tigers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "starship flight 13",
+          "title": "what time is big brother on tonight",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "howard unenrolled students",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mobile suit gundam rg",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba all star game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fda peptides",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hadestown in theaters",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hairstyle",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
