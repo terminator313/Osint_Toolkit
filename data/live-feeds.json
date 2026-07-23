@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T11:50:15.531469+00:00",
+  "updatedAt": "2026-07-23T13:52:08.946216+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#holodori",
+          "title": "#OMETV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23holodori",
+          "url": "https://twitter.com/search?q=%23OMETV",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#teenager",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23teenager",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LingOrmAtDiorSiamParagon",
+          "title": "#MiningStocks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LingOrmAtDiorSiamParagon",
+          "url": "https://twitter.com/search?q=%23MiningStocks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Clayface",
+          "title": "#Blackhawks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clayface",
+          "url": "https://twitter.com/search?q=%23Blackhawks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pinky Herman",
+          "title": "Happy Friday Eve",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pinky%20Herman",
+          "url": "https://twitter.com/search?q=Happy%20Friday%20Eve",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "taco bell specials",
-          "traffic": "200",
+          "title": "trump administration reporter subpoena battle",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nyt connections hints",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jayden wareham",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2026 super el nino forecast",
+          "title": "tyreek hill",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wral",
-          "traffic": "200",
+          "title": "josh duhamel",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sebastian baez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "3m open",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake oklahoma",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mayank yadav",
+          "title": "satellite imagery jordan base damage",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince george birthday",
+          "title": "dodgers mlb trade deadline",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lincoln memorial reflecting pool",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick kane",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abraham accords",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ignacio buse",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adeyemi",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
