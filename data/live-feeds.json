@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:10:19.330794+00:00",
+  "updatedAt": "2026-07-23T21:34:14.870645+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Rogue Orbit",
+          "title": "#GuardsBall",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rogue%20Orbit",
+          "url": "https://twitter.com/search?q=%23GuardsBall",
           "platform": "X/Twitter"
         },
         {
-          "title": "Braves",
+          "title": "$INTC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Braves",
+          "url": "https://twitter.com/search?q=%24INTC",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "twins",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "a toxic love story netflix",
+          "title": "adam sandler",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "córdoba - sevilla",
-          "traffic": "500",
+          "title": "diamondbacks vs cardinals",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brianna turner",
+          "title": "alex bowman",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kash patel",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "estados unidos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "supplemental security income",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tps haiti",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ratepayer protection pledge",
+          "title": "ron marinaccio",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gavin williams",
+          "title": "ebenezer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "senate banking committee trump nominees",
-          "traffic": "2000",
+          "title": "princess",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony edwards married",
-          "traffic": "2000",
+          "title": "diego pavia",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bullhead catfish cancer",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
