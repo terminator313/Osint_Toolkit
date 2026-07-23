@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T15:53:18.064078+00:00",
+  "updatedAt": "2026-07-23T17:19:58.464601+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ometv",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ometv",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MiningStocks",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MiningStocks",
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenager",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenager",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#omegle",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23omegle",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Copper",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Copper",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ometv",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ometv",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "AVCA Team Academic Award",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=AVCA%20Team%20Academic%20Award",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Nic Scourton",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Nic%20Scourton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump iran",
+          "title": "markwayne mullin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fc 27",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott dixon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ransom",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "william, prince of wales",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon bernthal",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "middlesbrough",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres - braves",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump iran",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "nic scourton",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karoline leavitt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "richard carapaz",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "downdetector",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qqq",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander bublik",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nasdaq",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "howard",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "beauty in black netflix renewal",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
