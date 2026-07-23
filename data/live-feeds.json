@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T13:52:08.946216+00:00",
+  "updatedAt": "2026-07-23T15:53:18.064078+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OMETV",
+          "title": "#ometv",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OMETV",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#teenager",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenager",
+          "url": "https://twitter.com/search?q=%23ometv",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Blackhawks",
+          "title": "#teenager",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Blackhawks",
+          "url": "https://twitter.com/search?q=%23teenager",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Friday Eve",
+          "title": "#omegle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Friday%20Eve",
+          "url": "https://twitter.com/search?q=%23omegle",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Copper",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Copper",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump administration reporter subpoena battle",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyreek hill",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh duhamel",
+          "title": "trump iran",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "satellite imagery jordan base damage",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers mlb trade deadline",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lincoln memorial reflecting pool",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patrick kane",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abraham accords",
+          "title": "nic scourton",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ignacio buse",
+          "title": "karoline leavitt",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "richard carapaz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "downdetector",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "qqq",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "adeyemi",
-          "traffic": "200",
+          "title": "alexander bublik",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasdaq",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "howard",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "beauty in black netflix renewal",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
