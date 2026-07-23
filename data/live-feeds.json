@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T04:22:16.693899+00:00",
+  "updatedAt": "2026-07-23T07:04:42.425396+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#holodori",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23holodori",
           "platform": "X/Twitter"
         },
         {
+          "title": "#AEWDynamite",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#JanaNayagan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JanaNayagan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "End of Evangelion",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=End%20of%20Evangelion",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SDCC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SDCC",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Thekla",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thekla",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Divine Dominion",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Divine%20Dominion",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "long john silvers closing",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "meteorite crater",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nintendo palworld lawsuit",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jana nayagan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john leguizamo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "halo campaign evolved",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portland timbers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paige bueckers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "azzi fudd",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "colman domingo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joan collins",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diego luna",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball numbers",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heath ledger",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kenley jansen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim jordan jack smith doj referral",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yordan alvarez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lil wayne",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
