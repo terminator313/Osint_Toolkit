@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:00:22.177214+00:00",
+  "updatedAt": "2026-07-23T00:59:09.690077+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GalaxyGiveaways",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyGiveaways",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFold8",
+          "title": "#FREEFUZZY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFold8",
+          "url": "https://twitter.com/search?q=%23FREEFUZZY",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DirtyWater",
+          "title": "#RBNY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DirtyWater",
+          "url": "https://twitter.com/search?q=%23RBNY",
           "platform": "X/Twitter"
         },
         {
-          "title": "6 Democrats",
+          "title": "Lewandowski",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=6%20Democrats",
+          "url": "https://twitter.com/search?q=Lewandowski",
           "platform": "X/Twitter"
         },
         {
-          "title": "Section 219",
+          "title": "Snit",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Section%20219",
+          "url": "https://twitter.com/search?q=Snit",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chicago vs inter miami",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aces vs mystics",
+          "title": "burger king whopper guarantee",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ndaa section 219",
+          "title": "seattle sounders vs austin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sydney taylor",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben affleck",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new york city vs columbus",
+          "title": "max muncy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba all star game",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jackie update",
-          "traffic": "10000",
+          "title": "jon hamm",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fifa team of the tournament 2026",
+          "title": "internacional vs cruzeiro",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sporting cristal - bragantino",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maple street biscuit company sold",
+          "title": "daylight saving time senate debate",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marines",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "president trump dover dignified transfer",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caitlin clark",
-          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
