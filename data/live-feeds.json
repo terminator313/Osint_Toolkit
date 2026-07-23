@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T09:56:17.027941+00:00",
+  "updatedAt": "2026-07-23T11:50:15.531469+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,12 +26,6 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Life2026",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Life2026",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AEWDynamite",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWDynamite",
@@ -48,6 +42,12 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Clayface",
           "platform": "X/Twitter"
+        },
+        {
+          "title": "Pinky Herman",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Pinky%20Herman",
+          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ukraine",
+          "title": "taco bell specials",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barack obama",
+          "title": "nyt connections hints",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lieutenant",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tsa",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariano navone",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quentin halys",
+          "title": "jayden wareham",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nikola bartunkova",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason alexander apology courtney stodden",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bomber",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ned vs nep",
+          "title": "2026 super el nino forecast",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wral",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sebastian baez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "3m open",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake oklahoma",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mayank yadav",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince george birthday",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
