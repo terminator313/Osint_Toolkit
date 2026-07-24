@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T18:15:47.432845+00:00",
+  "updatedAt": "2026-07-24T19:53:53.319322+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#nrednews",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23nrednews",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChi",
+          "title": "#RepublicanCostOfCorruption",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChi",
+          "url": "https://twitter.com/search?q=%23RepublicanCostOfCorruption",
           "platform": "X/Twitter"
         },
         {
-          "title": "Injuries",
+          "title": "Miami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Injuries",
+          "url": "https://twitter.com/search?q=Miami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Curry",
+          "title": "Golden State",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Curry",
+          "url": "https://twitter.com/search?q=Golden%20State",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dave ramsey",
+          "title": "trump administration federal grant cancellations",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barcelona vs europa",
+          "title": "rockies vs brewers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bear stranded on utility pole",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tony romo",
+          "title": "elon musk net worth",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "real madrid vs",
+          "title": "rivers of america",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "benfica vs belenenses",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "verizon google billion dollar deal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "opus 5",
+          "title": "playstation network down",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james boasberg",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "terence crawford",
+          "title": "burger king paw patrol toys",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexander blockx",
-          "traffic": "1000",
+          "title": "bahrain",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arresto",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "simone biles",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
