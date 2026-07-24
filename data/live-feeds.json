@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T09:02:51.431797+00:00",
+  "updatedAt": "2026-07-24T11:16:01.904061+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaisingKanan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaisingKanan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#APOP",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23APOP",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MARVELTōkon",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MARVELT%C5%8Dkon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#questpit",
+          "title": "#HyperLuckyMove1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23questpit",
+          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Toolshed",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Toolshed",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "The Game",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=The%20Game",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tommy karate film cast pete davidson",
-          "traffic": "100",
+          "title": "playstation",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drone",
+          "title": "downdetector",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "map weather",
+          "title": "lapd mariachi america's got talent",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "score",
+          "title": "taco bell menu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kathy hochul",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "camera news",
+          "title": "yannick hanfmann",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cap ferret",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fashion news",
+          "title": "linda mcmahon",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brittany renner",
+          "title": "jurgen klopp",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "extreme heat watch",
+          "title": "tiempo",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "market",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "goal",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
