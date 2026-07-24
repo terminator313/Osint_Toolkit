@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:13:38.552812+00:00",
+  "updatedAt": "2026-07-24T23:31:11.222087+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenage",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenage",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#BudSummerOf250",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rolin",
+          "title": "#NationalDriveThruDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rolin",
+          "url": "https://twitter.com/search?q=%23NationalDriveThruDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Big Gretch",
+          "title": "East",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Big%20Gretch",
+          "url": "https://twitter.com/search?q=East",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Akasha",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Akasha",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spacex launch",
+          "title": "mariners vs rangers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mario hezonja",
+          "title": "apple tv",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "appletv",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees vs phillies",
-          "traffic": "10000",
+          "title": "phillies schedule",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs vs pirates",
+          "title": "astros vs white sox",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs nationals",
+          "title": "trump pressure john thune",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah bananas chicago",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tylenol",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white house correspondents' dinner",
-          "traffic": "1000",
+          "title": "diana, princess of wales",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump air force one swap",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spider-man: brand new day",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "burger king kids meal paw patrol",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yan diomande",
-          "traffic": "2000",
+          "title": "blue jays vs red sox",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
