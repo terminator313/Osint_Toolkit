@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T03:19:34.498843+00:00",
+  "updatedAt": "2026-07-24T06:08:37.753275+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "#RaisingKanan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=%23RaisingKanan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAonAMC",
+          "title": "#APOP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAonAMC",
+          "url": "https://twitter.com/search?q=%23APOP",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nick Bosa",
+          "title": "How We Do",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nick%20Bosa",
+          "url": "https://twitter.com/search?q=How%20We%20Do",
           "platform": "X/Twitter"
         },
         {
-          "title": "Neto",
+          "title": "Tyga",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Neto",
+          "url": "https://twitter.com/search?q=Tyga",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "vaccines",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flu shots",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lluvia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yg rapper",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nisar satellite antarctica image",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kenmore air",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeff hays princess donut cast",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cfl scores",
+          "title": "barcelona",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "verzuz",
-          "traffic": "2000",
+          "title": "kennewick fire",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cfl",
+          "title": "rosie o'donnell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel tokon open beta",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "her private hell",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "starz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charli xcx",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "been by now morgan wallen lyrics",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shiloh hendrix",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "demi moore",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
