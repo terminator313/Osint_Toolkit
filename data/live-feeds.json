@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T12:56:13.372308+00:00",
+  "updatedAt": "2026-07-24T14:54:48.087043+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#วาดฝันวันวิวาห์EP6",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP6",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#questpit",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23questpit",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
+          "title": "TSLA INTC AAPL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#MARVELTōkon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MARVELT%C5%8Dkon",
+          "url": "https://twitter.com/search?q=TSLA%20INTC%20AAPL",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "affray",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sharks",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bruno betancor",
+          "title": "sara bejlek",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paula badosa",
+          "title": "cole hauser",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jordan rodgers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marie bouzkova",
-          "traffic": "200",
+          "title": "jason sudeikis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hugo gaston",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cetirizine",
+          "title": "colt gray",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe manchin independent leadership council",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gop internal criticism jd vance",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samantha chaney wbz-tv departure",
+          "title": "brian doerksen passing",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "russian fighter jets",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luke bracey",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tracee ellis ross",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pinky herman",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
