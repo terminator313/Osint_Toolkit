@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T16:40:05.992906+00:00",
+  "updatedAt": "2026-07-24T18:15:47.432845+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TheChi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TheChi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#questpit",
+          "title": "Injuries",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23questpit",
+          "url": "https://twitter.com/search?q=Injuries",
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenagee",
+          "title": "Curry",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenagee",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LastFourWatched",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "url": "https://twitter.com/search?q=Curry",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jalen brunson",
+          "title": "dave ramsey",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lakers roster",
+          "title": "barcelona vs europa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tony romo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid vs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jared mccain",
+          "title": "benfica vs belenenses",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "verizon google billion dollar deal",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lebron meme",
-          "traffic": "500",
+          "title": "opus 5",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caleb love",
-          "traffic": "500",
+          "title": "james boasberg",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jalen duren",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid",
+          "title": "terence crawford",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kawhi leonard",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "knicks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nba free agents 2026",
+          "title": "alexander blockx",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
