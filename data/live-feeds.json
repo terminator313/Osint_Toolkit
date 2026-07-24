@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:00:14.050154+00:00",
+  "updatedAt": "2026-07-24T22:13:38.552812+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,27 +20,27 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Lanterns",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Lanterns",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#teenage",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23teenage",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PennyStocks",
+          "title": "#BudSummerOf250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PennyStocks",
+          "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         },
         {
-          "title": "#nrednews",
+          "title": "Rolin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23nrednews",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Heat",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Heat",
+          "url": "https://twitter.com/search?q=Rolin",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "austin metcalf",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chuck russell",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ford recalls broncos",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "been by now morgan wallen",
+          "title": "spacex launch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hegseth military testosterone policy",
+          "title": "mario hezonja",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix elite force action thriller",
+          "title": "yankees vs phillies",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs vs pirates",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks vs nationals",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morgan wallen big house",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uber stock",
+          "title": "white house correspondents' dinner",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump white house dinner address",
-          "traffic": "500",
+          "title": "trump air force one swap",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump administration federal grant cancellations",
-          "traffic": "5000",
+          "title": "spider-man: brand new day",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "burger king kids meal paw patrol",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yan diomande",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
