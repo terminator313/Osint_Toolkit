@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T23:58:04.564491+00:00",
+  "updatedAt": "2026-07-24T03:19:34.498843+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Olandria",
+          "title": "#Verzuz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Olandria",
+          "url": "https://twitter.com/search?q=%23Verzuz",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeanutButterAndChocolateDay",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeanutButterAndChocolateDay",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SDCC",
+          "title": "#TNAonAMC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SDCC",
+          "url": "https://twitter.com/search?q=%23TNAonAMC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Maxie",
+          "title": "Nick Bosa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Maxie",
+          "url": "https://twitter.com/search?q=Nick%20Bosa",
           "platform": "X/Twitter"
         },
         {
-          "title": "Christmas Carol",
+          "title": "Neto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christmas%20Carol",
+          "url": "https://twitter.com/search?q=Neto",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "randy dobnak",
+          "title": "vaccines",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flu shots",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lluvia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yg rapper",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nisar satellite antarctica image",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kenmore air",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeff hays princess donut cast",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cfl scores",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "concacaf nations league",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "banana ball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "what time is big brother on tonight",
+          "title": "verzuz",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "howard unenrolled students",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mobile suit gundam rg",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba all star game",
+          "title": "cfl",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fda peptides",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hadestown in theaters",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hairstyle",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
