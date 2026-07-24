@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T06:08:37.753275+00:00",
+  "updatedAt": "2026-07-24T09:02:51.431797+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "How We Do",
+          "title": "#MARVELTōkon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=How%20We%20Do",
+          "url": "https://twitter.com/search?q=%23MARVELT%C5%8Dkon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tyga",
+          "title": "#questpit",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyga",
+          "url": "https://twitter.com/search?q=%23questpit",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "barcelona",
-          "traffic": "500",
+          "title": "tommy karate film cast pete davidson",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kennewick fire",
+          "title": "drone",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "map weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rosie o'donnell",
-          "traffic": "500",
+          "title": "score",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvel tokon open beta",
-          "traffic": "500",
+          "title": "camera news",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "her private hell",
-          "traffic": "1000",
+          "title": "fashion news",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "starz",
-          "traffic": "500",
+          "title": "brittany renner",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charli xcx",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "been by now morgan wallen lyrics",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shiloh hendrix",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "demi moore",
+          "title": "extreme heat watch",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "market",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "goal",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
