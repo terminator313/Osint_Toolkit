@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:53:53.319322+00:00",
+  "updatedAt": "2026-07-24T21:00:14.050154+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#วาดฝันวันวิวาห์EP6",
+          "title": "#teenage",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP6",
+          "url": "https://twitter.com/search?q=%23teenage",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#PennyStocks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PennyStocks",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RepublicanCostOfCorruption",
+          "title": "Heat",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepublicanCostOfCorruption",
+          "url": "https://twitter.com/search?q=Heat",
           "platform": "X/Twitter"
         },
         {
-          "title": "Miami",
+          "title": "Big Gretch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Miami",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Golden State",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Golden%20State",
+          "url": "https://twitter.com/search?q=Big%20Gretch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump administration federal grant cancellations",
+          "title": "austin metcalf",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockies vs brewers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bear stranded on utility pole",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elon musk net worth",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rivers of america",
+          "title": "chuck russell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation network down",
-          "traffic": "10000",
+          "title": "ford recalls broncos",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "burger king paw patrol toys",
+          "title": "been by now morgan wallen",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahrain",
+          "title": "pete hegseth military testosterone policy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix elite force action thriller",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arresto",
-          "traffic": "2000",
+          "title": "morgan wallen big house",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simone biles",
-          "traffic": "2000",
+          "title": "uber stock",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump white house dinner address",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration federal grant cancellations",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
