@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:36:01.271687+00:00",
+  "updatedAt": "2026-07-25T16:02:18.726633+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesEP3",
+          "title": "#LUNÉSelcaDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
+          "url": "https://twitter.com/search?q=%23LUN%C3%89SelcaDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "#LUNÉJidoriDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=%23LUN%C3%89JidoriDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ribeiro",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ribeiro",
           "platform": "X/Twitter"
         },
         {
           "title": "Aliev",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Aliev",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#FFFPartyConcert2026D1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D1",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sam patterson",
+          "title": "chatgpt outage",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hungarian grand prix",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dustin jacoby",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "valter walker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sepp kuss",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lilli tagger",
+          "title": "troy jackson",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason sudeikis",
-          "traffic": "1000",
+          "title": "psv vs villarreal",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donald trump rural approval rating",
+          "title": "damian rzepecki",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyrell fortune",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abubakar vagaev",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "television comedy",
+          "title": "steve erceg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kansas city chiefs",
-          "traffic": "500",
+          "title": "mitch mcconnell senate absence",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bolton vs everton",
-          "traffic": "500",
+          "title": "scottie scheffler 3m open",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
