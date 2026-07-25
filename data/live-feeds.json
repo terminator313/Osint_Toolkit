@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T07:33:21.327797+00:00",
+  "updatedAt": "2026-07-25T09:44:10.041371+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#KARINAxWATERBOMB2026",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23KARINAxWATERBOMB2026",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#HyperLuckyMove1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FFXIVFanFest",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FFXIVFanFest",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Densetsu1stLive",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Densetsu1stLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WHCD",
+          "title": "#LinglingKwongXKustieBrand",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WHCD",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OPLive",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "White House Correspondents",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=White%20House%20Correspondents",
+          "url": "https://twitter.com/search?q=%23LinglingKwongXKustieBrand",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "glen powell",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "musafir cafe",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bogdan guskov",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian mccaffrey",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hawaii hurricane fausto",
+          "title": "chat gpt",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new god of war",
-          "traffic": "1000",
+          "title": "gemini",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giants vs angels",
-          "traffic": "500",
+          "title": "girona - alavés",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hunter biden",
-          "traffic": "500",
+          "title": "chatgpt",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gilberto mora",
+          "title": "brian doerksen passing",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eugenio pizzuto",
-          "traffic": "500",
+          "title": "grok",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abdul hussein",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gpt",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chatgpt down",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dharmendra pradhan",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
