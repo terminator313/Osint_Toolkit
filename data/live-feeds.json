@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T11:07:39.689399+00:00",
+  "updatedAt": "2026-07-25T12:31:17.034721+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#KARINAxWATERBOMB2026",
+          "title": "#PeachAndMeSeriesEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KARINAxWATERBOMB2026",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FIEAmbassadorJacksonWang",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FIEAmbassadorJacksonWang",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SaturdayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FFXIV",
+          "title": "EMBPFK CLOSE FRIENDS PARTY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FFXIV",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Trump 2028",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trump%202028",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Evercold",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Evercold",
+          "url": "https://twitter.com/search?q=EMBPFK%20CLOSE%20FRIENDS%20PARTY",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "strands hint",
-          "traffic": "500",
+          "title": "tour de france 2026",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "düsseldorf vs dortmund",
+          "title": "corey ruiz shooting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cyclospora cases michigan indiana",
-          "traffic": "10000",
+          "title": "islam dulatov",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john cusack",
-          "traffic": "100",
+          "title": "will smith",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cecilia vega cbs reporting dispute",
+          "title": "kyle larson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chegg",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexander bublik",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah lyles",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brittany renner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amazon prime settlement",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snakebite",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mega millions",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ncis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supergroup",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hasan piker",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
