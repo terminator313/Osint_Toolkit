@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T09:44:10.041371+00:00",
+  "updatedAt": "2026-07-25T11:07:39.689399+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HyperLuckyMove1",
+          "title": "#FFFPartyConcert2026D1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
+          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FFXIVFanFest",
+          "title": "#FFXIV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FFXIVFanFest",
+          "url": "https://twitter.com/search?q=%23FFXIV",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Densetsu1stLive",
+          "title": "Trump 2028",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Densetsu1stLive",
+          "url": "https://twitter.com/search?q=Trump%202028",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LinglingKwongXKustieBrand",
+          "title": "Evercold",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LinglingKwongXKustieBrand",
+          "url": "https://twitter.com/search?q=Evercold",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chat gpt",
-          "traffic": "2000",
+          "title": "strands hint",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gemini",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "girona - alavés",
+          "title": "düsseldorf vs dortmund",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chatgpt",
+          "title": "cyclospora cases michigan indiana",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian doerksen passing",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grok",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abdul hussein",
+          "title": "john cusack",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gpt",
+          "title": "cecilia vega cbs reporting dispute",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chatgpt down",
-          "traffic": "2000",
+          "title": "snakebite",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dharmendra pradhan",
-          "traffic": "1000",
+          "title": "mega millions",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncis",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supergroup",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hasan piker",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
