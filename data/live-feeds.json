@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:31:17.034721+00:00",
+  "updatedAt": "2026-07-25T14:36:01.271687+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PeachAndMeSeriesEP3",
+          "title": "#UFCAbuDhabi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
+          "url": "https://twitter.com/search?q=%23UFCAbuDhabi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIEAmbassadorJacksonWang",
+          "title": "#PeachAndMeSeriesEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIEAmbassadorJacksonWang",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FFFPartyConcert2026D1",
+          "title": "Aliev",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D1",
+          "url": "https://twitter.com/search?q=Aliev",
           "platform": "X/Twitter"
         },
         {
-          "title": "EMBPFK CLOSE FRIENDS PARTY",
+          "title": "#FFFPartyConcert2026D1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=EMBPFK%20CLOSE%20FRIENDS%20PARTY",
+          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D1",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tour de france 2026",
-          "traffic": "2000",
+          "title": "sam patterson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "corey ruiz shooting",
-          "traffic": "200",
+          "title": "dustin jacoby",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "islam dulatov",
-          "traffic": "200",
+          "title": "valter walker",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will smith",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle larson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chegg",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander bublik",
+          "title": "sepp kuss",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah lyles",
-          "traffic": "200",
+          "title": "lilli tagger",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brittany renner",
-          "traffic": "200",
+          "title": "jason sudeikis",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amazon prime settlement",
-          "traffic": "5000",
+          "title": "donald trump rural approval rating",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "television comedy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kansas city chiefs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bolton vs everton",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
