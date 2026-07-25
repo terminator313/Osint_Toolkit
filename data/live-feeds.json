@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T02:28:01.820501+00:00",
+  "updatedAt": "2026-07-25T05:28:45.725771+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#WHCD",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WHCD",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OPLive",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LoveAfterLockup",
+          "title": "White House Correspondents",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LoveAfterLockup",
+          "url": "https://twitter.com/search?q=White%20House%20Correspondents",
           "platform": "X/Twitter"
         },
         {
-          "title": "Philly",
+          "title": "Azzi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Philly",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WHCD",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WHCD",
+          "url": "https://twitter.com/search?q=Azzi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "atlante vs américa",
+          "title": "giants game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter biden",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilberto mora",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kazuma okamoto",
+          "title": "hurricane fausto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason derulo",
-          "traffic": "500",
+          "title": "kentavious caldwell-pope",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rick moranis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gotham vs portland thorns",
+          "title": "jaafar jackson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle tucker",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ransom canyon season 2 cast",
+          "title": "sl-w vs pakw",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angels vs giants",
+          "title": "naira",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation network outage",
-          "traffic": "20000",
+          "title": "zendaya",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rays",
+          "title": "jacob elordi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
