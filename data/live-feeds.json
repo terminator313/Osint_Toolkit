@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:23:57.246770+00:00",
+  "updatedAt": "2026-07-25T22:25:45.075202+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCAbuDhabi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCAbuDhabi",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LaVeladaDelAñoVI",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LaVeladaDelA%C3%B1oVI",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JoshuaPrenga",
+          "title": "#UFCAbuDhabi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JoshuaPrenga",
+          "url": "https://twitter.com/search?q=%23UFCAbuDhabi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Agyarko",
+          "title": "#YAGA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Agyarko",
+          "url": "https://twitter.com/search?q=%23YAGA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Shanahan",
+          "title": "Steph",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Shanahan",
+          "url": "https://twitter.com/search?q=Steph",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Guskov",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Guskov",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "savannah bananas",
-          "traffic": "5000",
+          "title": "guadalajara - juárez",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liverpool vs sunderland",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "méxico",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "koivun golfer",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "santos vs chapecoense",
+          "title": "carson kvapil",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sonny gray",
+          "title": "noah kahan raleigh",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boyacá chicó - atlético nacional",
+          "title": "michael burry",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states department of war",
+          "title": "stefon diggs family",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charlotte vs ny red bulls",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miniseries",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cruz azul vs toluca",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nikki hiltz",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael brennan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh kelly",
-          "traffic": "500",
+          "title": "yankees - phillies",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
