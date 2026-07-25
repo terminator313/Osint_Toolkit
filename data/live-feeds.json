@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:09:14.361282+00:00",
+  "updatedAt": "2026-07-25T21:23:57.246770+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#JoshuaPrenga",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23JoshuaPrenga",
           "platform": "X/Twitter"
         },
         {
-          "title": "Booker T",
+          "title": "Agyarko",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Booker%20T",
+          "url": "https://twitter.com/search?q=Agyarko",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hao-Yu Lee",
+          "title": "Kyle Shanahan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hao-Yu%20Lee",
+          "url": "https://twitter.com/search?q=Kyle%20Shanahan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "mackenzie scott",
-          "traffic": "500",
+          "title": "savannah bananas",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah maclauchlan golf",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers",
+          "title": "liverpool vs sunderland",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us junior amateur 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres vs marlins",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks vs nationals",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "star wars: starfighter",
+          "title": "méxico",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daniel adongo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "errol spence jr vs tim tszyu time",
+          "title": "koivun golfer",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robert aaron suttles",
+          "title": "santos vs chapecoense",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sonny gray",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boyacá chicó - atlético nacional",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states department of war",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael brennan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh kelly",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
