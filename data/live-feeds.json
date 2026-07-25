@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:25:45.075202+00:00",
+  "updatedAt": "2026-07-25T23:29:31.830725+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCAbuDhabi",
+          "title": "#JoshuaPrenga",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCAbuDhabi",
+          "url": "https://twitter.com/search?q=%23JoshuaPrenga",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Pennzoil250",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Pennzoil250",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "State Farm",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=State%20Farm",
           "platform": "X/Twitter"
         },
         {
           "title": "#YAGA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23YAGA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Steph",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Steph",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Guskov",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Guskov",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "guadalajara - juárez",
-          "traffic": "20000",
+          "title": "jeopardy!",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carson kvapil",
+          "title": "atlanta united vs new england",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah kahan raleigh",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael burry",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stefon diggs family",
+          "title": "dodgers - mets",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charlotte vs ny red bulls",
+          "title": "paul skenes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miniseries",
+          "title": "all star game wnba",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cruz azul vs toluca",
-          "traffic": "500",
+          "title": "nashville vs orlando city",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nikki hiltz",
+          "title": "brian keller",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rockies vs brewers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seattle sounders vs philadelphia",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees - phillies",
-          "traffic": "5000",
+          "title": "cincinnati vs columbus",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
