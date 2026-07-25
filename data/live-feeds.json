@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T23:31:11.222087+00:00",
+  "updatedAt": "2026-07-25T02:28:01.820501+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Lanterns",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lanterns",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BudSummerOf250",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BudSummerOf250",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalDriveThruDay",
+          "title": "#LoveAfterLockup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalDriveThruDay",
+          "url": "https://twitter.com/search?q=%23LoveAfterLockup",
           "platform": "X/Twitter"
         },
         {
-          "title": "East",
+          "title": "Philly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=East",
+          "url": "https://twitter.com/search?q=Philly",
           "platform": "X/Twitter"
         },
         {
-          "title": "Akasha",
+          "title": "#WHCD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Akasha",
+          "url": "https://twitter.com/search?q=%23WHCD",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mariners vs rangers",
+          "title": "atlante vs américa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "appletv",
+          "title": "kazuma okamoto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phillies schedule",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astros vs white sox",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump pressure john thune",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "savannah bananas chicago",
+          "title": "jason derulo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tylenol",
-          "traffic": "2000",
+          "title": "rick moranis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diana, princess of wales",
+          "title": "gotham vs portland thorns",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle tucker",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ransom canyon season 2 cast",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels vs giants",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blue jays vs red sox",
-          "traffic": "10000",
+          "title": "playstation network outage",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
