@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T18:31:40.448123+00:00",
+  "updatedAt": "2026-07-25T20:09:14.361282+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LaVeladaDelAñoVI",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaVeladaDelA%C3%B1oVI",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Caturday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LUNÉSelcaDay",
+          "title": "Booker T",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LUN%C3%89SelcaDay",
+          "url": "https://twitter.com/search?q=Booker%20T",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesEP3",
+          "title": "Hao-Yu Lee",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "MREs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=MREs",
+          "url": "https://twitter.com/search?q=Hao-Yu%20Lee",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "salahdine parnasse",
+          "title": "mackenzie scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah maclauchlan golf",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uzbekistan",
+          "title": "us junior amateur 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres vs marlins",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks vs nationals",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "star wars: starfighter",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dallas keuchel",
-          "traffic": "500",
+          "title": "daniel adongo",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hao-yu lee",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "granada - real betis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple iphone 18",
+          "title": "errol spence jr vs tim tszyu time",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "standard vs juventus",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "conan o'brien new hairstyle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dan houser",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la velada del año 2026",
+          "title": "robert aaron suttles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
