@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T11:19:24.927192+00:00",
+  "updatedAt": "2026-07-26T12:36:31.648727+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#SundayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FFFPartyConcert2026D2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Boxing",
+          "title": "#SundayFunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Boxing",
+          "url": "https://twitter.com/search?q=%23SundayFunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesEP3",
+          "title": "Lyss",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
+          "url": "https://twitter.com/search?q=Lyss",
           "platform": "X/Twitter"
         },
         {
-          "title": "Johnny Blaze",
+          "title": "EMBPFK FEEL THE FUN TOGETHER",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Johnny%20Blaze",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ShikiKatagami3D",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ShikiKatagami3D",
+          "url": "https://twitter.com/search?q=EMBPFK%20FEEL%20THE%20FUN%20TOGETHER",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amazon prime settlement",
+          "title": "tour de france 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "egg recall 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fbi most wanted fraudsters",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peptides",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atletico madrid kang-in lee transfer",
-          "traffic": "100",
+          "title": "game of thrones",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hough dancing with the stars",
-          "traffic": "100",
+          "title": "tour de france today",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marshawn lynch",
-          "traffic": "100",
+          "title": "new york state fair",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "television comedy",
-          "traffic": "1000",
+          "title": "formula 1 schedule",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jalen brunson knicks contract",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zim vs ind",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cathie wood",
+          "title": "shark week 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hungarian grand prix",
-          "traffic": "1000",
+          "title": "detroit lions",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
