@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T21:58:50.177527+00:00",
+  "updatedAt": "2026-07-26T23:04:29.275786+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NASCAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NASCAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Brickyard400",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Brickyard400",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
+          "title": "#AEWRedemption",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23AEWRedemption",
           "platform": "X/Twitter"
         },
         {
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Hocevar",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "Taillon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Taillon",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "noah lyles",
+          "title": "yankees - phillies",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "palmeiras vs atlético mineiro",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "punch the monkey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sam altman",
+          "title": "corey ruiz shooting",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "todd gilliland",
+          "title": "chuck russell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom homan",
+          "title": "robert downey jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elizabeth waddell grenada",
-          "traffic": "1000",
+          "title": "necaxa vs monterrey",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher bell",
-          "traffic": "1000",
+          "title": "iran war casualty count",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west indies vs pakistan",
-          "traffic": "2000",
+          "title": "d4vd i did it",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emiliano grillo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "savannah bananas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "banana ball",
+          "title": "flamengo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
