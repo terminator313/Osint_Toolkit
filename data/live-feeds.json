@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T07:34:33.838054+00:00",
+  "updatedAt": "2026-07-26T09:56:32.068307+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Boxing",
+          "title": "#MyAdventuresWithSuperman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Boxing",
+          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ugas",
+          "title": "Ryan Reynolds",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ugas",
+          "url": "https://twitter.com/search?q=Ryan%20Reynolds",
           "platform": "X/Twitter"
         },
         {
-          "title": "Peggy Carter",
+          "title": "Breslow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Peggy%20Carter",
+          "url": "https://twitter.com/search?q=Breslow",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "weather heat dome",
-          "traffic": "200",
+          "title": "ice removes daniel adongo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "george rr martin",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the rookie",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sustainability news",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car news",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alaskaair",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 18 pro max",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat dome weather",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,42 +101,7 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "powerball winning numbers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "election contest",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple iphone upgrade program",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "avatar movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jennifer connelly",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aubrey plaza",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france wildfires",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "costco lawsuit settlement",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
