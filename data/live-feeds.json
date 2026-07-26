@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:57:17.779425+00:00",
+  "updatedAt": "2026-07-26T18:02:15.386143+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WonyoungMLBFirstPitch",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WonyoungMLBFirstPitch",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BlueWaveIn100Days",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn100Days",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SeductiveSunday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HungarianGP",
+          "title": "Oscar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HungarianGP",
+          "url": "https://twitter.com/search?q=Oscar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "Deja Kelly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Fauci",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fauci",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#GalaxyZFlip8",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFlip8",
+          "url": "https://twitter.com/search?q=Deja%20Kelly",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lluvia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "democratic party",
+          "title": "wyndham clark girlfriend emily tanner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl preseason",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guardians - rays",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doe clean-energy grant lawsuit",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "meghan guest judge masterchef",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox hard delisting games",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sheinelle jones",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heather tom",
+          "title": "oil tanker",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james harden darius garland cavaliers trade",
+          "title": "jerry kelly",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "citizenship revoked",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "royals vs tigers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mario hezonja",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh allen",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres vs marlins",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks vs nationals",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flood",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
