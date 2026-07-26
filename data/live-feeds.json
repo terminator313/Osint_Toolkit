@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T09:56:32.068307+00:00",
+  "updatedAt": "2026-07-26T11:19:24.927192+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Toonami",
+          "title": "#FFFPartyConcert2026D2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TokyoRevengers",
+          "title": "#Boxing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TokyoRevengers",
+          "url": "https://twitter.com/search?q=%23Boxing",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MyAdventuresWithSuperman",
+          "title": "#PeachAndMeSeriesEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesEP3",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ryan Reynolds",
+          "title": "Johnny Blaze",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ryan%20Reynolds",
+          "url": "https://twitter.com/search?q=Johnny%20Blaze",
           "platform": "X/Twitter"
         },
         {
-          "title": "Breslow",
+          "title": "#ShikiKatagami3D",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Breslow",
+          "url": "https://twitter.com/search?q=%23ShikiKatagami3D",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ice removes daniel adongo",
+          "title": "amazon prime settlement",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george rr martin",
+          "title": "atletico madrid kang-in lee transfer",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the rookie",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sustainability news",
+          "title": "hough dancing with the stars",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car news",
+          "title": "marshawn lynch",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alaskaair",
+          "title": "television comedy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen brunson knicks contract",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "powerball",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zim vs ind",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cathie wood",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 18 pro max",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heat dome weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert downey jr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "election contest",
+          "title": "hungarian grand prix",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
