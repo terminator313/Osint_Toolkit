@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T01:08:56.358296+00:00",
+  "updatedAt": "2026-07-26T04:55:53.224658+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LaVeladaDelAñoVI",
+          "title": "#SDCC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaVeladaDelA%C3%B1oVI",
+          "url": "https://twitter.com/search?q=%23SDCC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#PFLDC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23PFLDC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MostRequestedLive",
+          "title": "#MyAdventuresWithSuperman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MostRequestedLive",
+          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carson Kvapil",
+          "title": "Alien Romulus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carson%20Kvapil",
+          "url": "https://twitter.com/search?q=Alien%20Romulus",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bryan Woo",
+          "title": "Jonquel Jones",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bryan%20Woo",
+          "url": "https://twitter.com/search?q=Jonquel%20Jones",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "pete crow-armstrong",
+          "title": "costco lawsuit settlement",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marina mabrey",
+          "title": "citizenship",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bo bichette",
+          "title": "sdfc",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pirates game",
-          "traffic": "500",
+          "title": "curtis mead",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jasson domínguez",
-          "traffic": "500",
+          "title": "tottenham",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vancouver vs minnesota",
-          "traffic": "500",
+          "title": "j b pritzker",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jb pritzker",
+          "title": "elize matsunaga",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pfl",
-          "traffic": "500",
+          "title": "powerball drawing",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aja wilson",
+          "title": "santos laguna vs atlas",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deerbrook mall",
+          "title": "la galaxy",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
