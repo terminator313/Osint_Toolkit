@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T18:02:15.386143+00:00",
+  "updatedAt": "2026-07-26T19:43:05.823671+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BBNaija",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BBNaija",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WonyoungMLBFirstPitch",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WonyoungMLBFirstPitch",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlueWaveIn100Days",
+          "title": "#Brickyard400",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlueWaveIn100Days",
+          "url": "https://twitter.com/search?q=%23Brickyard400",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Shawn Ross",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=Shawn%20Ross",
           "platform": "X/Twitter"
         },
         {
-          "title": "Oscar",
+          "title": "Jacob Misiorowski",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Oscar",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Deja Kelly",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Deja%20Kelly",
+          "url": "https://twitter.com/search?q=Jacob%20Misiorowski",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wyndham clark girlfriend emily tanner",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil tanker",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jerry kelly",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "citizenship revoked",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals vs tigers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mario hezonja",
+          "title": "angels vs giants",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh allen",
+          "title": "hailee steinfeld",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wsj",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "steven spielberg",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diomande",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john thune",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "padres vs marlins",
-          "traffic": "20000",
+          "title": "kyle larson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs nationals",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flash flood",
+          "title": "bahia x corinthians",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan o'hearn",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "c n n news",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
