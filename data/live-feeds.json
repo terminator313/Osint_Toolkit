@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T12:36:31.648727+00:00",
+  "updatedAt": "2026-07-26T14:27:07.944201+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FFFPartyConcert2026D2",
+          "title": "#TheTrumpetSounding",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FFFPartyConcert2026D2",
+          "url": "https://twitter.com/search?q=%23TheTrumpetSounding",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayFunday",
+          "title": "#HungarianGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayFunday",
+          "url": "https://twitter.com/search?q=%23HungarianGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lyss",
+          "title": "Verstappen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lyss",
+          "url": "https://twitter.com/search?q=Verstappen",
           "platform": "X/Twitter"
         },
         {
-          "title": "EMBPFK FEEL THE FUN TOGETHER",
+          "title": "Sunday Funday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=EMBPFK%20FEEL%20THE%20FUN%20TOGETHER",
+          "url": "https://twitter.com/search?q=Sunday%20Funday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tour de france 2026",
-          "traffic": "2000",
+          "title": "shea langeliers",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "egg recall 2026",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fbi most wanted fraudsters",
+          "title": "all ireland football final 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peptides",
+          "title": "cody john",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "game of thrones",
+          "title": "overtourism",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tour de france today",
+          "title": "business insider",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new york state fair",
+          "title": "peter lassally",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "formula 1 schedule",
+          "title": "yash thakur",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shark week 2026",
+          "title": "social security administration",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ajax vs burnley",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "detroit lions",
-          "traffic": "500",
+          "title": "lilli tagger",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
