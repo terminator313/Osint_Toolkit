@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:43:05.823671+00:00",
+  "updatedAt": "2026-07-26T20:55:51.166816+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WonyoungMLBFirstPitch",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WonyoungMLBFirstPitch",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Brickyard400",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Brickyard400",
           "platform": "X/Twitter"
         },
         {
-          "title": "Shawn Ross",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Shawn%20Ross",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jacob Misiorowski",
+          "title": "Kyle Kuzma",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jacob%20Misiorowski",
+          "url": "https://twitter.com/search?q=Kyle%20Kuzma",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Jacoby Brissett",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Jacoby%20Brissett",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "angels vs giants",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hailee steinfeld",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wsj",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steven spielberg",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diomande",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john thune",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle larson",
+          "title": "steph curry",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahia x corinthians",
+          "title": "pete alonso",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan o'hearn",
+          "title": "cooper lutkenhaus",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united delta merger",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "all ireland football championship",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tbt tournament",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "c n n news",
-          "traffic": "5000",
+          "title": "archie goodwin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tpc twin cities",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chase elliott",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
