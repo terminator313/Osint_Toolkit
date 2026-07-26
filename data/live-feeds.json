@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T15:39:29.299278+00:00",
+  "updatedAt": "2026-07-26T16:57:17.779425+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#SeductiveSunday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#HungarianGP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HungarianGP",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheTrumpetSounding",
+          "title": "Fauci",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheTrumpetSounding",
+          "url": "https://twitter.com/search?q=Fauci",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "#GalaxyZFlip8",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Lyss",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lyss",
+          "url": "https://twitter.com/search?q=%23GalaxyZFlip8",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
+          "title": "lluvia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "democratic party",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl preseason",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guardians - rays",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doe clean-energy grant lawsuit",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "meghan guest judge masterchef",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox hard delisting games",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "sheinelle jones",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "formula 1 standings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "heather tom",
-          "traffic": "1000",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "james harden darius garland cavaliers trade",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "f1 driver standings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max verstappen",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jenny shin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bernie sanders",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sf marathon route",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
