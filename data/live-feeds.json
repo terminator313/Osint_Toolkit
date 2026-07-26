@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T04:55:53.224658+00:00",
+  "updatedAt": "2026-07-26T07:34:33.838054+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SDCC",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SDCC",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PFLDC",
+          "title": "#TokyoRevengers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PFLDC",
+          "url": "https://twitter.com/search?q=%23TokyoRevengers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MyAdventuresWithSuperman",
+          "title": "#Boxing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
+          "url": "https://twitter.com/search?q=%23Boxing",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alien Romulus",
+          "title": "Ugas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alien%20Romulus",
+          "url": "https://twitter.com/search?q=Ugas",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jonquel Jones",
+          "title": "Peggy Carter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jonquel%20Jones",
+          "url": "https://twitter.com/search?q=Peggy%20Carter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "costco lawsuit settlement",
-          "traffic": "500",
+          "title": "weather heat dome",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "citizenship",
-          "traffic": "500",
+          "title": "robert downey jr",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sdfc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "curtis mead",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tottenham",
+          "title": "powerball winning numbers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "j b pritzker",
-          "traffic": "2000",
+          "title": "election contest",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elize matsunaga",
+          "title": "apple iphone upgrade program",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "avatar movie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jennifer connelly",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "powerball drawing",
-          "traffic": "2000",
+          "title": "aubrey plaza",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "santos laguna vs atlas",
-          "traffic": "5000",
+          "title": "france wildfires",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "la galaxy",
-          "traffic": "2000",
+          "title": "costco lawsuit settlement",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
