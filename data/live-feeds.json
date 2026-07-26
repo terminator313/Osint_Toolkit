@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T20:55:51.166816+00:00",
+  "updatedAt": "2026-07-26T21:58:50.177527+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BBNaija",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBNaija",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Brickyard400",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Brickyard400",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Kuzma",
+          "title": "#BBNaija",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Kuzma",
+          "url": "https://twitter.com/search?q=%23BBNaija",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jacoby Brissett",
+          "title": "Hocevar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jacoby%20Brissett",
+          "url": "https://twitter.com/search?q=Hocevar",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Taillon",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Taillon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "steph curry",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pete alonso",
+          "title": "noah lyles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cooper lutkenhaus",
+          "title": "sam altman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "todd gilliland",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom homan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united delta merger",
+          "title": "elizabeth waddell grenada",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "all ireland football championship",
+          "title": "christopher bell",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "west indies vs pakistan",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cbs news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tbt tournament",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "archie goodwin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tpc twin cities",
+          "title": "emiliano grillo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chase elliott",
+          "title": "savannah bananas",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "banana ball",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
