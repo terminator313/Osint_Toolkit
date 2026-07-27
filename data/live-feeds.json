@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T12:20:45.053672+00:00",
+  "updatedAt": "2026-07-27T15:22:58.635659+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MoonshadowSeries",
+          "title": "#BillsMafia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MoonshadowSeries",
+          "url": "https://twitter.com/search?q=%23BillsMafia",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Pempu",
+          "title": "#MasterChief117Sweepstakes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Pempu",
+          "url": "https://twitter.com/search?q=%23MasterChief117Sweepstakes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Michael Lombardi",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Michael%20Lombardi",
           "platform": "X/Twitter"
         },
         {
           "title": "Seattle",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Seattle",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LaCasaDeLosFamososMx",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososMx",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tesla cybertruck",
+          "title": "cook islands",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "abdul el sayed haley stevens contest",
+          "title": "great white sharks",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation plus",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "congress social security benefits bill",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "peptides",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steven bartlett",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rick moranis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "buffalo bills",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grenada",
+          "title": "pressure",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "salmonella",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the walking dead: dead city season 3",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the bold and the beautiful",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sndk",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jang won-young",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hair transplantation",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
