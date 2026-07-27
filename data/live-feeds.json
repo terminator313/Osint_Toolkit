@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T05:09:03.733696+00:00",
+  "updatedAt": "2026-07-27T08:53:50.381893+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#LaCasaDeLosFamososMx",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososMx",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AEWRedemption",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWRedemption",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaCasaDeLosFamososMx",
+          "title": "Willow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososMx",
+          "url": "https://twitter.com/search?q=Willow",
           "platform": "X/Twitter"
         },
         {
-          "title": "Seattle Center",
+          "title": "Morty",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Seattle%20Center",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#HouseOfTheDragon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
+          "url": "https://twitter.com/search?q=Morty",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "frontier airlines news",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vladimir putin",
+          "title": "alaskaair",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rick and morty season 9 episode 10",
+          "title": "spectrum outage",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stunt double",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "furious hulu",
+          "title": "東野圭吾",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luis chaparro",
-          "traffic": "200",
+          "title": "东野圭吾",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xbox outage",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ernesto laguardia",
+          "title": "s27 ultra",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ximena herrera",
+          "title": "meteor showers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cynthia klitbo",
+          "title": "h&m",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abigail breslin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump iran war",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
