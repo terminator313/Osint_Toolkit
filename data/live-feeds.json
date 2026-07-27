@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T20:20:38.551656+00:00",
+  "updatedAt": "2026-07-27T21:37:42.510766+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ilwx",
+          "title": "#MCMFracasadaHastaElFinal",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ilwx",
+          "url": "https://twitter.com/search?q=%23MCMFracasadaHastaElFinal",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
+          "title": "#ilwx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23ilwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trafford",
+          "title": "Eric Bieniemy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trafford",
+          "url": "https://twitter.com/search?q=Eric%20Bieniemy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lindsay Clancy",
+          "title": "Gottlieb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lindsay%20Clancy",
+          "url": "https://twitter.com/search?q=Gottlieb",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fifa decision on argentina",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nathan dean leaving gh",
+          "title": "amber alert",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george kirby",
+          "title": "nathan fillion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher atkins",
+          "title": "michigan senate democratic primary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gop save america act debate",
+          "title": "donavan mckinney",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "demar derozan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apld stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jameson taillon",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cbs fall 2026 tv schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flood watch",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monica mcnutt caitlin clark accountability",
+          "title": "joaquim valente gisele bündchen cycling",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is spotify down",
+          "title": "supplemental security income",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor fritz",
-          "traffic": "2000",
+          "title": "we energies power outages",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
