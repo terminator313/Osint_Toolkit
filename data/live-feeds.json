@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:22:58.635659+00:00",
+  "updatedAt": "2026-07-27T17:17:10.248252+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BillsMafia",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BillsMafia",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MasterChief117Sweepstakes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MasterChief117Sweepstakes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Michael Lombardi",
+          "title": "#gooddaydetroit",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Michael%20Lombardi",
+          "url": "https://twitter.com/search?q=%23gooddaydetroit",
           "platform": "X/Twitter"
         },
         {
-          "title": "Seattle",
+          "title": "LOSING &amp; DEATH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Seattle",
+          "url": "https://twitter.com/search?q=LOSING%20%26%20DEATH",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#WE_WANT_LEEKNOW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WE_WANT_LEEKNOW",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cook islands",
+          "title": "kelly ripa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "great white sharks",
+          "title": "national weather service",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zoe saldaña",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fauci diary",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2027",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather forecast",
+          "traffic": "100000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us-iran",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severe thunderstorm warning",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pressure",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "salmonella",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the walking dead: dead city season 3",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the bold and the beautiful",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sndk",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jang won-young",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hair transplantation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states",
+          "title": "terence crawford",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottie scheffler pga tour performance",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
