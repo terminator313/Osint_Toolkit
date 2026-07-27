@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T21:37:42.510766+00:00",
+  "updatedAt": "2026-07-27T22:59:36.575351+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#loveislanduk",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23loveislanduk",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#jimromeonx",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23jimromeonx",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MCMFracasadaHastaElFinal",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MCMFracasadaHastaElFinal",
           "platform": "X/Twitter"
         },
         {
-          "title": "#wiwx",
+          "title": "Cobain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23wiwx",
+          "url": "https://twitter.com/search?q=Cobain",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ilwx",
+          "title": "B. Yes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ilwx",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Eric Bieniemy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Eric%20Bieniemy",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gottlieb",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gottlieb",
+          "url": "https://twitter.com/search?q=B.%20Yes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amber alert",
+          "title": "kappa alpha psi",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "byron allen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiroteo masivo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex starship heat shield",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max miller",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nathan fillion",
+          "title": "buc-off",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guardians vs reds",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nipsco power outage",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michigan senate democratic primary",
+          "title": "furious tv show",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donavan mckinney",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "demar derozan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apld stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jameson taillon",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joaquim valente gisele bündchen cycling",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supplemental security income",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "we energies power outages",
-          "traffic": "500",
+          "title": "vita vea",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
