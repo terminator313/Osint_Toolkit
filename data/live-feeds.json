@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T18:55:25.551982+00:00",
+  "updatedAt": "2026-07-27T20:20:38.551656+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#wiwx",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23wiwx",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ilwx",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ilwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "#wiwx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23wiwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trey McBride",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trey%20McBride",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ms. Marvel",
+          "title": "Trafford",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ms.%20Marvel",
+          "url": "https://twitter.com/search?q=Trafford",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Lindsay Clancy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Lindsay%20Clancy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "james comey seashells indictment",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "social security",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "julian croonenberghs",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eggs recalled",
+          "title": "fifa decision on argentina",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gisele bündchen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nolan wells case",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "galatasaray vs venezia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners vs rangers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boeing 747",
+          "title": "nathan dean leaving gh",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dark money",
+          "title": "george kirby",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christopher atkins",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gop save america act debate",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs fall 2026 tv schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flood watch",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "monica mcnutt caitlin clark accountability",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is spotify down",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor fritz",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
