@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T23:04:29.275786+00:00",
+  "updatedAt": "2026-07-27T01:07:26.349684+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NASCAR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Brickyard400",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Brickyard400",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AEWRedemption",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWRedemption",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BBNaija",
+          "title": "#AngelaNikolau",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBNaija",
+          "url": "https://twitter.com/search?q=%23AngelaNikolau",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hocevar",
+          "title": "#JohnClearMyList",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hocevar",
+          "url": "https://twitter.com/search?q=%23JohnClearMyList",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Bandido",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Bandido",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Heim",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Heim",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "yankees - phillies",
+          "title": "ransom canyon season 2 cast",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom arnold",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mohamed salah",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "racing louisville vs angel city fc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "la casa de los famosos mexico 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pachuca - querétaro",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "don mattingly",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arnold schwarzenegger",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "palmeiras vs atlético mineiro",
+          "title": "bsc vs ldu quito",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "punch the monkey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corey ruiz shooting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chuck russell",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert downey jr",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "necaxa vs monterrey",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran war casualty count",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "d4vd i did it",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flamengo",
+          "title": "nasa nisar satellite antarctica images",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
