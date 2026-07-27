@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T01:07:26.349684+00:00",
+  "updatedAt": "2026-07-27T05:09:03.733696+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AngelaNikolau",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AngelaNikolau",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JohnClearMyList",
+          "title": "#LaCasaDeLosFamososMx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JohnClearMyList",
+          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososMx",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bandido",
+          "title": "Seattle Center",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bandido",
+          "url": "https://twitter.com/search?q=Seattle%20Center",
           "platform": "X/Twitter"
         },
         {
-          "title": "Heim",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Heim",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ransom canyon season 2 cast",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom arnold",
+          "title": "frontier airlines news",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mohamed salah",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "racing louisville vs angel city fc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la casa de los famosos mexico 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pachuca - querétaro",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "don mattingly",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arnold schwarzenegger",
+          "title": "xbox",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bsc vs ldu quito",
+          "title": "vladimir putin",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rick and morty season 9 episode 10",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "furious hulu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luis chaparro",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox outage",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nasa nisar satellite antarctica images",
-          "traffic": "1000",
+          "title": "ernesto laguardia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ximena herrera",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cynthia klitbo",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
