@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:17:45.031502+00:00",
+  "updatedAt": "2026-07-28T17:52:07.478122+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#AskTOP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AskTOP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#gachiakuta172",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23gachiakuta172",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#chikhan",
+          "title": "Wrinkled",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23chikhan",
+          "url": "https://twitter.com/search?q=Wrinkled",
           "platform": "X/Twitter"
         },
         {
-          "title": "#encojoin",
+          "title": "Good Tuesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23encojoin",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#dbzhu",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dbzhu",
+          "url": "https://twitter.com/search?q=Good%20Tuesday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kamil majchrzak",
+          "title": "mike flanagan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb trade deadline",
+          "title": "tariff",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen carter",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al-ahli saudi - fulham",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bbc panorama donald trump lawsuit",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ombudsman",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "when is the love island reunion",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump 2026 midterm polling",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julieta pareja",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pak vs wi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid vs leganes",
+          "title": "visa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marshals",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "huntington state beach aircraft emergency",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "broncos half price tickets",
+          "title": "shaquille o'neal comments lebron james",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "winter storm warning",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "napheesa collier",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
