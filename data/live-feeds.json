@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T06:24:33.733822+00:00",
+  "updatedAt": "2026-07-28T09:16:40.878582+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SpiderManBrandNewDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RawOnNetflix",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RawOnNetflix",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "Triple H",
+          "title": "#JossGawinConcert",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Triple%20H",
+          "url": "https://twitter.com/search?q=%23JossGawinConcert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Human Monies",
+          "title": "#Gamdom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Human%20Monies",
+          "url": "https://twitter.com/search?q=%23Gamdom",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Billy the Kid",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Billy%20the%20Kid",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chelsea",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abc rj decker fall release",
+          "title": "chelsea vs western sydney wanderers fc",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gala",
+          "title": "deshaun watson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alaskaair",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "disneyland 70th anniversary end",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astros",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "darwin blanch",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sl-w vs pakw",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sadie sink",
+          "title": "japan earthquake",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aquarius full moon astrology",
+          "title": "地震",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york times",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mars rover",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andy beshear letter to mcconnell",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kaia gerber",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lollapalooza",
-          "traffic": "1000",
+          "title": "mark henry",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
