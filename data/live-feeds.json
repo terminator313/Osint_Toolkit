@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T00:07:04.936783+00:00",
+  "updatedAt": "2026-07-28T03:45:56.371437+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AbolfazlSepahi",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AbolfazlSepahi",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AlirezaSepahi",
+          "title": "#RawOnNetflix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AlirezaSepahi",
+          "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AmirhosseinSafari",
+          "title": "#SummerSlam",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AmirhosseinSafari",
+          "url": "https://twitter.com/search?q=%23SummerSlam",
           "platform": "X/Twitter"
         },
         {
-          "title": "Any Given Sunday",
+          "title": "Roxanne",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Any%20Given%20Sunday",
+          "url": "https://twitter.com/search?q=Roxanne",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalWalkOnStiltsDay",
+          "title": "Varsity Blues",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalWalkOnStiltsDay",
+          "url": "https://twitter.com/search?q=Varsity%20Blues",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cbs fall 2026 premiere schedule",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim jordan referral jack smith",
+          "title": "grant mccray",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dep. cuenca - emelec",
+          "title": "phil mickelson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "st louis weather",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marvel cinematic universe",
+          "title": "ceddanne rafaela",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins",
+          "title": "powerball drawing",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "davey hearn olympic canoeist case",
-          "traffic": "2000",
+          "title": "michael landon",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "suri cruise",
+          "title": "tbt tournament",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max scherzer",
-          "traffic": "1000",
+          "title": "alex bregman",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cincinnati weather",
-          "traffic": "1000",
+          "title": "casey schmitt",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "playstation plus games august 2026",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miracle watts",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
