@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T03:45:56.371437+00:00",
+  "updatedAt": "2026-07-28T06:24:33.733822+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#SpiderManBrandNewDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RawOnNetflix",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerSlam",
+          "title": "Triple H",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerSlam",
+          "url": "https://twitter.com/search?q=Triple%20H",
           "platform": "X/Twitter"
         },
         {
-          "title": "Roxanne",
+          "title": "Human Monies",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roxanne",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Varsity Blues",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Varsity%20Blues",
+          "url": "https://twitter.com/search?q=Human%20Monies",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "grant mccray",
+          "title": "chelsea",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abc rj decker fall release",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gala",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disneyland 70th anniversary end",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phil mickelson",
-          "traffic": "500",
+          "title": "astros",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ceddanne rafaela",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball drawing",
+          "title": "darwin blanch",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael landon",
+          "title": "sl-w vs pakw",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tbt tournament",
+          "title": "sadie sink",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aquarius full moon astrology",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex bregman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "casey schmitt",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "playstation plus games august 2026",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miracle watts",
-          "traffic": "500",
+          "title": "lollapalooza",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
