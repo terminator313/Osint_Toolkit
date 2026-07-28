@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:19:52.132422+00:00",
+  "updatedAt": "2026-07-28T20:42:14.648773+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#StopExecutionsInIran",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23StopExecutionsInIran",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FlyEaglesFly",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FlyEaglesFly",
           "platform": "X/Twitter"
         },
         {
-          "title": "#pureblood",
+          "title": "Elly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23pureblood",
+          "url": "https://twitter.com/search?q=Elly",
           "platform": "X/Twitter"
         },
         {
-          "title": "UEFA",
+          "title": "Lila",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=UEFA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kyle Manzardo",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Manzardo",
+          "url": "https://twitter.com/search?q=Lila",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "wang kai",
+          "title": "f stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "supernatural",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stoke city vs everton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "draymond green",
+          "title": "earnings today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "learner tien",
+          "title": "klac stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle manzardo",
+          "title": "v stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aston villa vs real sociedad",
-          "traffic": "5000",
+          "title": "colt gray",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cbs evening news viewership decline",
+          "title": "henry cavill warhammer",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fixer upper",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james duckett",
-          "traffic": "1000",
+          "title": "ben shelton",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "changes to us asylum rules",
+          "title": "visa stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stx stock",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
