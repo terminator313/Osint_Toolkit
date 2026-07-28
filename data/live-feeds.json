@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T09:16:40.878582+00:00",
+  "updatedAt": "2026-07-28T11:34:53.998929+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#JossGawinConcert",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JossGawinConcert",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SpiderManBrandNewDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SpiderManBrandNewDay",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#JossGawinConcert",
+          "title": "Drew",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JossGawinConcert",
+          "url": "https://twitter.com/search?q=Drew",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Gamdom",
+          "title": "Hannity",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Gamdom",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Billy the Kid",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Billy%20the%20Kid",
+          "url": "https://twitter.com/search?q=Hannity",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "chelsea vs western sydney wanderers fc",
+          "title": "us france un security council dispute",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deshaun watson",
+          "title": "spy stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pypl stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jp morgan banker",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amzn stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "playstation plus monthly games",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "borja ferrer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "msft stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alaskaair",
+          "title": "zinedine zidane",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "japan earthquake",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "地震",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york times",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mars rover",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andy beshear letter to mcconnell",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kaia gerber",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark henry",
+          "title": "witten",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
