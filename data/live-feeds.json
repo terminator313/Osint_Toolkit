@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:02:23.693242+00:00",
+  "updatedAt": "2026-07-28T23:29:28.050534+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NationalWaterparkDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NationalWaterparkDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#StopExecutionsInIran",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23StopExecutionsInIran",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FlyEaglesFly",
+          "title": "Baker",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FlyEaglesFly",
+          "url": "https://twitter.com/search?q=Baker",
           "platform": "X/Twitter"
         },
         {
-          "title": "Medjugorje",
+          "title": "X-rays",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Medjugorje",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#pureblood",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23pureblood",
+          "url": "https://twitter.com/search?q=X-rays",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "denzel ward",
+          "title": "tempo vs lynx",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rangers vs rays",
+          "title": "cholesterol",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "birthright citizenship in the united states",
+          "title": "skhy stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donald trump mail voting order",
+          "title": "sloane stephens",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jakub mensik",
+          "title": "yankees - white sox",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spotify can't play this right now",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michigan",
-          "traffic": "5000",
+          "title": "ancient dna",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west indies vs pakistan",
+          "title": "braves game today",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex satellites",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "royals vs twins",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dow jones industrial average",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reddit down detector",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tsa ice airline passenger detentions",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
