@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T17:52:07.478122+00:00",
+  "updatedAt": "2026-07-28T19:19:52.132422+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#gachiakuta172",
+          "title": "#FlyEaglesFly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta172",
+          "url": "https://twitter.com/search?q=%23FlyEaglesFly",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Wrinkled",
+          "title": "UEFA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wrinkled",
+          "url": "https://twitter.com/search?q=UEFA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Tuesday",
+          "title": "Kyle Manzardo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Tuesday",
+          "url": "https://twitter.com/search?q=Kyle%20Manzardo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "mike flanagan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tariff",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen carter",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al-ahli saudi - fulham",
+          "title": "wang kai",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bbc panorama donald trump lawsuit",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ombudsman",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when is the love island reunion",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump 2026 midterm polling",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "visa",
+          "title": "supernatural",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shaquille o'neal comments lebron james",
+          "title": "stoke city vs everton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "draymond green",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "learner tien",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle manzardo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aston villa vs real sociedad",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs evening news viewership decline",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james duckett",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "changes to us asylum rules",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
