@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:01:37.789817+00:00",
+  "updatedAt": "2026-07-28T16:17:45.031502+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ChávezAmorInmenso",
+          "title": "#gachiakuta172",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Ch%C3%A1vezAmorInmenso",
+          "url": "https://twitter.com/search?q=%23gachiakuta172",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JossGawinConcert",
+          "title": "#pureblood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JossGawinConcert",
+          "url": "https://twitter.com/search?q=%23pureblood",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "#chikhan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=%23chikhan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PutThatInYourPipe",
+          "title": "#encojoin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PutThatInYourPipe",
+          "url": "https://twitter.com/search?q=%23encojoin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Flint",
+          "title": "#dbzhu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Flint",
+          "url": "https://twitter.com/search?q=%23dbzhu",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fort dade ruins",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonas brothers",
+          "title": "kamil majchrzak",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince william princess kate summer",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lacey chabert",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john roberts",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ceasefire",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john mulaney",
+          "title": "mlb trade deadline",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pga tour scottie scheffler performance",
-          "traffic": "10000",
+          "title": "julieta pareja",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roberto mancini",
-          "traffic": "500",
+          "title": "pak vs wi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mikie sherrill",
+          "title": "real madrid vs leganes",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marshals",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "huntington state beach aircraft emergency",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "broncos half price tickets",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "winter storm warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napheesa collier",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
