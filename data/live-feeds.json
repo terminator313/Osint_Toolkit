@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T22:59:36.575351+00:00",
+  "updatedAt": "2026-07-28T00:07:04.936783+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#loveislanduk",
+          "title": "#AbolfazlSepahi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveislanduk",
+          "url": "https://twitter.com/search?q=%23AbolfazlSepahi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#jimromeonx",
+          "title": "#AlirezaSepahi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jimromeonx",
+          "url": "https://twitter.com/search?q=%23AlirezaSepahi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MCMFracasadaHastaElFinal",
+          "title": "#AmirhosseinSafari",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MCMFracasadaHastaElFinal",
+          "url": "https://twitter.com/search?q=%23AmirhosseinSafari",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cobain",
+          "title": "Any Given Sunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cobain",
+          "url": "https://twitter.com/search?q=Any%20Given%20Sunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "B. Yes",
+          "title": "#NationalWalkOnStiltsDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=B.%20Yes",
+          "url": "https://twitter.com/search?q=%23NationalWalkOnStiltsDay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kappa alpha psi",
+          "title": "cbs fall 2026 premiere schedule",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jim jordan referral jack smith",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "byron allen",
+          "title": "dep. cuenca - emelec",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiroteo masivo",
+          "title": "st louis weather",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel cinematic universe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex starship heat shield",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max miller",
+          "title": "marlins",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "buc-off",
+          "title": "davey hearn olympic canoeist case",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "suri cruise",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians vs reds",
-          "traffic": "10000",
+          "title": "max scherzer",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nipsco power outage",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "furious tv show",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vita vea",
-          "traffic": "10000",
+          "title": "cincinnati weather",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
