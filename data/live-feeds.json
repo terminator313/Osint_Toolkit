@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T04:44:59.446320+00:00",
+  "updatedAt": "2026-07-29T07:40:22.313524+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Dbacks",
+          "title": "#TridentsUp",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Dbacks",
+          "url": "https://twitter.com/search?q=%23TridentsUp",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SLM2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SLM2",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Callihan",
+          "title": "Munoz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Callihan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "American Airlines",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=American%20Airlines",
+          "url": "https://twitter.com/search?q=Munoz",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "astros",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "costco email lawsuit payout",
+          "title": "rutgers university nutrition cognitive study",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather atlanta",
-          "traffic": "200",
+          "title": "martin landaluce",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "padres score",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dominic canzone",
+          "title": "adam walton",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wnba scores",
+          "title": "danny welbeck",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jared leto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emilie kiser son life jacket",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "outside lands 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rosie o'donnell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bts grammy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nneka ogwumike",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jimmy fallon",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iphone 18 release date",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba standings",
-          "traffic": "2000",
+          "title": "jacob batalon",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
