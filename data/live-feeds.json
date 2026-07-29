@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:48:57.948053+00:00",
+  "updatedAt": "2026-07-29T18:05:02.989566+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OrmXMontigoMalaysia",
+          "title": "#GalaxyZFlip8",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OrmXMontigoMalaysia",
+          "url": "https://twitter.com/search?q=%23GalaxyZFlip8",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Hump",
+          "title": "Bill Gates",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Hump",
+          "url": "https://twitter.com/search?q=Bill%20Gates",
           "platform": "X/Twitter"
         },
         {
-          "title": "#wednesdaywisdom",
+          "title": "Navarro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23wednesdaywisdom",
+          "url": "https://twitter.com/search?q=Navarro",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "house",
+          "title": "laura rutledge",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pope leo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grant delpit",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryan bresee",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flood warning",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "idaho murders documentary",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cat stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fire weather watch",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nbis",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liudmila samsonova",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "full moon july 2026 buck moon astrology",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "samsung galaxy s25 ultra",
+          "title": "lorenzo musetti",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "outer banks season 5",
+          "title": "ricky pearsall",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon jones",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tony movie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pope leo concert for peace",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tim robbins",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
