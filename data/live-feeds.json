@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T20:53:12.407851+00:00",
+  "updatedAt": "2026-07-29T21:58:52.396556+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Birdland",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Birdland",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#weloveyoumegan",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23weloveyoumegan",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFlip8",
+          "title": "Tyler Robinson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFlip8",
+          "url": "https://twitter.com/search?q=Tyler%20Robinson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Measles",
+          "title": "Grammys",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Measles",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Crimes Against Humanity",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Crimes%20Against%20Humanity",
+          "url": "https://twitter.com/search?q=Grammys",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amzn stock",
+          "title": "gimnasia - river plate",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jackson flora",
+          "title": "kawhi leonard",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "qualcomm stock",
+          "title": "internacional vs flamengo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "voo stock",
+          "title": "ariana biermann",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "salman rushdie",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john wick sprite fortnite release",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dow jones industrial average",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "police",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncaa arion carter suspension",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daniel susac",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chad powers season 2 release",
+          "title": "miami dade schools",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david benavidez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "todd blanche doj nomination issues",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex jones",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lrcx stock",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
