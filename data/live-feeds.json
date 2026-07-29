@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:29:28.050534+00:00",
+  "updatedAt": "2026-07-29T01:01:12.607773+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#ForsakenLoadingContest",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ForsakenLoadingContest",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AskTOP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AskTOP",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StopExecutionsInIran",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StopExecutionsInIran",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Baker",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Baker",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "X-rays",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=X-rays",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Broome",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Broome",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tempo vs lynx",
+          "title": "austin wynns",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shane bieber",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado delaware",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cholesterol",
-          "traffic": "500",
+          "title": "fever vs storm",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "skhy stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sloane stephens",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees - white sox",
+          "title": "2027 chevy silverado 1500",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spotify can't play this right now",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ancient dna",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "braves game today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spacex satellites",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals vs twins",
+          "title": "snow storm warning",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael mcgreevy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rj decker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jake tapper",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max schuemann",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
