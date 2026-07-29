@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:05:02.989566+00:00",
+  "updatedAt": "2026-07-29T19:51:49.639157+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WeStandWithBTS",
+          "title": "#weloveyoumegan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeStandWithBTS",
+          "url": "https://twitter.com/search?q=%23weloveyoumegan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AsteroidRH",
+          "title": "#WeStandWithBTS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AsteroidRH",
+          "url": "https://twitter.com/search?q=%23WeStandWithBTS",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Bill Gates",
+          "title": "Measles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bill%20Gates",
+          "url": "https://twitter.com/search?q=Measles",
           "platform": "X/Twitter"
         },
         {
-          "title": "Navarro",
+          "title": "Crimes Against Humanity",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Navarro",
+          "url": "https://twitter.com/search?q=Crimes%20Against%20Humanity",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "laura rutledge",
+          "title": "tigers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe minoso",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pope leo",
+          "title": "tigers game",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "grant delpit",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryan bresee",
+          "title": "oprah winfrey leadership academy for girls",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lorenzo musetti",
+          "title": "evan barker",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ricky pearsall",
+          "title": "joe novak",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dulles airport",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rohto eye drops recall",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon jones",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tony movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pope leo concert for peace",
+          "title": "burnley vs espanyol",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tim robbins",
+          "title": "griffin conine",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
