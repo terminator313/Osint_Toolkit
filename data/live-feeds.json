@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T17:24:28.314920+00:00",
+  "updatedAt": "2026-07-30T18:54:49.235146+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxTheNextMove",
+          "title": "#RitasLilVacation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxTheNextMove",
+          "url": "https://twitter.com/search?q=%23RitasLilVacation",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RitasLilVacation",
+          "title": "#GalaxyZFold8",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RitasLilVacation",
+          "url": "https://twitter.com/search?q=%23GalaxyZFold8",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Spanish",
+          "title": "Zuckerberg",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Spanish",
+          "url": "https://twitter.com/search?q=Zuckerberg",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Thursday",
+          "title": "Bucs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Thursday",
+          "url": "https://twitter.com/search?q=Bucs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "zohran mamdani",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john bernthal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc lincoln square",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bayern",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "celeste keaton seattle storm",
+          "title": "fandango",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shane mcclanahan",
-          "traffic": "200",
+          "title": "mandela barnes",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the challenge",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orca",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler smith",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bournemouth vs augsburg",
+          "title": "2026 2027 el nino winter",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "falcon 9 upper stage impact",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue angels seattle",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "benfica vs st. gallen",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amal clooney",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carlos espi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "besiktas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump white house ballroom lawsuit",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
