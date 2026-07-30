@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T11:28:02.818118+00:00",
+  "updatedAt": "2026-07-30T13:07:57.909040+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
+          "title": "#HappyBirthdaySamCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23HappyBirthdaySamCS",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#ThursdayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Pete Rose",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Pete%20Rose",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WEIRDO101Series",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WEIRDO101Series",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WeStandWithBTS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeStandWithBTS",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#CashLegendsMove1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CashLegendsMove1",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "justin herbert madison beer engagement",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "washington spirit vs utah royals standings",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soxl stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "omny",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "winston salem water",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boston celtics",
+          "title": "drew starkey",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hoosier lottery",
+          "title": "dez fafara",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ceuta",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ohio state fair",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morocco",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gdp",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cnn ssrs midterm polling",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pce",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "situational awareness",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cincinnati bengals",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "greece",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan spieth",
+          "title": "jacob batalon",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
