@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:41:35.683551+00:00",
+  "updatedAt": "2026-07-30T23:03:56.670866+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#OlandriaxTime100",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OlandriaxTime100",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SB19atLollapalooza",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SB19atLollapalooza",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RepublicansCutHealthcare",
+          "title": "North Africa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepublicansCutHealthcare",
+          "url": "https://twitter.com/search?q=North%20Africa",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mandela Barnes",
+          "title": "Leopold",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mandela%20Barnes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ryan Weathers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ryan%20Weathers",
+          "url": "https://twitter.com/search?q=Leopold",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "peyton watson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "peyton stearns",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump commemorative passport",
+          "title": "dante pettis",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jj wetherholt",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris olave",
+          "title": "ben shelton",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national scout jamboree",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "axti stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "deportación",
+          "title": "bubba wallace",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rivian stock",
+          "title": "pirates vs reds",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nationals vs braves",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "visa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jason rogers underwood teacher probation",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mstr stock",
-          "traffic": "200",
+          "title": "marlins vs mets",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wonder man marvel",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "corinthians x athletico-pr",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
