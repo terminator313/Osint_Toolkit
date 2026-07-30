@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T13:07:57.909040+00:00",
+  "updatedAt": "2026-07-30T15:30:15.227676+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HappyBirthdaySamCS",
+          "title": "#OlandriaxTheNextMove",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HappyBirthdaySamCS",
+          "url": "https://twitter.com/search?q=%23OlandriaxTheNextMove",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SFxWilliamEstWesley",
+          "title": "#jonita",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SFxWilliamEstWesley",
+          "url": "https://twitter.com/search?q=%23jonita",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#tommavi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23tommavi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pete Rose",
+          "title": "#SB19atLollapalooza",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pete%20Rose",
+          "url": "https://twitter.com/search?q=%23SB19atLollapalooza",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WEIRDO101Series",
+          "title": "#TejRan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WEIRDO101Series",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "drew starkey",
+          "title": "jakub mensik",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dez fafara",
+          "title": "birmingham stallions",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the view",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uefa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "justin gaethje",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ceuta",
+          "title": "new sprites fortnite",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ohio state fair",
+          "title": "street fighter movie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morocco",
+          "title": "nancy guthrie",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michigan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gdp",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cnn ssrs midterm polling",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pce",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "situational awareness",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob batalon",
-          "traffic": "500",
+          "title": "hammer of the gods",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
