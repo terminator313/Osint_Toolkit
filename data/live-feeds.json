@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T03:54:40.713775+00:00",
+  "updatedAt": "2026-07-30T06:25:24.560053+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWHL",
+          "title": "#LaCasaDeLosFamososMx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWHL",
+          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososMx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheValley",
+          "title": "#brandnewday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheValley",
+          "url": "https://twitter.com/search?q=%23brandnewday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NINGNINGxGucci",
+          "title": "Silseth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NINGNINGxGucci",
+          "url": "https://twitter.com/search?q=Silseth",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cinemzel26",
+          "title": "Doval",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cinemzel26",
+          "url": "https://twitter.com/search?q=Doval",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "josh richardson",
+          "title": "big bear bald eagles jackie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "love island reunion season 8",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "exodus marvel",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clooney family evacuates france home",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball drawing",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sox",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ramayana movie",
+          "title": "long john silver's store closures",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "epstein files",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "francisco cerundolo",
+          "title": "demetrius byrd",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guy ritchie",
+          "title": "cameron norrie",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shon barnes",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luciano darderi",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lil wayne",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "regal theaters",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "who does sadie sink play in spiderman",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andruw monasterio",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
