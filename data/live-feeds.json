@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T20:12:58.376677+00:00",
+  "updatedAt": "2026-07-30T21:41:35.683551+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RitasLilVacation",
+          "title": "#spiderman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RitasLilVacation",
+          "url": "https://twitter.com/search?q=%23spiderman",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalInternDay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalInternDay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#RepublicansCutHealthcare",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RepublicansCutHealthcare",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ran to Atlanta",
+          "title": "Mandela Barnes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ran%20to%20Atlanta",
+          "url": "https://twitter.com/search?q=Mandela%20Barnes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ryan Weathers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ryan%20Weathers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "british airways flight stall warnings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "benfica",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "magdalena fręch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bourbon virus",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica simpson",
+          "title": "peyton watson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spiderman tickets",
+          "title": "peyton stearns",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah cameron",
+          "title": "donald trump commemorative passport",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jessica pegula",
-          "traffic": "1000",
+          "title": "jj wetherholt",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tcsar william standish wyoming",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wonder man",
+          "title": "chris olave",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "national scout jamboree",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "axti stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deportación",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rivian stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mstr stock",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
