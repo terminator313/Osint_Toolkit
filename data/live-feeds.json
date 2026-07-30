@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T00:53:43.683729+00:00",
+  "updatedAt": "2026-07-30T03:54:40.713775+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#InternationalTigerDay",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23InternationalTigerDay",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AniyaxWWHL",
+          "title": "#WWHL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AniyaxWWHL",
+          "url": "https://twitter.com/search?q=%23WWHL",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Birdland",
+          "title": "#TheValley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Birdland",
+          "url": "https://twitter.com/search?q=%23TheValley",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mengele",
+          "title": "#NINGNINGxGucci",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mengele",
+          "url": "https://twitter.com/search?q=%23NINGNINGxGucci",
           "platform": "X/Twitter"
         },
         {
-          "title": "Powell",
+          "title": "#Cinemzel26",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Powell",
+          "url": "https://twitter.com/search?q=%23Cinemzel26",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jessica shepard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jodie foster",
+          "title": "josh richardson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "celeste keaton seattle",
+          "title": "love island reunion season 8",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giada de laurentiis",
+          "title": "exodus marvel",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden tempo",
-          "traffic": "5000",
+          "title": "clooney family evacuates france home",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "visa",
+          "title": "powerball drawing",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sox",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ramayana movie",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "washington spirit vs utah royals fc",
+          "title": "epstein files",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tbt tournament",
-          "traffic": "500",
+          "title": "francisco cerundolo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "randy dobnak",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seinfeld",
-          "traffic": "500",
+          "title": "guy ritchie",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
