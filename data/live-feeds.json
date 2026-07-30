@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T15:30:15.227676+00:00",
+  "updatedAt": "2026-07-30T17:24:28.314920+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#jonita",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jonita",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#tommavi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tommavi",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SB19atLollapalooza",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SB19atLollapalooza",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "#RitasLilVacation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
+          "url": "https://twitter.com/search?q=%23RitasLilVacation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "The Spanish",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=The%20Spanish",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Good Thursday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Good%20Thursday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jakub mensik",
+          "title": "zohran mamdani",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "birmingham stallions",
+          "title": "john bernthal",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the view",
+          "title": "amc lincoln square",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uefa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin gaethje",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new sprites fortnite",
+          "title": "bayern",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "street fighter movie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nancy guthrie",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hammer of the gods",
+          "title": "celeste keaton seattle storm",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shane mcclanahan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the challenge",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orca",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler smith",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bournemouth vs augsburg",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
