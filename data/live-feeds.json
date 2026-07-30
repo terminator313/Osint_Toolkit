@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T18:54:49.235146+00:00",
+  "updatedAt": "2026-07-30T20:12:58.376677+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFold8",
+          "title": "#NationalInternDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFold8",
+          "url": "https://twitter.com/search?q=%23NationalInternDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zuckerberg",
+          "title": "#RepublicansCutHealthcare",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zuckerberg",
+          "url": "https://twitter.com/search?q=%23RepublicansCutHealthcare",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bucs",
+          "title": "Ran to Atlanta",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bucs",
+          "url": "https://twitter.com/search?q=Ran%20to%20Atlanta",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fandango",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mandela barnes",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2026 2027 el nino winter",
+          "title": "british airways flight stall warnings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "falcon 9 upper stage impact",
-          "traffic": "2000",
+          "title": "benfica",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blue angels seattle",
-          "traffic": "2000",
+          "title": "magdalena fręch",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "benfica vs st. gallen",
+          "title": "bourbon virus",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica simpson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spiderman tickets",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah cameron",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica pegula",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amal clooney",
+          "title": "tcsar william standish wyoming",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wonder man",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carlos espi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "besiktas",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump white house ballroom lawsuit",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
