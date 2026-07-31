@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T15:17:35.359120+00:00",
+  "updatedAt": "2026-07-31T17:03:36.767988+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GalaxyWatchUltra2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GalaxyWatchUltra2",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "NRED",
+          "title": "Coexistence",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=NRED",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Coldcard",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Coldcard",
+          "url": "https://twitter.com/search?q=Coexistence",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "los angeles",
+          "title": "brittney griner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump rx",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "keegan bradley",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juventus",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red flag (fire weather) warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump quinnipiac poll numbers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "garth brooks denver 2026",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andrew painter",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hartman colorado",
+          "title": "trump accounts",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casey mize",
+          "title": "samara weaving",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mahershala ali",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coin stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rivian stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rblx stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jk rowling",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather st louis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supreme court of the united states",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
