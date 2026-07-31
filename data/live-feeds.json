@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T07:52:33.176962+00:00",
+  "updatedAt": "2026-07-31T10:36:07.701224+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#petal",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23petal",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ArtHasNoAliens",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ArtHasNoAliens",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "Bob Hope",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=Bob%20Hope",
           "platform": "X/Twitter"
         },
         {
-          "title": "Agbayani",
+          "title": "Stewie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Agbayani",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gibraltar",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gibraltar",
+          "url": "https://twitter.com/search?q=Stewie",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "market",
+          "title": "youth soccer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "loans",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "napalm",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spiderman brand new day soundtrack",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "minimax h3",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple iphone 18 pro max",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max miller legal dispute ohio",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chino hills shooting",
+          "title": "kids soccer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "doomsday release date",
-          "traffic": "500",
+          "title": "soccer near me",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heath ledger",
-          "traffic": "500",
+          "title": "stefon diggs",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bliss and zack",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "camryn manheim",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spain map",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "melilla",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strait of hormuz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeremiah smith",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
