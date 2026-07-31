@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:57:39.920313+00:00",
+  "updatedAt": "2026-07-31T07:52:33.176962+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWCollision",
+          "title": "#RaisingKanan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23RaisingKanan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ArtHasNoAliens",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ArtHasNoAliens",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AHHA",
+          "title": "Agbayani",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AHHA",
+          "url": "https://twitter.com/search?q=Agbayani",
           "platform": "X/Twitter"
         },
         {
-          "title": "WARNING SIGNS",
+          "title": "Gibraltar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=WARNING%20SIGNS",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Minter",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Minter",
+          "url": "https://twitter.com/search?q=Gibraltar",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dodgers score",
+          "title": "market",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "loans",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napalm",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spiderman brand new day soundtrack",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "minimax h3",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 18 pro max",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "t-mobile service disruption compensation",
-          "traffic": "2000",
+          "title": "max miller legal dispute ohio",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fightland",
+          "title": "chino hills shooting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wildfires",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "x men",
+          "title": "doomsday release date",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rafael devers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rob refsnyder",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andy pages",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "teoscar hernández",
-          "traffic": "200",
+          "title": "heath ledger",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
