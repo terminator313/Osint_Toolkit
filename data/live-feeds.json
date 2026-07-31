@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T10:36:07.701224+00:00",
+  "updatedAt": "2026-07-31T12:53:42.032221+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RaisingKanan",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaisingKanan",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#petal",
+          "title": "#GenshinSpecialProgram",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23petal",
+          "url": "https://twitter.com/search?q=%23GenshinSpecialProgram",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ArtHasNoAliens",
+          "title": "#FridayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ArtHasNoAliens",
+          "url": "https://twitter.com/search?q=%23FridayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bob Hope",
+          "title": "Coldcard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bob%20Hope",
+          "url": "https://twitter.com/search?q=Coldcard",
           "platform": "X/Twitter"
         },
         {
-          "title": "Stewie",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stewie",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "youth soccer",
+          "title": "pete hegseth",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vietnam vs singapore",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran us news",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lluvia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alicia silverstone",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kids soccer",
+          "title": "gen x",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "soccer near me",
+          "title": "gen z years",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stefon diggs",
+          "title": "donald trump eeob painting project",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bliss and zack",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "camryn manheim",
+          "title": "omny",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spain map",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "melilla",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strait of hormuz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeremiah smith",
-          "traffic": "100",
+          "title": "senate republican conference",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
