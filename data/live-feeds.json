@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T21:37:06.222301+00:00",
+  "updatedAt": "2026-07-31T22:57:37.395091+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#PFLNY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PFLNY",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Peralta",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Peralta",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Shota",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Shota",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Coldcard",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Coldcard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "matt kuchar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amir sears",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chicago fire dermot mulroney departure",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daycare",
+          "title": "wings vs mystics",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diana shnaider",
+          "title": "storm vs dream",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new netflix movies august 2026",
+          "title": "paul skenes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ari emanuel",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex bregman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fauci news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "conor mcgregor",
+          "title": "mubadala dc open",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elephant",
-          "traffic": "1000",
+          "title": "rafael jodar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emeril lagasse",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lucero",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue angels seattle schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chivas vs puebla",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
