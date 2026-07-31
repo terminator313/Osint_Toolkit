@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T01:03:12.616620+00:00",
+  "updatedAt": "2026-07-31T04:57:39.920313+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxTime100",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxTime100",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#spiderman",
+          "title": "#AHHA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23spiderman",
+          "url": "https://twitter.com/search?q=%23AHHA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wonder Man",
+          "title": "WARNING SIGNS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wonder%20Man",
+          "url": "https://twitter.com/search?q=WARNING%20SIGNS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Grant Holmes",
+          "title": "Minter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grant%20Holmes",
+          "url": "https://twitter.com/search?q=Minter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bucaramanga - llaneros",
+          "title": "dodgers score",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zach neto",
-          "traffic": "500",
+          "title": "t-mobile service disruption compensation",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aneesah morrow",
+          "title": "fightland",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kamu big brother",
+          "title": "dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wildfires",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "x men",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rafael devers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giants vs padres",
-          "traffic": "20000",
+          "title": "rob refsnyder",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napheesa collier",
-          "traffic": "500",
+          "title": "andy pages",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire santa rosa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sophie cunningham wnba rallies",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler lepley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hunter barco",
-          "traffic": "500",
+          "title": "teoscar hernández",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
