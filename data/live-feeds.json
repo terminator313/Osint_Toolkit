@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T23:03:56.670866+00:00",
+  "updatedAt": "2026-07-31T01:03:12.616620+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#spiderman",
+          "title": "#AEWCollision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23spiderman",
+          "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SB19atLollapalooza",
+          "title": "#spiderman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SB19atLollapalooza",
+          "url": "https://twitter.com/search?q=%23spiderman",
           "platform": "X/Twitter"
         },
         {
-          "title": "North Africa",
+          "title": "Wonder Man",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=North%20Africa",
+          "url": "https://twitter.com/search?q=Wonder%20Man",
           "platform": "X/Twitter"
         },
         {
-          "title": "Leopold",
+          "title": "Grant Holmes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Leopold",
+          "url": "https://twitter.com/search?q=Grant%20Holmes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "dante pettis",
+          "title": "bucaramanga - llaneros",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben shelton",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bubba wallace",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs reds",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nationals vs braves",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "visa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason rogers underwood teacher probation",
+          "title": "zach neto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins vs mets",
-          "traffic": "10000",
+          "title": "aneesah morrow",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wonder man marvel",
-          "traffic": "10000",
+          "title": "kamu big brother",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "corinthians x athletico-pr",
+          "title": "giants vs padres",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napheesa collier",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fire santa rosa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sophie cunningham wnba rallies",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler lepley",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter barco",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
