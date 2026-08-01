@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T18:01:30.824190+00:00",
+  "updatedAt": "2026-08-01T19:42:11.035489+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "George Kirby",
+          "title": "Robert Valentin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=George%20Kirby",
+          "url": "https://twitter.com/search?q=Robert%20Valentin",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesFinalEP",
+          "title": "#GCWRude",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesFinalEP",
+          "url": "https://twitter.com/search?q=%23GCWRude",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ufc 331",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandy ledford",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sydney taylor",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chelsea gray",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan wolverines football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sc lottery",
+          "title": "devin white",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jackie young",
+          "title": "caeleb dressel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roach vs zepeda",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brock lesnar",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max miller legal disputes",
+          "title": "espn unlimited",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "furious 2026 series reviews",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nashville",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pat mcafee",
-          "traffic": "1000",
+          "title": "btc price",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "49ers depth chart",
-          "traffic": "1000",
+          "title": "everton vs colo-colo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 18 pro max",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
