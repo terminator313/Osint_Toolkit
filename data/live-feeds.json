@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T10:56:51.866156+00:00",
+  "updatedAt": "2026-08-01T12:02:58.792590+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#PeachAndMeSeriesFinalEP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesFinalEP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#CH3GirlsCup2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23CH3GirlsCup2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ตี๋ตี๋ป๋อสปอร์ตเดย์2026",
+          "title": "Essugo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%9B%E0%B9%8B%E0%B8%AD%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C2026",
+          "url": "https://twitter.com/search?q=Essugo",
           "platform": "X/Twitter"
         },
         {
-          "title": "TEETEEPOR CHEER UP",
+          "title": "Introducing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TEETEEPOR%20CHEER%20UP",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Mr. Morris",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mr.%20Morris",
+          "url": "https://twitter.com/search?q=Introducing",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "august supplemental security income schedule",
+          "title": "domestic violence attorney",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "slush",
+          "title": "hallmark channel",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "travel visa",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connecticut sun aneesah morrow trade",
+          "title": "fda rohto eye drop recall",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brendan carr",
+          "title": "guyana",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sonya massey",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mn twins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "susan collins",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "man city",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitch mcconnell news",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "summer streets nyc",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alyssa thomas",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nyt connections hints",
+          "title": "brian thure taylor farms lawsuit",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "commonwealth games 2026",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cincinnati weather",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
