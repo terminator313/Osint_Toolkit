@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:49:13.745104+00:00",
+  "updatedAt": "2026-08-01T21:53:09.523740+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCBelgrade",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCBelgrade",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SummerSlam",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SummerSlam",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCSerbia",
+          "title": "#UFCBelgrade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCSerbia",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "A&#39;ja",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=A&#39;ja",
+          "url": "https://twitter.com/search?q=%23UFCBelgrade",
           "platform": "X/Twitter"
         },
         {
           "title": "#GCWRude",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GCWRude",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Kaylie",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Kaylie",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Jeremy Sochan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Jeremy%20Sochan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "will levis",
-          "traffic": "200",
+          "title": "maya joint",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "odyssey imax",
-          "traffic": "1000",
+          "title": "wednesday",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heat dome weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vincent pastore",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vasco vs fluminense",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox game pass august 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "naomi osaka",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russell westbrook",
+          "title": "wthr weather",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins - mets",
+          "title": "wthr",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado indianapolis",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "twin falls shooting",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jose soriano",
+          "title": "fire map",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lord voldemort",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deportation",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
