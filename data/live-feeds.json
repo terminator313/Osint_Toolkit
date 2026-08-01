@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T21:53:09.523740+00:00",
+  "updatedAt": "2026-08-01T22:52:43.986420+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#GagCitySub",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GagCitySub",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GCWRude",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GCWRude",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kaylie",
+          "title": "Reflecting Pool",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kaylie",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jeremy Sochan",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jeremy%20Sochan",
+          "url": "https://twitter.com/search?q=Reflecting%20Pool",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "maya joint",
+          "title": "jacob fatu",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wednesday",
-          "traffic": "500",
+          "title": "royce keys",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wthr weather",
+          "title": "querétaro - tigres",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wthr",
+          "title": "phillies - orioles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado indianapolis",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran news",
+          "title": "blue angels seattle",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "twin falls shooting",
+          "title": "angel city fc vs kc current",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire map",
+          "title": "atlético mineiro vs juventude",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lord voldemort",
-          "traffic": "1000",
+          "title": "atlético-mg x juventude",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deportation",
+          "title": "espn unlimited free trial",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us bank stadium",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
