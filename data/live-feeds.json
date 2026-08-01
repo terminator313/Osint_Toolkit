@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:35:48.431679+00:00",
+  "updatedAt": "2026-08-01T16:57:01.961205+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HaleyStevens",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HaleyStevens",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#PeachAndMeSeriesFinalEP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PeachAndMeSeriesFinalEP",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#UFCSerbia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23UFCSerbia",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "aleksandar rakić",
+          "title": "the new york times",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "solar eclipse 2026",
+          "title": "endrick",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trevor larnach",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid vs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "openai astra math solutions",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid vs fiorentina",
+          "title": "vlasto cepo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump truth social",
+          "title": "tink hence",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill belichick",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thunderstorm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "duško todorović",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caitlin clark",
-          "traffic": "5000",
+          "title": "megan moroney denver show",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fatima ameaka ice detention",
-          "traffic": "500",
+          "title": "iran us news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aces vs sky",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
