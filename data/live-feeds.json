@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T22:57:37.395091+00:00",
+  "updatedAt": "2026-08-01T00:04:09.559192+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BudSummerOf250",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BudSummerOf250",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#IDLEPALOOZA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IDLEPALOOZA",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#PFLNY",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PFLNY",
           "platform": "X/Twitter"
         },
         {
-          "title": "Peralta",
+          "title": "#BudSummerOf250",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Peralta",
+          "url": "https://twitter.com/search?q=%23BudSummerOf250",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#NationalGetGnarlyDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23NationalGetGnarlyDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "lil uzi",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=lil%20uzi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "The Justice Department",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=The%20Justice%20Department",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wings vs mystics",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "storm vs dream",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul skenes",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ari emanuel",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mubadala dc open",
+          "title": "royals vs rockies",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rafael jodar",
+          "title": "blue jays",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emeril lagasse",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lucero",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue angels seattle schedule",
+          "title": "sal stewart",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chivas vs puebla",
-          "traffic": "200",
+          "title": "matt olson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orlando pride vs north carolina courage",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump daylight savings time",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mcas miramar",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete alonso",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brian bosworth",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pfl mma",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
