@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T16:57:01.961205+00:00",
+  "updatedAt": "2026-08-01T18:01:30.824190+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PeachAndMeSeriesFinalEP",
+          "title": "#SummerSlam",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesFinalEP",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Caturday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bo Naylor",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bo%20Naylor",
+          "url": "https://twitter.com/search?q=%23SummerSlam",
           "platform": "X/Twitter"
         },
         {
           "title": "#UFCSerbia",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFCSerbia",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "George Kirby",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=George%20Kirby",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#PeachAndMeSeriesFinalEP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PeachAndMeSeriesFinalEP",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "the new york times",
+          "title": "ufc 331",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "endrick",
-          "traffic": "200",
+          "title": "brandy ledford",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vlasto cepo",
+          "title": "sydney taylor",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chelsea gray",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michigan wolverines football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sc lottery",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tink hence",
+          "title": "jackie young",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max miller legal disputes",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill belichick",
-          "traffic": "500",
+          "title": "pat mcafee",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thunderstorm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "duško todorović",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "megan moroney denver show",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran us news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aces vs sky",
-          "traffic": "5000",
+          "title": "49ers depth chart",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
