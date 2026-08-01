@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:42:11.035489+00:00",
+  "updatedAt": "2026-08-01T20:49:13.745104+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Robert Valentin",
+          "title": "A&#39;ja",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robert%20Valentin",
+          "url": "https://twitter.com/search?q=A&#39;ja",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "devin white",
+          "title": "will levis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "odyssey imax",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caeleb dressel",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roach vs zepeda",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brock lesnar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "espn unlimited",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "furious 2026 series reviews",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville",
+          "title": "heat dome weather",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "btc price",
-          "traffic": "500",
+          "title": "vincent pastore",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "everton vs colo-colo",
-          "traffic": "200",
+          "title": "vasco vs fluminense",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 18 pro max",
+          "title": "xbox game pass august 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naomi osaka",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "russell westbrook",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marlins - mets",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose soriano",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
