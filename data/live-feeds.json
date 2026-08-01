@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T03:59:35.866639+00:00",
+  "updatedAt": "2026-08-01T06:36:59.570369+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#MLBS6Spoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MLBS6Spoilers",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OPLive",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#loveafterlockup",
+          "title": "Cole Irvin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23loveafterlockup",
+          "url": "https://twitter.com/search?q=Cole%20Irvin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Apple Pay",
+          "title": "Bo Jackson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Apple%20Pay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OPNation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPNation",
+          "url": "https://twitter.com/search?q=Bo%20Jackson",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ohtani",
+          "title": "naomi watts",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "outside lands 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stop and shop store closures",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florence pugh",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john bernthal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "august 1",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "logan fire",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jesus made",
-          "traffic": "200",
+          "title": "whats today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drew starkey",
+          "title": "gilberto mora",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thunderbolts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres score",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kike hernandez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "masataka yoshida",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pumas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freddie freeman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yordan álvarez",
+          "title": "mark ruffalo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
