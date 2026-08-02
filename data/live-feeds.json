@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T05:55:06.514526+00:00",
+  "updatedAt": "2026-08-02T08:20:57.109475+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#clubsos",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23clubsos",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Toonami",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Toonami",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NIKKExPersona",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NIKKExPersona",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Boxing",
+          "title": "TACO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Boxing",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "2027 MLB",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=2027%20MLB",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Dominguez",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dominguez",
+          "url": "https://twitter.com/search?q=TACO",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lottery powerball winning numbers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will there be another spiderman movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "florence pugh",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "how many post credit scenes in brand new day",
+          "title": "latest iphone rumors",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tobey maguire",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bourbon virus ticks",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark ruffalo",
+          "title": "lga airport",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daredevil",
-          "traffic": "500",
+          "title": "julia roberts",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thunderbolts",
-          "traffic": "1000",
+          "title": "seattle seafair blue angels",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mortgage loan rates today",
-          "traffic": "500",
+          "title": "kelsey plum",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air quality warning",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zendaya net worth",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chet holmgren",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will spiderman be in avengers doomsday",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lottery powerball winning numbers",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
