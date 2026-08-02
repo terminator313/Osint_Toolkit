@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:41:30.431098+00:00",
+  "updatedAt": "2026-08-02T13:15:36.551010+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#clubsos",
+          "title": "#simplepleasures",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23clubsos",
+          "url": "https://twitter.com/search?q=%23simplepleasures",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NIKKExPersona",
+          "title": "#homebody",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIKKExPersona",
+          "url": "https://twitter.com/search?q=%23homebody",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "#dailylife",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=%23dailylife",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cy Young",
+          "title": "#cozyvibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cy%20Young",
+          "url": "https://twitter.com/search?q=%23cozyvibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Castillo",
+          "title": "#mindfulliving",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Castillo",
+          "url": "https://twitter.com/search?q=%23mindfulliving",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "marshals",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "covid vaccine news",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "severance",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "i-75 florida street takeover",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball results",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "air jordan 17",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bournemouth",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heidi klum",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shacarri richardson super speeder case",
+          "title": "box office",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lga",
+          "title": "ken martin",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "super el nino winter weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charley hull",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kahla jeffries lottery winner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carbuzz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather tampa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james b. comey",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abdul el-sayed",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eyes on the prize strands",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
