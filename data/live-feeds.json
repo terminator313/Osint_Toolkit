@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T23:55:13.365871+00:00",
+  "updatedAt": "2026-08-02T02:34:52.050507+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AndStill",
+          "title": "#NIKKExPersona",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AndStill",
+          "url": "https://twitter.com/search?q=%23NIKKExPersona",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GagCitySub",
+          "title": "#Svengoolie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GagCitySub",
+          "url": "https://twitter.com/search?q=%23Svengoolie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kaylie",
+          "title": "Brie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kaylie",
+          "url": "https://twitter.com/search?q=Brie",
           "platform": "X/Twitter"
         },
         {
-          "title": "Weston Wilson",
+          "title": "Nolan Jones",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Weston%20Wilson",
+          "url": "https://twitter.com/search?q=Nolan%20Jones",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "whio",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cody rhodes",
+          "title": "5g",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kmvt news",
+          "title": "dbacks",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "손흥민",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gotham vs houston dash",
-          "traffic": "500",
+          "title": "seattle sounders vs portland",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emelec - aucas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shane baz",
+          "title": "neymar",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david peterson",
+          "title": "cruz azul - atlante",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicago fire",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jennie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elly de la cruz",
+          "title": "paul sewald",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris davis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "svengoolie",
+          "title": "white sox top prospects",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
