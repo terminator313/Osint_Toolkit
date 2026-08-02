@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T17:07:37.367694+00:00",
+  "updatedAt": "2026-08-02T18:28:49.227181+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#cozyvibes",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23cozyvibes",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#gratitude",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gratitude",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#presentmoment",
+          "title": "#Lioness",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23presentmoment",
+          "url": "https://twitter.com/search?q=%23Lioness",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sunday Funday",
+          "title": "Max G",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sunday%20Funday",
+          "url": "https://twitter.com/search?q=Max%20G",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mindfulliving",
+          "title": "National Anthem",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mindfulliving",
+          "url": "https://twitter.com/search?q=National%20Anthem",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "caitlin clark stats",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bernie moreno",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nuno borges",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "washington dc weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "geno segers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dc weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liverpool vs leeds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dc open 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wrexham",
+          "title": "michael brennan",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dana bash",
-          "traffic": "1000",
+          "title": "yankees - cubs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baltimore weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "450k borrowers debt relief",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sal stewart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin alcantara",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clay holmes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aldon smith",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max scherzer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "freddy peralta",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
