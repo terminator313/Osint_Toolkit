@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T13:15:36.551010+00:00",
+  "updatedAt": "2026-08-02T14:46:35.531889+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#homebody",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23homebody",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#dailylife",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dailylife",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#cozyvibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23cozyvibes",
           "platform": "X/Twitter"
         },
         {
+          "title": "#everydaymoments",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23everydaymoments",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#mindfulliving",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23mindfulliving",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#homebody",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23homebody",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "box office",
+          "title": "jon bernthal",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lpga",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl preseason schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bernie sanders",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl preseason",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scarlett johansson",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ken martin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "super el nino winter weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charley hull",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kahla jeffries lottery winner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carbuzz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather tampa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james b. comey",
+          "title": "madden 27 release date",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "abdul el-sayed",
-          "traffic": "500",
+          "title": "pan am",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eyes on the prize strands",
+          "title": "rfk jr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "california lettuce growers skip harvest",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
