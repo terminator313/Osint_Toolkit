@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T08:20:57.109475+00:00",
+  "updatedAt": "2026-08-02T10:14:06.615819+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,21 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SummerSlam",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerSlam",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#clubsos",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23clubsos",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Toonami",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Toonami",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#CLUBSOS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CLUBSOS",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "TACO",
+          "title": "The MLB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TACO",
+          "url": "https://twitter.com/search?q=The%20MLB",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Andrew Friedman",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Andrew%20Friedman",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "latest iphone rumors",
+          "title": "home improvement cast reunion",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daycare",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reflecting pool case",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flood watch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lga airport",
+          "title": "car accident lawyer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market news today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julia roberts",
+          "title": "trump iran news",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "star trek: voyager",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seattle seafair blue angels",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelsey plum",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "air quality warning",
+          "title": "what is a data breach",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zendaya net worth",
+          "title": "netflix top movies right now",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chet holmgren",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will spiderman be in avengers doomsday",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lottery powerball winning numbers",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
