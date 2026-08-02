@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T02:34:52.050507+00:00",
+  "updatedAt": "2026-08-02T05:55:06.514526+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#Boxing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23Boxing",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brie",
+          "title": "2027 MLB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brie",
+          "url": "https://twitter.com/search?q=2027%20MLB",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nolan Jones",
+          "title": "Dominguez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nolan%20Jones",
+          "url": "https://twitter.com/search?q=Dominguez",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "5g",
+          "title": "lottery powerball winning numbers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will there be another spiderman movie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florence pugh",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dbacks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "손흥민",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle sounders vs portland",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "neymar",
+          "title": "how many post credit scenes in brand new day",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cruz azul - atlante",
+          "title": "tobey maguire",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago fire",
+          "title": "bourbon virus ticks",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark ruffalo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daredevil",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thunderbolts",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jennie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul sewald",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "white sox top prospects",
+          "title": "mortgage loan rates today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
