@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T20:52:30.218770+00:00",
+  "updatedAt": "2026-08-02T21:53:57.204736+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -14,7 +14,7 @@
     "reddit": {
       "status": "error",
       "items": [],
-      "error": "HTTP Error 403: Blocked"
+      "error": "HTTP Error 403: Forbidden"
     },
     "trends24": {
       "status": "ok",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWvsF1RST",
+          "title": "#zempu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWvsF1RST",
+          "url": "https://twitter.com/search?q=%23zempu",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hartshorn",
+          "title": "#GCWvsF1RST",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hartshorn",
+          "url": "https://twitter.com/search?q=%23GCWvsF1RST",
           "platform": "X/Twitter"
         },
         {
-          "title": "Austin Wells",
+          "title": "Mitch Keller",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Austin%20Wells",
+          "url": "https://twitter.com/search?q=Mitch%20Keller",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jalynn polk",
+          "title": "juliette lewis secret role cape fear",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aeropuerto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carla leite",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giancarlo stanton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yovanny cruz",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cleveland guardians",
-          "traffic": "2000",
+          "title": "chapecoense x cruzeiro",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nneka ogwumike",
+          "title": "yordan álvarez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khalil herbert",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler stephenson",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "naji marshall",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ariana grande weight",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astrazeneca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thorbjornsen",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jadeveon clowney",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "playstation lifestyle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim cramer",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
