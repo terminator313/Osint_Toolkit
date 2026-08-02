@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T18:28:49.227181+00:00",
+  "updatedAt": "2026-08-02T19:44:46.778732+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#バニーの日",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E3%83%90%E3%83%8B%E3%83%BC%E3%81%AE%E6%97%A5",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SundayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SundayVibes",
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Max%20G",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "National Anthem",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=National%20Anthem",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "michael brennan",
-          "traffic": "2000",
+          "title": "salmonella",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees - cubs",
-          "traffic": "500",
+          "title": "newell's - boca juniors",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "baltimore weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "450k borrowers debt relief",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sal stewart",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kevin alcantara",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clay holmes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aldon smith",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max scherzer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freddy peralta",
+          "title": "brewers game today",
           "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dsa platform",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "todd blanche",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jameson taillon",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego wave vs washington spirit",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phillies",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt olson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tbt championship",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
