@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:44:46.778732+00:00",
+  "updatedAt": "2026-08-02T20:52:30.218770+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#weloveyouariana",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23weloveyouariana",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GCWvsF1RST",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GCWvsF1RST",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SeductiveSunday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#バニーの日",
+          "title": "Hartshorn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E3%83%90%E3%83%8B%E3%83%BC%E3%81%AE%E6%97%A5",
+          "url": "https://twitter.com/search?q=Hartshorn",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "Austin Wells",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Lioness",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lioness",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Max G",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Max%20G",
+          "url": "https://twitter.com/search?q=Austin%20Wells",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "salmonella",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "newell's - boca juniors",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers game today",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dsa platform",
+          "title": "jalynn polk",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "todd blanche",
+          "title": "cleveland guardians",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nneka ogwumike",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jameson taillon",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "san diego wave vs washington spirit",
+          "title": "naji marshall",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phillies",
-          "traffic": "10000",
+          "title": "ariana grande weight",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt olson",
-          "traffic": "1000",
+          "title": "astrazeneca",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tbt championship",
-          "traffic": "1000",
+          "title": "thorbjornsen",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jadeveon clowney",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "playstation lifestyle",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jim cramer",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
