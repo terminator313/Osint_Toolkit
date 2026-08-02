@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T14:46:35.531889+00:00",
+  "updatedAt": "2026-08-02T15:58:31.821573+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#simplepleasures",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23simplepleasures",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#cozyvibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23cozyvibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#everydaymoments",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23everydaymoments",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#mindfulliving",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23mindfulliving",
           "platform": "X/Twitter"
         },
         {
+          "title": "#slowliving",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23slowliving",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#homebody",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23homebody",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#dailylife",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23dailylife",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#realmoments",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23realmoments",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jon bernthal",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lpga",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl preseason schedule",
+          "title": "psv vs az alkmaar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bernie sanders",
+          "title": "is there a nascar race today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "richard hammond",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "esther henseleit",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warren buffett etf recommendation",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dividend stocks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl preseason",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scarlett johansson",
+          "title": "jon bernthal",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "madden 27 release date",
-          "traffic": "500",
+          "title": "nfl preseason schedule",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pan am",
-          "traffic": "2000",
+          "title": "nfl preseason",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rfk jr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "california lettuce growers skip harvest",
-          "traffic": "200",
+          "title": "bernie sanders",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
