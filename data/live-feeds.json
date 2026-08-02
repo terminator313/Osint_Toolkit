@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T10:14:06.615819+00:00",
+  "updatedAt": "2026-08-02T11:41:30.431098+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Toonami",
+          "title": "#clubsos",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#CLUBSOS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CLUBSOS",
+          "url": "https://twitter.com/search?q=%23clubsos",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "The MLB",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20MLB",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Andrew Friedman",
+          "title": "Cy Young",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Andrew%20Friedman",
+          "url": "https://twitter.com/search?q=Cy%20Young",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Castillo",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Castillo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "home improvement cast reunion",
+          "title": "marshals",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daycare",
+          "title": "covid vaccine news",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severance",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "i-75 florida street takeover",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reflecting pool case",
+          "title": "powerball results",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air jordan 17",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flood watch",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "car accident lawyer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stock market news today",
+          "title": "bournemouth",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump iran news",
-          "traffic": "20000",
+          "title": "heidi klum",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "star trek: voyager",
-          "traffic": "200",
+          "title": "shacarri richardson super speeder case",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what is a data breach",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix top movies right now",
+          "title": "lga",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
