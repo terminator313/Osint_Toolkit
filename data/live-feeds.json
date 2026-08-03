@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T18:15:47.132882+00:00",
+  "updatedAt": "2026-08-03T20:09:51.451193+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Birdland",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Birdland",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyWatch9",
+          "title": "Brent Suter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyWatch9",
+          "url": "https://twitter.com/search?q=Brent%20Suter",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NoValkoNoMoney",
+          "title": "Marquez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Nuns",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nuns",
+          "url": "https://twitter.com/search?q=Marquez",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "liam hicks",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rafael jodar",
+          "title": "brewers top prospects",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katie boulter",
-          "traffic": "200",
+          "title": "ryan zeferjahn",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charles iii",
+          "title": "flight cancellation and delay",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fritz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reid detmers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam macko",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strait of hormuz transit fees",
+          "title": "groyper",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matteo berrettini",
+          "title": "pirates prospects",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cyclospora",
+          "title": "tony fauci",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox top 30 prospects",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aryana trevino martinez",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mikail kamara",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter goodman",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
