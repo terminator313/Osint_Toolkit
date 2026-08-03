@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T10:12:13.338417+00:00",
+  "updatedAt": "2026-08-03T13:24:20.733223+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MondayMotivation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LingOrmxSmoothE_FIERCESKIN",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LingOrmxSmoothE_FIERCESKIN",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NoValkoNoMoney",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HOTD",
+          "title": "LINGORM PRESENTER SMOOTHE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
+          "url": "https://twitter.com/search?q=LINGORM%20PRESENTER%20SMOOTHE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mindfulliving",
+          "title": "Dearborn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mindfulliving",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Sheepstealer",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sheepstealer",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#lifestyle",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23lifestyle",
+          "url": "https://twitter.com/search?q=Dearborn",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "zac brown band fenway",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taxes",
+          "title": "senate republican conference",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tax return",
+          "title": "pochettino",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john wayne",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flash flood warning",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason statham",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gwyneth paltrow",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supermarket",
+          "title": "monica barbaro",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hunter",
+          "title": "callum turner",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hacks",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix top movies right now",
+          "title": "jerry jones",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tarek mansour",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marv levy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump state approval ratings",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump emergency voting rule appeal",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
