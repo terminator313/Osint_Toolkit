@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T02:53:45.500825+00:00",
+  "updatedAt": "2026-08-03T06:21:09.087259+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SummerSlam",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerSlam",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#HOTD",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23HOTD",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NoValkoNoMoney",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "AUTUMN LEAVES",
+          "title": "#SummerSlam",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=AUTUMN%20LEAVES",
+          "url": "https://twitter.com/search?q=%23SummerSlam",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dean Ambrose",
+          "title": "Roman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dean%20Ambrose",
+          "url": "https://twitter.com/search?q=Roman",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alex call",
+          "title": "daredevil",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "denver summit fc",
+          "title": "ilia topuria",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariana ochoa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "valkyries",
+          "title": "jonah hill",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bronny james trade rumors",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xmen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "professor",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tate mcrae setlist",
+          "title": "tornado warnings",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emma d'arcy",
-          "traffic": "500",
+          "title": "earthquake now",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "student borrower settlement",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hubble telescope andromeda m31 study",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monty roberts",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will warren",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño snow forecast",
-          "traffic": "1000",
+          "title": "earthquake",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
