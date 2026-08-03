@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:56:31.080505+00:00",
+  "updatedAt": "2026-08-03T02:53:45.500825+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#weloveyouariana",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23weloveyouariana",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#zempu",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23zempu",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lash Legend",
+          "title": "AUTUMN LEAVES",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lash%20Legend",
+          "url": "https://twitter.com/search?q=AUTUMN%20LEAVES",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rice",
+          "title": "Dean Ambrose",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rice",
+          "url": "https://twitter.com/search?q=Dean%20Ambrose",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "chad gable",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the bombing of pan am 103",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taken",
+          "title": "alex call",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ted lasso",
-          "traffic": "5000",
+          "title": "denver summit fc",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emmet sheehan",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason sudeikis",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "america",
+          "title": "valkyries",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "60 minutes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "danhausen",
+          "title": "tate mcrae setlist",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cienciano - universitario",
+          "title": "emma d'arcy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "student borrower settlement",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hubble telescope andromeda m31 study",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "monty roberts",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will warren",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el niño snow forecast",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
