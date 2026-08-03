@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T06:21:09.087259+00:00",
+  "updatedAt": "2026-08-03T10:12:13.338417+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HOTD",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HOTD",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NoValkoNoMoney",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HouseOfTheDragon",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SummerSlam",
+          "title": "#mindfulliving",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SummerSlam",
+          "url": "https://twitter.com/search?q=%23mindfulliving",
           "platform": "X/Twitter"
         },
         {
-          "title": "Roman",
+          "title": "Sheepstealer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roman",
+          "url": "https://twitter.com/search?q=Sheepstealer",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#lifestyle",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23lifestyle",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "daredevil",
-          "traffic": "500",
+          "title": "zac brown band fenway",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ilia topuria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariana ochoa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonah hill",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bronny james trade rumors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xmen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "professor",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tornado warnings",
+          "title": "taxes",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake now",
-          "traffic": "10000",
+          "title": "tax return",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake",
-          "traffic": "5000",
+          "title": "john wayne",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flash flood warning",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jason statham",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gwyneth paltrow",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supermarket",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix top movies right now",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
