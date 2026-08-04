@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T03:47:18.738809+00:00",
+  "updatedAt": "2026-08-04T06:25:27.480001+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#STLCards",
+          "title": "#Oriade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23STLCards",
+          "url": "https://twitter.com/search?q=%23Oriade",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseIt",
+          "title": "#ESTChicago",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseIt",
+          "url": "https://twitter.com/search?q=%23ESTChicago",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jacob Fatu",
+          "title": "Boone",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jacob%20Fatu",
+          "url": "https://twitter.com/search?q=Boone",
           "platform": "X/Twitter"
         },
         {
-          "title": "Joe Hendry",
+          "title": "Afrobeats",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Joe%20Hendry",
+          "url": "https://twitter.com/search?q=Afrobeats",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taken",
+          "title": "google images",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george lombard jr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mlb baseball trade deadline",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gael monfils",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim tawa",
+          "title": "udhayanidhi stalin",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "powerball drawing",
+          "title": "phoenix weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dust storm",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lottery powerball jackpot",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "denise richards",
+          "title": "air quality seattle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark ruffalo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christina applegate",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joey king",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "martha and the vandellas",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united states federal judge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amy acton",
-          "traffic": "500",
+          "title": "mitch mcconnell",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
