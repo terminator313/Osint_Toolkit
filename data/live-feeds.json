@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T20:08:24.043221+00:00",
+  "updatedAt": "2026-08-04T21:47:41.179796+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#gachiakuta173",
+          "title": "#UnidosSaldremosAdelante",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta173",
+          "url": "https://twitter.com/search?q=%23UnidosSaldremosAdelante",
           "platform": "X/Twitter"
         },
         {
-          "title": "President Obama",
+          "title": "Adjusted EBITDA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=President%20Obama",
+          "url": "https://twitter.com/search?q=Adjusted%20EBITDA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Eshmel",
+          "title": "Barbie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Eshmel",
+          "url": "https://twitter.com/search?q=Barbie",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amd stock",
+          "title": "nasdaq composite",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dancing with the stars",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "federal bureau of investigation",
+          "title": "max miller",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anamaria goltes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mo salah",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stephen daley",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben simmons philadelphia return rumors",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nascar 2027 national series schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angel reese",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick pivetta",
+          "title": "apac",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liv golf news",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitch garver",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack draper",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spiderman brand new day rotten tomatoes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hamad medjedovic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dory funk jr",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexei popyrin",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
