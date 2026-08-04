@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:25:27.480001+00:00",
+  "updatedAt": "2026-08-04T09:19:43.621490+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NoValkoNoMoney",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Oriade",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Oriade",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ESTChicago",
+          "title": "Robert",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ESTChicago",
+          "url": "https://twitter.com/search?q=Robert",
           "platform": "X/Twitter"
         },
         {
-          "title": "Boone",
+          "title": "Aaron Farinacci",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Boone",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Afrobeats",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Afrobeats",
+          "url": "https://twitter.com/search?q=Aaron%20Farinacci",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "google images",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "udhayanidhi stalin",
+          "title": "prince harry, duke of sussex",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phoenix weather",
-          "traffic": "200",
+          "title": "minimax h3",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dust storm",
-          "traffic": "200",
+          "title": "real estate market",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lottery powerball jackpot",
-          "traffic": "10000",
+          "title": "health",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air quality seattle",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark ruffalo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christina applegate",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joey king",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitch mcconnell",
+          "title": "ice",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "southwest airlines",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox 25th anniversary free gifts",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eli lilly retatrutide early access",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air quality warning",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "finance",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
