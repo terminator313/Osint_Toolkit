@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T21:47:41.179796+00:00",
+  "updatedAt": "2026-08-04T23:01:03.319599+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NationalNightOut",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NationalNightOut",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#teenager",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23teenager",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RepublicanMedicareCuts",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RepublicanMedicareCuts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyWatchUltra2",
+          "title": "Benavidez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyWatchUltra2",
+          "url": "https://twitter.com/search?q=Benavidez",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UnidosSaldremosAdelante",
+          "title": "Frances Gill",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnidosSaldremosAdelante",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Adjusted EBITDA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Adjusted%20EBITDA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Barbie",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Barbie",
+          "url": "https://twitter.com/search?q=Frances%20Gill",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nasdaq composite",
+          "title": "twins vs royals",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dancing with the stars",
+          "title": "ufc fighter dead",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leagues cup schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chipotle salmonella",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rublev",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marlins vs braves",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "danube river",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max miller",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anamaria goltes",
+          "title": "theft",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mo salah",
+          "title": "volcán de fuego",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stephen daley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben simmons philadelphia return rumors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nascar 2027 national series schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angel reese",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apac",
-          "traffic": "500",
+          "title": "dólar estadounidense",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
