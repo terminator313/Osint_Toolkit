@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T18:10:53.227484+00:00",
+  "updatedAt": "2026-08-04T20:08:24.043221+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RepublicanMedicareCuts",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RepublicanMedicareCuts",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GalaxyWatchUltra2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GalaxyWatchUltra2",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HearTheCall",
+          "title": "President Obama",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HearTheCall",
+          "url": "https://twitter.com/search?q=President%20Obama",
           "platform": "X/Twitter"
         },
         {
-          "title": "WEPA",
+          "title": "Eshmel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=WEPA",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#RHUGT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHUGT",
+          "url": "https://twitter.com/search?q=Eshmel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "s&p 500",
-          "traffic": "10000",
+          "title": "amd stock",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "intimate relationship",
+          "title": "federal bureau of investigation",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick pivetta",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kenny smith",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jorge soler",
+          "title": "liv golf news",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "montreal open",
+          "title": "mitch garver",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jack draper",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spiderman brand new day rotten tomatoes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hamad medjedovic",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dory funk jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sara bejlek",
+          "title": "alexei popyrin",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sparta praha - lyon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iga swiatek",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rochester air show",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "princess eugenie",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
