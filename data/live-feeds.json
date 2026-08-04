@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:05:33.259604+00:00",
+  "updatedAt": "2026-08-04T16:26:31.758028+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TuesdayMotivation",
+          "title": "#gachiakuta173",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=%23gachiakuta173",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "#GalaxyWatchUltra2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=%23GalaxyWatchUltra2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Wordle1872",
+          "title": "#HearTheCall",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wordle1872",
+          "url": "https://twitter.com/search?q=%23HearTheCall",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aaron Farinacci",
+          "title": "Gibbs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aaron%20Farinacci",
+          "url": "https://twitter.com/search?q=Gibbs",
           "platform": "X/Twitter"
         },
         {
-          "title": "$AAOI",
+          "title": "Eshmel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24AAOI",
+          "url": "https://twitter.com/search?q=Eshmel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "product recall",
+          "title": "hubert hurkacz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the westies",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brie garcia",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stefanos tsitsipas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zay flowers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us-iran",
-          "traffic": "1000",
+          "title": "france",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "willem dafoe",
+          "title": "epic",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "randy travis",
+          "title": "elina svitolina",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natasha ward australian runner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "meghan markle news",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chuck grassley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "philippines vs thailand",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aston villa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lindsay clancy trial live",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gma deals and steals today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phil collins praises taylor swift",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
