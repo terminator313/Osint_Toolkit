@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T18:03:23.882473+00:00",
+  "updatedAt": "2026-08-05T20:06:32.759126+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#RaiseHail",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#全世界都爱敖尹",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%88%B1%E6%95%96%E5%B0%B9",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChallenge42",
+          "title": "phoebe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChallenge42",
+          "url": "https://twitter.com/search?q=phoebe",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wash",
+          "title": "Muslim Brotherhood",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wash",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "John Solomon",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=John%20Solomon",
+          "url": "https://twitter.com/search?q=Muslim%20Brotherhood",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "andrew wilson",
-          "traffic": "200",
+          "title": "cubs",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cole mcbee",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guatemala volcano",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jays - astros",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dhl plane hanover unscheduled landing",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toronto open",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arsenal vs betis",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica pegula",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fenerbahçe vs sturm graz",
+          "title": "sndk",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor townsend",
+          "title": "muse code",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gillette stadium",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "west indies vs pakistan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexander zverev",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs score",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "u.s. department of homeland security",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mirra andreeva",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba sophie cunningham athlete debate",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
