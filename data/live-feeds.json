@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T00:53:42.542819+00:00",
+  "updatedAt": "2026-08-05T03:58:34.429611+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RepBX",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepBX",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AGT",
+          "title": "#Cubs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AGT",
+          "url": "https://twitter.com/search?q=%23Cubs",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JustinStrong",
+          "title": "#FlyTheW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JustinStrong",
+          "url": "https://twitter.com/search?q=%23FlyTheW",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalNightOut",
+          "title": "Patton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalNightOut",
+          "url": "https://twitter.com/search?q=Patton",
           "platform": "X/Twitter"
         },
         {
-          "title": "Todd Blanche",
+          "title": "Ironmouse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Todd%20Blanche",
+          "url": "https://twitter.com/search?q=Ironmouse",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tigers vs mariners",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dansby swanson",
+          "title": "washington state election results",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jesús luzardo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan governor race",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "msnow",
+          "title": "janelle salaün",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eddys leonard",
+          "title": "john giles",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "loans",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ethan lovett",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blade tidwell",
+          "title": "riley greene",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros standings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben rortvedt",
+          "title": "wsop final table 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kalshi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chipotle jalapeno salmonella outbreak",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "missouri primary election",
-          "traffic": "1000",
+          "title": "oakland county election results",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
