@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:06:32.759126+00:00",
+  "updatedAt": "2026-08-05T21:45:23.456959+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BlueWaveIn90Days",
+          "title": "#Davido",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlueWaveIn90Days",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#RaiseHail",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=%23Davido",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "phoebe",
+          "title": "#RaiseHail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=phoebe",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "Muslim Brotherhood",
+          "title": "Terry",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Muslim%20Brotherhood",
+          "url": "https://twitter.com/search?q=Terry",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BlueWaveIn90Days",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn90Days",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs",
-          "traffic": "20000",
+          "title": "naomi osaka",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sndk",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "muse code",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gillette stadium",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "west indies vs pakistan",
+          "title": "cubs game today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexander zverev",
+          "title": "cruzeiro x chapecoense",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs score",
+          "title": "felix auger aliassime",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter greene",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs dodgers",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "u.s. department of homeland security",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mirra andreeva",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba sophie cunningham athlete debate",
+          "title": "home care",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "houston astros",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gianni infantino",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
