@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T06:34:13.671805+00:00",
+  "updatedAt": "2026-08-05T09:35:15.701050+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#TheChallenge42",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TheChallenge42",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TedLasso",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TedLasso",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WWENXT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FlyTheW",
+          "title": "Niki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FlyTheW",
+          "url": "https://twitter.com/search?q=Niki",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cubs",
+          "title": "Wesley Bell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cubs",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Stay in Canada",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stay%20in%20Canada",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Giles",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Giles",
+          "url": "https://twitter.com/search?q=Wesley%20Bell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cole anthony",
+          "title": "car accident attorney",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pokemon pokopia dlc",
-          "traffic": "200",
+          "title": "mlb wild card standings",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "santa cruz boardwalk shooting",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "senate daylight saving time bill",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trader joe's mango sticky rice",
+          "title": "marie gluesenkamp perez washington primary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stewart rhodes",
-          "traffic": "20000",
+          "title": "bruna marquezine",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris rabb",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madden 27",
+          "title": "ire vs afg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spokane & stevens counties wildfires",
-          "traffic": "5000",
+          "title": "truck accident attorney",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states federal judge",
+          "title": "pokemon pokopia bubbly basin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "columbia",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air quality warning",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cpap",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
