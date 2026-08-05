@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T11:58:02.837234+00:00",
+  "updatedAt": "2026-08-05T14:20:56.216104+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,21 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HyperLuckyMove1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#YEONJUNonGMA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23YEONJUNonGMA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "#HyperLuckyMove1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BlitzMOVE1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlitzMOVE1",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheChallenge42",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheChallenge42",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rocky mount",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aaron rodgers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason phillips",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hatsune miku commander deck secret lair",
+          "title": "nvidia stock price",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "helicopter",
-          "traffic": "100",
+          "title": "zeta stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dust storms phoenix",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "romy gonzalez",
+          "title": "law roach",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather philadelphia",
+          "title": "katseye movie",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christine romans new show",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago fire season 15",
-          "traffic": "100",
+          "title": "carolina panthers",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben roethlisberger",
-          "traffic": "100",
+          "title": "where is kelly ripa this week",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "muerte",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ewc",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike evans 49ers comments",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
