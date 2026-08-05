@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T09:35:15.701050+00:00",
+  "updatedAt": "2026-08-05T11:58:02.837234+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#HyperLuckyMove1",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HyperLuckyMove1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#YEONJUNonGMA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23YEONJUNonGMA",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#WednesdayMotivation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Mike Rogers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Mike%20Rogers",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TheChallenge42",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TheChallenge42",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TedLasso",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TedLasso",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WWENXT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Niki",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Niki",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Wesley Bell",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wesley%20Bell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "car accident attorney",
+          "title": "rocky mount",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb wild card standings",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marie gluesenkamp perez washington primary",
+          "title": "aaron rodgers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruna marquezine",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ire vs afg",
+          "title": "jason phillips",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck accident attorney",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pokemon pokopia bubbly basin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "columbia",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "air quality warning",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cpap",
+          "title": "hatsune miku commander deck secret lair",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "helicopter",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dust storms phoenix",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "romy gonzalez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather philadelphia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicago fire season 15",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben roethlisberger",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
