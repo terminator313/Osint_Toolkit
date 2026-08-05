@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T03:58:34.429611+00:00",
+  "updatedAt": "2026-08-05T06:34:13.671805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cubs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cubs",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FlyTheW",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FlyTheW",
           "platform": "X/Twitter"
         },
         {
-          "title": "Patton",
+          "title": "#Cubs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Patton",
+          "url": "https://twitter.com/search?q=%23Cubs",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ironmouse",
+          "title": "Stay in Canada",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ironmouse",
+          "url": "https://twitter.com/search?q=Stay%20in%20Canada",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Giles",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Giles",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "washington state election results",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "janelle salaün",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john giles",
+          "title": "cole anthony",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "loans",
+          "title": "pokemon pokopia dlc",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ethan lovett",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "riley greene",
+          "title": "santa cruz boardwalk shooting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astros standings",
+          "title": "senate daylight saving time bill",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trader joe's mango sticky rice",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wsop final table 2026",
+          "title": "stewart rhodes",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris rabb",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "madden 27",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kalshi",
+          "title": "spokane & stevens counties wildfires",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states federal judge",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oakland county election results",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
