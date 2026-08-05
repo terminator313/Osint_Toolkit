@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:01:03.319599+00:00",
+  "updatedAt": "2026-08-05T00:53:42.542819+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RepBX",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RepBX",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AGT",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AGT",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#JustinStrong",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JustinStrong",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NationalNightOut",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalNightOut",
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenager",
+          "title": "Todd Blanche",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenager",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#RepublicanMedicareCuts",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepublicanMedicareCuts",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Benavidez",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Benavidez",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Frances Gill",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Frances%20Gill",
+          "url": "https://twitter.com/search?q=Todd%20Blanche",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "twins vs royals",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufc fighter dead",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leagues cup schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chipotle salmonella",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rublev",
+          "title": "tigers vs mariners",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marlins vs braves",
-          "traffic": "5000",
+          "title": "dansby swanson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "danube river",
+          "title": "jesús luzardo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michigan governor race",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "theft",
+          "title": "msnow",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "volcán de fuego",
+          "title": "eddys leonard",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dólar estadounidense",
+          "title": "blade tidwell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben rortvedt",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chipotle jalapeno salmonella outbreak",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "missouri primary election",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
