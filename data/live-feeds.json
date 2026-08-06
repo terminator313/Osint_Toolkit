@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T03:26:40.746822+00:00",
+  "updatedAt": "2026-08-06T06:10:42.700031+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GrandSlamMéxico",
+          "title": "#AniyaxVariety",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GrandSlamM%C3%A9xico",
+          "url": "https://twitter.com/search?q=%23AniyaxVariety",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Dillon Brooks",
+          "title": "Weights",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dillon%20Brooks",
+          "url": "https://twitter.com/search?q=Weights",
           "platform": "X/Twitter"
         },
         {
-          "title": "Paul Skenes",
+          "title": "Billy the Kid",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Paul%20Skenes",
+          "url": "https://twitter.com/search?q=Billy%20the%20Kid",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "c.f. monterrey vs orlando city standings",
+          "title": "rider strong",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark ruffalo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tucson weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rewards",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball numbers tonight",
+          "title": "aubrey plaza",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gael monfils",
-          "traffic": "500",
+          "title": "luis romo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kamilla cardoso",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dbacks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monfils",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caleb kilian",
+          "title": "backpack",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wsop final table 2026",
-          "traffic": "500",
+          "title": "winona flock camera theft",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rob bonta",
-          "traffic": "500",
+          "title": "hilary duff",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bobby flay",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners score",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
