@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:43:07.631874+00:00",
+  "updatedAt": "2026-08-07T12:57:37.067772+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NINGNING_NewSolo",
+          "title": "#NINGNING",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NINGNING_NewSolo",
+          "url": "https://twitter.com/search?q=%23NINGNING",
           "platform": "X/Twitter"
         },
         {
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WINTERxSYNK_COMPLaeXITY",
+          "title": "Good Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WINTERxSYNK_COMPLaeXITY",
+          "url": "https://twitter.com/search?q=Good%20Friday",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "strands hint",
-          "traffic": "500",
+          "title": "willem dafoe",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scratch",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stacey king",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "economic calendar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gigi hadid bradley cooper boucheron rings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eric swalwell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dallas cowboys cheerleaders",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "epic",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy detamore",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "docs stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlize theron",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles barkley",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa murkowski",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clarity act",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oklo stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marathon",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "interior secretary doug burgum",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anfernee simons",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
