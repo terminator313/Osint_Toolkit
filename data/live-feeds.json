@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:10:25.517237+00:00",
+  "updatedAt": "2026-08-07T19:28:07.773797+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,27 +20,27 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LALALALUNE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LALALALUNE",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LastFourWatched",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP8",
+          "title": "#LALALALUNE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP8",
+          "url": "https://twitter.com/search?q=%23LALALALUNE",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RepublicansCutMedicare",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RepublicansCutMedicare",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Murkowski",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Murkowski",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "okc weather",
+          "title": "talarico",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthony bourdain",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gabriel arias",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameron fens",
+          "title": "leylah fernandez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "faa airport ground stops",
+          "title": "lisa cook",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mirra andreeva",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dr jennifer tufts",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daniel merida aguilar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justice smith",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex michelsen",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "niteharts",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tallon griekspoor",
+          "title": "trump naval shipbuilding proposal",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anya taylor-joy",
-          "traffic": "2000",
+          "title": "deion jones",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elena rybakina",
-          "traffic": "2000",
+          "title": "efl cup",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
