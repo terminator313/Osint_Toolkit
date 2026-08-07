@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:27:04.715873+00:00",
+  "updatedAt": "2026-08-07T05:14:20.621759+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NIKKExP30th",
+          "title": "#This_And_That",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NIKKExP30th",
+          "url": "https://twitter.com/search?q=%23This_And_That",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HallOfFameGame",
+          "title": "#DirtyWater",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HallOfFameGame",
+          "url": "https://twitter.com/search?q=%23DirtyWater",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "#KeepPounding",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=%23KeepPounding",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Tomlin",
+          "title": "Ogles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Tomlin",
+          "url": "https://twitter.com/search?q=Ogles",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jalen Brooks",
+          "title": "#THIS도_THAT도_스키즈",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jalen%20Brooks",
+          "url": "https://twitter.com/search?q=%23THIS%EB%8F%84_THAT%EB%8F%84_%EC%8A%A4%ED%82%A4%EC%A6%88",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trevor richards",
+          "title": "jonathan majors",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "betty gilpin",
+          "title": "whopper burger king",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is zendaya pregnant",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "super troopers",
+          "title": "chuck timely",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boston red sox",
-          "traffic": "5000",
+          "title": "olivia rodrigo tour",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian rodríguez",
+          "title": "barbara palvin",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "economy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago bears",
-          "traffic": "500",
+          "title": "jacob elordi",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sean payton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elina svitolina",
+          "title": "diamondbacks",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aroldis chapman",
-          "traffic": "1000",
+          "title": "red sox standings",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
