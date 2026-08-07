@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:05:13.419881+00:00",
+  "updatedAt": "2026-08-07T23:05:02.756722+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Manny Franco",
+          "title": "Sophia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Manny%20Franco",
+          "url": "https://twitter.com/search?q=Sophia",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bigot",
+          "title": "Kawhi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bigot",
+          "url": "https://twitter.com/search?q=Kawhi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "blue jays vs phillies",
+          "title": "blake lively",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lightning",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "greenville ny",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "citi field",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "columbus vs pachuca",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "metlife stadium",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "defense pact",
+          "title": "twins vs brewers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roblox stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kirk cousins",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mets vs pirates",
+          "title": "guardians vs white sox",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reds vs nationals",
+          "title": "dream vs mystics",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spacex rocket moon crash",
+          "title": "mercury vs sun",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ronald araújo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon clarke",
-          "traffic": "10000",
+          "title": "dan caine",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
