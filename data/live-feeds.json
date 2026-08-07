@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:44:38.480064+00:00",
+  "updatedAt": "2026-08-07T08:11:08.525506+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#This_And_That",
+          "title": "#SnoopDoggMV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23This_And_That",
+          "url": "https://twitter.com/search?q=%23SnoopDoggMV",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carson Beck",
+          "title": "Haynes King",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carson%20Beck",
+          "url": "https://twitter.com/search?q=Haynes%20King",
           "platform": "X/Twitter"
         },
         {
-          "title": "Juke",
+          "title": "Mallory",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Juke",
+          "url": "https://twitter.com/search?q=Mallory",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,28 @@
       "status": "ok",
       "items": [
         {
-          "title": "jonathan majors",
+          "title": "kristen stewart",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackpot",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vikram mubayi",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bb28",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonathan majors",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -67,7 +87,7 @@
         },
         {
           "title": "raising kanan",
-          "traffic": "2000",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -83,26 +103,6 @@
         {
           "title": "olivia rodrigo tour",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barbara palvin",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "economy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob elordi",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox standings",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
