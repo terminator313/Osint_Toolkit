@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:23:14.029420+00:00",
+  "updatedAt": "2026-08-07T17:22:23.061639+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP8",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP8",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LastFourWatched",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "Purple Heart",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Purple%20Heart",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MaríaDesquiciadaMachado",
+          "title": "#วาดฝันวันวิวาห์EP8",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Mar%C3%ADaDesquiciadaMachado",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP8",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Purple Heart",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Purple%20Heart",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump iran news",
+          "title": "niteharts",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jennifer tufts",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex michelsen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ann li",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tallon griekspoor",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anya taylor-joy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elena rybakina",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real sociedad",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sarah michelle gellar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mountain dew baja leo release",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mina chan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tour de france femmes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump ballroom construction injunction",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marcus williamson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rochester air show",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iva jovic",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alina korneeva",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hakeem jeffries",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tre johnson",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
