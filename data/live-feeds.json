@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T08:11:08.525506+00:00",
+  "updatedAt": "2026-08-07T09:30:55.702753+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Haynes King",
+          "title": "Juke",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Haynes%20King",
+          "url": "https://twitter.com/search?q=Juke",
           "platform": "X/Twitter"
         },
         {
@@ -56,6 +56,46 @@
       "status": "ok",
       "items": [
         {
+          "title": "motagua - fas",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jim toman",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ire vs afg",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba fan ejection fever aces",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lightning san diego",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stake us",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "to",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pitch black etb",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "kristen stewart",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -63,46 +103,6 @@
         {
           "title": "jackpot",
           "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vikram mubayi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bb28",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonathan majors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "whopper burger king",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raising kanan",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is zendaya pregnant",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chuck timely",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "olivia rodrigo tour",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
