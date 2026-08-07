@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T14:14:23.286135+00:00",
+  "updatedAt": "2026-08-07T15:24:15.071214+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#카리나_신곡_공개",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%EC%B9%B4%EB%A6%AC%EB%82%98_%EC%8B%A0%EA%B3%A1_%EA%B3%B5%EA%B0%9C",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#วาดฝันวันวิวาห์EP8",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP8",
           "platform": "X/Twitter"
         },
         {
-          "title": "#윈터솔로춤춘다",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%EC%9C%88%ED%84%B0%EC%86%94%EB%A1%9C%EC%B6%A4%EC%B6%98%EB%8B%A4",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "Murkowski",
+          "title": "#카리나_신곡_공개",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Murkowski",
+          "url": "https://twitter.com/search?q=%23%EC%B9%B4%EB%A6%AC%EB%82%98_%EC%8B%A0%EA%B3%A1_%EA%B3%B5%EA%B0%9C",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ตัวอย่างแฟนบอย",
+          "title": "Happy Friyay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A2",
+          "url": "https://twitter.com/search?q=Happy%20Friyay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#MaríaDesquiciadaMachado",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Mar%C3%ADaDesquiciadaMachado",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "team stock",
+          "title": "iva jovic",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alina korneeva",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hakeem jeffries",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tre johnson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kaelen culpepper",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julie chen moonves",
+          "title": "katie price",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sergi roberto",
+          "title": "ben stille",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oreo",
+          "title": "basketball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emmy rossum",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark ruffalo",
+          "title": "andy cohen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aston villa vs bayern",
+          "title": "aaron pierre",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travis kelce patrick mahomes lawsuit",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "htz stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "10 year treasury yield",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
