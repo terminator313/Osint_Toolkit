@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:09:36.730293+00:00",
+  "updatedAt": "2026-08-07T22:05:13.419881+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FursuitFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#DMDinUSAxTMKTTP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DMDinUSAxTMKTTP",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Lisa Cook",
+          "title": "Manny Franco",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lisa%20Cook",
+          "url": "https://twitter.com/search?q=Manny%20Franco",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lala",
+          "title": "Bigot",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lala",
+          "url": "https://twitter.com/search?q=Bigot",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "joe amabile",
+          "title": "blue jays vs phillies",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "metlife stadium",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liudmila samsonova",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xavier woods",
+          "title": "defense pact",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodge charger super bee",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt rife",
+          "title": "roblox stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david forst",
+          "title": "kirk cousins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raymond burgos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "south sudan",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maya joint",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nato",
+          "title": "mets vs pirates",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reds vs nationals",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex rocket moon crash",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ronald araújo",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon clarke",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
