@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:14:20.621759+00:00",
+  "updatedAt": "2026-08-07T06:44:38.480064+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#bb28",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23bb28",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RaisingKanan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RaisingKanan",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#This_And_That",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23This_And_That",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DirtyWater",
+          "title": "Carson Beck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DirtyWater",
+          "url": "https://twitter.com/search?q=Carson%20Beck",
           "platform": "X/Twitter"
         },
         {
-          "title": "#KeepPounding",
+          "title": "Juke",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KeepPounding",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ogles",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ogles",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#THIS도_THAT도_스키즈",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23THIS%EB%8F%84_THAT%EB%8F%84_%EC%8A%A4%ED%82%A4%EC%A6%88",
+          "url": "https://twitter.com/search?q=Juke",
           "platform": "X/Twitter"
         }
       ],
@@ -62,12 +62,17 @@
         },
         {
           "title": "whopper burger king",
-          "traffic": "200",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raising kanan",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "is zendaya pregnant",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -77,27 +82,22 @@
         },
         {
           "title": "olivia rodrigo tour",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "barbara palvin",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "economy",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "jacob elordi",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
