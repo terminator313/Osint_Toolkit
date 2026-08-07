@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:28:07.773797+00:00",
+  "updatedAt": "2026-08-07T20:07:12.396708+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LALALALUNE",
+          "title": "#DMDinUSAxTMKTTP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LALALALUNE",
+          "url": "https://twitter.com/search?q=%23DMDinUSAxTMKTTP",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Murkowski",
+          "title": "Former NBA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Murkowski",
+          "url": "https://twitter.com/search?q=Former%20NBA",
           "platform": "X/Twitter"
         },
         {
-          "title": "Purple Heart",
+          "title": "#XERJ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Purple%20Heart",
+          "url": "https://twitter.com/search?q=%23XERJ",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "nato",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tony movie",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fulham vs palace",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben shelton",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hubert hurkacz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peter skoronski",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john goodman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "talarico",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony bourdain",
-          "traffic": "500",
+          "title": "sophia hiatus",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "gabriel arias",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leylah fernandez",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa cook",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mirra andreeva",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dr jennifer tufts",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump naval shipbuilding proposal",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "deion jones",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "efl cup",
-          "traffic": "500",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
