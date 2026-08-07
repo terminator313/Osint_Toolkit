@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T14:02:20.598996+00:00",
+  "updatedAt": "2026-08-07T00:23:01.588611+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DiálogoPorLaPatriaYPorLaPaz",
+          "title": "#WWEFairfax",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Di%C3%A1logoPorLaPatriaYPorLaPaz",
+          "url": "https://twitter.com/search?q=%23WWEFairfax",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#HallOfFameGame",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23HallOfFameGame",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Stevens",
+          "title": "#MAFS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Stevens",
+          "url": "https://twitter.com/search?q=%23MAFS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Grand Theft Auto VI",
+          "title": "Carson Beck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grand%20Theft%20Auto%20VI",
+          "url": "https://twitter.com/search?q=Carson%20Beck",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GTA6",
+          "title": "Starter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GTA6",
+          "url": "https://twitter.com/search?q=Starter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "epic",
+          "title": "sparks vs lynx",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacoby brissett",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shaquille o'neal caitlin clark wnba",
+          "title": "nbc sports",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "football",
+          "title": "the voice",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "primetime movie",
+          "title": "chicago vs necaxa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "waymo",
-          "traffic": "200",
+          "title": "tennessee election results",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fiserv stock",
-          "traffic": "200",
+          "title": "the tv app",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "good morning america",
-          "traffic": "200",
+          "title": "ellar coltrane",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wisconsin state fair",
-          "traffic": "200",
+          "title": "nfc west",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john thune",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snow",
-          "traffic": "2000",
+          "title": "taylor swift wedding",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
