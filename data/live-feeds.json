@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:30:01.611181+00:00",
+  "updatedAt": "2026-08-08T17:04:09.839804+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StarRailGC2026",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StarRailGC2026",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#BornToShineMingi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BornToShineMingi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Todd Blanche",
+          "title": "#StarRailGC2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Todd%20Blanche",
+          "url": "https://twitter.com/search?q=%23StarRailGC2026",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Amad",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Amad",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "aces vs lynx",
+          "title": "real madrid",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ferencváros vs real madrid",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "larry fitzgerald",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris berman",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lane johnson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "man u",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "police officer",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elon musk rocket moon crash",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luther burden",
+          "title": "roger craig",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marshall manning",
+          "title": "firefighting",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vfb stuttgart vs everton",
+          "title": "yankees old timers day 2026",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adam vinatieri",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iga świątek",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "liv golf",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nuno borges",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kurt warner",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
