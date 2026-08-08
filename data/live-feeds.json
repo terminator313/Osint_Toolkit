@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:26:04.734565+00:00",
+  "updatedAt": "2026-08-08T22:57:36.729821+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Sherman",
+          "title": "Gage Jump",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sherman",
+          "url": "https://twitter.com/search?q=Gage%20Jump",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gerrit Cole",
+          "title": "Security Breach 2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gerrit%20Cole",
+          "url": "https://twitter.com/search?q=Security%20Breach%202",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "richie miranda",
+          "title": "red sox game today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what did perez hilton do to himself",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "burbank fire",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indiana fever caitlin clark technical",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max scherzer",
-          "traffic": "2000",
+          "title": "trump white house ballroom appeal",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york state police",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ozzie guillen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "whitney stakes 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aaron nola",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "morgan freeman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inter miami vs monterrey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the agency",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "july 4",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aeropuerto internacional de miami",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dci finals 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ty miller",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orlando city - león",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
