@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:23:51.515206+00:00",
+  "updatedAt": "2026-08-08T04:34:58.021365+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,6 +32,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#PFLCharlotte",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PFLCharlotte",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OPNation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OPNation",
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Tyler%20Mahle",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "Ian Happ",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ian%20Happ",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mlb wild card standings",
-          "traffic": "500",
+          "title": "dodgers",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "austin riley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hunter feduccia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob webb",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ronaldo",
+          "title": "edwin diaz",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rafael devers",
+          "title": "ryan waldschmidt",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dci scores",
+          "title": "mariners home run derby",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "quillan salkilld",
+          "title": "padres score",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "operation safed sagar",
+          "title": "jose altuve",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jessica shepard",
+          "title": "mexico soccer",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan mcmahon",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "willy adames",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres game today",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
