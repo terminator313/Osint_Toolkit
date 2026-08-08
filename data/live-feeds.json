@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T04:34:58.021365+00:00",
+  "updatedAt": "2026-08-08T05:40:42.077234+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#MLBS6Spoilers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MLBS6Spoilers",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OPLive",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
+          "title": "Royce White",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Royce%20White",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PFLCharlotte",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PFLCharlotte",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OPNation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPNation",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tyler Mahle",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyler%20Mahle",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dodgers",
-          "traffic": "20000",
+          "title": "timothee chalamet",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edwin diaz",
+          "title": "hugo camberos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ichiro",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charlize theron",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan waldschmidt",
-          "traffic": "500",
+          "title": "nl west standings",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners home run derby",
-          "traffic": "500",
+          "title": "astros standings",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "padres score",
+          "title": "vancouver whitecaps fc vs fc juárez standings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tucson weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jose altuve",
+          "title": "paul walker",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mexico soccer",
+          "title": "morgan freeman",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan mcmahon",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "willy adames",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres game today",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
