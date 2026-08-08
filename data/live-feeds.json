@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:54:11.806124+00:00",
+  "updatedAt": "2026-08-08T20:26:43.513961+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#voreday",
+          "title": "#ZuffaBoxing10",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23voreday",
+          "url": "https://twitter.com/search?q=%23ZuffaBoxing10",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dana Evans",
+          "title": "Chris Sale",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dana%20Evans",
+          "url": "https://twitter.com/search?q=Chris%20Sale",
           "platform": "X/Twitter"
         },
         {
-          "title": "The WNBA",
+          "title": "WHO DAT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20WNBA",
+          "url": "https://twitter.com/search?q=WHO%20DAT",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "verizon outage",
-          "traffic": "500",
+          "title": "bruce willis",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur rinderknech",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica pegula",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris vargas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever game today",
+          "title": "angel reese",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "central florida",
+          "title": "tom kim",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "little league softball world series",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "asterisk talley",
+          "title": "makayla timpson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napoli vs celta",
+          "title": "jakobi lane",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigre vs river plate",
-          "traffic": "1000",
+          "title": "billy quarantillo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natasha cloud",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dijonai carrington",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "athletics - red sox",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom selleck",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
