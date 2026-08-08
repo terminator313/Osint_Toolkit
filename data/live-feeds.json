@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:38:09.669912+00:00",
+  "updatedAt": "2026-08-08T22:26:04.734565+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#UFCVegas120",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UFCVegas120",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GreenWall",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GreenWall",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#InternationalCatDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23InternationalCatDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ZuffaBoxing10",
+          "title": "Sherman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZuffaBoxing10",
+          "url": "https://twitter.com/search?q=Sherman",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "Gerrit Cole",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Roger Craig",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Roger%20Craig",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Cam Coleman",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cam%20Coleman",
+          "url": "https://twitter.com/search?q=Gerrit%20Cole",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kelsey mitchell",
+          "title": "richie miranda",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golf",
+          "title": "max scherzer",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morgan freeman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inter miami vs monterrey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iowa speedway",
+          "title": "the agency",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "little league world series",
+          "title": "july 4",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george lombard jr.",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "catherine, princess of wales",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael brennan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "louie sutherland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever score",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "terrell owens",
+          "title": "aeropuerto internacional de miami",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dci finals 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ty miller",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orlando city - león",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
