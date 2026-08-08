@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:48:24.422432+00:00",
+  "updatedAt": "2026-08-08T07:47:04.994494+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MLBS6Spoilers",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MLBS6Spoilers",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SmackDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "Iggy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=Iggy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PFLCharlotte",
+          "title": "Iglesias",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PFLCharlotte",
+          "url": "https://twitter.com/search?q=Iglesias",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,23 @@
       "status": "ok",
       "items": [
         {
-          "title": "trump senate budget agreement delay",
+          "title": "marvel rivals",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "my life with the walter boys season 4",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe biden cancer",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump senate budget agreement delay",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -88,21 +103,6 @@
         {
           "title": "ichiro",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "timothee chalamet",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hugo camberos",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico world cup",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
