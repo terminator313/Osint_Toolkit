@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:37:21.869926+00:00",
+  "updatedAt": "2026-08-08T16:30:01.611181+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Royce White",
+          "title": "#BornToShineMingi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Royce%20White",
+          "url": "https://twitter.com/search?q=%23BornToShineMingi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "Todd Blanche",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=Todd%20Blanche",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "vfb stuttgart vs everton",
+          "title": "aces vs lynx",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "larry fitzgerald",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris berman",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luther burden",
+          "title": "lane johnson",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "man u",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "police officer",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elon musk rocket moon crash",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luther burden",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,38 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hartsfield-jackson delta flight emergency",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mutv",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2027 dodge charger super bee",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warren buffett",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "interstate 15",
+          "title": "vfb stuttgart vs everton",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psg vs man united",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim ross",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
