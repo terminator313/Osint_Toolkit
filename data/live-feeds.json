@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:59:30.539480+00:00",
+  "updatedAt": "2026-08-08T21:38:09.669912+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ZuffaBoxing10",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ZuffaBoxing10",
           "platform": "X/Twitter"
         },
         {
-          "title": "Chris Sale",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chris%20Sale",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "WHO DAT",
+          "title": "Roger Craig",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=WHO%20DAT",
+          "url": "https://twitter.com/search?q=Roger%20Craig",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Cam Coleman",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Cam%20Coleman",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "andruw monasterio",
+          "title": "kelsey mitchell",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "golf",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "todd blanche senate confirmation",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pegula",
+          "title": "iowa speedway",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hoda kotb family birthday celebration",
+          "title": "little league world series",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "george lombard jr.",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "catherine, princess of wales",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael brennan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "country music",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rachel banham",
+          "title": "louie sutherland",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin durant",
+          "title": "fever score",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red dead redemption",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clancy",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lexie hull",
-          "traffic": "500",
+          "title": "terrell owens",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
