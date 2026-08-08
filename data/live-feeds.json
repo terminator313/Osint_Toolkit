@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:26:43.513961+00:00",
+  "updatedAt": "2026-08-08T20:59:30.539480+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "bruce willis",
+          "title": "andruw monasterio",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "todd blanche senate confirmation",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom kim",
+          "title": "pegula",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "makayla timpson",
+          "title": "hoda kotb family birthday celebration",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jakobi lane",
-          "traffic": "200",
+          "title": "country music",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "billy quarantillo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "natasha cloud",
+          "title": "rachel banham",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dijonai carrington",
+          "title": "kevin durant",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red dead redemption",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clancy",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "athletics - red sox",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom selleck",
+          "title": "lexie hull",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
