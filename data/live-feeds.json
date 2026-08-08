@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:57:45.963659+00:00",
+  "updatedAt": "2026-08-08T01:55:41.107371+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlaDollGame",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlaDollGame",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#DMDinUSAxTMKTTP",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DMDinUSAxTMKTTP",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Zenith",
+          "title": "#OlaDollGame",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zenith",
+          "url": "https://twitter.com/search?q=%23OlaDollGame",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cassidy",
+          "title": "Frank Kendall",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cassidy",
+          "url": "https://twitter.com/search?q=Frank%20Kendall",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#MVPCA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MVPCA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "joao fonseca",
+          "title": "tigres uanl",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san diego wave vs gotham",
+          "title": "ben stiller",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh harrison",
+          "title": "liam neeson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charlotte fc",
+          "title": "reese witherspoon",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casper ruud",
-          "traffic": "500",
+          "title": "steven kwan",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "orioles vs rangers",
+          "title": "tigers vs giants",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockies vs cardinals",
+          "title": "randy orton",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike trout",
+          "title": "canadá sub-20 - méxico sub-20",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kylie jenner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baron corbin",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cincinnati vs pumas unam",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maria sakkari",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
