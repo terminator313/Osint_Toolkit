@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T07:47:04.994494+00:00",
+  "updatedAt": "2026-08-08T08:37:52.876107+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GMMTVFanfestInMacau2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GMMTVFanfestInMacau2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Iggy",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Iggy",
+          "url": "https://twitter.com/search?q=%23SmackDown",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Enes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Enes",
           "platform": "X/Twitter"
         },
         {
@@ -56,13 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "marvel rivals",
+          "title": "education",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julian newman sister",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lck",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "puerto rico water crisis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drawing",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "my life with the walter boys season 4",
           "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel rivals",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -78,31 +103,6 @@
         {
           "title": "vibrio vulnificus",
           "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "horror movies",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psychiatrist",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "medevac",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian bale",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ichiro",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
