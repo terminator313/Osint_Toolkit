@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T15:59:32.212165+00:00",
+  "updatedAt": "2026-08-09T16:45:49.550422+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Blessed Sunday",
+          "title": "Tzolis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blessed%20Sunday",
+          "url": "https://twitter.com/search?q=Tzolis",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gyokeres",
+          "title": "Renkor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gyokeres",
+          "url": "https://twitter.com/search?q=Renkor",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "aircraft pilot",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aces vs liberty",
+          "title": "strait of hormuz news",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jay bhattacharya",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marseille vs athletic",
+          "title": "sicario",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charley hull",
+          "title": "malik willis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor farms",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "super pac",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "porto vs alverca",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tallulah willis",
+          "title": "liberty island",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pixel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico vs usa u20",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rangers vs hibernian",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "margaret brennan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "funeral home",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "milwaukee weather",
-          "traffic": "200",
+          "title": "caitlin clark kelsey mitchell duo",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
