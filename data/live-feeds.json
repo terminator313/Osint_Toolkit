@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T07:52:01.651658+00:00",
+  "updatedAt": "2026-08-09T08:38:48.366907+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "SB19 FANMEET IN CALIFORNIA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=SB19%20FANMEET%20IN%20CALIFORNIA",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#SB19IWaSThereUSA_Day1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SB19IWaSThereUSA_Day1",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Edwin Diaz",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Edwin%20Diaz",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,21 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "car",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car news",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "britney spears",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "fashion news",
           "traffic": "100",
@@ -66,6 +81,21 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "smartphone market",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "health",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather sleep",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "paint news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -73,36 +103,6 @@
         {
           "title": "news science",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "smartphone market",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather sleep",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather game",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sleep news",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather travel",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "camping news",
-          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
