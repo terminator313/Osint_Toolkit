@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:17:58.884007+00:00",
+  "updatedAt": "2026-08-09T04:45:48.150825+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#AdventBoundbyFate",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AdventBoundbyFate",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AEWCollision",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWCollision",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "White Privilege",
+          "title": "Stake",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=White%20Privilege",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Alvarado",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alvarado",
+          "url": "https://twitter.com/search?q=Stake",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ben simmons",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "operation safed sagar",
+          "title": "rays",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle tucker",
-          "traffic": "1000",
+          "title": "pro football",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlante fc",
+          "title": "josh naylor",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seattle mariners",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "star wars",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arman tsarukyan",
+          "title": "mariners score",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher lambert",
+          "title": "x men",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iphone ultra",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan walker",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners top 50 players",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inter miami vs c.f. monterrey standings",
-          "traffic": "5000",
+          "title": "mariners",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
