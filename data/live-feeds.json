@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T12:44:16.644887+00:00",
+  "updatedAt": "2026-08-09T13:47:42.937959+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DreaminaSeedance25",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DreaminaSeedance25",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SundayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BlitzMOVE1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BlitzMOVE1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Gronk",
+          "title": "Suspend",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Gronk",
+          "url": "https://twitter.com/search?q=Suspend",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Drew",
+          "title": "Carrington",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Drew",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Chuk",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Chuk",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Chloe",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Chloe",
+          "url": "https://twitter.com/search?q=Carrington",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jason sudeikis",
+          "title": "go fund me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colorado lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dominican day parade",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "billy strings was struck by an object during a concert",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gofundme",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reflecting pool",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott eastwood",
-          "traffic": "1000",
+          "title": "cruzeiro x mirassol",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "olivia wilde",
+          "title": "charles manson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cruzeiro vs mirassol",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ny lotto",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shedeur sanders browns quarterback reps",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "product recall",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dia dos pais brasil",
+          "title": "eds building plano",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pec zwolle vs ajax",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jamie lee komoroski sentence",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arsenal vs dortmund",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
