@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T10:31:19.468784+00:00",
+  "updatedAt": "2026-08-09T11:25:47.693370+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Tunsil",
+          "title": "#Edwin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Tunsil",
+          "url": "https://twitter.com/search?q=%23Edwin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Monta",
+          "title": "Blessed Sunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Monta",
+          "url": "https://twitter.com/search?q=Blessed%20Sunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sophie",
+          "title": "#Drew",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sophie",
+          "url": "https://twitter.com/search?q=%23Drew",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "student debt",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tropics",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jury duty",
+          "title": "johor darul ta'zim vs chelsea",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon coleman overtime charges",
+          "title": "fl lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alaskaair",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warriors",
+          "title": "tennis scores",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "internet",
+          "title": "jim cramer spacex investment",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ed case jarrett keohokalole hawaii primary",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car",
-          "traffic": "500",
+          "title": "true detective",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car news",
-          "traffic": "500",
+          "title": "robert irwin",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "britney spears",
+          "title": "ios 26.6",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mass lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pa lottery",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
