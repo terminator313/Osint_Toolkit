@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:47:42.937959+00:00",
+  "updatedAt": "2026-08-09T14:31:44.711328+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlitzMOVE1",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlitzMOVE1",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Suspend",
+          "title": "White Privilege",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Suspend",
+          "url": "https://twitter.com/search?q=White%20Privilege",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carrington",
+          "title": "essugo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carrington",
+          "url": "https://twitter.com/search?q=essugo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,7 +56,22 @@
       "status": "ok",
       "items": [
         {
-          "title": "go fund me",
+          "title": "boeing 737 max",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the marshall project",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 18 pro",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dominican day parade",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -66,13 +81,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dominican day parade",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "billy strings was struck by an object during a concert",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -82,27 +92,17 @@
         },
         {
           "title": "reflecting pool",
-          "traffic": "1000",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "cruzeiro x mirassol",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles manson",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "cruzeiro vs mirassol",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eds building plano",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
