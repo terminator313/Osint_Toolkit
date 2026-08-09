@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T08:38:48.366907+00:00",
+  "updatedAt": "2026-08-09T09:36:34.339366+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AdventBoundbyFate",
+          "title": "#encojoin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AdventBoundbyFate",
+          "url": "https://twitter.com/search?q=%23encojoin",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "#AdventBoundbyFate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=%23AdventBoundbyFate",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Edwin Diaz",
+          "title": "Carrington",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Edwin%20Diaz",
+          "url": "https://twitter.com/search?q=Carrington",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,38 @@
       "status": "ok",
       "items": [
         {
+          "title": "jury duty",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon coleman overtime charges",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alaskaair",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warriors",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lottery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "internet",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "car",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -67,41 +97,11 @@
         },
         {
           "title": "britney spears",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "fashion news",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "claressa shields",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "smartphone market",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "health",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather sleep",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paint news",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "news science",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
