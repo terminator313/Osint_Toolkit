@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:00:00.032841+00:00",
+  "updatedAt": "2026-08-09T22:40:26.780887+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GreenWall",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GreenWall",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NASCAR",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxNigeriaVlog",
+          "title": "#IowaCorn350",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxNigeriaVlog",
+          "url": "https://twitter.com/search?q=%23IowaCorn350",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Reddick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=Reddick",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tim Walz",
+          "title": "#BrickByBrick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tim%20Walz",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Josh Dobbs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Josh%20Dobbs",
+          "url": "https://twitter.com/search?q=%23BrickByBrick",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs standings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united airlines sfo new routes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "u. la calera - colo-colo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam vinatieri jr.",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers game today",
+          "title": "ben shelton",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "craig melvin wife new job",
+          "title": "braces",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brooks koepka",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "valkyries vs sparks",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napheesa collier",
-          "traffic": "1000",
+          "title": "pga tour",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameroon vs nigeria",
+          "title": "ella langley morgan wallen collaboration",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "las vegas weather",
+          "title": "colson montgomery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flamengo vs vitória",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joao fonseca",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bragantino x corinthians",
-          "traffic": "500",
+          "title": "john goodman weight loss",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
