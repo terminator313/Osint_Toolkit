@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:33:25.821013+00:00",
+  "updatedAt": "2026-08-09T21:29:15.784164+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NASCAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NASCAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxNigeriaVlog",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxNigeriaVlog",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalBookLoversDay",
+          "title": "Tim Walz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalBookLoversDay",
+          "url": "https://twitter.com/search?q=Tim%20Walz",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rocker",
+          "title": "Josh Dobbs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rocker",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Rolling Stone",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rolling%20Stone",
+          "url": "https://twitter.com/search?q=Josh%20Dobbs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kayla mcbride",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "louisiana gulf coast vibrio bacteria",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ji hwan bae",
+          "title": "derek hill",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jack weisenburger",
+          "title": "alianza - bucaramanga",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ivanka trump family vacation iceland",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ian happ",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when is the love island reunion",
+          "title": "bragantino vs corinthians",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeff mcneil",
+          "title": "phillies standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "santos - paranaense",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ketel marte",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max muncy",
-          "traffic": "2000",
+          "title": "phillies",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "terremoto",
-          "traffic": "2000",
+          "title": "silver alert",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "manny pacquiao",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hagen smith",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
