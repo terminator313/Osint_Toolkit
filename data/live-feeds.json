@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:44:33.334692+00:00",
+  "updatedAt": "2026-08-09T06:52:27.112488+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWCollision",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Stake",
+          "title": "Carrington",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stake",
+          "url": "https://twitter.com/search?q=Carrington",
           "platform": "X/Twitter"
         },
         {
-          "title": "White Privilege",
+          "title": "Salkilld",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=White%20Privilege",
+          "url": "https://twitter.com/search?q=Salkilld",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "hawaii election results",
+          "title": "map weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "science weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "las vegas weather",
+          "title": "toluca fc vs lafc standings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "science",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hartsfield jackson delta flight emergency",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hawaii election results",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "las vegas weather",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,38 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "avengers endgame",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "laura wright",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew bosworth",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "my life with the walter boys season 4",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anitta",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lioness season 3 episode 2",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pro football",
-          "traffic": "10000",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
