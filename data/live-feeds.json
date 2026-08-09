@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:10:43.347135+00:00",
+  "updatedAt": "2026-08-09T19:56:46.543303+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Sunday Funday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sunday%20Funday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NationalBookLoversDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalBookLoversDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Rocker",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Rocker",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Rolling Stone",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Rolling%20Stone",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "seattle sounders vs querétaro",
-          "traffic": "2000",
+          "title": "alina korneeva",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white sox game",
-          "traffic": "2000",
+          "title": "trent grisham",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bo bichette",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "danila leykin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "austin hays",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "severe thunderstorm warning",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "llws 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wings vs lynx",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "connor prielipp",
+          "title": "portland thorns vs boston legacy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luis robert jr.",
+          "title": "indycar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jd vance",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fire pits",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael brennan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "asterisk talley",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump bedminster temporary flight restrictions",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt olson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
