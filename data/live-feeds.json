@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T11:25:47.693370+00:00",
+  "updatedAt": "2026-08-09T11:54:58.109062+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Chuk",
+          "title": "#Gronk",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Chuk",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Edwin",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Edwin",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Blessed Sunday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blessed%20Sunday",
+          "url": "https://twitter.com/search?q=%23Gronk",
           "platform": "X/Twitter"
         },
         {
           "title": "#Drew",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Drew",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Chuk",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Chuk",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Chloe",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Chloe",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "johor darul ta'zim vs chelsea",
+          "title": "ohio lottery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cyclospora outbreak linked to lettuce",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fl lottery",
+          "title": "russian submarine anti-drone defenses",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tennis scores",
+          "title": "lioness episode 2",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patriot games",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jim cramer spacex investment",
+          "title": "virginia lottery",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ed case jarrett keohokalole hawaii primary",
+          "title": "dafne keen",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house of the dragon episode 8",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indiana fever roster lexie hull",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "true detective",
+          "title": "hoosier lottery",
           "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert irwin",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ios 26.6",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mass lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pa lottery",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
