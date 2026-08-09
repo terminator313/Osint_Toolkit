@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:45:49.550422+00:00",
+  "updatedAt": "2026-08-09T17:29:17.373461+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DreaminaSeedance25",
+          "title": "#OlandriaxNigeriaVlog",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DreaminaSeedance25",
+          "url": "https://twitter.com/search?q=%23OlandriaxNigeriaVlog",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "#DreaminaSeedance25",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=%23DreaminaSeedance25",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tzolis",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tzolis",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Renkor",
+          "title": "#NationalBookLoversDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Renkor",
+          "url": "https://twitter.com/search?q=%23NationalBookLoversDay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "strait of hormuz news",
+          "title": "braves - yankees",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sabrina ionescu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankee game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daniel merida aguilar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cincinnati open",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannaford deli produce recall",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels vs marlins",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sicario",
-          "traffic": "500",
+          "title": "statue of liberty boat capsizing",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "malik willis",
+          "title": "dillon radunz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor farms",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "super pac",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "porto vs alverca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liberty island",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pixel",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico vs usa u20",
+          "title": "immigration law",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caitlin clark kelsey mitchell duo",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
