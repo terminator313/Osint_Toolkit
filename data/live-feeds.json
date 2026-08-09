@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T17:29:17.373461+00:00",
+  "updatedAt": "2026-08-09T18:00:36.390964+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DreaminaSeedance25",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DreaminaSeedance25",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NationalBookLoversDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalBookLoversDay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Stephanie White",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Stephanie%20White",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "braves - yankees",
+          "title": "chris sale",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt mcquillan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what channel is the nascar race on today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sabrina ionescu",
+          "title": "don nelson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "liv golf",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wsl",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankee game today",
+          "title": "mets - pirates",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daniel merida aguilar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cincinnati open",
+          "title": "justin thomas",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hannaford deli produce recall",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angels vs marlins",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "statue of liberty boat capsizing",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dillon radunz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "immigration law",
-          "traffic": "200",
+          "title": "athletics - red sox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
