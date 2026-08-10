@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:59:55.393594+00:00",
+  "updatedAt": "2026-08-10T02:26:26.168623+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NASCAR",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GreenWall",
+          "title": "#HouseOfTheDragon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GreenWall",
+          "url": "https://twitter.com/search?q=%23HouseOfTheDragon",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSAChapterTwo",
+          "title": "#RHUGT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSAChapterTwo",
+          "url": "https://twitter.com/search?q=%23RHUGT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Janelle",
+          "title": "#DemDragons",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Janelle",
+          "url": "https://twitter.com/search?q=%23DemDragons",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fonseca",
+          "title": "#90DayFiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fonseca",
+          "url": "https://twitter.com/search?q=%2390DayFiance",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "astros vs padres",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville sc - san luis",
+          "title": "season 4 house of the dragon",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago vs santos laguna",
-          "traffic": "2000",
+          "title": "call of duty",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "naomi osaka",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chicago fire - santos",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trevon diggs",
+          "title": "matt smith",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameron brink",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jesse metcalfe",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "philadelphia vs necaxa",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico sub 20",
+          "title": "house of the dragon season 3 episode 8",
           "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "america",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "august 2026 xbox game pass",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "posiciones de club de fútbol cruz azul contra new york city football club",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego fc - tijuana",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house of the dragon season 4",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego fc",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
