@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:53:52.309558+00:00",
+  "updatedAt": "2026-08-10T19:53:50.006694+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OurUltraGeniusChangbin",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OurUltraGeniusChangbin",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
           "platform": "X/Twitter"
         },
         {
-          "title": "When Obama",
+          "title": "Snoopy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=When%20Obama",
+          "url": "https://twitter.com/search?q=Snoopy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Manizales",
+          "title": "Jose Ramirez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Manizales",
+          "url": "https://twitter.com/search?q=Jose%20Ramirez",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jk dobbins",
+          "title": "brooks nader",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kristen stewart",
+          "title": "bbc",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scarborough beach shark encounter",
+          "title": "houston weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lauren boebert",
+          "title": "stockard channing reclusive life",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christian mccaffrey",
+          "title": "paul sewald",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wsl",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "severe thunderstorm watch",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump approval rating",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "candida auris",
+          "title": "today with jenna & sheinelle",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joint base lindsey graham",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna osceola",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "enes kanter freedom wnba letter",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ballot",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
