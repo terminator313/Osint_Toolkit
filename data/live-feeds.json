@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T07:27:55.010463+00:00",
+  "updatedAt": "2026-08-10T08:58:20.580799+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Helaena",
+          "title": "Mariana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Helaena",
+          "url": "https://twitter.com/search?q=Mariana",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aegon",
+          "title": "Helaena",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aegon",
+          "url": "https://twitter.com/search?q=Helaena",
           "platform": "X/Twitter"
         }
       ],
@@ -57,7 +57,7 @@
       "items": [
         {
           "title": "rey fenix",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -76,13 +76,23 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "ti",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "power outage near me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "jake whisenant",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "san francisco 49ers",
-          "traffic": "500",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -93,16 +103,6 @@
         {
           "title": "greta lee",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steve harvey",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeongyeon",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
