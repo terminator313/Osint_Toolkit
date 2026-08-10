@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:39:37.152501+00:00",
+  "updatedAt": "2026-08-10T21:38:38.901645+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#OlandriaxRobertoCavalli",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PARKIFY",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PARKIFY",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Paul Sewald",
+          "title": "Tina Snow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Paul%20Sewald",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jose Ramirez",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jose%20Ramirez",
+          "url": "https://twitter.com/search?q=Tina%20Snow",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "tornado baltimore",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rklb earnings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hims stock",
+          "title": "venezuela",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump executive order childhood vaccines",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iphone 18 pro",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steve hilton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jackie the eagle",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lauren cohan",
+          "title": "dennis kirk trump interior nomination",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bbc",
+          "title": "dax shepard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zach holland golf",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dominion energy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "greenland",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill elliott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quinnen williams",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooks nader",
+          "title": "cailen waddell update liz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave coulier",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
