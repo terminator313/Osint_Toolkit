@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T12:11:20.746147+00:00",
+  "updatedAt": "2026-08-10T13:54:30.315408+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#MCMCadáverPolítico",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MCMCad%C3%A1verPol%C3%ADtico",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#5rt5as",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%235rt5as",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayVibes",
+          "title": "$INTC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayVibes",
+          "url": "https://twitter.com/search?q=%24INTC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ChristopherNolan",
+          "title": "#jonita",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ChristopherNolan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "National Lazy Day",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=National%20Lazy%20Day",
+          "url": "https://twitter.com/search?q=%23jonita",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "passenger threats alaska airlines miami",
+          "title": "apple iphone 18 pro",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united states senate",
+          "title": "when is the next powerball drawing",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "child actor",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rklb",
+          "title": "teresa giudice",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lance bass",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rocket lab stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dhs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khosla ventures",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kristi noem",
-          "traffic": "200",
+          "title": "severe thunderstorm warning",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dallas cowboys cheerleaders",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john gotti agnello",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tenx stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usa today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the one piece",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dobby",
-          "traffic": "200",
+          "title": "netflix ad vitam sequel",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
