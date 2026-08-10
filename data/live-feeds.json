@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:34:37.129226+00:00",
+  "updatedAt": "2026-08-10T23:32:21.661370+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hep B",
+          "title": "#NationalSpoilYourDogDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hep%20B",
+          "url": "https://twitter.com/search?q=%23NationalSpoilYourDogDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hydra",
+          "title": "Zebra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hydra",
+          "url": "https://twitter.com/search?q=Zebra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mets vs braves",
+          "title": "tempo vs dream",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "farmers' almanac 2026 weather prep",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox vs blue jays",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lt gen charles costanza removed",
+          "title": "gas prices",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark twain elementary school",
+          "title": "venomous snake football helmet arkansas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather nyc",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hunter biden tucker carlson interview",
+          "title": "liam neeson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon hamm american hostage trailer",
+          "title": "kevin warsh donald trump conversation",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeffrey dean morgan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dennis kirk trump interior nomination",
+          "title": "oklahoma little league disqualified",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phillies vs cardinals",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orioles vs twins",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "martha stewart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dukes of hazzard star dies",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
