@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:38:38.901645+00:00",
+  "updatedAt": "2026-08-10T22:34:37.129226+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#MCS27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MCS27",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxRobertoCavalli",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PARKIFY",
+          "title": "Hep B",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PARKIFY",
+          "url": "https://twitter.com/search?q=Hep%20B",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
+          "title": "Hydra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tina Snow",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tina%20Snow",
+          "url": "https://twitter.com/search?q=Hydra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "venezuela",
+          "title": "mets vs braves",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "farmers' almanac 2026 weather prep",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox vs blue jays",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lt gen charles costanza removed",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark twain elementary school",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather nyc",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hunter biden tucker carlson interview",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon hamm american hostage trailer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeffrey dean morgan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "dennis kirk trump interior nomination",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dax shepard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach holland golf",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dominion energy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "greenland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill elliott",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quinnen williams",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cailen waddell update liz",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dave coulier",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
