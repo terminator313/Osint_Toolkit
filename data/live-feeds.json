@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:59:43.420016+00:00",
+  "updatedAt": "2026-08-10T17:55:12.781609+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Madden27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Madden27",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "San José del Palmar",
+          "title": "Good Monday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=San%20Jos%C3%A9%20del%20Palmar",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Woke 1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Woke%201",
+          "url": "https://twitter.com/search?q=Good%20Monday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,6 +56,46 @@
       "status": "ok",
       "items": [
         {
+          "title": "nascar news",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "enes kanter freedom wnba letter",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ballot",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anna osceola",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "green boots",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "democratic socialists of america",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "big bend national park",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "king charles",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "chicago air show",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -63,46 +103,6 @@
         {
           "title": "chess",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "basketball",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uefa super cup",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim anderson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sitcom",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shake shack kiosk pricing changes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miku secret lair",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shamell naquan joyner jury evidence",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pittsburgh weather",
-          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
