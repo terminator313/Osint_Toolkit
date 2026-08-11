@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:32:21.661370+00:00",
+  "updatedAt": "2026-08-11T01:27:16.351744+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WWERaw",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WWERaw",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Madden27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Madden27",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxRobertoCavalli",
+          "title": "Colombia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
+          "url": "https://twitter.com/search?q=Colombia",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalSpoilYourDogDay",
+          "title": "Phantasm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalSpoilYourDogDay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Zebra",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zebra",
+          "url": "https://twitter.com/search?q=Phantasm",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tempo vs dream",
+          "title": "sky vs storm",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gas prices",
+          "title": "mujeres bienestar",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "venomous snake football helmet arkansas",
+          "title": "austin martin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liam neeson",
+          "title": "alexandrova",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin warsh donald trump conversation",
+          "title": "pips",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oklahoma little league disqualified",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies vs cardinals",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orioles vs twins",
+          "title": "astros vs giants",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "martha stewart",
-          "traffic": "500",
+          "title": "rockies vs diamondbacks",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dukes of hazzard star dies",
-          "traffic": "10000",
+          "title": "rays vs athletics",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stephanie vaquer",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "getty images",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
