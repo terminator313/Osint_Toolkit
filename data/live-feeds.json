@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T22:38:22.322357+00:00",
+  "updatedAt": "2026-08-11T23:36:59.817696+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DWCS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DWCS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NationalRaspberryTartDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NationalRaspberryTartDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Madden27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Madden27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#omegle",
+          "title": "Reporters",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23omegle",
+          "url": "https://twitter.com/search?q=Reporters",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Skol",
+          "title": "Nate Wiggins",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Skol",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Fredo",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fredo",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Benghazi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Benghazi",
+          "url": "https://twitter.com/search?q=Nate%20Wiggins",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "braces",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nancy pelosi",
+          "title": "oprah stedman graham public appearance",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners vs yankees",
+          "title": "south carolina senate primary",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cj abrams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patriot games",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "russell fry",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drew barrymore",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cars",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "social security added fourteen conditions to accelerate disability benefit applications",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "belinda bencic",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran trump",
           "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris evans",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ocarina of time remake",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rod stewart",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elder scrolls 6",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs vs nationals",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nicholas hoult",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fluminense - independiente rivadavia",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
