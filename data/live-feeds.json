@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:26:31.254182+00:00",
+  "updatedAt": "2026-08-11T18:25:06.130705+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Skol",
+          "title": "#TrumpsJobsCrisis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Skol",
+          "url": "https://twitter.com/search?q=%23TrumpsJobsCrisis",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SKOL",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SKOL",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ilwx",
+          "title": "Sam Darnold",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ilwx",
+          "url": "https://twitter.com/search?q=Sam%20Darnold",
           "platform": "X/Twitter"
         },
         {
-          "title": "David Bailey",
+          "title": "99 Nights in the Forest",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=David%20Bailey",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Wilmac",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wilmac",
+          "url": "https://twitter.com/search?q=99%20Nights%20in%20the%20Forest",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nate wiggins",
+          "title": "negan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jake whisenant climber",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zelda switch 2",
+          "title": "weather indianapolis",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran us",
-          "traffic": "1000",
+          "title": "wthr",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon nakashima",
+          "title": "ina steiner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "overwatch patch notes",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phil jamieson concert cancelled australia",
+          "title": "puka nacua",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reacher season 4",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sturm graz vs fenerbahçe",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor farms salsa recall",
-          "traffic": "5000",
+          "title": "bird strike",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wndu weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wisconsin primary",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "champions league",
+          "title": "citizenship",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
