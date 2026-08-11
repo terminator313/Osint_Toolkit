@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:25:06.130705+00:00",
+  "updatedAt": "2026-08-11T19:33:31.513907+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SKOL",
+          "title": "#Skol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SKOL",
+          "url": "https://twitter.com/search?q=%23Skol",
           "platform": "X/Twitter"
         },
         {
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Sam Darnold",
+          "title": "Fluffy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sam%20Darnold",
+          "url": "https://twitter.com/search?q=Fluffy",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "negan",
+          "title": "wcpo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather indianapolis",
+          "title": "s.w.a.t. exiles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wthr",
-          "traffic": "500",
+          "title": "tornado cincinnati",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ina steiner",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "overwatch patch notes",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "puka nacua",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reacher season 4",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sturm graz vs fenerbahçe",
+          "title": "mike maddux",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bird strike",
+          "title": "jodar vs fils",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fenerbahçe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "citizenship",
+          "title": "clancy",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fugitive",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rafael jodar",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fils",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
