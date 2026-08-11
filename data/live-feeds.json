@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:27:16.351744+00:00",
+  "updatedAt": "2026-08-11T03:20:08.324746+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MCS27",
+          "title": "#RawOnNetflix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MCS27",
+          "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
-          "title": "Colombia",
+          "title": "#BelowDeckMed",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Colombia",
+          "url": "https://twitter.com/search?q=%23BelowDeckMed",
           "platform": "X/Twitter"
         },
         {
-          "title": "Phantasm",
+          "title": "Painter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Phantasm",
+          "url": "https://twitter.com/search?q=Painter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sky vs storm",
-          "traffic": "2000",
+          "title": "john paris",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mujeres bienestar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "austin martin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexandrova",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pips",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astros vs giants",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rockies vs diamondbacks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rays vs athletics",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stephanie vaquer",
+          "title": "jac caglianone",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "getty images",
-          "traffic": "1000",
+          "title": "wwe raw",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe amabile",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah cameron",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kodai senga",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "edmundo sosa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "powerball drawing",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dominique malonga",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seattle storm",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
