@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:48:15.449489+00:00",
+  "updatedAt": "2026-08-11T05:51:27.503432+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Elder",
+          "title": "Bowlan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Elder",
+          "url": "https://twitter.com/search?q=Bowlan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Painter",
+          "title": "Phantasm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Painter",
+          "url": "https://twitter.com/search?q=Phantasm",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,41 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "shohei ohtani",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jake whisenant",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isiah pacheco",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rosario dawson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "edwin diaz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "freddie freeman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "max muncy",
           "traffic": "500",
@@ -68,41 +103,6 @@
         {
           "title": "starling marte",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael wilbon",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants game today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jasmine crockett",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "norman powell",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "salvador perez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game today",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
