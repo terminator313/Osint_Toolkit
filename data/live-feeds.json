@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:25:29.642874+00:00",
+  "updatedAt": "2026-08-11T17:26:31.254182+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,27 +20,27 @@
       "status": "ok",
       "items": [
         {
-          "title": "#StockMarket",
+          "title": "#Skol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StockMarket",
+          "url": "https://twitter.com/search?q=%23Skol",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cybertruck",
+          "title": "#CarameloEnTopChefVIP5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cybertruck",
+          "url": "https://twitter.com/search?q=%23CarameloEnTopChefVIP5",
           "platform": "X/Twitter"
         },
         {
-          "title": "#omegle",
+          "title": "#ilwx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23omegle",
+          "url": "https://twitter.com/search?q=%23ilwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "Copper Mountain",
+          "title": "David Bailey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Copper%20Mountain",
+          "url": "https://twitter.com/search?q=David%20Bailey",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "judge judy",
+          "title": "nate wiggins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "executive privilege",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert gilman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather near me",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kroger",
+          "title": "jake whisenant climber",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dijonai carrington sophie cunningham",
-          "traffic": "5000",
+          "title": "zelda switch 2",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nws",
+          "title": "iran us",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "project 2025",
+          "title": "brandon nakashima",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phil jamieson concert cancelled australia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor farms salsa recall",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado chicago",
-          "traffic": "50000",
+          "title": "wndu weather",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado warning",
-          "traffic": "20000",
+          "title": "wisconsin primary",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "champions league",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
