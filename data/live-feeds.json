@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:28:25.988249+00:00",
+  "updatedAt": "2026-08-11T16:25:29.642874+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OrgulloVenezolano",
+          "title": "#omegle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OrgulloVenezolano",
+          "url": "https://twitter.com/search?q=%23omegle",
           "platform": "X/Twitter"
         },
         {
-          "title": "99 Nights in the Forest",
+          "title": "Copper Mountain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=99%20Nights%20in%20the%20Forest",
+          "url": "https://twitter.com/search?q=Copper%20Mountain",
           "platform": "X/Twitter"
         },
         {
-          "title": "Air Force One",
+          "title": "Wilmac",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Air%20Force%20One",
+          "url": "https://twitter.com/search?q=Wilmac",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "star wars zero company",
+          "title": "judge judy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colorado",
+          "title": "executive privilege",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado near me",
+          "title": "robert gilman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "quesarito",
-          "traffic": "200",
+          "title": "weather near me",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "foxnews",
-          "traffic": "100",
+          "title": "kroger",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the weather channel",
+          "title": "dijonai carrington sophie cunningham",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nws",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sp500",
-          "traffic": "100",
+          "title": "project 2025",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump account",
-          "traffic": "500",
+          "title": "tornado chicago",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "djia",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kylie jenner 29th birthday",
-          "traffic": "500",
+          "title": "tornado warning",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
