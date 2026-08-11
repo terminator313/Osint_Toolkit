@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T09:33:12.545419+00:00",
+  "updatedAt": "2026-08-11T10:47:50.120969+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlitzMOVE1",
+          "title": "#Madden27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlitzMOVE1",
+          "url": "https://twitter.com/search?q=%23Madden27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RIZIN54",
+          "title": "#HOTD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RIZIN54",
+          "url": "https://twitter.com/search?q=%23HOTD",
           "platform": "X/Twitter"
         },
         {
-          "title": "Massachusetts",
+          "title": "Good Monday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Massachusetts",
+          "url": "https://twitter.com/search?q=Good%20Monday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Timms",
+          "title": "Drake",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Timms",
+          "url": "https://twitter.com/search?q=Drake",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "flood watch",
+          "title": "flock camera",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raw results",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mick jagger age 83 dance",
+          "title": "jordan spieth fedex playoffs",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "panthers training camp brawl",
+          "title": "el niño",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zohran mamdani rabbis meeting",
+          "title": "roy cooper michael whatley poll",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "power outage near me",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "could the senate flip in 2026?",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "suspect",
+          "title": "joseph and kendra duggar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather phoenix",
-          "traffic": "500",
+          "title": "florida lottery",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frank beard",
-          "traffic": "500",
+          "title": "national hurricane center",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "solar eclipse august 2026",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pittsburgh steelers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "launchpad",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
