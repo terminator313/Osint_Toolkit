@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:20:08.324746+00:00",
+  "updatedAt": "2026-08-11T04:48:15.449489+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,15 +32,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RawOnNetflix",
+          "title": "#gooner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RawOnNetflix",
+          "url": "https://twitter.com/search?q=%23gooner",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BelowDeckMed",
+          "title": "Elder",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BelowDeckMed",
+          "url": "https://twitter.com/search?q=Elder",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "john paris",
+          "title": "max muncy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giants",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jac caglianone",
-          "traffic": "1000",
+          "title": "starling marte",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wwe raw",
+          "title": "michael wilbon",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giants game today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jasmine crockett",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norman powell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "salvador perez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers game today",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joe amabile",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "noah cameron",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kodai senga",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edmundo sosa",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "powerball drawing",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dominique malonga",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle storm",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
