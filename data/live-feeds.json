@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:51:27.503432+00:00",
+  "updatedAt": "2026-08-11T07:03:00.328381+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#RIZIN54",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RIZIN54",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Madden27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Madden27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#gooner",
+          "title": "Murder",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gooner",
+          "url": "https://twitter.com/search?q=Murder",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bowlan",
+          "title": "Moloch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bowlan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Phantasm",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Phantasm",
+          "url": "https://twitter.com/search?q=Moloch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,18 +56,43 @@
       "status": "ok",
       "items": [
         {
+          "title": "seth rogen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "housing prices",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "housing market",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michelle randolph",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "home prices",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "shohei ohtani",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "jake whisenant",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "isiah pacheco",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -78,31 +103,6 @@
         {
           "title": "edwin diaz",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "freddie freeman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max muncy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "starling marte",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
