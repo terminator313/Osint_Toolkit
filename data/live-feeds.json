@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:47:50.120969+00:00",
+  "updatedAt": "2026-08-11T11:42:07.816566+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Monday",
+          "title": "#PROJECTDUOONExFreenBecky",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Monday",
+          "url": "https://twitter.com/search?q=%23PROJECTDUOONExFreenBecky",
           "platform": "X/Twitter"
         },
         {
-          "title": "Drake",
+          "title": "Anunnaki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Drake",
+          "url": "https://twitter.com/search?q=Anunnaki",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "flock camera",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan spieth fedex playoffs",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roy cooper michael whatley poll",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "joseph and kendra duggar",
+          "title": "newlyweds nbc sitcom pilot",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida lottery",
+          "title": "pete crow-armstrong",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national hurricane center",
+          "title": "liv golf news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "solar eclipse august 2026",
+          "title": "dianna russini",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nba schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "погода",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pittsburgh steelers",
+          "title": "nc powerball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "launchpad",
+          "title": "jordan spieth fedex playoffs",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el niño",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
