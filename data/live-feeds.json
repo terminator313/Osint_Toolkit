@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:57:04.106752+00:00",
+  "updatedAt": "2026-08-12T14:55:48.830442+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "U.S. CPI",
+          "title": "#MaríaCorinaAcabada",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=U.S.%20CPI",
+          "url": "https://twitter.com/search?q=%23Mar%C3%ADaCorinaAcabada",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayWisdom",
+          "title": "EMIBONNIE UNDER THE FIRST MOON",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+          "url": "https://twitter.com/search?q=EMIBONNIE%20UNDER%20THE%20FIRST%20MOON",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ted decker",
+          "title": "chick-fil-a fall menu release",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maverick mountain",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeff goldblum",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "action thriller",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "epic",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeff daniels",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark ballas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bloomberg",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sam altman",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "george and amal clooney lake como",
+          "title": "djed spence",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thrive capital",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "black sea fleet",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle busch",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rory scovel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tupac shakur",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lucasfilm",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh kushner",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nintendo switch zelda ocarina of time",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
