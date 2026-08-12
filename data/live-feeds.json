@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:35:52.819139+00:00",
+  "updatedAt": "2026-08-12T20:40:10.267882+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThunderUp",
+          "title": "#UEFASuperCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThunderUp",
+          "url": "https://twitter.com/search?q=%23UEFASuperCup",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tomas",
+          "title": "Poison Ivy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tomas",
+          "url": "https://twitter.com/search?q=Poison%20Ivy",
           "platform": "X/Twitter"
         },
         {
-          "title": "USS Abraham Lincoln",
+          "title": "Real America",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USS%20Abraham%20Lincoln",
+          "url": "https://twitter.com/search?q=Real%20America",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "real madrid vs",
+          "title": "wendy's",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lindsay clancy husband",
-          "traffic": "2000",
+          "title": "spcx stock price",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete hoekstra petition",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palworld patch notes",
+          "title": "arrest",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiger woods",
+          "title": "cbrs stock",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelly ripa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cohr stock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jodie foster",
+          "title": "jon batiste concert cancellations",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "current mortgage rates",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russell wilson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warner robins high school",
+          "title": "csco stock",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rob reiner",
-          "traffic": "2000",
+          "title": "jake rogers adley rutschman red sox",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fullerton fire",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
