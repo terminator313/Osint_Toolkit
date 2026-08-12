@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:05:22.954377+00:00",
+  "updatedAt": "2026-08-12T05:54:04.025742+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TopChefVIP5",
+          "title": "#WIGov",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TopChefVIP5",
+          "url": "https://twitter.com/search?q=%23WIGov",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rybakina",
+          "title": "Secret Service",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rybakina",
+          "url": "https://twitter.com/search?q=Secret%20Service",
           "platform": "X/Twitter"
         },
         {
-          "title": "Everson Pereira",
+          "title": "Jenna Ortega",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Everson%20Pereira",
+          "url": "https://twitter.com/search?q=Jenna%20Ortega",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "elle fanning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shakira austin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lauren betts",
+          "title": "jose mourinho",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giants game",
+          "title": "raiders",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seth halvorsen",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers game",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rangers",
+          "title": "dodgers game today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kirkland chocolate chips",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "great white",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alyssa thomas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres score",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palworld update",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryce eldridge",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fernando tatís jr.",
-          "traffic": "200",
+          "title": "spacex launch today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
