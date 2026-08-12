@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T12:08:19.354683+00:00",
+  "updatedAt": "2026-08-12T13:57:04.106752+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlitzMOVE1",
+          "title": "#MoonshadowSeriesEP1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlitzMOVE1",
+          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#taekook",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23taekook",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Xtoken",
+          "title": "U.S. CPI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Xtoken",
+          "url": "https://twitter.com/search?q=U.S.%20CPI",
           "platform": "X/Twitter"
         },
         {
-          "title": "Evers",
+          "title": "#WednesdayWisdom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Evers",
+          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "landman season 3",
+          "title": "ted decker",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "local news",
+          "title": "maverick mountain",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeff goldblum",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex cooper",
+          "title": "action thriller",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gen z",
+          "title": "epic",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeff daniels",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mark ballas",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bloomberg",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "credit card",
-          "traffic": "200",
+          "title": "sam altman",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mortgage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bankruptcy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gen z years",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nigeria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "my pillow guy",
-          "traffic": "200",
+          "title": "george and amal clooney lake como",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
