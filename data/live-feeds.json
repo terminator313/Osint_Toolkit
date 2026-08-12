@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:01:45.959861+00:00",
+  "updatedAt": "2026-08-12T18:25:02.917888+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "$NBIS",
+          "title": "East B",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24NBIS",
+          "url": "https://twitter.com/search?q=East%20B",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tropical Storm Cristobal",
+          "title": "Good Wednesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tropical%20Storm%20Cristobal",
+          "url": "https://twitter.com/search?q=Good%20Wednesday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alani nu voodoo vanilla",
+          "title": "palworld update patch notes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deportivo vs real madrid",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasa eclipse",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "terence crawford",
+          "title": "arsenal vs como",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ukraine news",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "perez hilton injuries",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john f. kennedy center for the performing arts",
+          "title": "xrp news",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "defense pact",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "man united vs leeds",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "black hole",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "law enforcement delta flight atlanta",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soccer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "volleyball",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nightmare before christmas bath and body works",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "basketball",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hopkins daycare center",
-          "traffic": "5000",
+          "title": "buffalo rumblings",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
