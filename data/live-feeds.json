@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:41:44.654461+00:00",
+  "updatedAt": "2026-08-12T22:37:45.566916+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#JarvixOS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23JarvixOS",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#eclipse",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23eclipse",
           "platform": "X/Twitter"
         },
         {
-          "title": "#YGOMD100MDL",
+          "title": "Swimming",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YGOMD100MDL",
+          "url": "https://twitter.com/search?q=Swimming",
           "platform": "X/Twitter"
         },
         {
-          "title": "$MOTION",
+          "title": "Thunder",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24MOTION",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "MLK Day",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=MLK%20Day",
+          "url": "https://twitter.com/search?q=Thunder",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ford $25,000 crossover suv",
+          "title": "brandon nakashima",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "minnesota timberwolves",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corey julks",
+          "title": "field of dreams game",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jazz chisholm jr.",
+          "title": "yuba river drive",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "canadian petition against us ambassador",
+          "title": "national symphony orchestra",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lotto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "william, prince of wales",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "palmeiras - cerro",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cobie smulders lincoln lawyer spinoff",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zac veen",
+          "title": "cookie stuffing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zero-day vulnerability",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jackson kent",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "silicosis outbreak artificial stone workers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fort hood",
-          "traffic": "500",
+          "title": "maurice benard",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
