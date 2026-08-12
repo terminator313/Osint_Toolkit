@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T07:20:39.504930+00:00",
+  "updatedAt": "2026-08-12T08:46:26.502952+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,6 +56,11 @@
       "status": "ok",
       "items": [
         {
+          "title": "montauk",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "flock camera map",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -67,22 +72,12 @@
         },
         {
           "title": "earthquake now",
-          "traffic": "5000",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake near me",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake california",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquakes today",
-          "traffic": "200",
+          "title": "earthquake corona",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -103,6 +98,11 @@
         {
           "title": "raiders",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
