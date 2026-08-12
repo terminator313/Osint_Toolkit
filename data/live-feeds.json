@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T05:54:04.025742+00:00",
+  "updatedAt": "2026-08-12T07:20:39.504930+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWCS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#WIGov",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WIGov",
           "platform": "X/Twitter"
         },
         {
-          "title": "Secret Service",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Secret%20Service",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jenna Ortega",
+          "title": "Tigres",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jenna%20Ortega",
+          "url": "https://twitter.com/search?q=Tigres",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Amy Klobuchar",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Amy%20Klobuchar",
           "platform": "X/Twitter"
         }
       ],
@@ -56,6 +56,46 @@
       "status": "ok",
       "items": [
         {
+          "title": "flock camera map",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daycares",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake now",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquake california",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earthquakes today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tallulah willis",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "booking",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "jose mourinho",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -63,46 +103,6 @@
         {
           "title": "raiders",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seth halvorsen",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kirkland chocolate chips",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scott",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "great white",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spacex launch today",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
