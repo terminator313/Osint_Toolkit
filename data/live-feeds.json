@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T23:36:59.817696+00:00",
+  "updatedAt": "2026-08-12T01:45:13.420762+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalRaspberryTartDay",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalRaspberryTartDay",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Madden27",
+          "title": "#TopChefVIP5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Madden27",
+          "url": "https://twitter.com/search?q=%23TopChefVIP5",
           "platform": "X/Twitter"
         },
         {
-          "title": "Reporters",
+          "title": "Riley Roberts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Reporters",
+          "url": "https://twitter.com/search?q=Riley%20Roberts",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nate Wiggins",
+          "title": "Shota",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nate%20Wiggins",
+          "url": "https://twitter.com/search?q=Shota",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "oprah stedman graham public appearance",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "south carolina senate primary",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cj abrams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patriot games",
+          "title": "tigres - whitecaps",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russell fry",
-          "traffic": "500",
+          "title": "mercury vs sparks",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drew barrymore",
-          "traffic": "500",
+          "title": "randy arozarena",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cars",
-          "traffic": "500",
+          "title": "kevin mcgonigle",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security added fourteen conditions to accelerate disability benefit applications",
-          "traffic": "1000",
+          "title": "matt olson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "belinda bencic",
+          "title": "andre pallante",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iran trump",
-          "traffic": "10000",
+          "title": "tigers standings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mn election results",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lifeguard",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pauline astier",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
