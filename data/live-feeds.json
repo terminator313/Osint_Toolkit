@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:40:10.267882+00:00",
+  "updatedAt": "2026-08-12T21:41:44.654461+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#UEFASuperCup",
+          "title": "#YGOMD100MDL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UEFASuperCup",
+          "url": "https://twitter.com/search?q=%23YGOMD100MDL",
           "platform": "X/Twitter"
         },
         {
-          "title": "Poison Ivy",
+          "title": "$MOTION",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Poison%20Ivy",
+          "url": "https://twitter.com/search?q=%24MOTION",
           "platform": "X/Twitter"
         },
         {
-          "title": "Real America",
+          "title": "MLK Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Real%20America",
+          "url": "https://twitter.com/search?q=MLK%20Day",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "wendy's",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spcx stock price",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arrest",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cbrs stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly ripa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cohr stock",
+          "title": "ford $25,000 crossover suv",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon batiste concert cancellations",
+          "title": "minnesota timberwolves",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "csco stock",
-          "traffic": "2000",
+          "title": "corey julks",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jake rogers adley rutschman red sox",
+          "title": "jazz chisholm jr.",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fullerton fire",
+          "title": "canadian petition against us ambassador",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zac veen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zero-day vulnerability",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackson kent",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "silicosis outbreak artificial stone workers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fort hood",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
