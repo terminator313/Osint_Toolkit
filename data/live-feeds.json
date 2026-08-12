@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T11:20:30.049096+00:00",
+  "updatedAt": "2026-08-12T12:08:19.354683+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tiffany",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tiffany",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "Xtoken",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Xtoken",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Evers",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Evers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "gen x",
+          "title": "landman season 3",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "omaha weather",
-          "traffic": "100",
+          "title": "local news",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "afg vs ire",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "victoria gotti",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "whoop",
+          "title": "alex cooper",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "baseball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cpi report",
+          "title": "gen z",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national hurricane center",
-          "traffic": "2000",
+          "title": "credit card",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ios 26.6",
-          "traffic": "100",
+          "title": "mortgage",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cryptocurrency",
-          "traffic": "100",
+          "title": "bankruptcy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gen z years",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nigeria",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "my pillow guy",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
