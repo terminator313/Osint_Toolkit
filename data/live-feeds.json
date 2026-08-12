@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:55:48.830442+00:00",
+  "updatedAt": "2026-08-12T15:58:08.673836+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MoonshadowSeriesEP1",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP1",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#WednesdayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MaríaCorinaAcabada",
+          "title": "#MoonshadowSeriesEP1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Mar%C3%ADaCorinaAcabada",
+          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP1",
           "platform": "X/Twitter"
         },
         {
-          "title": "EMIBONNIE UNDER THE FIRST MOON",
+          "title": "$NBIS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=EMIBONNIE%20UNDER%20THE%20FIRST%20MOON",
+          "url": "https://twitter.com/search?q=%24NBIS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Gunny",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Gunny",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chick-fil-a fall menu release",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "djed spence",
+          "title": "spider-man",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thrive capital",
+          "title": "tommy devito",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "black sea fleet",
+          "title": "disease outbreak",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle busch",
+          "title": "gears of war: e-day",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rory scovel",
-          "traffic": "200",
+          "title": "everton vs newcastle",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tupac shakur",
+          "title": "snake",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "social security cola 2027",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lucasfilm",
+          "title": "the traitors new blood",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh kushner",
-          "traffic": "200000",
+          "title": "chick fil a fall menu release",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nintendo switch zelda ocarina of time",
-          "traffic": "5000",
+          "title": "american airlines executive changes",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
