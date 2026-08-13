@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:47:32.334131+00:00",
+  "updatedAt": "2026-08-13T04:09:14.695861+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#JarvixOS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JarvixOS",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#cinemzel26",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23cinemzel26",
           "platform": "X/Twitter"
         },
         {
-          "title": "Scott Jennings",
+          "title": "#SnezhnayaCareerTest",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Scott%20Jennings",
+          "url": "https://twitter.com/search?q=%23SnezhnayaCareerTest",
           "platform": "X/Twitter"
         },
         {
-          "title": "Swimming",
+          "title": "Mewtwo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Swimming",
+          "url": "https://twitter.com/search?q=Mewtwo",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Kayleigh McEnany",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Kayleigh%20McEnany",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "hilaria baldwin",
+          "title": "angels",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets - braves",
+          "title": "power",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "inter miami",
-          "traffic": "10000",
+          "title": "odin hensley lake travis",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flash flooding indiana",
+          "title": "ian garry",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin reddington",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tanner rainey",
+          "title": "hunter feduccia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "powerball double play",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vanessa williams",
-          "traffic": "500",
+          "title": "hugo camberos",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris jericho",
-          "traffic": "500",
+          "title": "lafc",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh naylor",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "superbad",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shelton",
+          "title": "tiffany hayes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
