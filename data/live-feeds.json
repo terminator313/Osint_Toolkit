@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T12:08:14.118031+00:00",
+  "updatedAt": "2026-08-13T13:55:49.563930+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#YouManiacSeries",
+          "title": "#SwiftDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YouManiacSeries",
+          "url": "https://twitter.com/search?q=%23SwiftDay",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "ORM SWU LEGACY FASHION",
+          "title": "#YouManiacSeries",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION",
+          "url": "https://twitter.com/search?q=%23YouManiacSeries",
           "platform": "X/Twitter"
         },
         {
-          "title": "JYPE",
+          "title": "ORM SWU LEGACY FASHION",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JYPE",
+          "url": "https://twitter.com/search?q=ORM%20SWU%20LEGACY%20FASHION",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fedex st jude championship",
-          "traffic": "1000",
+          "title": "pokemon bank",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colorado lottery",
+          "title": "will poulter",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe burrow",
+          "title": "jay deboyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clancy trial day 11",
+          "title": "new york times games",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsay clancy trial live",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "outlander",
-          "traffic": "200",
+          "title": "rob gronkowski",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ritchie blackmore",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan spieth fedexcup playoff status",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "extreme heat warning",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage news daily",
+          "title": "soccer",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nh lottery",
-          "traffic": "100",
+          "title": "george clooney",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "basketball",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gma deals and steals today",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
