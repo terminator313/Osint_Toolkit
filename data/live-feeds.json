@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T18:25:58.925319+00:00",
+  "updatedAt": "2026-08-13T19:34:12.886634+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RTXPowersPlay",
+          "title": "#CodyBus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23CodyBus",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SwiftDay",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SwiftDay",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Pokemon Bank",
+          "title": "Prichard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pokemon%20Bank",
+          "url": "https://twitter.com/search?q=Prichard",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cybertruck",
+          "title": "chris brown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cybertruck",
+          "url": "https://twitter.com/search?q=chris%20brown",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "new oreo flavors",
-          "traffic": "1000",
+          "title": "besiktas",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kennedy center",
-          "traffic": "5000",
+          "title": "shilo sanders",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emergency landing",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gemini 3.7 flash",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "davis martin",
+          "title": "logan gilbert",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hearts - benfica",
-          "traffic": "500",
+          "title": "kobe bryant",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "intel",
-          "traffic": "500",
+          "title": "george santos",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "green bay packers jordan love",
-          "traffic": "500",
+          "title": "pbs",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rotten tomatoes",
+          "title": "sal stewart",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy devito nickname change",
-          "traffic": "500",
+          "title": "red sox - blue jays",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crm stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grand theft auto vi",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
