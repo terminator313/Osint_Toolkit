@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T07:22:59.660883+00:00",
+  "updatedAt": "2026-08-13T08:50:01.505409+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlitzMOVE1",
+          "title": "jhope",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlitzMOVE1",
+          "url": "https://twitter.com/search?q=jhope",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jack Perry",
+          "title": "Eric Lauer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jack%20Perry",
+          "url": "https://twitter.com/search?q=Eric%20Lauer",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,38 @@
       "status": "ok",
       "items": [
         {
+          "title": "uss abraham lincoln aircraft carrier",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "extreme heat watch",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris brown",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ucas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kalshi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "michiel vandeweert",
           "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xdinary heroes",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,43 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gunil xdinary heroes",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "debbie rowe paris jackson meeting",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "las vegas weather",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben joyce",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lena dunham",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "posiciones de seattle sounders contra chivas",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers schedule",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travis barker plane crash",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
