@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T08:50:01.505409+00:00",
+  "updatedAt": "2026-08-13T10:02:13.204930+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#XDINARYHEROESIS6",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23XDINARYHEROESIS6",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SnezhnayaCareerTest",
+          "title": "#LETGUNILSTAY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SnezhnayaCareerTest",
+          "url": "https://twitter.com/search?q=%23LETGUNILSTAY",
           "platform": "X/Twitter"
         },
         {
-          "title": "jhope",
+          "title": "Heisman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=jhope",
+          "url": "https://twitter.com/search?q=Heisman",
           "platform": "X/Twitter"
         },
         {
-          "title": "Eric Lauer",
+          "title": "hobi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Eric%20Lauer",
+          "url": "https://twitter.com/search?q=hobi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "uss abraham lincoln aircraft carrier",
-          "traffic": "20000",
+          "title": "mass lottery",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "extreme heat watch",
-          "traffic": "1000",
+          "title": "greg wilfert",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris brown",
+          "title": "bengals",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ucas",
+          "title": "va lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kalshi",
+          "title": "flood warning",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami dolphins",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michiel vandeweert",
+          "title": "sc lottery",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xdinary heroes",
-          "traffic": "1000",
+          "title": "motagua - cartaginés",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bo jackson",
-          "traffic": "200",
+          "title": "drake maye",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "debbie rowe paris jackson meeting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "las vegas weather",
-          "traffic": "500",
+          "title": "ny lotto",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
