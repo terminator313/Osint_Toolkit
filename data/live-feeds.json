@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:34:12.886634+00:00",
+  "updatedAt": "2026-08-13T20:38:42.522566+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StickWithHue",
+          "title": "#RepublicansStarveUS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StickWithHue",
+          "url": "https://twitter.com/search?q=%23RepublicansStarveUS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Prichard",
+          "title": "Kevin Warren",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Prichard",
+          "url": "https://twitter.com/search?q=Kevin%20Warren",
           "platform": "X/Twitter"
         },
         {
-          "title": "chris brown",
+          "title": "Fabian",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=chris%20brown",
+          "url": "https://twitter.com/search?q=Fabian",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "besiktas",
+          "title": "max scherzer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ukraine news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shilo sanders",
-          "traffic": "200",
+          "title": "michael feldman",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "logan gilbert",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kobe bryant",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "george santos",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pbs",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sal stewart",
+          "title": "amat stock price",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox - blue jays",
+          "title": "tigers standings",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flock safety platform privacy changes",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crm stock",
+          "title": "todd blanche attorney general remarks",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "grand theft auto vi",
+          "title": "senate democrats trump ballroom audit",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fernando mendoza",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ivory coast vs ghana",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
