@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:41:38.226835+00:00",
+  "updatedAt": "2026-08-13T22:38:15.961513+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#RepublicansStarveUS",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RepublicansStarveUS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sal Stewart",
+          "title": "#RTXPowersPlay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sal%20Stewart",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Click Clack",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Click%20Clack",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mirassol - ldu quito",
+          "title": "jimmie johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cincinnati open 2026",
+          "title": "dream vs sun",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "santos vs macará",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "storm summer skin marvel rivals",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jackie and shadow",
+          "title": "ufc 330",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyson foods",
+          "title": "grand theft auto",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thursday night football",
+          "title": "salmonella",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor swift new haircut london",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fubo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "former sec coach kermit davis",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardi b",
-          "traffic": "1000",
+          "title": "abimelec ortiz",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tornado warning reno",
-          "traffic": "1000",
+          "title": "santos x macará",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
