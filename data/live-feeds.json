@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:00:55.815431+00:00",
+  "updatedAt": "2026-08-13T18:25:58.925319+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,21 +20,15 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RTXPowersPlay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SwiftDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SwiftDay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Cybertruck",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cybertruck",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TSTheLifeofaShowgirl",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TSTheLifeofaShowgirl",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "San Leandro",
+          "title": "Pokemon Bank",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=San%20Leandro",
+          "url": "https://twitter.com/search?q=Pokemon%20Bank",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Cybertruck",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Cybertruck",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "savannah guthrie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "japan",
+          "title": "new oreo flavors",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "beşiktaş vs hradec králové",
-          "traffic": "200",
+          "title": "kennedy center",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "qarabag vs dynamo kyiv",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "games",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordyn tyson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "49ers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edvin ryding",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hunter greene",
+          "title": "emergency landing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cross",
-          "traffic": "100",
+          "title": "gemini 3.7 flash",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "davis martin",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hearts - benfica",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "intel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "green bay packers jordan love",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rotten tomatoes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy devito nickname change",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
