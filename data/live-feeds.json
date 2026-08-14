@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:50:22.896035+00:00",
+  "updatedAt": "2026-08-14T18:50:15.078201+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Halle60",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Halle60",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#วาดฝันวันวิวาห์EP9",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP9",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LastFourWatched",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "SILVER CROSS",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=SILVER%20CROSS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Friday",
+          "title": "CONSTANT REPEAT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Friday",
+          "url": "https://twitter.com/search?q=CONSTANT%20REPEAT",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "italy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "petroleum",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals vs cubs",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drawing",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jackie eagle",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly ripa",
+          "title": "alia shawkat",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "great white shark",
+          "title": "nathan fillion",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west wilson dating amanda batula",
+          "title": "wolves vs blackburn rovers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "japan",
+          "title": "bridget fonda",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "finlay tarling",
+          "title": "galatasaray",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atalanta - athletic",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "super bowl 2027",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "galatasaray vs çorum",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coventry vs monaco",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tomas machac",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
