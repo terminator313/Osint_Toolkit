@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:43:14.424375+00:00",
+  "updatedAt": "2026-08-14T09:58:14.387359+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#サマソニ",
+          "title": "Farage",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E3%82%B5%E3%83%9E%E3%82%BD%E3%83%8B",
+          "url": "https://twitter.com/search?q=Farage",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kamarie holland",
-          "traffic": "100",
+          "title": "extreme heat warning",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pokemon 30th anniversary",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "darren anthony robinson",
+          "title": "horoscope",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyrie irving",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "awarapan 2",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "glm 5.3",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "selena gomez wondermind lawsuit",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bubble",
+          "title": "wthr",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brewers",
-          "traffic": "5000",
+          "title": "sharks washed ashore nj",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trevor megill",
+          "title": "playstation",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cricket",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "judge",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "antigua gfc - marathón",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nevada false electors case",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "auto accident lawyer",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
