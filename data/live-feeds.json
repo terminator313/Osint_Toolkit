@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:49:02.231642+00:00",
+  "updatedAt": "2026-08-14T23:18:45.416876+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hatch Act",
+          "title": "IndyCar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hatch%20Act",
+          "url": "https://twitter.com/search?q=IndyCar",
           "platform": "X/Twitter"
         },
         {
-          "title": "USS Lincoln",
+          "title": "Clay Holmes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USS%20Lincoln",
+          "url": "https://twitter.com/search?q=Clay%20Holmes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wings vs fever",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indonesia earthquake",
+          "title": "cbs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kesha",
+          "title": "jonas brothers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers game today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tea ratings 2026",
-          "traffic": "200",
+          "title": "espn unlimited",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees vs blue jays",
+          "title": "corte argentino usa beef recall",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "travis barker documentary",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs braves",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nationals vs mets",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lluvia",
+          "title": "cade klubnik",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "strait of hormuz",
+          "title": "tua tagovailoa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "larry ellison",
+          "title": "jets depth chart",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wings vs fever",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
