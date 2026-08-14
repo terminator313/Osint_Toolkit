@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:27:56.227848+00:00",
+  "updatedAt": "2026-08-14T20:57:00.041073+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Pat McAfee",
+          "title": "Psaki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pat%20McAfee",
+          "url": "https://twitter.com/search?q=Psaki",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jungle Fever",
+          "title": "The Last Boy Scout",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jungle%20Fever",
+          "url": "https://twitter.com/search?q=The%20Last%20Boy%20Scout",
           "platform": "X/Twitter"
         }
       ],
@@ -56,22 +56,27 @@
       "status": "ok",
       "items": [
         {
-          "title": "seiya suzuki",
-          "traffic": "500",
+          "title": "cubs score",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san antonio weather",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nuno borges",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex news",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "kate middleton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la liga",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jerry jones",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -81,8 +86,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pypl stock",
-          "traffic": "200",
+          "title": "jerry jones",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seiya suzuki",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -91,17 +101,7 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paypal stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christopher abbott professor x",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "britney spears son jayden james",
+          "title": "la liga",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
