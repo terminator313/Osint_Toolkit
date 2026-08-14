@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:58:14.387359+00:00",
+  "updatedAt": "2026-08-14T11:01:14.128160+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#全世界都爱敖尹",
+          "title": "#サマソニ",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%88%B1%E6%95%96%E5%B0%B9",
+          "url": "https://twitter.com/search?q=%23%E3%82%B5%E3%83%9E%E3%82%BD%E3%83%8B",
           "platform": "X/Twitter"
         },
         {
-          "title": "troye",
+          "title": "Power Rangers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=troye",
+          "url": "https://twitter.com/search?q=Power%20Rangers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Farage",
+          "title": "Tanner Scott",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Farage",
+          "url": "https://twitter.com/search?q=Tanner%20Scott",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "extreme heat warning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "horoscope",
+          "title": "noaa hurricane",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wthr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sharks washed ashore nj",
+          "title": "portaviones",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "playstation",
+          "title": "crime",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cricket",
+          "title": "new jersey",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tropics",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angel reese",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave bautista",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nausheen gilkar and omar ahmed",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity investments",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "judge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "antigua gfc - marathón",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nevada false electors case",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "auto accident lawyer",
-          "traffic": "200",
+          "title": "have i been flocked",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
