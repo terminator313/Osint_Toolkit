@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T05:54:31.874185+00:00",
+  "updatedAt": "2026-08-14T07:20:25.220394+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Howard",
+          "title": "Yash is HOH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Howard",
+          "url": "https://twitter.com/search?q=Yash%20is%20HOH",
           "platform": "X/Twitter"
         },
         {
-          "title": "YASH IS HOH",
+          "title": "Dave Roberts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=YASH%20IS%20HOH",
+          "url": "https://twitter.com/search?q=Dave%20Roberts",
           "platform": "X/Twitter"
         }
       ],
@@ -56,23 +56,43 @@
       "status": "ok",
       "items": [
         {
-          "title": "dodgers game",
+          "title": "darren anthony robinson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brewers",
+          "title": "30th anniversary pokemon",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daycare center",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyrie irving",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "awarapan 2",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "glm 5.3",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "selena gomez wondermind lawsuit",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers game today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trevor megill",
-          "traffic": "500",
+          "title": "dodger score",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -81,28 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paul mescal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "she's the best troye sivan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers score",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nipsey hussle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "delta airlines",
-          "traffic": "2000",
+          "title": "brewers",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
