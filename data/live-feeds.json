@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:45:33.954044+00:00",
+  "updatedAt": "2026-08-14T04:05:40.976320+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiderNation",
+          "title": "#YEONJUNxDodgers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "url": "https://twitter.com/search?q=%23YEONJUNxDodgers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Madden27Sweepstakes",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Madden27Sweepstakes",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Washington",
+          "title": "Cam Ward",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Washington",
+          "url": "https://twitter.com/search?q=Cam%20Ward",
           "platform": "X/Twitter"
         },
         {
-          "title": "Colts",
+          "title": "Chuk",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Colts",
+          "url": "https://twitter.com/search?q=Chuk",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mystics vs aces",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eli heidenreich",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cam heyward",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "riley leonard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cable tv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "de'zhaun stribling",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dennis rodman",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers vs dodgers",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dog food salmonella",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wetjen steelers",
+          "title": "max muncy",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave franco",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adam scott",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hendon hooker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brock purdy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eugene horsch",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ponzi scheme",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lyric medeiros big brother",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christa pike",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raheem morris",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
