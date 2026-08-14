@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:50:15.078201+00:00",
+  "updatedAt": "2026-08-14T19:45:57.534791+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#วาดฝันวันวิวาห์EP9",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP9",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "SILVER CROSS",
+          "title": "#TheGreatDebate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=SILVER%20CROSS",
+          "url": "https://twitter.com/search?q=%23TheGreatDebate",
           "platform": "X/Twitter"
         },
         {
-          "title": "CONSTANT REPEAT",
+          "title": "Pat McAfee",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=CONSTANT%20REPEAT",
+          "url": "https://twitter.com/search?q=Pat%20McAfee",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Jungle Fever",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Jungle%20Fever",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alia shawkat",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nathan fillion",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wolves vs blackburn rovers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bridget fonda",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "galatasaray",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atalanta - athletic",
+          "title": "jason arday",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "super bowl 2027",
+          "title": "oklahoma city thunder",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "galatasaray vs çorum",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coventry vs monaco",
+          "title": "bbc donald trump defamation lawsuit",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tomas machac",
+          "title": "lakers ownership change",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tre mann",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cuba",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "united states department of justice",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hugh hefner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "butch huskey",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scp vs vitória sc",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
