@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T11:01:14.128160+00:00",
+  "updatedAt": "2026-08-14T12:06:31.463462+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NoValkoNoMoney",
+          "title": "#NameCheapDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
+          "url": "https://twitter.com/search?q=%23NameCheapDown",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FridayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#HouseOfSephoraxYoko",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HouseOfSephoraxYoko",
           "platform": "X/Twitter"
         },
         {
           "title": "#SB19日本ログ2026",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SB19%E6%97%A5%E6%9C%AC%E3%83%AD%E3%82%B02026",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#サマソニ",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E3%82%B5%E3%83%9E%E3%82%BD%E3%83%8B",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Power Rangers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Power%20Rangers",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tanner Scott",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tanner%20Scott",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "noaa hurricane",
+          "title": "lake mead",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portaviones",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "crime",
+          "title": "malcolm jamal warner",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new jersey",
+          "title": "isabelle johnson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tropics",
+          "title": "frontier",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atlanta falcons",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese",
+          "title": "cait conley",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bruce willis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "national hurricane center",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dave bautista",
+          "title": "teddi mellencamp pj relationship",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nausheen gilkar and omar ahmed",
+          "title": "israel",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity investments",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "have i been flocked",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
