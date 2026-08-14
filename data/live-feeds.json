@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:50:15.939431+00:00",
+  "updatedAt": "2026-08-14T22:19:44.371948+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#GagCityLottery",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "DevOps",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=DevOps",
+          "url": "https://twitter.com/search?q=%23GagCityLottery",
           "platform": "X/Twitter"
         },
         {
           "title": "Hatch Act",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=Hatch%20Act",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "USS Lincoln",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=USS%20Lincoln",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "marlins vs reds",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denver weather",
+          "title": "miniseries",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heat wave",
-          "traffic": "500",
+          "title": "new trial",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the end of oak street movie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steelers roster battles",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "49ers mac jones backup quarterback",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dow jones industrial average",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "demarcus lawrence",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly loeffler",
+          "title": "missaukee county",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us airport flight disruptions",
+          "title": "claressa shields fight",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kennedy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "white sox vs tigers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robert irwin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jane street",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "red sox vs pirates",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nadia ferreira",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
