@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T13:51:23.500563+00:00",
+  "updatedAt": "2026-08-14T14:47:44.321739+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Skip Bertman",
+          "title": "Happy Friyay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Skip%20Bertman",
+          "url": "https://twitter.com/search?q=Happy%20Friyay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Yash",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Yash",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "anya taylor-joy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cameron brink injury",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tariff",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uae team emirates-xrg",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pamela anderson",
+          "title": "snake",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "retail sales",
+          "title": "ticket master",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united",
+          "title": "white house ballroom building dispute",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex murdaugh",
-          "traffic": "200",
+          "title": "ticketmaster",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "epic",
+          "title": "avgo stock",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "federal trade commission",
+          "title": "flight 1009 return to lax",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "benjamin netanyahu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon stewart least favorite guest",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fda mrna flu vaccine",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
