@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:48:41.890575+00:00",
+  "updatedAt": "2026-08-14T17:50:22.896035+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,12 +26,6 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NameCheapDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NameCheapDown",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Melissa L. Farris",
+          "title": "SILVER CROSS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Melissa%20L.%20Farris",
+          "url": "https://twitter.com/search?q=SILVER%20CROSS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Good Friday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Good%20Friday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "riftbound t1 bundle",
+          "title": "italy",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brayton feister",
+          "title": "petroleum",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardinals vs cubs",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drawing",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pbs",
+          "title": "jackie eagle",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marsella - atlético madrid",
+          "title": "kelly ripa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "air and water show chicago",
+          "title": "great white shark",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atletico madrid",
+          "title": "west wilson dating amanda batula",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marseille vs atlético madrid",
+          "title": "japan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "riot",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sara bejlek",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "deportation",
-          "traffic": "200",
+          "title": "finlay tarling",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
