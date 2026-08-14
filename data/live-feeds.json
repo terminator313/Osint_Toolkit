@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:47:44.321739+00:00",
+  "updatedAt": "2026-08-14T15:48:47.668792+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Happy Friyay",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Friyay",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LastFourWatched",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LetterboxdFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "snake",
-          "traffic": "2000",
+          "title": "games",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ticket master",
+          "title": "dee snider ozzy osbourne",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white house ballroom building dispute",
-          "traffic": "500",
+          "title": "steelers backup quarterback battle",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "doc",
+          "title": "soccer",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ticketmaster",
-          "traffic": "5000",
+          "title": "doodle",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "avgo stock",
+          "title": "fortnite",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robert macintyre",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flight 1009 return to lax",
-          "traffic": "500",
+          "title": "new york times games",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "benjamin netanyahu",
-          "traffic": "500",
+          "title": "volleyball",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon stewart least favorite guest",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fda mrna flu vaccine",
-          "traffic": "1000",
+          "title": "snake",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
