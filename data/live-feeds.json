@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:44:39.388426+00:00",
+  "updatedAt": "2026-08-15T20:19:14.577688+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#STLCards",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23STLCards",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#DawgPound",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DawgPound",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Giants",
+          "title": "Myles Price",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Giants",
+          "url": "https://twitter.com/search?q=Myles%20Price",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jed Wills",
+          "title": "Jamal Adams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jed%20Wills",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Skol",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Skol",
+          "url": "https://twitter.com/search?q=Jamal%20Adams",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bruce willis daughter tallulah wedding",
-          "traffic": "1000",
+          "title": "javier baez",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigers game",
-          "traffic": "2000",
+          "title": "sam burns",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pga leaderboard today",
-          "traffic": "2000",
+          "title": "jermar jefferson",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donald trump republican primary losses",
+          "title": "jordan 4 jackie robinson release",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "henry cavill",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raheim sanders",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shane buechele",
+          "title": "ty simpson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max brosmer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sophie cunningham indianapolis bar performance",
-          "traffic": "500",
+          "title": "lucas fernando",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rio ave vs porto",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fluminense vs palmeiras",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael conforto",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cobán imperial - mixco",
-          "traffic": "500",
+          "title": "beats",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
