@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:36:06.288286+00:00",
+  "updatedAt": "2026-08-15T04:27:24.830777+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Cambridge",
+          "title": "Abreu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cambridge",
+          "url": "https://twitter.com/search?q=Abreu",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cooper Rush",
+          "title": "Fatal Influence",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cooper%20Rush",
+          "url": "https://twitter.com/search?q=Fatal%20Influence",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jaafar jackson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "astros score",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sabino canyon rescue",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coco 2",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "las vegas weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kingdom hearts",
+          "title": "adam driver",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "india independence day",
+          "title": "inde navarette",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince of monaco",
-          "traffic": "500",
+          "title": "doomsday trailer",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "antonio brown",
+          "title": "heb jalapeño product recall",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arie luyendyk jr",
-          "traffic": "1000",
+          "title": "hayley atwell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "myktybek orolbai",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ewan mcgregor",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zac veen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walker scobell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "visionquest",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
