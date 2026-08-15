@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:46:54.205540+00:00",
+  "updatedAt": "2026-08-15T21:18:18.953243+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#BlueWaveIn80Days",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn80Days",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BillsMafia",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BillsMafia",
           "platform": "X/Twitter"
         },
         {
-          "title": "Myles Price",
+          "title": "Doom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Myles%20Price",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jamal Adams",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jamal%20Adams",
+          "url": "https://twitter.com/search?q=Doom",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs score",
+          "title": "harrison mevis",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "silicosis cases california countertop workers",
+          "title": "carter bradley",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sharks",
+          "title": "rams kicker",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jarquez hunter",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alex de minaur",
+          "title": "charlie hunnam",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan walker",
+          "title": "isiah pacheco",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us amateur golf",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cali",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "qatar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is travis kelce playing today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ship",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariska hargitay",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denver weather",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matthew boyd",
-          "traffic": "2000",
+          "title": "nussmeier",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
