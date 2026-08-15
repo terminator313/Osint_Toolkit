@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:49:23.099877+00:00",
+  "updatedAt": "2026-08-15T17:17:53.852818+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "ausl",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "odell beckham jr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real oviedo - granada",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dortmund",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liga española",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cincinnati weather",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liberty vs sun",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "espn unlimited",
+          "title": "deportación",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sophie cunningham indiana fever rally",
+          "title": "nfl sunday ticket",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deshaun watson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyson bagent",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edson barboza",
+          "title": "angelina jolie",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "browns depth chart",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "youtube tv",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl plus",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl+",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tresean gore",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
