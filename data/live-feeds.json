@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:27:35.777737+00:00",
+  "updatedAt": "2026-08-15T07:53:20.093490+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tangled",
+          "title": "Jayme Lawson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tangled",
+          "url": "https://twitter.com/search?q=Jayme%20Lawson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lois",
+          "title": "HELL ANSWERS TO ME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lois",
+          "url": "https://twitter.com/search?q=HELL%20ANSWERS%20TO%20ME",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,16 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "restaurants near me",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kick",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "is tobey maguire in doomsday",
           "traffic": "100",
@@ -67,7 +77,7 @@
         },
         {
           "title": "frozen 3 release date",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -91,18 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon favreau",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "community shield",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael fassbender",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
