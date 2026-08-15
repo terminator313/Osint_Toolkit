@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:55:47.673614+00:00",
+  "updatedAt": "2026-08-15T19:19:58.451724+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BillsMafia",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BillsMafia",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#DawgPound",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DawgPound",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Browns",
+          "title": "#BillsMafia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Browns",
+          "url": "https://twitter.com/search?q=%23BillsMafia",
           "platform": "X/Twitter"
         },
         {
-          "title": "Keon Coleman",
+          "title": "#Giants",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Keon%20Coleman",
+          "url": "https://twitter.com/search?q=%23Giants",
           "platform": "X/Twitter"
         },
         {
-          "title": "Deone Walker",
+          "title": "Jed Wills",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Deone%20Walker",
+          "url": "https://twitter.com/search?q=Jed%20Wills",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Skol",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Skol",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fenerbahçe",
+          "title": "fluminense vs palmeiras",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "corey julks",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cobán imperial - mixco",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ceyair wright",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2026 el nino winter impact",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tesehki vs big lex",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyreek hill",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dave marsh",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donte johnson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "sevilla - rayo vallecano",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sevilla vs rayo vallecano",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin jefferson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees - blue jays",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert carradine family lawsuit",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eduardo valencia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adrian peterson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pete hoekstra",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when is the new fortnite season",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
