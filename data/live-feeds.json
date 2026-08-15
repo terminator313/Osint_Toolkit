@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:27:31.199993+00:00",
+  "updatedAt": "2026-08-15T05:52:10.184343+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,13 +56,43 @@
       "status": "ok",
       "items": [
         {
+          "title": "jonathan majors",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christopher evans",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalin turner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kylo ren",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "storm casting",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shawn levy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "ban vs aus",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "charles melton",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -73,36 +103,6 @@
         {
           "title": "wwe smackdown results",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam scott",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ahsoka season 2",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "covid 19",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fantastic four",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nipsey hussle",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kit connor",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
