@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:22:47.762854+00:00",
+  "updatedAt": "2026-08-15T09:49:26.601056+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#VisionQuest",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VisionQuest",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#G1CLIMAX36",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23G1CLIMAX36",
           "platform": "X/Twitter"
         },
         {
-          "title": "Frozen 3",
+          "title": "#VisionQuest",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Frozen%203",
+          "url": "https://twitter.com/search?q=%23VisionQuest",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kevin Feige",
+          "title": "Emma Frost",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kevin%20Feige",
+          "url": "https://twitter.com/search?q=Emma%20Frost",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Tenzan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Tenzan",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,11 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "ireland vs afghanistan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "restaurants near me",
           "traffic": "1000",
@@ -76,6 +81,11 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "hurricane weather",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "frozen 3 release date",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -87,21 +97,11 @@
         },
         {
           "title": "bighead carp",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "daycare center",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "salma hayek",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hailee steinfeld",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
