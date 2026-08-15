@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:33:36.028533+00:00",
+  "updatedAt": "2026-08-15T07:27:35.777737+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#VisionQuest",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23VisionQuest",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SmackDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Christian Walker",
+          "title": "Tangled",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christian%20Walker",
+          "url": "https://twitter.com/search?q=Tangled",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kitty Pryde",
+          "title": "Lois",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kitty%20Pryde",
+          "url": "https://twitter.com/search?q=Lois",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,36 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "is tobey maguire in doomsday",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "palworld 1.1",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frozen 3 release date",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "margot robbie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daycare center",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "salma hayek",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "hailee steinfeld",
           "traffic": "200",
@@ -73,36 +103,6 @@
         {
           "title": "michael fassbender",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalin turner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonathan majors",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kylo ren",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "storm casting",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ban vs aus",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charles melton",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
