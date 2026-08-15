@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:17:17.344153+00:00",
+  "updatedAt": "2026-08-15T15:44:25.271203+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#DuangConcertDay1",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DuangConcertDay1",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#VIDALoveLessonxPerthSanta",
+          "title": "DUANG GO ROUND DAY1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VIDALoveLessonxPerthSanta",
+          "url": "https://twitter.com/search?q=DUANG%20GO%20ROUND%20DAY1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TruthBeyondDebate",
+          "title": "X-Men",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TruthBeyondDebate",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ashamed",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ashamed",
+          "url": "https://twitter.com/search?q=X-Men",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "man u",
+          "title": "maja chwalińska",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kaue fernandes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leeds united",
+          "title": "matteo arnaldi",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fubo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corte suprema",
+          "title": "true detective",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dortmund - roma",
-          "traffic": "500",
+          "title": "dallas mavericks cooper flagg card",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bein sports",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dortmund vs roma",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fulham vs vfb stuttgart",
+          "title": "devon witherspoon",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sharon osbourne",
+          "title": "amanda anisimova",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "remi bader",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lakers ownership change",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elena-gabriela ruse",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "man u",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
