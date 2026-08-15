@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:19:09.647703+00:00",
+  "updatedAt": "2026-08-15T14:47:22.116276+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#VIDALoveLessonxPerthSanta",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23VIDALoveLessonxPerthSanta",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#TruthBeyondDebate",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TruthBeyondDebate",
           "platform": "X/Twitter"
         },
         {
-          "title": "PERTHSANTA LOVE CLASS",
+          "title": "#ashamed",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=PERTHSANTA%20LOVE%20CLASS",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "X-Men",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=X-Men",
+          "url": "https://twitter.com/search?q=%23ashamed",
           "platform": "X/Twitter"
         }
       ],
@@ -56,17 +56,37 @@
       "status": "ok",
       "items": [
         {
-          "title": "california",
+          "title": "fulham vs vfb stuttgart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sharon osbourne",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what time is the fortnite live event",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "california",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "milan vs man united",
-          "traffic": "2000",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "patricia heaton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nebraska football",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -81,28 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nebraska football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "snowfall",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new jersey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mainz vs bournemouth",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fortnite live event",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
