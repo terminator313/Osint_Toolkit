@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:24:32.913096+00:00",
+  "updatedAt": "2026-08-15T08:54:27.909580+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#N3onjack",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23N3onjack",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#VisionQuest",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23VisionQuest",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "#G1CLIMAX36",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23G1CLIMAX36",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "Frozen 3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=Frozen%203",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jayme Lawson",
+          "title": "Kevin Feige",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jayme%20Lawson",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "HELL ANSWERS TO ME",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=HELL%20ANSWERS%20TO%20ME",
+          "url": "https://twitter.com/search?q=Kevin%20Feige",
           "platform": "X/Twitter"
         }
       ],
@@ -62,7 +62,7 @@
         },
         {
           "title": "kick",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
