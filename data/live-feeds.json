@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:52:10.184343+00:00",
+  "updatedAt": "2026-08-15T06:33:36.028533+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Christopher Abbott",
+          "title": "Christian Walker",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Christopher%20Abbott",
+          "url": "https://twitter.com/search?q=Christian%20Walker",
           "platform": "X/Twitter"
         },
         {
-          "title": "Emma Frost",
+          "title": "Kitty Pryde",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Emma%20Frost",
+          "url": "https://twitter.com/search?q=Kitty%20Pryde",
           "platform": "X/Twitter"
         }
       ],
@@ -56,17 +56,32 @@
       "status": "ok",
       "items": [
         {
-          "title": "jonathan majors",
+          "title": "hailee steinfeld",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher evans",
+          "title": "jon favreau",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "community shield",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "michael fassbender",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "jalin turner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonathan majors",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -81,28 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shawn levy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "ban vs aus",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "charles melton",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kieran culkin",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wwe smackdown results",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
