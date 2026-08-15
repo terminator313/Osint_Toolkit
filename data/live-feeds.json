@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:05:25.406035+00:00",
+  "updatedAt": "2026-08-15T02:31:46.698663+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#OPNation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OPNation",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Halle60",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Halle60",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseHail",
+          "title": "Ty Harris",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=Ty%20Harris",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mariota",
+          "title": "Dolphins",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mariota",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Mike Hughes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Hughes",
+          "url": "https://twitter.com/search?q=Dolphins",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rangers vs athletics",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sam ehlinger",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "julia roberts",
+          "title": "mason miller",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max preps",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world liberty trust conditional approval",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt cardona",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals vs angels",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael",
+          "title": "keeanu benton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joan collins",
+          "title": "nwsl+",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nascar truck series",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deion sanders",
+          "title": "d23 livestream",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "johnny knoxville",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brewers - dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gunnar henderson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john paris medically induced coma",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sofia vergara",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
