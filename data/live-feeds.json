@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:24:56.904582+00:00",
+  "updatedAt": "2026-08-16T05:52:55.511409+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ShieldsScott",
+          "title": "#MyAdventuresWithSuperman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ShieldsScott",
+          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Big Lex",
+          "title": "Yeti",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Big%20Lex",
+          "url": "https://twitter.com/search?q=Yeti",
           "platform": "X/Twitter"
         },
         {
-          "title": "Massie",
+          "title": "Kyle Larson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Massie",
+          "url": "https://twitter.com/search?q=Kyle%20Larson",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,11 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "ohio tornado warnings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "katie taylor",
           "traffic": "500",
@@ -77,32 +82,27 @@
         },
         {
           "title": "bangladesh vs australia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris pine",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prates",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san jose earthquakes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "ben joyce",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "glenn close",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob elordi",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royals - angels",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "from neander",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
