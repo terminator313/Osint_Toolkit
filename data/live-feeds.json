@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:49:48.411084+00:00",
+  "updatedAt": "2026-08-16T17:16:33.995513+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CommunityShield",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CommunityShield",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#COYG",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23COYG",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SundayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#SeductiveSunday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Haaland",
+          "title": "Manchester City",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Haaland",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#SundayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=Manchester%20City",
           "platform": "X/Twitter"
         }
       ],
@@ -56,18 +56,43 @@
       "status": "ok",
       "items": [
         {
+          "title": "rickie fowler",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iga świątek",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lake powell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "madison keys",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emiliana arango",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "newcastle",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "fedex st jude",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "girona - leganés",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orioles game today",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -77,32 +102,7 @@
         },
         {
           "title": "rcd espanyol - levante",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sporting cristal - sport huancayo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cbs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers game today",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "erling haaland",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orioles - rays",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
