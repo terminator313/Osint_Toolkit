@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:47:56.764882+00:00",
+  "updatedAt": "2026-08-16T15:18:26.700985+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#STARSHIP_DO_YOUR_JOB",
+          "title": "#CommunityShield",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23STARSHIP_DO_YOUR_JOB",
+          "url": "https://twitter.com/search?q=%23CommunityShield",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#COYG",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23COYG",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#ARSMCI",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ARSMCI",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#DuangConcertDay2",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DuangConcertDay2",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Happy Birthday Sophie",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Birthday%20Sophie",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Blessed Sunday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blessed%20Sunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,12 +56,42 @@
       "status": "ok",
       "items": [
         {
+          "title": "liga española",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ageing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ro khanna",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bbc sport",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "real madrid",
-          "traffic": "5000",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "brett callahan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andy beshear",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ajax vs heerenveen",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -71,38 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ajax vs heerenveen",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andy beshear",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "little league world series teams",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phil foden",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eagles.com",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "racing santander vs villarreal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "schalke 04 - real madrid",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
