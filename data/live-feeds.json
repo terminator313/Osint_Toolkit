@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:45:27.978918+00:00",
+  "updatedAt": "2026-08-16T23:16:49.244166+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Rittenhouse",
+          "title": "Kyler Gordon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rittenhouse",
+          "url": "https://twitter.com/search?q=Kyler%20Gordon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cameroon",
+          "title": "Ryan Weathers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cameroon",
+          "url": "https://twitter.com/search?q=Ryan%20Weathers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "houston dash vs north carolina courage",
+          "title": "mark zuckerberg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sloane stephens",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "star wars: the force awakens",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "st louis cardinals",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iva jovic",
+          "title": "mariners - astros",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thiago mendes",
+          "title": "'s epatha merkerson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chivas vs santos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anastasia potapova",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brewers schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tamara korpatsch",
+          "title": "hugh hefner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yahoo fantasy football",
-          "traffic": "500",
+          "title": "daniel lissing",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah cameron",
-          "traffic": "500",
+          "title": "demi moore",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "johnny bananas tyler duckworth tribute",
-          "traffic": "500",
+          "title": "houston dash vs north carolina courage",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
