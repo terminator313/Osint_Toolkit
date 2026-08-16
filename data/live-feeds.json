@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:54:51.180330+00:00",
+  "updatedAt": "2026-08-16T08:25:50.516716+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MyAdventuresWithSuperman",
+          "title": "#G1FINAL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MyAdventuresWithSuperman",
+          "url": "https://twitter.com/search?q=%23G1FINAL",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARMYsAgainstAbusers",
+          "title": "#BINI_SummerSonic_Tokyo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARMYsAgainstAbusers",
+          "url": "https://twitter.com/search?q=%23BINI_SummerSonic_Tokyo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ARMYsAgainstViolence",
+          "title": "Jeff Cobb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ARMYsAgainstViolence",
+          "url": "https://twitter.com/search?q=Jeff%20Cobb",
           "platform": "X/Twitter"
         },
         {
-          "title": "Knoxville Nationals",
+          "title": "BINI LIGHTS UP TOKYO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Knoxville%20Nationals",
+          "url": "https://twitter.com/search?q=BINI%20LIGHTS%20UP%20TOKYO",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,11 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "plummer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "牛来",
           "traffic": "100",
@@ -98,11 +103,6 @@
         {
           "title": "inundaciones en indiana",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "golden state warriors",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
