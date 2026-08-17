@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T11:31:27.620977+00:00",
+  "updatedAt": "2026-08-17T12:38:24.285867+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#MondayVibes",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MondayVibes",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Lanterns",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOA",
+          "title": "Game Week",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOA",
+          "url": "https://twitter.com/search?q=Game%20Week",
           "platform": "X/Twitter"
         },
         {
-          "title": "Butterfly",
+          "title": "Ossoff",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Butterfly",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "True Detective",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=True%20Detective",
+          "url": "https://twitter.com/search?q=Ossoff",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sydney sweeney",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin hartley",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "who qualified for the bmw championship",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "skhy stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mlb farm system rankings 2026",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan wolverines football",
+          "title": "soldier",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elly de la cruz",
-          "traffic": "100",
+          "title": "micron",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex cora",
-          "traffic": "100",
+          "title": "what time does the lindsay clancy trial start today",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russia",
-          "traffic": "500",
+          "title": "amber alert",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uss benfold power loss",
-          "traffic": "500",
+          "title": "elon musk",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baba stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amber alert atlanta",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris kubasik",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "good morning america",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nate bargatze",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
