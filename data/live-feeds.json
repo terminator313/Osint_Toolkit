@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:35:00.297955+00:00",
+  "updatedAt": "2026-08-17T19:25:19.359871+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#User628З692",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23User628%D0%97692",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "JAMES TURNS A YEAR TIMELESS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=JAMES%20TURNS%20A%20YEAR%20TIMELESS",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#365DaysWithJAMES",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23365DaysWithJAMES",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "AP Poll",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=AP%20Poll",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Trackhouse",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Trackhouse",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "arthur fery",
+          "title": "puka suspension",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karoline leavitt press secretary departure",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tropics",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "usher chris brown baltimore concert",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "al-raed vs al-hilal",
-          "traffic": "200",
+          "title": "taylor swift",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardiff city vs wrexham",
+          "title": "casa pia vs benfica",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deportivo vs elche",
-          "traffic": "2000",
+          "title": "doj white house ballroom construction",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sharks",
+          "title": "los angeles unified school district",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marcus davenport",
+          "title": "penn state",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house of the dragon showrunner",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "julian newman sister",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anne hathaway disney legends awards",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump birthright citizenship order",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "magdalena fręch",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
