@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:24:37.753766+00:00",
+  "updatedAt": "2026-08-17T17:54:58.615227+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#코르티스코어_일주년을_축하해",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4%EC%BD%94%EC%96%B4_%EC%9D%BC%EC%A3%BC%EB%85%84%EC%9D%84_%EC%B6%95%ED%95%98%ED%95%B4",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#User628З692",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23User628%D0%97692",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "JAMES TURNS A YEAR TIMELESS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=JAMES%20TURNS%20A%20YEAR%20TIMELESS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheWorldMetKeonho",
+          "title": "#365DaysWithJAMES",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheWorldMetKeonho",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Trackhouse",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trackhouse",
+          "url": "https://twitter.com/search?q=%23365DaysWithJAMES",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,38 @@
       "status": "ok",
       "items": [
         {
+          "title": "kent emanuel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julian newman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kawhi leonard",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "south county hospital",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "a court of splintered harmony",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "the white house south lawn",
-          "traffic": "500",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "princess eugenie daughter name",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,43 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "steve ballmer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world liberty financial",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "pablo torre",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diane parry",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals vs reds",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emf founding member derry brownson",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeremy clarkson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ohio state football schedule 2026",
-          "traffic": "500",
+          "title": "netflix the diplomat season 4",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
