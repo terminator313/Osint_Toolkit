@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:47:43.180762+00:00",
+  "updatedAt": "2026-08-17T04:38:50.310191+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#90DayFiance",
+          "title": "Until Dawn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2390DayFiance",
+          "url": "https://twitter.com/search?q=Until%20Dawn",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hal Jordan",
+          "title": "Save the Cheerleader",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hal%20Jordan",
+          "url": "https://twitter.com/search?q=Save%20the%20Cheerleader",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "milo ventimiglia",
+          "title": "postpartum",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heroes tv show",
+          "title": "friday night lights",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "牛来",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "klitschko",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amanda bynes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "milo ventimiglia",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "hayden panettiere de que murio",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "santos laguna vs chivas de guadalajara standings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ellen pompeo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon ossoff",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh d'amaro",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the rock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hayden christensen",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harrison ford",
+          "title": "tmz news",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon ossoff",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
