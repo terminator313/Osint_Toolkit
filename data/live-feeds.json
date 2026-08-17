@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:53:22.494235+00:00",
+  "updatedAt": "2026-08-17T21:23:00.583161+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Oman",
+          "title": "Swalwell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Oman",
+          "url": "https://twitter.com/search?q=Swalwell",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ryder Williams",
+          "title": "#User628З692",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ryder%20Williams",
+          "url": "https://twitter.com/search?q=%23User628%D0%97692",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,16 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "qantas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pima county sheriff's department",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "cnn",
           "traffic": "10000",
@@ -72,7 +82,7 @@
         },
         {
           "title": "maul - shadow lord season 2",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -92,17 +102,7 @@
         },
         {
           "title": "halo campaign evolved august update",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ksl",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world liberty financial bank charter",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
