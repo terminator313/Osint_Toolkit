@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:37:53.544661+00:00",
+  "updatedAt": "2026-08-17T10:29:05.905950+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#baddiesgonewild",
+          "title": "Ossoff",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23baddiesgonewild",
+          "url": "https://twitter.com/search?q=Ossoff",
           "platform": "X/Twitter"
         },
         {
-          "title": "Von Miller",
+          "title": "#baddiesgonewild",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Von%20Miller",
+          "url": "https://twitter.com/search?q=%23baddiesgonewild",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,38 @@
       "status": "ok",
       "items": [
         {
+          "title": "terremoto",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deion sanders",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shannon bream",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drone warfare",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "beyonce",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "lluvia",
-          "traffic": "200",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "boeing ah-64 apache",
-          "traffic": "100",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -72,36 +97,11 @@
         },
         {
           "title": "kalshi",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "jutta leerdam",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "johnny",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "krone",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pandemic",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robbie williams",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heco power outage map",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
