@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:07:10.420237+00:00",
+  "updatedAt": "2026-08-17T02:40:02.667051+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BadBoysDR",
+          "title": "#Lanterns",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BadBoysDR",
+          "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOAReunion",
+          "title": "#RHOA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOAReunion",
+          "url": "https://twitter.com/search?q=%23RHOA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Fever",
+          "title": "#90DayFiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fever",
+          "url": "https://twitter.com/search?q=%2390DayFiance",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aliyah Boston",
+          "title": "#BaddiesGoneWild",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aliyah%20Boston",
+          "url": "https://twitter.com/search?q=%23BaddiesGoneWild",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cabrera",
+          "title": "Kelli",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cabrera",
+          "url": "https://twitter.com/search?q=Kelli",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "disney legends 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sophie cunningham wnba reddit ban",
+          "title": "tijuana - cruz azul",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeremiyah love",
+          "title": "club tijuana vs cruz azul",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "washington spirit vs angel city fc",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rob lowe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "auli'i cravalho",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump natalie",
+          "title": "kelly macdonald",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "santos laguna vs guadalajara",
-          "traffic": "20000",
+          "title": "frances tiafoe",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flock cameras",
-          "traffic": "1000",
+          "title": "elina svitolina",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diego arriaga",
-          "traffic": "1000",
+          "title": "jerry bruckheimer",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "u.s. military base diego garcia",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alia shawkat",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adoree jackson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners standings",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
