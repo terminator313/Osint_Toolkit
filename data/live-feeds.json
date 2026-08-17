@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:43:05.715281+00:00",
+  "updatedAt": "2026-08-17T01:07:10.420237+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#StrayKids_BB200_HistoryMakers",
+          "title": "#BadBoysDR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StrayKids_BB200_HistoryMakers",
+          "url": "https://twitter.com/search?q=%23BadBoysDR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SigmaStarSaga21Years",
+          "title": "#RHOAReunion",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SigmaStarSaga21Years",
+          "url": "https://twitter.com/search?q=%23RHOAReunion",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalRumDay",
+          "title": "#Fever",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalRumDay",
+          "url": "https://twitter.com/search?q=%23Fever",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyler Gordon",
+          "title": "Aliyah Boston",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyler%20Gordon",
+          "url": "https://twitter.com/search?q=Aliyah%20Boston",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ryan Weathers",
+          "title": "Cabrera",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ryan%20Weathers",
+          "url": "https://twitter.com/search?q=Cabrera",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "coco gauff",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba standings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cal fire",
+          "title": "disney legends 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "green lantern",
+          "title": "sophie cunningham wnba reddit ban",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeremiyah love",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "washington spirit vs angel city fc",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rob lowe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "auli'i cravalho",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump natalie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaime faria",
-          "traffic": "500",
+          "title": "santos laguna vs guadalajara",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stewart cink",
-          "traffic": "500",
+          "title": "flock cameras",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vix",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners - astros",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers standings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chivas vs santos",
-          "traffic": "500",
+          "title": "diego arriaga",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
