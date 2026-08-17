@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:49:31.165134+00:00",
+  "updatedAt": "2026-08-17T23:19:45.503663+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,9 +38,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Fang Fang",
+          "title": "Jean Carroll",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fang%20Fang",
+          "url": "https://twitter.com/search?q=Jean%20Carroll",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kyle monangai",
+          "title": "emma navarro",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diamondbacks vs red sox",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "padres vs mets",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordyn tyson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qantas aircraft tool left in wing",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dan bilzerian",
+          "title": "ketel marte",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shane mcclanahan",
+          "title": "alejandro tabilo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "2027 corvette grand sport x production",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tigers vs pirates",
+          "title": "braves vs twins",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "owen miller",
+          "title": "athletics vs royals",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mt etna",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harrison ford",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "serena williams",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees news",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump lifeguard",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
