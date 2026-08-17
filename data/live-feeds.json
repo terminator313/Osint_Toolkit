@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:38:24.285867+00:00",
+  "updatedAt": "2026-08-17T13:36:59.899404+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Game Week",
+          "title": "Michelle Trachtenberg",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Game%20Week",
+          "url": "https://twitter.com/search?q=Michelle%20Trachtenberg",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ossoff",
+          "title": "Lisa Rinna",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ossoff",
+          "url": "https://twitter.com/search?q=Lisa%20Rinna",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "soldier",
+          "title": "notes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diego moreira",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "micron",
+          "title": "brad pitt restrained drinking",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what time does the lindsay clancy trial start today",
+          "title": "espn angel reese wnba rebounding",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amber alert",
+          "title": "epic",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warren buffett successor greg abel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsey clancy trial",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "renaissance",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsay clancy trial live",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nato",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elon musk",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "baba stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amber alert atlanta",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris kubasik",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "good morning america",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nate bargatze",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
