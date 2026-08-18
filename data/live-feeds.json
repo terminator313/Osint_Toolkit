@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:23:52.917330+00:00",
+  "updatedAt": "2026-08-18T17:53:42.592027+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NBA2K27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NBA2K27",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ForeverRowdy",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ForeverRowdy",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NBA2K27",
+          "title": "Trey Mancini",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NBA2K27",
+          "url": "https://twitter.com/search?q=Trey%20Mancini",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RenacerJuntos",
+          "title": "Kinley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RenacerJuntos",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Canada or Mexico",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Canada%20or%20Mexico",
+          "url": "https://twitter.com/search?q=Kinley",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "taylor fritz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diriyah vs al-nassr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lorenzo musetti",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mirra andreeva",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler biadasz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "asu",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "car accident attorneys",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex cromie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "md lottery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "janice tjen",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael zheng",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cam skattebo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2k27",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyrone tracy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "baseball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bayern munich",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "canada",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xbox cloud gaming",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amc",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
