@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:34:56.716371+00:00",
+  "updatedAt": "2026-08-18T03:41:33.761801+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Castillo",
+          "title": "Tiffany Hayes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Castillo",
+          "url": "https://twitter.com/search?q=Tiffany%20Hayes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "eva longoria",
+          "title": "cubs score",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "suge knight",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacob webb",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jiri lehecka",
+          "title": "andy pages",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gilmore girls little people",
+          "title": "ray kerr",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kostyuk",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wyatt olds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cristopher sanchez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oj simpson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max muncy",
+          "title": "kyle tucker",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sterling k brown",
+          "title": "adolfo daniel vallejo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phillies standings",
+          "title": "colts depth chart",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon rahm",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pachuca - puebla",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
