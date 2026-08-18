@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:39:48.384211+00:00",
+  "updatedAt": "2026-08-18T13:39:42.619105+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Fang",
+          "title": "#ForeverRowdy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Fang",
+          "url": "https://twitter.com/search?q=%23ForeverRowdy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Kairi",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Kairi",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#kyle",
+          "title": "#THENEWXPENGL03",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23kyle",
+          "url": "https://twitter.com/search?q=%23THENEWXPENGL03",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alex Jones",
+          "title": "PERTHSANTA UNVEILING XPENG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alex%20Jones",
+          "url": "https://twitter.com/search?q=PERTHSANTA%20UNVEILING%20XPENG",
           "platform": "X/Twitter"
         },
         {
-          "title": "Adobe",
+          "title": "Happy Taco",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Adobe",
+          "url": "https://twitter.com/search?q=Happy%20Taco",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "august 2026 game pass update",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dearborn michigan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "basketball",
+          "title": "jenny mccarthy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "high potential",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "george pickens",
+          "title": "uzbekistan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zohran mamdani nyc mayor approval",
+          "title": "mauricio umansky",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "emmy rossum",
+          "title": "oswaldo pirela ice detention",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "south korea",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cher",
+          "title": "trevor goosby",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "orange line boston",
+          "title": "cybele raver",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "za'darius smith",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "suppressors",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thailand vs singapore",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naacp",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
