@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:26:07.502549+00:00",
+  "updatedAt": "2026-08-18T05:54:43.279922+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Tucker",
+          "title": "Keenan Allen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Tucker",
+          "url": "https://twitter.com/search?q=Keenan%20Allen",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,16 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "kick",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flyers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "naalehu",
           "traffic": "500",
@@ -93,16 +103,6 @@
         {
           "title": "jessica shepard",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben rortvedt",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ride or die show",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
