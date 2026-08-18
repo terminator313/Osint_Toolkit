@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:41:33.761801+00:00",
+  "updatedAt": "2026-08-18T04:32:50.698413+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RawOnNetflix",
+          "title": "#Cubs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RawOnNetflix",
+          "url": "https://twitter.com/search?q=%23Cubs",
           "platform": "X/Twitter"
         },
         {
-          "title": "#THIS_AND_THAT_38OnHot100",
+          "title": "#MVPete",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23THIS_AND_THAT_38OnHot100",
+          "url": "https://twitter.com/search?q=%23MVPete",
           "platform": "X/Twitter"
         },
         {
-          "title": "SNME",
+          "title": "Jacob Webb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=SNME",
+          "url": "https://twitter.com/search?q=Jacob%20Webb",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tiffany Hayes",
+          "title": "Venable",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tiffany%20Hayes",
+          "url": "https://twitter.com/search?q=Venable",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs score",
+          "title": "rosie odonnell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hannah waddingham",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "suge knight",
-          "traffic": "10000",
+          "title": "ariana madix",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacob webb",
+          "title": "jessica shepard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "octavia spencer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andy pages",
+          "title": "ben rortvedt",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ray kerr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle tucker",
+          "title": "ride or die show",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "adolfo daniel vallejo",
+          "title": "will forte",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colts depth chart",
+          "title": "edwin diaz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nl mvp odds",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jon rahm",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pachuca - puebla",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
