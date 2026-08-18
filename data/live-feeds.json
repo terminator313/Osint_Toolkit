@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:49:48.242160+00:00",
+  "updatedAt": "2026-08-18T23:19:01.059882+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NationalFajitaDay",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NationalFajitaDay",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#wallowstwt",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23wallowstwt",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ValkoWorldwide",
+          "title": "Chargers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ValkoWorldwide",
+          "url": "https://twitter.com/search?q=Chargers",
           "platform": "X/Twitter"
         },
         {
-          "title": "JuJu Smith",
+          "title": "MyNBA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JuJu%20Smith",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "FNAF 2",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=FNAF%202",
+          "url": "https://twitter.com/search?q=MyNBA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dana white contender series",
+          "title": "jo adell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire chief",
+          "title": "fever game tonight",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zavier gozo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "teyana taylor jordyn woods wedding",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carlos rodon",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose iglesias",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "galyna saltkovska",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spacex upper stage moon impact",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fluminense",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chp retail theft blitz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portland sea dogs",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "downdetector",
+          "title": "celine dion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tomoko akane",
+          "title": "padres - mets",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tesla robotaxi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david morens",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lake tahoe tree poisonings",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
