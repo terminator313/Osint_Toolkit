@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:32:50.698413+00:00",
+  "updatedAt": "2026-08-18T05:26:07.502549+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cubs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cubs",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MVPete",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MVPete",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jacob Webb",
+          "title": "#FlyTheW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jacob%20Webb",
+          "url": "https://twitter.com/search?q=%23FlyTheW",
           "platform": "X/Twitter"
         },
         {
-          "title": "Venable",
+          "title": "#MVPCA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Venable",
+          "url": "https://twitter.com/search?q=%23MVPCA",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Kyle Tucker",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Kyle%20Tucker",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,21 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "naalehu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tires season 4",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "valkyries game",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "rosie odonnell",
           "traffic": "200",
@@ -67,17 +82,17 @@
         },
         {
           "title": "ariana madix",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica shepard",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "octavia spencer",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica shepard",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -88,21 +103,6 @@
         {
           "title": "ride or die show",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will forte",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edwin diaz",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nl mvp odds",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
