@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:24:58.836291+00:00",
+  "updatedAt": "2026-08-18T19:48:39.149906+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Super Sonic",
+          "title": "#ValkosPawPrints",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Super%20Sonic",
+          "url": "https://twitter.com/search?q=%23ValkosPawPrints",
           "platform": "X/Twitter"
         },
         {
-          "title": "IMAX 70mm",
+          "title": "MyNBA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=IMAX%2070mm",
+          "url": "https://twitter.com/search?q=MyNBA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "pete hegseth",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frank beard",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "travis kelce wedding band",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ann li",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "billy edwards jr",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mcdonalds caramel apple pie coffee",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lyon fc",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dinamo zagreb",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "levski sofia vs aek",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "house of the dragon season 3",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan spieth comments pga tour",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "azzi fudd paige bueckers documentary",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daniil medvedev",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "juju smith-schuster",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quentin johnston",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "musiala",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 leaks",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "badminton",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
