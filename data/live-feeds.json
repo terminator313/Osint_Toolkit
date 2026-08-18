@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:37:58.372578+00:00",
+  "updatedAt": "2026-08-18T17:23:52.917330+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#VMAs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VMAs",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ForeverRowdy",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ForeverRowdy",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Harvey Dent",
+          "title": "#NBA2K27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harvey%20Dent",
+          "url": "https://twitter.com/search?q=%23NBA2K27",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kyle Busch",
+          "title": "#RenacerJuntos",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Busch",
+          "url": "https://twitter.com/search?q=%23RenacerJuntos",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Canada or Mexico",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Canada%20or%20Mexico",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "bayern munich",
+          "title": "janice tjen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael zheng",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cam skattebo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xbox cloud gaming",
-          "traffic": "100",
+          "title": "2k27",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyrone tracy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baseball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bayern munich",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,38 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amc",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "slides",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "windows 10",
+          "title": "xbox cloud gaming",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kateřina siniaková",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patricia heaton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "imax dune 3",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pbs",
-          "traffic": "200",
+          "title": "amc",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
