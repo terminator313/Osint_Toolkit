@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T14:30:20.987918+00:00",
+  "updatedAt": "2026-08-18T15:28:17.065724+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "#VMAs",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23VMAs",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ForeverRowdy",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ForeverRowdy",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RTXPowersPlays",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RTXPowersPlays",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#THENEWXPENGL03",
+          "title": "Happy Birthday Barry",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23THENEWXPENGL03",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "PERTHSANTA UNVEILING XPENG",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=PERTHSANTA%20UNVEILING%20XPENG",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Happy Taco",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Taco",
+          "url": "https://twitter.com/search?q=Happy%20Birthday%20Barry",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "disney first amendment litigation",
+          "title": "uk egg salmonella cases",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ticketmaster",
+          "title": "iran us news",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "midterm election",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "golf",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ransom",
-          "traffic": "1000",
+          "title": "nflx stock",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "broadway week",
-          "traffic": "500",
+          "title": "walmart stock",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wisconsin state fair fight",
-          "traffic": "200",
+          "title": "gillette stadium",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "act",
-          "traffic": "200",
+          "title": "max preps",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vma nominations 2026",
-          "traffic": "200",
+          "title": "noah centineo masters of universe exit",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phonearena",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ticket master",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "margaret qualley",
-          "traffic": "200",
+          "title": "kosovo",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
