@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:33:20.758664+00:00",
+  "updatedAt": "2026-08-18T09:29:37.118942+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MVPCA",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MVPCA",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Torey",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Torey",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Valkyries",
+          "title": "WHAT HE SAY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Valkyries",
+          "url": "https://twitter.com/search?q=WHAT%20HE%20SAY",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Cubs",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Cubs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,18 @@
       "status": "ok",
       "items": [
         {
+          "title": "mcdonalds happy meal hello kitty",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "bruce springsteen",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "queen camilla granddaughter eliza lopes",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -77,17 +87,12 @@
         },
         {
           "title": "hurricanes storm",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "hm",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mcdonalds hello kitty happy meal",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -97,12 +102,7 @@
         },
         {
           "title": "牛来",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "acetaminophen",
-          "traffic": "100",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
