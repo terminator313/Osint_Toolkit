@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:47:08.439378+00:00",
+  "updatedAt": "2026-08-18T22:20:06.671647+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#wallowstwt",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23wallowstwt",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ValkoWorldwide",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ValkoWorldwide",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VMAs",
+          "title": "JuJu Smith",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VMAs",
+          "url": "https://twitter.com/search?q=JuJu%20Smith",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ValkosPawPrints",
+          "title": "FNAF 2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ValkosPawPrints",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "GTA 5",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=GTA%205",
+          "url": "https://twitter.com/search?q=FNAF%202",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dólar estadounidense",
+          "title": "marlins - phillies",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nakashima",
+          "title": "fever vs tempo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naalehu",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruno mars",
+          "title": "giants vs guardians",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jays vs rays",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "george hamilton",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trevon diggs",
+          "title": "independiente rivadavia vs fluminense",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vin diesel",
+          "title": "trump administration national forest policy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lanterns critic and audience ratings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sara bejlek",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "recoleta vs boca",
+          "title": "kat timpf",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arden walker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "curtis brown",
-          "traffic": "500",
+          "title": "yankees vs orioles",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
