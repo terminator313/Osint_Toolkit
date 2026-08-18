@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:48:43.422665+00:00",
+  "updatedAt": "2026-08-18T21:21:04.865505+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,6 +26,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#ValkoWorldwide",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23ValkoWorldwide",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#VMAs",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23VMAs",
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Medvedev",
+          "title": "GTA 5",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Medvedev",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ForeverRowdy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ForeverRowdy",
+          "url": "https://twitter.com/search?q=GTA%205",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dee snider",
+          "title": "guy ritchie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark ingram uab",
+          "title": "curtis brown",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gloria menezes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "minnesota attorney general",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toy story 5 streaming",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "international criminal court",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran is losing control of the strait of hormuz",
+          "title": "deportation",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "starship",
-          "traffic": "1000",
+          "title": "trump ballroom legal challenge",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roberto carlos",
+          "title": "uconn huskies women's basketball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coco gauff",
-          "traffic": "5000",
+          "title": "granada",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lake mead",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "embargo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lisa rinna",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dee snider",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
