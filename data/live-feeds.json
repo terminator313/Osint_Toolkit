@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:37:44.684249+00:00",
+  "updatedAt": "2026-08-18T11:22:18.336093+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Cubs",
+          "title": "#Fang",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cubs",
+          "url": "https://twitter.com/search?q=%23Fang",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "angie nixon",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marvel avengers doomsday",
+          "title": "keke palmer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "philadelphia flyers",
+          "title": "laura cardoso",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dave ramsey",
+          "title": "penn state football",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather new york",
+          "title": "masayoshi son",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flock safety license plate lookup",
+          "title": "us open tennis 2026",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "have i been flocked?",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "detroit red wings",
+          "title": "10 year treasury yield",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "outshine fruit bars recall",
-          "traffic": "10000",
+          "title": "jim cramer",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jd vance",
+          "title": "braves score",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "extreme heat warning",
-          "traffic": "1000",
+          "title": "ios 26.6.1",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
