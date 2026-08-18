@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:05:09.643211+00:00",
+  "updatedAt": "2026-08-18T02:34:56.716371+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPowersPlay",
+          "title": "#RawOnNetflix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowersPlay",
+          "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWTSNextPro",
+          "title": "#THIS_AND_THAT_38OnHot100",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWTSNextPro",
+          "url": "https://twitter.com/search?q=%23THIS_AND_THAT_38OnHot100",
           "platform": "X/Twitter"
         },
         {
-          "title": "Natalie",
+          "title": "SNME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Natalie",
+          "url": "https://twitter.com/search?q=SNME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CODNext",
+          "title": "Castillo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CODNext",
+          "url": "https://twitter.com/search?q=Castillo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sol ruca",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eala vs anisimova",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kim jong un",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coyote drive in",
+          "title": "eva longoria",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "american airlines chicago airport emergency",
+          "title": "jiri lehecka",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilmore girls little people",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kostyuk",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "furious tv show",
+          "title": "wyatt olds",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cristopher sanchez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oj simpson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max muncy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "granola recall",
+          "title": "sterling k brown",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seiya suzuki",
+          "title": "phillies standings",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sirens curse injury",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander zverev",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
