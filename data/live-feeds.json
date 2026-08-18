@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:34:18.162503+00:00",
+  "updatedAt": "2026-08-18T19:24:58.836291+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#VMAs",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23VMAs",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#ForeverRowdy",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ForeverRowdy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "Super Sonic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=Super%20Sonic",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trey Mancini",
+          "title": "IMAX 70mm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trey%20Mancini",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kinley",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kinley",
+          "url": "https://twitter.com/search?q=IMAX%2070mm",
           "platform": "X/Twitter"
         }
       ],
@@ -56,7 +56,42 @@
       "status": "ok",
       "items": [
         {
-          "title": "bryson dechambeau",
+          "title": "levski sofia vs aek",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "house of the dragon season 3",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jordan spieth comments pga tour",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "azzi fudd paige bueckers documentary",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daniil medvedev",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juju smith-schuster",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "quentin johnston",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "musiala",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -67,41 +102,6 @@
         },
         {
           "title": "badminton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chargers depth chart",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fenerbahçe vs ol",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fenerbahçe - lyon",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "max strus",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gel nail ban",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "linda bean pardee",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cambridge professor jason arday",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
