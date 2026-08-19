@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:49:50.727609+00:00",
+  "updatedAt": "2026-08-19T18:31:12.090948+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WishJASPERmv",
+          "title": "#RestoreACATaxCredits",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WishJASPERmv",
+          "url": "https://twitter.com/search?q=%23RestoreACATaxCredits",
           "platform": "X/Twitter"
         },
         {
-          "title": "Xavier Hutchinson",
+          "title": "Karmelo Anthony",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Xavier%20Hutchinson",
+          "url": "https://twitter.com/search?q=Karmelo%20Anthony",
           "platform": "X/Twitter"
         },
         {
-          "title": "Horizon 3",
+          "title": "Vindman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Horizon%203",
+          "url": "https://twitter.com/search?q=Vindman",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sorana cîrstea",
+          "title": "space",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liv golf news",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "press secretary",
+          "title": "zack snyder",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves - twins",
+          "title": "robert stock",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bankruptcy",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen hurts",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john summit la",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steve hilton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barcelona - al-ahly",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soccer",
+          "title": "chidimma adetshina",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uae",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nicaragua",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fc barcelona",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atlético madrid vs málaga",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fomc minutes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "demon hunter",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
