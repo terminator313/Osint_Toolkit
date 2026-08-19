@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:31:06.369757+00:00",
+  "updatedAt": "2026-08-19T10:25:00.694221+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Vindman",
+          "title": "#Mabrey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Vindman",
+          "url": "https://twitter.com/search?q=%23Mabrey",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Mabrey",
+          "title": "#Vindman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Mabrey",
+          "url": "https://twitter.com/search?q=%23Vindman",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Lillian",
+          "title": "#Kandi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lillian",
+          "url": "https://twitter.com/search?q=%23Kandi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Keystone",
+          "title": "#映画シーン",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Keystone",
+          "url": "https://twitter.com/search?q=%23%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%BC%E3%83%B3",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "eng vs pak",
-          "traffic": "1000",
+          "title": "icc",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "npb",
+          "title": "alix earle",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blood moon total lunar eclipse",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stake",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "julian newman sister",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the blacklist",
+          "title": "emf keyboardist derran brownson passes",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fidelity bitcoin etf",
+          "title": "kyrie irving",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scarlett johansson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dua lipa",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manav suthar",
+          "title": "tormenta",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wyoming republican gubernatorial primary",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carlos baleba",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roger goodell",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "truck accident attorney",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cavaliers james harden trade rumors",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
