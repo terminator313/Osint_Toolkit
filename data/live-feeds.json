@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:37:38.039986+00:00",
+  "updatedAt": "2026-08-19T03:43:22.587473+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DWCS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#WWENXT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AGT",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AGT",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zilla Fatu",
+          "title": "#mcrdc",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zilla%20Fatu",
+          "url": "https://twitter.com/search?q=%23mcrdc",
           "platform": "X/Twitter"
         },
         {
-          "title": "ZZ Top",
+          "title": "Grant Taylor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ZZ%20Top",
+          "url": "https://twitter.com/search?q=Grant%20Taylor",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Gausman",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Gausman",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brewers standings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "covid",
+          "title": "chicago weather",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edward norton",
+          "title": "aisha wahab",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers vs colorado rockies",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angel reese stats",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mason miller",
+          "title": "allisha gray",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sammy the bull gravano",
+          "title": "julio rodriguez",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wild card standings",
-          "traffic": "200",
+          "title": "kyle harrison",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tien",
-          "traffic": "200",
+          "title": "เรย์ แมคโดนัลด์",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs sox",
+          "title": "eric dane",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blueface",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "erick fedde",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mercado cambiario",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
