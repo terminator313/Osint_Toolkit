@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:05:51.526655+00:00",
+  "updatedAt": "2026-08-19T02:37:38.039986+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Dearborn",
+          "title": "Zilla Fatu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dearborn",
+          "url": "https://twitter.com/search?q=Zilla%20Fatu",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ranger Suarez",
+          "title": "ZZ Top",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ranger%20Suarez",
+          "url": "https://twitter.com/search?q=ZZ%20Top",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs game",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adley rutschman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "who is nancy mace",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ncis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "polaroid camera pokemon",
+          "title": "brewers standings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos the jackal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kurdistan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heidi overton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "learner tien",
+          "title": "covid",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyler phillips",
+          "title": "edward norton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mason miller",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sammy the bull gravano",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wild card standings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tien",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs sox",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "erick fedde",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mercado cambiario",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
