@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T06:43:50.330513+00:00",
+  "updatedAt": "2026-08-19T07:35:14.828535+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWCS",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "DeSantis",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=DeSantis",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Cory",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Cory",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Javier Assad",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Javier%20Assad",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FlyTheW",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FlyTheW",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,28 @@
       "status": "ok",
       "items": [
         {
+          "title": "cna",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado warnings wisconsin",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "loki",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "seattle",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "robin williams",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -77,7 +92,7 @@
         },
         {
           "title": "dan wilson",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -88,21 +103,6 @@
         {
           "title": "lisa kudrow",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spacex rocket",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isack hadjar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tupac autopsy",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
