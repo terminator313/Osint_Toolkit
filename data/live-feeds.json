@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:43:22.587473+00:00",
+  "updatedAt": "2026-08-19T04:33:57.395118+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Grant Taylor",
+          "title": "DeSantis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grant%20Taylor",
+          "url": "https://twitter.com/search?q=DeSantis",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gausman",
+          "title": "Cory Mills",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gausman",
+          "url": "https://twitter.com/search?q=Cory%20Mills",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "chicago weather",
+          "title": "alaska elections 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "seoul",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aisha wahab",
+          "title": "michael strahan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hacks",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers vs colorado rockies",
-          "traffic": "200",
+          "title": "rosie odonnell",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese stats",
-          "traffic": "500",
+          "title": "jean smart",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "allisha gray",
-          "traffic": "500",
+          "title": "spacex launch",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julio rodriguez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyle harrison",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "เรย์ แมคโดนัลด์",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eric dane",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blueface",
+          "title": "bruce jenner",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rosie o'donnell kids",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aisha wahab",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
