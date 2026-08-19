@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:49:50.990192+00:00",
+  "updatedAt": "2026-08-19T22:21:23.958839+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseIt",
+          "title": "#Jeudy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseIt",
+          "url": "https://twitter.com/search?q=%23Jeudy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RestoreACATaxCredits",
+          "title": "Nick Sogard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RestoreACATaxCredits",
+          "url": "https://twitter.com/search?q=Nick%20Sogard",
           "platform": "X/Twitter"
         },
         {
-          "title": "Naruto",
+          "title": "#Scott",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Naruto",
+          "url": "https://twitter.com/search?q=%23Scott",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "tommy paul",
+          "title": "kirk cousins",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eye drops recalled",
+          "title": "royce white wnba draft",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "accidente",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "viewing august 2026 lunar eclipse",
+          "title": "uss abraham lincoln conditions",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlético mineiro vs bragantino",
+          "title": "yankees - orioles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jarren duran",
+          "title": "seattle reign fc vs racing louisville",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "why is crypto up today",
+          "title": "tornado muncie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah kahan phoenix",
+          "title": "jenna fischer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cerro porteño x palmeiras",
-          "traffic": "500",
+          "title": "mw4 beta",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher meloni",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack pyburn",
-          "traffic": "500",
+          "title": "marlins - phillies",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
