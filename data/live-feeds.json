@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T10:54:23.828735+00:00",
+  "updatedAt": "2026-08-19T11:21:55.553945+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#映画シーン",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%BC%E3%83%B3",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Mabrey",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Mabrey",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Vindman",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Vindman",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Kandi",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Kandi",
           "platform": "X/Twitter"
         },
         {
-          "title": "#映画シーン",
+          "title": "#Darline",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%BC%E3%83%B3",
+          "url": "https://twitter.com/search?q=%23Darline",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hyundai tucson new generation suv",
-          "traffic": "100",
+          "title": "moderna stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scudetto",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "base",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roy and nola thompson",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "unitree stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elecciones",
+          "title": "darline graham",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeremy and brandy jenkins",
+          "title": "ny red bulls",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nyt connections hints",
-          "traffic": "1000",
+          "title": "espncricinfo",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cricinfo",
+          "title": "mrna stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tgt stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drew brees comments eli manning",
+          "title": "tom pelissero",
           "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle mowitz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "times of india",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dunkin pumpkin spice 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
