@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:27:00.534132+00:00",
+  "updatedAt": "2026-08-19T05:56:22.324208+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#mcrdc",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23mcrdc",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WWENXT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WWENXT",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#mcrdc",
+          "title": "DeSantis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mcrdc",
+          "url": "https://twitter.com/search?q=DeSantis",
           "platform": "X/Twitter"
         },
         {
-          "title": "Grant Taylor",
+          "title": "#Cory",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Grant%20Taylor",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Becky",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Becky",
+          "url": "https://twitter.com/search?q=%23Cory",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,16 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "diesel fuel",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dan wilson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "petra parker",
           "traffic": "200",
@@ -66,18 +76,23 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tupac autopsy",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "isack hadjar",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "tupac autopsy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "uso seumalo",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather tornado warning",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -88,21 +103,6 @@
         {
           "title": "the beatles",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seoul",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pokemon cameras",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin timberlake",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
