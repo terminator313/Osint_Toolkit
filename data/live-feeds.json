@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:56:22.324208+00:00",
+  "updatedAt": "2026-08-19T06:43:50.330513+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,6 +56,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "seattle",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robin williams",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "semaglutide",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "diesel fuel",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -76,33 +91,18 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "spacex rocket",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "isack hadjar",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "tupac autopsy",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uso seumalo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather tornado warning",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the beatles",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
