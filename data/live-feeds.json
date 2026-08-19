@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:22:17.227375+00:00",
+  "updatedAt": "2026-08-19T19:48:39.161111+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TrinityxVerizon",
+          "title": "#RTXPowerPlays",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrinityxVerizon",
+          "url": "https://twitter.com/search?q=%23RTXPowerPlays",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MoonshadowSeriesEP2",
+          "title": "#TrinityxVerizon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP2",
+          "url": "https://twitter.com/search?q=%23TrinityxVerizon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lautaro",
+          "title": "Treasury",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lautaro",
+          "url": "https://twitter.com/search?q=Treasury",
           "platform": "X/Twitter"
         },
         {
-          "title": "Allergy",
+          "title": "Robert Stock",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Allergy",
+          "url": "https://twitter.com/search?q=Robert%20Stock",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "goldie hawn",
+          "title": "la liga",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pirates",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kenley jansen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arby's",
+          "title": "hyperliquid",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "linda nosková",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josé urquidy",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sean newcomb",
-          "traffic": "200",
+          "title": "pirates score",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "amistosos",
-          "traffic": "1000",
+          "title": "trump administration reflecting pool case",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carson benge",
+          "title": "the last of us",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "danny pinter",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hamza abdelkarim",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "derek chauvin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trift glacier",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "etched",
+          "title": "thiago agustín tirante",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
