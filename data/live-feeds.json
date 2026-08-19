@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:33:57.395118+00:00",
+  "updatedAt": "2026-08-19T05:27:00.534132+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "DeSantis",
+          "title": "Grant Taylor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DeSantis",
+          "url": "https://twitter.com/search?q=Grant%20Taylor",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cory Mills",
+          "title": "Becky",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cory%20Mills",
+          "url": "https://twitter.com/search?q=Becky",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "alaska elections 2026",
-          "traffic": "1000",
+          "title": "petra parker",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lisa kudrow",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tupac autopsy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isack hadjar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uso seumalo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the beatles",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -66,42 +96,12 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael strahan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hacks",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rosie odonnell",
+          "title": "pokemon cameras",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jean smart",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spacex launch",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bruce jenner",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rosie o'donnell kids",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aisha wahab",
+          "title": "justin timberlake",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
