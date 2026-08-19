@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:33:57.989893+00:00",
+  "updatedAt": "2026-08-19T09:31:06.369757+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,18 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Vindman",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Vindman",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Berkeley",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Berkeley",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#Mabrey",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Mabrey",
@@ -36,18 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Keystone",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "#Bregman",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Bregman",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Berkeley",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Berkeley",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -55,6 +55,41 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "eng vs pak",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "npb",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blood moon total lunar eclipse",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stake",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julian newman sister",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the blacklist",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fidelity bitcoin etf",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "scarlett johansson",
           "traffic": "200",
@@ -67,42 +102,7 @@
         },
         {
           "title": "manav suthar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "earthquake now",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cna",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "loki",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs game yesterday",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seattle",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robin williams",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "semaglutide",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
