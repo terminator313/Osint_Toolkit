@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:31:12.090948+00:00",
+  "updatedAt": "2026-08-19T19:22:17.227375+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MoonshadowSeriesEP2",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP2",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#RestoreACATaxCredits",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RestoreACATaxCredits",
           "platform": "X/Twitter"
         },
         {
-          "title": "Karmelo Anthony",
+          "title": "#MoonshadowSeriesEP2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Karmelo%20Anthony",
+          "url": "https://twitter.com/search?q=%23MoonshadowSeriesEP2",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vindman",
+          "title": "Lautaro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vindman",
+          "url": "https://twitter.com/search?q=Lautaro",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Allergy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Allergy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "space",
+          "title": "goldie hawn",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arby's",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zack snyder",
+          "title": "sean newcomb",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robert stock",
+          "title": "amistosos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chidimma adetshina",
-          "traffic": "200",
+          "title": "carson benge",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uae",
-          "traffic": "100",
+          "title": "danny pinter",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nicaragua",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fc barcelona",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlético madrid vs málaga",
+          "title": "hamza abdelkarim",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fomc minutes",
-          "traffic": "1000",
+          "title": "derek chauvin",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "demon hunter",
+          "title": "trift glacier",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "etched",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
