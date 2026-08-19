@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:23:30.583351+00:00",
+  "updatedAt": "2026-08-19T20:53:30.582006+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RTXPowerPlays",
+          "title": "#OlandriaxCharlotteTilbury",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPowerPlays",
+          "url": "https://twitter.com/search?q=%23OlandriaxCharlotteTilbury",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LLWS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LLWS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RaiseIt",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RaiseIt",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrinityxVerizon",
+          "title": "Naruto",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrinityxVerizon",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Treasury",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Treasury",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Robert Stock",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robert%20Stock",
+          "url": "https://twitter.com/search?q=Naruto",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bill o'reilly",
+          "title": "lee kang-in",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mcdonald falls",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nathan gallagher",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aircraft pilot",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick sogard",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us airport flight disruptions",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "millie bobby brown",
+          "title": "frank gansz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "winnie brinks",
+          "title": "sons of anarchy",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jenni farley",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler warren",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "craig melvin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "landman season 3",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "purr stock",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ship",
+          "title": "azzi fudd",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yair rodriguez",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ed orgeron",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
