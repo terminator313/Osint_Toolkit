@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:49:41.604586+00:00",
+  "updatedAt": "2026-08-19T12:40:48.037051+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#映画シーン",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%BC%E3%83%B3",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Mabrey",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Mabrey",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Berkeley",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Berkeley",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Kandi",
+          "title": "#Vindman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Kandi",
+          "url": "https://twitter.com/search?q=%23Vindman",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Darline",
+          "title": "#映画シーン",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Darline",
+          "url": "https://twitter.com/search?q=%23%E6%98%A0%E7%94%BB%E3%82%B7%E3%83%BC%E3%83%B3",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#darline",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23darline",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Mabrey",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Mabrey",
           "platform": "X/Twitter"
         }
       ],
@@ -56,7 +56,22 @@
       "status": "ok",
       "items": [
         {
-          "title": "mrk stock",
+          "title": "liberia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max brosmer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan dreyer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "azzurri",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -67,41 +82,26 @@
         },
         {
           "title": "san siro",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sandra bullock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ascension st thomas drug mixup",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "natalie harp",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "karmelo anthony",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian mccaffrey",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "darline graham",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espncricinfo",
+          "title": "ascension st thomas drug mixup",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "darline graham ralph norman debate",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natalie harp",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karmelo anthony",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
