@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:37:35.865657+00:00",
+  "updatedAt": "2026-08-20T19:28:25.802320+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#HoldTheCrooksAccountable",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HoldTheCrooksAccountable",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NationalRadioDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalRadioDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "Flour",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=Flour",
           "platform": "X/Twitter"
         },
         {
-          "title": "$WMT",
+          "title": "Cofnas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24WMT",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "AJ Brown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=AJ%20Brown",
+          "url": "https://twitter.com/search?q=Cofnas",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "getafe vs partizan",
+          "title": "sutter muzzatti",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rayo vallecano - alavés",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "africa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "benfica vs agf",
+          "title": "mary peltola dan sullivan alaska primary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yahya abdul-mateen ii",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pa lottery",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ice",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sydney sweeney",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andy reid",
+          "title": "north korea news",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos alcaraz",
+          "title": "riverside county sheriff's department",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt mclain",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daz cameron",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "danny pinter",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin cramer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tulsi gabbard",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "holly rowe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
