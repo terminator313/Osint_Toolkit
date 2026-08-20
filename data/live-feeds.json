@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:30:19.718742+00:00",
+  "updatedAt": "2026-08-20T12:42:37.244725+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Forerunners",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Forerunners",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Schanz",
+          "title": "#ThursdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Schanz",
+          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "&quot;LEEK&quot;",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%22LEEK%22",
           "platform": "X/Twitter"
         },
         {
           "title": "#obx5",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23obx5",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Glitter25",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Glitter25",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "car",
+          "title": "korn ferry tour",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe rogan",
+          "title": "jake gyllenhaal",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ohio state football",
+          "title": "the duskbloods",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whio",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "renee richards",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob fields",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiempo de hoy",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clima",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "neutrogena hayden panettiere boycott",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "météo",
+          "title": "u.s. bond market sell-off",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "melania trump",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rick jackson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "larry david comments alan dershowitz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "state farm customer dividend checks",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crystal palace",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baylor genetics",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
