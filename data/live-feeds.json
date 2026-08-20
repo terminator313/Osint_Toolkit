@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T04:34:05.949183+00:00",
+  "updatedAt": "2026-08-20T05:27:10.945898+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Valkyries",
+          "title": "Magic Lover Worship",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Valkyries",
+          "url": "https://twitter.com/search?q=Magic%20Lover%20Worship",
           "platform": "X/Twitter"
         },
         {
-          "title": "Darby",
+          "title": "Vesia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Darby",
+          "url": "https://twitter.com/search?q=Vesia",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "dust storm warning",
-          "traffic": "1000",
+          "title": "power outage near me",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tanner scott",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "许家印",
+          "title": "thunder valley casino",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "go fund me",
+          "title": "heart",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gary indiana blackout",
+          "title": "serial",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kayla thornton",
+          "title": "klystron 9",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle hurt",
+          "title": "split superlatives",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "salt typhoon",
+          "title": "paul mescal",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "charlie day",
+          "title": "son heung-min",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dust storm warning",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "genesis gv90",
+          "title": "tanner scott",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
