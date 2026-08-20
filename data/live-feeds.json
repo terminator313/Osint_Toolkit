@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:56:48.166037+00:00",
+  "updatedAt": "2026-08-20T20:30:06.342868+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,7 +56,32 @@
       "status": "ok",
       "items": [
         {
-          "title": "patrick mahomes",
+          "title": "reckless ben",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike flanagan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "margaret qualley",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jaxon kohler",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy paul",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rayo vallecano",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -66,43 +91,18 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rayo vallecano",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "reds",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "france vs serbia basketball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tornado watch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bessent",
+          "title": "france vs serbia basketball",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire pits",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump crypto",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2xko",
-          "traffic": "1000",
+          "title": "tornado watch",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
