@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:31:40.170181+00:00",
+  "updatedAt": "2026-08-20T10:26:48.366884+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,6 +32,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#Joann",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Joann",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#rauw",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23rauw",
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Forerunners",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "#บวงสรวงMagicLover",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%87MagicLover",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mstr stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new iphone 18",
+          "title": "salmonella",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "celtics",
+          "title": "10tv",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nashville weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin price usd",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "motley fool",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "xrp news",
+          "title": "pakistan vs england",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident attorneys",
+          "title": "dp world tour",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tulsa weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flash flood warning",
-          "traffic": "1000",
+          "title": "alina habba",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "石油",
+          "title": "baba stock",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "st lucia kings vs guyana amazon warriors standings",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marathón - alianza",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walmart stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
