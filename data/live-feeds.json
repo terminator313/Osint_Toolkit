@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:27:10.945898+00:00",
+  "updatedAt": "2026-08-20T05:57:01.266203+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheValley",
+          "title": "#LAGalaxy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheValley",
+          "url": "https://twitter.com/search?q=%23LAGalaxy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Magic Lover Worship",
+          "title": "Kayla McBride",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Magic%20Lover%20Worship",
+          "url": "https://twitter.com/search?q=Kayla%20McBride",
           "platform": "X/Twitter"
         },
         {
-          "title": "Vesia",
+          "title": "Peyton Watson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vesia",
+          "url": "https://twitter.com/search?q=Peyton%20Watson",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "power outage near me",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thunder valley casino",
+          "title": "power outage",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "asesinato",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ps6",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike evans",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "19th amendment",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tiffany haddish",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maxx crosby",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "power outage near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thunder valley casino",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "heart",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serial",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "klystron 9",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "split superlatives",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paul mescal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "son heung-min",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dust storm warning",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tanner scott",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
