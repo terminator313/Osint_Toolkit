@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:33:40.613009+00:00",
+  "updatedAt": "2026-08-20T22:24:10.667854+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Tulsi",
+          "title": "Zork",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tulsi",
+          "url": "https://twitter.com/search?q=Zork",
           "platform": "X/Twitter"
         },
         {
-          "title": "Golden Axe",
+          "title": "Project L",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Golden%20Axe",
+          "url": "https://twitter.com/search?q=Project%20L",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "tommy lee jones",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "macará vs santos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "macará - santos",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "garrett mitchell",
+          "title": "maggie haberman",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ldu quito - mirassol",
+          "title": "iran war trump",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taiwan",
+          "title": "caitlin clark stats",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "washington dc trump construction projects",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "olimpia - vasco da gama",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "camión",
+          "title": "space exploration technologies corp.",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doris miller",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom hanks",
+          "title": "dylan larkin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeff bezos",
-          "traffic": "500",
+          "title": "yankees vs orioles prediction",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike perry",
+          "title": "olimpia vs vasco",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
