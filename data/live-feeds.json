@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:55:51.316968+00:00",
+  "updatedAt": "2026-08-20T18:37:35.865657+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WhatsShopinX",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WhatsShopinX",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NationalRadioDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalRadioDay",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#StellCrazy",
+          "title": "$WMT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StellCrazy",
+          "url": "https://twitter.com/search?q=%24WMT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brody",
+          "title": "AJ Brown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brody",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jalyx Hunt",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jalyx%20Hunt",
+          "url": "https://twitter.com/search?q=AJ%20Brown",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jessica pegula",
+          "title": "getafe vs partizan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "al-fayha vs al-hilal",
+          "title": "rayo vallecano - alavés",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "africa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "benfica vs agf",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "slide",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "executive order",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "penn state drug case",
+          "title": "yahya abdul-mateen ii",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oba femi",
-          "traffic": "200",
+          "title": "pa lottery",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rocket",
-          "traffic": "200",
+          "title": "ice",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cruise ship",
-          "traffic": "200",
+          "title": "sydney sweeney",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bond market",
-          "traffic": "200",
+          "title": "andy reid",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the pentagon",
+          "title": "carlos alcaraz",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
