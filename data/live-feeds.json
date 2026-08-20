@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:33:19.460407+00:00",
+  "updatedAt": "2026-08-20T15:30:34.784855+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ThursdayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#ThursdayMotivation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayMotivation",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NationalRadioDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalRadioDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cleo Sol",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cleo%20Sol",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LSA50ICONSxFayeAtom",
+          "title": "#LSA50ICONS2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LSA50ICONSxFayeAtom",
+          "url": "https://twitter.com/search?q=%23LSA50ICONS2026",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Economic D-Day",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Economic%20D-Day",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ghent University",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ghent%20University",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "price of gold today",
-          "traffic": "2000",
+          "title": "charley hull",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joao cancelo",
+          "title": "japan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "skhy stock",
-          "traffic": "200",
+          "title": "justin thomas",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rory mcilroy",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nike",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "venezuela",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "renaissance",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cox communications",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "north korea",
+          "title": "eric swalwell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh charles",
+          "title": "liberia",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "costco stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "delta reign",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savinho",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tommy fleetwood",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt fitzpatrick",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
