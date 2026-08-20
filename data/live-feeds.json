@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T12:42:37.244725+00:00",
+  "updatedAt": "2026-08-20T13:43:02.417876+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,12 +20,6 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HerinFramePremiereNight",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HerinFramePremiereNight",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ThursdayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ThursdayVibes",
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "&quot;LEEK&quot;",
+          "title": "#NationalRadioDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%22LEEK%22",
+          "url": "https://twitter.com/search?q=%23NationalRadioDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#obx5",
+          "title": "Cleo Sol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23obx5",
+          "url": "https://twitter.com/search?q=Cleo%20Sol",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#LSA50ICONSxFayeAtom",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LSA50ICONSxFayeAtom",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "korn ferry tour",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jake gyllenhaal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the duskbloods",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "u.s. bond market sell-off",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "melania trump",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rick jackson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "larry david comments alan dershowitz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "state farm customer dividend checks",
+          "title": "jennifer garner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crystal palace",
-          "traffic": "100",
+          "title": "rhea seehorn",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "baylor genetics",
+          "title": "emf keyboardist derran brownson passes",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donald trump state approval ratings",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "democratic party",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsay clancy trial live",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nelly korda",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "plant food",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york times games",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york state fair",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
