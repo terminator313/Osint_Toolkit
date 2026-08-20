@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:05:25.126818+00:00",
+  "updatedAt": "2026-08-20T02:35:59.239660+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetEmKnow",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetEmKnow",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#LLWS",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LLWS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Will Warren",
+          "title": "#LetEmKnow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Warren",
+          "url": "https://twitter.com/search?q=%23LetEmKnow",
           "platform": "X/Twitter"
         },
         {
-          "title": "Clock",
+          "title": "Julian Reese",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clock",
+          "url": "https://twitter.com/search?q=Julian%20Reese",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "$40 Trillion",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%2440%20Trillion",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lafc vs colorado",
+          "title": "mark manfredi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boeing",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "melanie garcia norman ok",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san jose vs la galaxy",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shakira austin",
+          "title": "sara bejlek",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "houston dynamo vs vancouver",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eric morris",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyler cameron",
+          "title": "george lombard jr.",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "abc7",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "austin vs seattle sounders",
+          "title": "san diego vs portland",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sal stewart",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tj harden",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jhoan duran",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christopher o'connell",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "megan katseye",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amber alert",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
