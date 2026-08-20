@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:57:01.266203+00:00",
+  "updatedAt": "2026-08-20T06:50:06.875557+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,8 +56,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "power outage",
-          "traffic": "500",
+          "title": "dillon danis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "noah kahan tour",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "what happened to lily hooper",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fortnite servers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kick",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is fortnite down",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,38 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike evans",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "19th amendment",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiffany haddish",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maxx crosby",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "power outage near me",
+          "title": "power outage",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thunder valley casino",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heart",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
