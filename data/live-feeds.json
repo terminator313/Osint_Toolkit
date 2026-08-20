@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:54:42.853655+00:00",
+  "updatedAt": "2026-08-20T23:23:09.657792+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WhatsShopinX",
+          "title": "#DEwx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WhatsShopinX",
+          "url": "https://twitter.com/search?q=%23DEwx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HoldTheCrooksAccountable",
+          "title": "#MAFS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HoldTheCrooksAccountable",
+          "url": "https://twitter.com/search?q=%23MAFS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zork",
+          "title": "Polymarket",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zork",
+          "url": "https://twitter.com/search?q=Polymarket",
           "platform": "X/Twitter"
         },
         {
-          "title": "Project L",
+          "title": "Elmo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Project%20L",
+          "url": "https://twitter.com/search?q=Elmo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kade anderson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serena williams",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aircraft carrier",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "columbia pa",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "star wars: ahsoka season 2",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dave bautista",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "little league world series",
+          "title": "julian reese",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fisherman",
-          "traffic": "2000",
+          "title": "yellowjackets",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl games tonight",
+          "title": "ai bubble",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fever vs wings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thursday night football",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado nyc",
+          "traffic": "200000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado warning nyc",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jenna fischer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "micron",
-          "traffic": "500",
+          "title": "aisha wahab",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose iglesias",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
