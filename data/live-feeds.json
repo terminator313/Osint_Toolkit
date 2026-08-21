@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:23:44.606707+00:00",
+  "updatedAt": "2026-08-21T19:47:13.614986+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#วาดฝันวันวิวาห์EP10",
+          "title": "#ARSCOV",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP10",
+          "url": "https://twitter.com/search?q=%23ARSCOV",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Tesla",
+          "title": "#COYG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Tesla",
+          "url": "https://twitter.com/search?q=%23COYG",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Beef",
+          "title": "#Tesla",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beef",
+          "url": "https://twitter.com/search?q=%23Tesla",
           "platform": "X/Twitter"
         },
         {
-          "title": "Apple Pay",
+          "title": "Ed Martin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Apple%20Pay",
+          "url": "https://twitter.com/search?q=Ed%20Martin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "kelly ripa mark consuelos wedding advice",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giannis antetokounmpo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami heat roster",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john sarcone us attorney appointment ruling",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "food recalls 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "speea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reckless ben",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "klay thompson",
-          "traffic": "5000",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "braves vs brewers",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miami heat",
-          "traffic": "500",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "gulf of mexico (gulf of america)",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "center for american progress",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ellis simms",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "frank lampard",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caleb yirenkyi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "larry bird",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vivienne jolie legal name change",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
