@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:20:53.671588+00:00",
+  "updatedAt": "2026-08-21T23:47:49.727639+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cruise ship",
-          "traffic": "2000",
+          "title": "broncos",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "geno smith",
+          "title": "nfl games tonight",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacksonville jaguars",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tony",
+          "title": "rico dowdle",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "soldier field",
+          "title": "adonai mitchell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yahoo fantasy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tropical storm moke",
+          "title": "david bailey",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lorenzo musetti",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bkfc",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "google play store",
+          "title": "ryan seacrest",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lpga leaderboard",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ross stores q2 sales growth",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amanda serrano",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers vs royals",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
