@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:30:00.977125+00:00",
+  "updatedAt": "2026-08-21T16:00:27.211849+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LetterboxdFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FridayVibes",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PondPhuwinConcertD1",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PondPhuwinConcertD1",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "RED Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LetterboxdFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "url": "https://twitter.com/search?q=RED%20Friday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "walmart tap to pay",
+          "title": "nfl top 100",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos alcaraz",
+          "title": "ncaa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al-riyadh vs al-nassr",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince harry privacy case payment",
+          "title": "al riyadh - al-nassr",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bonnaroo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "navigator of the seas canceled trips",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walmart tap to pay",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carlos alcaraz",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince harry privacy case payment",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "marc stad",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "old farmer's almanac",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "appletv",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leandro paredes",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pbs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "apple tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "f1 tv",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
