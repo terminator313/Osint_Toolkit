@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:08:57.577532+00:00",
+  "updatedAt": "2026-08-21T02:42:51.874074+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MAFS",
+          "title": "#Verzuz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MAFS",
+          "url": "https://twitter.com/search?q=%23Verzuz",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ZombiesArtworkSweepstakes",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ZombiesArtworkSweepstakes",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JSFamilyVacation",
+          "title": "#RaiderNation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JSFamilyVacation",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HTownMade",
+          "title": "Kayden McDonald",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HTownMade",
+          "url": "https://twitter.com/search?q=Kayden%20McDonald",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cessna",
+          "title": "RIP Irish",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cessna",
+          "url": "https://twitter.com/search?q=RIP%20Irish",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "unmanned combat aerial vehicle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "big brother vote",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dylan beavers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brie larson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "interstate 5",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jared wayne",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "seth moulton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "janelle brown",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raiders roster",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kamu big brother",
+          "title": "wnba standings",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike mcdaniel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "petanque",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stribling",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stribling 49ers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba scores",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deebo samuel",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "keylan rutledge",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "justin herbert",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kaelon black",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
