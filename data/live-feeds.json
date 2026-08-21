@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:37:55.813920+00:00",
+  "updatedAt": "2026-08-21T11:22:40.164289+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Paige",
+          "title": "Braille",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Paige",
+          "url": "https://twitter.com/search?q=Braille",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BloodyParadise",
+          "title": "Doris Miller",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BloodyParadise",
+          "url": "https://twitter.com/search?q=Doris%20Miller",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "boston weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ct lottery",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "who is natalie harp",
+          "title": "karate",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "local weather",
+          "title": "saquon barkley eagles patriots",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "forecast",
+          "title": "gasoline",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooke baldwin",
+          "title": "olivia rodrigo tour",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gary indiana blackout",
+          "title": "ukraine news",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trackhouse racing team",
+          "title": "todays weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anna faris",
-          "traffic": "200",
+          "title": "theft",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haiti",
+          "title": "penn state football",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "buckeye lake",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arsenal vs coventry",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
