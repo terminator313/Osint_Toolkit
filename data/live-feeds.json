@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:00:32.610019+00:00",
+  "updatedAt": "2026-08-21T17:55:48.903323+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,6 +32,12 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#LastFourWatched",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LastFourWatched",
@@ -42,12 +48,6 @@
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
-        },
-        {
-          "title": "#FursuitFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
         }
       ],
       "error": null
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kj biermann",
+          "title": "games",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lake powell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris yost",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "education department student loan forgiveness reversal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alisa goods",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "london johnson",
-          "traffic": "200",
+          "title": "rescue dog",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mark mitchell",
-          "traffic": "200",
+          "title": "arsenal f.c",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gap malbon",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "argentina",
+          "title": "pierre thomas qc",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the pitt season 3",
-          "traffic": "5000",
+          "title": "madison keys",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dassault rafale",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl top 100",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ncaa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dinosaur",
-          "traffic": "500",
+          "title": "kamu kirk big brother interview",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
