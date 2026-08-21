@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:34:40.044128+00:00",
+  "updatedAt": "2026-08-21T19:23:44.606707+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#Tesla",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23Tesla",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetterboxdFriday",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
+          "title": "Apple Pay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "url": "https://twitter.com/search?q=Apple%20Pay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "galatasaray",
-          "traffic": "1000",
+          "title": "klay thompson",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jimmy tatro",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "posiciones de al riyadh contra al-nassr",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real betis - real sociedad",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "betis vs real sociedad",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marseille vs strasbourg",
+          "title": "braves vs brewers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fannie mae",
+          "title": "miami heat",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "premier league standings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bejlek",
+          "title": "gulf of mexico (gulf of america)",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bejlek tennis",
+          "title": "center for american progress",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ellis simms",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frank lampard",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "caleb yirenkyi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "larry bird",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vivienne jolie legal name change",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
