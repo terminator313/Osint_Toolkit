@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:59:39.092381+00:00",
+  "updatedAt": "2026-08-21T10:37:55.813920+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BloodyParadise",
+          "title": "Paige",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BloodyParadise",
+          "url": "https://twitter.com/search?q=Paige",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ENHYPEN",
+          "title": "#BloodyParadise",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ENHYPEN",
+          "url": "https://twitter.com/search?q=%23BloodyParadise",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "price of silver",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "world cup",
+          "title": "boston weather",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eth price",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alaska plane crash",
+          "title": "ct lottery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mstr stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "why is crypto going up today",
+          "title": "who is natalie harp",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market news today",
-          "traffic": "1000",
+          "title": "local weather",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mstr",
-          "traffic": "500",
+          "title": "forecast",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "isla fisher",
+          "title": "brooke baldwin",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gary indiana blackout",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fidelity bitcoin",
+          "title": "trackhouse racing team",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anna faris",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haiti",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
