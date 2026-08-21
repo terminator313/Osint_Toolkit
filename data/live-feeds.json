@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:22:30.711271+00:00",
+  "updatedAt": "2026-08-21T20:49:05.910805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Tesla",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Tesla",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ed Martin",
+          "title": "QC P",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ed%20Martin",
+          "url": "https://twitter.com/search?q=QC%20P",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#FursuitFriday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "demar derozan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bruno mars metlife",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "junior tuihalamaka",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sam smith",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor fritz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bundesliga",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "earth wind fire john paris recovery",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "phil handy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wind advisory",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "the new york times",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alianza atlético - sporting cristal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kyrie irving",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wardogs beta",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "martinelli",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jelly roll wife bunnie xo split",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "police raid",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly ripa mark consuelos wedding advice",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john sarcone us attorney appointment ruling",
-          "traffic": "2000",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
