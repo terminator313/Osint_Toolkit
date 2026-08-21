@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:49:05.910805+00:00",
+  "updatedAt": "2026-08-21T21:21:27.972878+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "demar derozan",
-          "traffic": "1000",
+          "title": "severe thunderstorm watch",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruno mars metlife",
+          "title": "former queen bassist barry mitchell passes",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "junior tuihalamaka",
-          "traffic": "500",
+          "title": "william contreras",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sam smith",
-          "traffic": "500",
+          "title": "wect",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor fritz",
+          "title": "chuck schumer",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zay jones",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bundesliga",
+          "title": "georgina rodríguez",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "denver nuggets",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin keegan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earth wind fire john paris recovery",
+          "title": "david harbour avengers doomsday spoiler",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phil handy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wind advisory",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the new york times",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
