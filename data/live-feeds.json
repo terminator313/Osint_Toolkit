@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:55:48.903323+00:00",
+  "updatedAt": "2026-08-21T18:34:40.044128+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetterboxdFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LastFourWatched",
+          "title": "#LetterboxdFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Beef",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Beef",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "games",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lake powell",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris yost",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "education department student loan forgiveness reversal",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alisa goods",
+          "title": "galatasaray",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rescue dog",
+          "title": "jimmy tatro",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "posiciones de al riyadh contra al-nassr",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real betis - real sociedad",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "betis vs real sociedad",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marseille vs strasbourg",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arsenal f.c",
+          "title": "fannie mae",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pierre thomas qc",
-          "traffic": "2000",
+          "title": "premier league standings",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "madison keys",
-          "traffic": "2000",
+          "title": "bejlek",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kamu kirk big brother interview",
-          "traffic": "2000",
+          "title": "bejlek tennis",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
