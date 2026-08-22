@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:56:12.535452+00:00",
+  "updatedAt": "2026-08-22T08:29:37.724443+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,6 +56,11 @@
       "status": "ok",
       "items": [
         {
+          "title": "twitch tv",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "police",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -81,13 +86,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "plane",
-          "traffic": "2000",
+          "title": "reinier de ridder",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reinier de ridder",
-          "traffic": "100",
+          "title": "red flag (fire weather) warning",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -97,12 +102,7 @@
         },
         {
           "title": "lord of mysteries game",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "orlando anderson",
-          "traffic": "100",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
