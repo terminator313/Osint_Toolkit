@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:05:10.278269+00:00",
+  "updatedAt": "2026-08-22T02:34:11.014752+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Broderick Jones",
+          "title": "#OPNation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Broderick%20Jones",
+          "url": "https://twitter.com/search?q=%23OPNation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Raffy",
+          "title": "Klay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Raffy",
+          "url": "https://twitter.com/search?q=Klay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "reds vs diamondbacks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gabby williams",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carter bradley",
+          "title": "malik willis",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pamela anderson",
+          "title": "jarrett stidham",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicken recalled",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "little league world series scores",
+          "title": "khsaa scoreboard",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "busch stadium",
+          "title": "ihsa football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bishop gorman football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juárez - américa",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portland fire",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aj dillon",
+          "title": "trey smack",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colson montgomery",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kaleb johnson",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al pacino",
+          "title": "davis webb",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
