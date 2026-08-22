@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T08:29:37.724443+00:00",
+  "updatedAt": "2026-08-22T08:58:39.468142+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#PondPhuwinConcertD2",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PondPhuwinConcertD2",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#DuelClav",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DuelClav",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DuelMogs",
+          "title": "Leo Rivas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DuelMogs",
+          "url": "https://twitter.com/search?q=Leo%20Rivas",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PondPhuwinConcertD2",
+          "title": "Alek Thomas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PondPhuwinConcertD2",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "PONDPHUWIN SOUL ODYSSEY",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=PONDPHUWIN%20SOUL%20ODYSSEY",
+          "url": "https://twitter.com/search?q=Alek%20Thomas",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,43 @@
       "status": "ok",
       "items": [
         {
+          "title": "d",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "philadelphia phillies game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ea",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barack obama",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christa pike",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ps5 pro",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "twitch tv",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "police",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,37 +101,7 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquakes today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "margot robbie",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psychiatrist",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reinier de ridder",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red flag (fire weather) warning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "interstate 15",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lord of mysteries game",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
