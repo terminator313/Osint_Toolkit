@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:18:12.669191+00:00",
+  "updatedAt": "2026-08-22T23:44:52.011340+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#UFCFightNight",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UFCFightNight",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RamsHouse",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RamsHouse",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DawgPound",
+          "title": "Counting Stars",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DawgPound",
+          "url": "https://twitter.com/search?q=Counting%20Stars",
           "platform": "X/Twitter"
         },
         {
-          "title": "Canada",
+          "title": "Jameis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Canada",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Vini",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Vini",
+          "url": "https://twitter.com/search?q=Jameis",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jeremy clarkson",
+          "title": "tiafoe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryan de la cruz",
+          "title": "barcelona sc - orense",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giants - red sox",
+          "title": "aeropuerto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "willy adames",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leonie fiebich",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh johnson nfl",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonquel jones",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "september 2026 visa bulletin",
-          "traffic": "5000",
+          "title": "kinley rasmus",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ceviche",
+          "title": "indiana fever game",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seattle sounders vs cincinnati",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chicago vs ny red bulls",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cruzeiro x flamengo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cruzeiro vs flamengo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "salt lake vs orlando city",
-          "traffic": "500",
+          "title": "ja'quinden jackson",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
