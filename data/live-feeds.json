@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:48:21.030774+00:00",
+  "updatedAt": "2026-08-22T11:18:16.183525+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wehen wiesbaden vs leverkusen",
-          "traffic": "200",
+          "title": "spelling bee nyt",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "f1 schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indianapolis weather",
+          "title": "mets score",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "greenland",
-          "traffic": "100",
+          "title": "it",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "american airlines laptop fire dfw",
+          "title": "birmingham vs bristol city",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deportation",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scottie scheffler bmw championship performance",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nueva york",
+          "title": "liga española",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "world news",
+          "title": "weather.com",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather philadelphia",
-          "traffic": "100",
+          "title": "hull vs man united",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple tv",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "today's weather",
-          "traffic": "200",
+          "title": "f1",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
