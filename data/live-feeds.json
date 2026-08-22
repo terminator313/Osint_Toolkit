@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:18:16.183525+00:00",
+  "updatedAt": "2026-08-22T11:44:49.411884+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spelling bee nyt",
+          "title": "la liga",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peacock",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets score",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "it",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "birmingham vs bristol city",
+          "title": "fubo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deportation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scottie scheffler bmw championship performance",
+          "title": "college football",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liga española",
+          "title": "when does college football start",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dc weather",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather.com",
-          "traffic": "1000",
+          "title": "universo",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hull vs man united",
-          "traffic": "10000",
+          "title": "fubotv",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "f1",
-          "traffic": "1000",
+          "title": "nbc sports",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "charlotte weather",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
