@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:52:31.567191+00:00",
+  "updatedAt": "2026-08-22T06:35:22.928510+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DuelClav",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DuelClav",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#stakescam",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23stakescam",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#DuelMogs",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DuelMogs",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SmackDown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ROHDBD",
+          "title": "Henry Davis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ROHDBD",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#OPLive",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kyle Hurt",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyle%20Hurt",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Serrano",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Serrano",
+          "url": "https://twitter.com/search?q=Henry%20Davis",
           "platform": "X/Twitter"
         }
       ],
@@ -56,12 +56,22 @@
       "status": "ok",
       "items": [
         {
-          "title": "fc juárez vs club américa standings",
-          "traffic": "10000",
+          "title": "selena gomez",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers",
+          "title": "gypsy rose",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cbs news",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fc juárez vs club américa standings",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -71,17 +81,12 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy edman",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "san andreas fault",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prison break",
+          "title": "dodger",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -91,18 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "apple iphone 18 pro",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mason montgomery",
+          "title": "prison break",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners game today",
-          "traffic": "500",
+          "title": "apple iphone 18 pro",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
