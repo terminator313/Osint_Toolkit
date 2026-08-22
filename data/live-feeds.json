@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:01:23.183752+00:00",
+  "updatedAt": "2026-08-22T05:52:31.567191+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#smackdown",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23smackdown",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Sydney Taylor",
+          "title": "Kyle Hurt",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sydney%20Taylor",
+          "url": "https://twitter.com/search?q=Kyle%20Hurt",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sami",
+          "title": "Serrano",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sami",
+          "url": "https://twitter.com/search?q=Serrano",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "alex bregman",
-          "traffic": "1000",
+          "title": "fc juárez vs club américa standings",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luke weaver",
-          "traffic": "200",
+          "title": "dodgers",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ian happ",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "crypto",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "solana price",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jrue holiday",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "social security 2027 cola projections",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "just like heaven 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bankruptcy",
+          "title": "querétaro f.c. vs toluca fc standings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "toluca",
+          "title": "tommy edman",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san andreas fault",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prison break",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eth",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple iphone 18 pro",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mason montgomery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mariners game today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
