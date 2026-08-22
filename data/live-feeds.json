@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:18:40.383840+00:00",
+  "updatedAt": "2026-08-22T22:47:04.764507+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,15 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Browns",
+          "title": "#RamsHouse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Browns",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Falcons",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Falcons",
+          "url": "https://twitter.com/search?q=%23RamsHouse",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Mark Ruffalo",
+          "title": "Canada",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mark%20Ruffalo",
+          "url": "https://twitter.com/search?q=Canada",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Vini",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Vini",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "fever vs liberty",
+          "title": "bryan randall",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paramount+ weekend streaming recommendations",
+          "title": "ncis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bret michaels",
+          "title": "buford vs gainesville",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "macaulay culkin",
+          "title": "alex cook",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patriots schedule",
-          "traffic": "1000",
+          "title": "guadalajara - tijuana",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seattle reign fc vs kc current",
+          "title": "prince william",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guardians of the galaxy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "classement espanyol – real madrid",
-          "traffic": "500",
+          "title": "guadalajara vs club tijuana",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espn fantasy football",
+          "title": "chris padilla",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aaron donald",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hannah mcnair",
+          "title": "ryan kuse",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
