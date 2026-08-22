@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:18:45.462331+00:00",
+  "updatedAt": "2026-08-22T21:45:09.799874+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Browns",
+          "title": "#UFCSacramento",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Browns",
+          "url": "https://twitter.com/search?q=%23UFCSacramento",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DawgPound",
+          "title": "#Browns",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DawgPound",
+          "url": "https://twitter.com/search?q=%23Browns",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Dumfries",
+          "title": "#DawgPound",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dumfries",
+          "url": "https://twitter.com/search?q=%23DawgPound",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jake Bauers",
+          "title": "Mark Ruffalo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jake%20Bauers",
+          "url": "https://twitter.com/search?q=Mark%20Ruffalo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
+          "title": "chivas vs tijuana",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "celina high school quarterback parker wynk",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gauge young",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "memphis weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bears vs bengals",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eagles vs patriots",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "devin singletary",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "tornado warning cleveland",
           "traffic": "200000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "j j mccarthy",
-          "traffic": "2000",
+          "title": "tolima - bucaramanga",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "cucurella",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants depth chart",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "devon achane",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tolima - bucaramanga",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "scooter braun",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "odell beckham jr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis garcía jr.",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike mcdaniel",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
