@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:43:19.107956+00:00",
+  "updatedAt": "2026-08-23T03:48:14.614805+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Harrison Butker",
+          "title": "Rodrigues",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harrison%20Butker",
+          "url": "https://twitter.com/search?q=Rodrigues",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dolidze",
+          "title": "Nick Sogard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dolidze",
+          "url": "https://twitter.com/search?q=Nick%20Sogard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "yoenli hernandez",
-          "traffic": "500",
+          "title": "padres",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lionel messi",
-          "traffic": "10000",
+          "title": "camden brown",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "malik davis",
+          "title": "padres game today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sf giants",
+          "title": "melissa mccarthy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dazn boxing",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saturday night live",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon aubrey",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gilberto mora",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ricardo marín",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis torrens",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sean strickland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rockies game",
+          "title": "sdfc",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike lafleur",
+          "title": "caleb downs",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cruz azul - atlas",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
