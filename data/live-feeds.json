@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:36:25.907702+00:00",
+  "updatedAt": "2026-08-23T07:30:51.291893+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Boxing",
+          "title": "#boxing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Boxing",
+          "url": "https://twitter.com/search?q=%23boxing",
           "platform": "X/Twitter"
         },
         {
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Nakayama Festa",
+          "title": "Maxwell Smart",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nakayama%20Festa",
+          "url": "https://twitter.com/search?q=Maxwell%20Smart",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,16 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "family horror movie",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tropical storm moke",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "ox alpha",
           "traffic": "200",
@@ -92,16 +102,6 @@
         },
         {
           "title": "irumudi movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cricbuzz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "penelope cruz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
