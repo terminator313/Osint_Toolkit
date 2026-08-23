@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:47:07.709213+00:00",
+  "updatedAt": "2026-08-23T23:17:57.896305+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NASCAR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#TNALockdown",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TNALockdown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Freedom250",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Freedom250",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Charmin",
+          "title": "#DollarTree301",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Charmin",
+          "url": "https://twitter.com/search?q=%23DollarTree301",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mike Washington",
+          "title": "Kiera Hogan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mike%20Washington",
+          "url": "https://twitter.com/search?q=Kiera%20Hogan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Bubba",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Bubba",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "san luis - pachuca",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian mccaffrey",
+          "title": "celine dion",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sporting kc vs atlanta united",
-          "traffic": "1000",
+          "title": "atlanta united",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves vs brewers prediction",
-          "traffic": "1000",
+          "title": "universitario - chankas cyc",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aces vs tempo",
+          "title": "sue bird",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "braves - brewers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mystics vs fire",
-          "traffic": "1000",
+          "title": "kiera hogan",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seahawks vs titans",
-          "traffic": "1000",
+          "title": "aimee teegarden",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fever vs sky",
-          "traffic": "10000",
+          "title": "fantasy footballers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael la sasso",
-          "traffic": "1000",
+          "title": "best defense for fantasy football 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jenna bush hager family vacation",
-          "traffic": "1000",
+          "title": "sunday night football",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
