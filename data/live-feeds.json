@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:31:05.814378+00:00",
+  "updatedAt": "2026-08-23T10:20:32.682658+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "PONDPHUWIN ETERNAL STAR",
+          "title": "#Amadeus",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=PONDPHUWIN%20ETERNAL%20STAR",
+          "url": "https://twitter.com/search?q=%23Amadeus",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
+          "title": "rickie fowler bmw championship",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ross coulthart",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill ackman",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naruto",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dijonai carrington chicago sky status",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "draftkings",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "housing market",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "home prices",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "tokyo japan earthquake today",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "san andreas fault",
           "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "engagement rings",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather philadelphia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "theo james",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lioness season 3 episode 4",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "family horror movie",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tropical storm moke",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "japan tokyo earthquake today",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "progressive",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
