@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:48:05.618185+00:00",
+  "updatedAt": "2026-08-23T21:18:47.096045+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#IndyCar",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IndyCar",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NASCAR",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wirtz",
+          "title": "#IndyCar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wirtz",
+          "url": "https://twitter.com/search?q=%23IndyCar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxBETVlog",
+          "title": "Zilisch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxBETVlog",
+          "url": "https://twitter.com/search?q=Zilisch",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Raphinha",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Raphinha",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "phillies schedule",
+          "title": "hurricanes weather",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george lombard jr.",
-          "traffic": "1000",
+          "title": "bmw championship payout",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reds game today",
+          "title": "lake bachar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daequan wright",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rory mcilroy",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frances tiafoe",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran president",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astros game",
+          "title": "santos vs mirassol",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "one piece sneakers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryan de la cruz",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sunday night main event",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies game",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katseye billboard 200 number one wild",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies score",
-          "traffic": "10000",
+          "title": "tristan peters",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
