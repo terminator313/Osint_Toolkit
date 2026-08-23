@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:21:38.534293+00:00",
+  "updatedAt": "2026-08-23T19:44:34.637399+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NEWLIV",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEWLIV",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#IndyCar",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23IndyCar",
           "platform": "X/Twitter"
         },
         {
-          "title": "Charmin",
+          "title": "Tiger",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Charmin",
+          "url": "https://twitter.com/search?q=Tiger",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NASCAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "kalshi",
+          "title": "matt wilkinson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm vs wings",
+          "title": "how many innings in little league world series",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giants - red sox",
+          "title": "besiktas",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elche – barcelone",
-          "traffic": "200",
+          "title": "jake bennett",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jessica alba",
+          "title": "andrew sears",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ronald acuna jr",
+          "title": "ozzie albies",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "u. de chile - colo-colo",
+          "title": "karim adeyemi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jose altuve",
+          "title": "orlando pride vs washington spirit",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christa gail pike",
-          "traffic": "200",
+          "title": "porto vs arouca",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "austin wells",
+          "title": "pga scores",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
