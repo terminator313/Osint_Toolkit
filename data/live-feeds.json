@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:48:45.410583+00:00",
+  "updatedAt": "2026-08-23T15:19:07.330477+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Blessed Sunday",
+          "title": "Verstappen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blessed%20Sunday",
+          "url": "https://twitter.com/search?q=Verstappen",
           "platform": "X/Twitter"
         },
         {
-          "title": "Return to Lucia",
+          "title": "Ferrari",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Return%20to%20Lucia",
+          "url": "https://twitter.com/search?q=Ferrari",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "tim scott",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phil foden",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl week 1",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrea kimi antonelli",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "james talarico",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ashley hinson",
+          "title": "boeing 737 max",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump administration strait of hormuz",
+          "title": "atletico de madrid",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "le havre vs monaco",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "financial crisis",
+          "title": "mo salah",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harold varner iii",
+          "title": "labor day weekend 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jérémy jacquet",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kate middleton new hair crathie kirk",
+          "title": "barcelona",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "football today",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sugar",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xavier becerra",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
