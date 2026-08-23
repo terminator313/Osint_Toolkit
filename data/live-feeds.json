@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:26:25.931061+00:00",
+  "updatedAt": "2026-08-23T08:57:30.087994+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OtherworldParade",
+          "title": "#JAMESFromHereToAlways",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OtherworldParade",
+          "url": "https://twitter.com/search?q=%23JAMESFromHereToAlways",
           "platform": "X/Twitter"
         },
         {
-          "title": "#boxing",
+          "title": "#OtherworldParade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23boxing",
+          "url": "https://twitter.com/search?q=%23OtherworldParade",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Austin McBroom",
+          "title": "#PYPD_BIRTHDAY_PARTY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Austin%20McBroom",
+          "url": "https://twitter.com/search?q=%23PYPD_BIRTHDAY_PARTY",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nakayama Festa",
+          "title": "PONDPHUWIN ETERNAL STAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nakayama%20Festa",
+          "url": "https://twitter.com/search?q=PONDPHUWIN%20ETERNAL%20STAR",
           "platform": "X/Twitter"
         }
       ],
@@ -56,8 +56,8 @@
       "status": "ok",
       "items": [
         {
-          "title": "latoya malcolm",
-          "traffic": "5000",
+          "title": "engagement rings",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -68,11 +68,6 @@
         {
           "title": "theo james",
           "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "f1 race",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -101,8 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "progressive",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "ox alpha",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
