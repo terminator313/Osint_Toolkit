@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:57:30.087994+00:00",
+  "updatedAt": "2026-08-23T09:31:05.814378+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,6 +56,16 @@
       "status": "ok",
       "items": [
         {
+          "title": "home prices",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san andreas fault",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "engagement rings",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -81,11 +91,6 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "covid summer wave",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "tropical storm moke",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -97,11 +102,6 @@
         },
         {
           "title": "progressive",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ox alpha",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
