@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T05:35:37.070209+00:00",
+  "updatedAt": "2026-08-24T06:53:09.266503+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#LaCasaDeLosFamososMéxico",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososM%C3%A9xico",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BaddiesUSA",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHUGT",
+          "title": "Flor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHUGT",
+          "url": "https://twitter.com/search?q=Flor",
           "platform": "X/Twitter"
         },
         {
-          "title": "Seahawks",
+          "title": "Cam Ward",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Seahawks",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Will Levis",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Levis",
+          "url": "https://twitter.com/search?q=Cam%20Ward",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "citi",
-          "traffic": "2000",
+          "title": "psychiatrist",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gamescom 2026",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gal gadot",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jrue holiday",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harrison butker 69 yard field goal",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "citibank",
-          "traffic": "500",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "citi",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -77,31 +102,6 @@
         },
         {
           "title": "phoenix weather",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serena joy olivia rodrigo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick jonas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "haboob",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "suicide squad",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wild horses",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
