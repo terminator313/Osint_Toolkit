@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:36:50.936818+00:00",
+  "updatedAt": "2026-08-24T22:22:57.503497+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#TheFive",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TheFive",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#jimromeonx",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23jimromeonx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#stayselcaday",
+          "title": "Sanders",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stayselcaday",
+          "url": "https://twitter.com/search?q=Sanders",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ontario",
+          "title": "Gonzalo Garcia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ontario",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Youngstown",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Youngstown",
+          "url": "https://twitter.com/search?q=Gonzalo%20Garcia",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "s&p 500",
-          "traffic": "5000",
+          "title": "abelardo de la espriella",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "claire liu",
+          "title": "rockies vs nationals",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "olivia jade",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "geena davis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt bair",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump administration mass visa revocation",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump beef",
+          "title": "tulsa king season 4",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "people coming out manhattan sewer",
+          "title": "valve 30th anniversary",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael beasley",
-          "traffic": "200",
+          "title": "spacex news",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaden hardy",
-          "traffic": "200",
+          "title": "red sox vs marlins",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays vs tigers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joseph olmo leaves nbc washington",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump accounts",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "strait of hormuz news",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
