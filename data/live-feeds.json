@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:53:09.266503+00:00",
+  "updatedAt": "2026-08-24T07:55:48.877746+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Flor",
+          "title": "Jeanty",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Flor",
+          "url": "https://twitter.com/search?q=Jeanty",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cam Ward",
+          "title": "Titans",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cam%20Ward",
+          "url": "https://twitter.com/search?q=Titans",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "me",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "la",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "loans",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "psychiatrist",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "gamescom 2026",
-          "traffic": "100",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -71,13 +91,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jrue holiday",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "harrison butker 69 yard field goal",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -86,23 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "citi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
           "title": "arizona state sun devils football",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "san diego weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phoenix weather",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
