@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:33:38.984622+00:00",
+  "updatedAt": "2026-08-24T17:28:10.591960+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,12 +26,6 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Tesla",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Tesla",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#DawgPound",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23DawgPound",
@@ -44,9 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Dana Brown",
+          "title": "Sheduer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dana%20Brown",
+          "url": "https://twitter.com/search?q=Sheduer",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Youngstown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Youngstown",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nico gonzalez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "college",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serena joy",
+          "title": "nicholas hoult",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chelsea",
+          "title": "drummer",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bessent",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brian urlacher",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "volkswagen tukan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james bond",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "justin topa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "simon cowell missing agt live shows",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bologna vs lazio",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thomas kean jr.",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ilhan omar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "serayah",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "h1b",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "st lucie county tornado warning",
+          "title": "osasuna - levante",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "osasuna vs levante",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
