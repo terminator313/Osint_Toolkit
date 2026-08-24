@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:44:31.847075+00:00",
+  "updatedAt": "2026-08-24T01:08:19.431853+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
+          "title": "#BaddiesUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DollarTree301",
+          "title": "#BaddiesGoneWild",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DollarTree301",
+          "url": "https://twitter.com/search?q=%23BaddiesGoneWild",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kiera Hogan",
+          "title": "Blaney",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kiera%20Hogan",
+          "url": "https://twitter.com/search?q=Blaney",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bubba",
+          "title": "Cody Barton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bubba",
+          "url": "https://twitter.com/search?q=Cody%20Barton",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "coco gauff",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dakota johnson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lexie hull",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gotham vs angel city fc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "courtney vandersloot",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roughriders vs lions",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lpga leaderboard",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "garrett mitchell",
+          "title": "kelsey mitchell",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete crow-armstrong",
+          "title": "chris sale",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fedex top 30",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "natasha cloud",
-          "traffic": "500",
+          "title": "russell wilson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "darwin blanch",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "broncos depth chart",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chargers depth chart",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "enes kanter wnba",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sidney poitier",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacardia wright",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
