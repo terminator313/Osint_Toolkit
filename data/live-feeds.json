@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:43:41.349163+00:00",
+  "updatedAt": "2026-08-24T13:49:22.339574+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#BLINGY",
+          "title": "#APlagueTale",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLINGY",
+          "url": "https://twitter.com/search?q=%23APlagueTale",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Corvair",
+          "title": "#BLINGY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Corvair",
+          "url": "https://twitter.com/search?q=%23BLINGY",
           "platform": "X/Twitter"
         },
         {
-          "title": "$CYBERLEEK",
+          "title": "Solana $SOL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24CYBERLEEK",
+          "url": "https://twitter.com/search?q=Solana%20%24SOL",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "adam scott",
+          "title": "gordon ramsay",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bqe",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "deshaun watson contract",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taylor swift travis kelce wedding leak",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hydraulic grapple",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "good good golf ad",
+          "title": "dana brown",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dario amodei",
-          "traffic": "200",
+          "title": "lindsay clancy trial live",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paige spiranac",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "denver nuggets",
+          "title": "mstr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "august 24",
+          "title": "17-0",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "faizon brandon",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "2027 social security cola forecast",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disney nfl",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "william lawrence",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami dade college",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
