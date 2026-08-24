@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:52:34.851095+00:00",
+  "updatedAt": "2026-08-24T23:19:43.176266+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -56,18 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "nevada",
-          "traffic": "2000",
+          "title": "rangers vs white sox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "monday night raw",
-          "traffic": "200",
+          "title": "allen robinson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dolly parton health update",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeannette vargas immigrant visa decision",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wwe raw",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "target halloween costume",
-          "traffic": "200",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nevada",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -76,33 +96,13 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "artificial intelligence",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "kwanza jones",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "celebrity",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "abelardo de la espriella",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rockies vs nationals",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tulsa king season 4",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "valve 30th anniversary",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
