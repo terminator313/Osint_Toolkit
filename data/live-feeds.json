@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:40:55.736641+00:00",
+  "updatedAt": "2026-08-24T05:35:37.070209+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Sprained",
+          "title": "Seahawks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sprained",
+          "url": "https://twitter.com/search?q=Seahawks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sonya Massey",
+          "title": "Will Levis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sonya%20Massey",
+          "url": "https://twitter.com/search?q=Will%20Levis",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,28 @@
       "status": "ok",
       "items": [
         {
-          "title": "phoenix weather",
+          "title": "citi",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "citibank",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dust storm warning",
-          "traffic": "500",
+          "title": "arizona state sun devils football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phoenix weather",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -72,17 +87,12 @@
         },
         {
           "title": "nick jonas",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dust storm",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "내일 날씨",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haboob",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -92,16 +102,6 @@
         },
         {
           "title": "wild horses",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uss abraham lincoln",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mayar sherif",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
