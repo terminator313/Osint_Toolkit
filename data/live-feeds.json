@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:46:18.749705+00:00",
+  "updatedAt": "2026-08-24T09:43:50.312464+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#BLINGY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BLINGY",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#LaCasaDeLosFamososMéxico",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososM%C3%A9xico",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSA",
+          "title": "Natasha Cloud",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSA",
+          "url": "https://twitter.com/search?q=Natasha%20Cloud",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jeanty",
+          "title": "Karina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jeanty",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Titans",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Titans",
+          "url": "https://twitter.com/search?q=Karina",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "negan",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oil price",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "覃伟中",
+          "title": "language learning",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giá vàng hôm nay",
+          "title": "climate change",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nvidia earnings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "プロ野球 速報",
+          "title": "hospital",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "天気",
+          "title": "labor day 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather forecast",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tesla stock",
+          "title": "laptop",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chief",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pizza",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "simone biles",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
