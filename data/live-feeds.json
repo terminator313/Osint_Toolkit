@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T10:34:39.554391+00:00",
+  "updatedAt": "2026-08-24T11:25:10.234496+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BLINGY",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BLINGY",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#MondayMotivation",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BLINGY",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BLINGY",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Karina",
+          "title": "#gtavıleak",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Karina",
+          "url": "https://twitter.com/search?q=%23gtav%C4%B1leak",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaCasaDeLosFamososMéxico",
+          "title": "Karina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososM%C3%A9xico",
+          "url": "https://twitter.com/search?q=Karina",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dow jones futures",
+          "title": "garrett crochet",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alica schmidt",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ana de armas",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncaa football schedule",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage rates",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bitcoin price usd",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mstr stock",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cricbuzz",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim mcgraw and the chicks",
+          "title": "chris kuper",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "forecast",
+          "title": "current mortgage rates",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michigan state police",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lanterns john stewart",
+          "title": "melania trump",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "when is labor day",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the walking dead: dead city season 3",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "los angeles dodgers tarik skubal",
-          "traffic": "100",
+          "title": "india vs sri lanka",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
