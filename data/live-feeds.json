@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:19:43.176266+00:00",
+  "updatedAt": "2026-08-24T23:45:40.480020+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FULCHE",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FULCHE",
+          "url": "https://twitter.com/search?q=%23WWERaw",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RawOnNetflix",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RawOnNetflix",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#jimromeonx",
+          "title": "Dybala",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jimromeonx",
+          "url": "https://twitter.com/search?q=Dybala",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sanders",
+          "title": "Penders",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sanders",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Gonzalo Garcia",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gonzalo%20Garcia",
+          "url": "https://twitter.com/search?q=Penders",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "rangers vs white sox",
+          "title": "dolly parton",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "allen robinson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dolly parton health update",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jeannette vargas immigrant visa decision",
+          "title": "alycia parks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wwe raw",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "target halloween costume",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nevada",
+          "title": "valkyries vs lynx",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lucha libre mexicana",
+          "title": "kinley rasmus",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "botafogo - paranaense",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "artificial intelligence",
+          "title": "new york knicks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kwanza jones",
+          "title": "north west",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coleman wong",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wcsd",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stefanos tsitsipas",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
