@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:28:04.833954+00:00",
+  "updatedAt": "2026-08-24T20:59:52.718395+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#jimromeonx",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23jimromeonx",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#stayselcaday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23stayselcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BrinityxMaybelline",
+          "title": "Ontario",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BrinityxMaybelline",
+          "url": "https://twitter.com/search?q=Ontario",
           "platform": "X/Twitter"
         },
         {
-          "title": "Matt Ryan",
+          "title": "Youngstown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Matt%20Ryan",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "0.5 ETH",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=0.5%20ETH",
+          "url": "https://twitter.com/search?q=Youngstown",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "shaedon sharpe",
+          "title": "thunderstorm",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "malaga fc",
-          "traffic": "500",
+          "title": "cruz hewitt",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spencer johnson",
+          "title": "why we should stop eating lettuce",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trey benson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete hegseth",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "donyell malen",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zxavian harris",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karen solomon worcester ma",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shaedon sharpe",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "yanis yushvaev",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "perseids",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sony playstation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nate bargatze",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emily compagno",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ty chandler",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "us postal service election regulations",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
