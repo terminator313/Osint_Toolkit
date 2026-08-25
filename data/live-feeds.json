@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:59:19.507659+00:00",
+  "updatedAt": "2026-08-25T18:49:51.050215+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "#skel",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23skel",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#1YearOfMansBestFriend",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%231YearOfMansBestFriend",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BlueWaveIn70Days",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn70Days",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#skel",
+          "title": "Oilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23skel",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Panthers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Panthers",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "John Ratcliffe",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=John%20Ratcliffe",
+          "url": "https://twitter.com/search?q=Oilers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "kenneth walker",
+          "title": "populism",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liam delap",
+          "title": "usa today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "monarch",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al-ettifaq vs al-nassr",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaafar jackson",
+          "title": "reuters",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joey porter jr",
+          "title": "ap",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lask vs celtic",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nba 2k27 release date",
+          "title": "pentagon",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nhl",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael weatherly ncis season 24",
+          "title": "valencia vs betis",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "international sanctions against iran",
+          "title": "valencia c. f. - real betis",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump age",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "msnbc",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
