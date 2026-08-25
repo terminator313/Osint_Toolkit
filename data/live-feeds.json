@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:28:47.817542+00:00",
+  "updatedAt": "2026-08-25T05:59:40.184774+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Supreme Court",
+          "title": "SCOTUS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Supreme%20Court",
+          "url": "https://twitter.com/search?q=SCOTUS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brink",
+          "title": "Girl Scout",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brink",
+          "url": "https://twitter.com/search?q=Girl%20Scout",
           "platform": "X/Twitter"
         }
       ],
@@ -55,6 +55,21 @@
     "googleTrends": {
       "status": "ok",
       "items": [
+        {
+          "title": "mexicali",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "economic d day",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "philippine airlines",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
         {
           "title": "brett goldstein",
           "traffic": "200",
@@ -82,27 +97,12 @@
         },
         {
           "title": "christian styles death",
-          "traffic": "500",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "donna vekic",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el cholo ivan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al west standings",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manny machado",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
