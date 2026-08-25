@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:41:37.546925+00:00",
+  "updatedAt": "2026-08-25T15:39:11.818882+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GoldenProducerBangChan",
+          "title": "#1YearOfMansBestFriend",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoldenProducerBangChan",
+          "url": "https://twitter.com/search?q=%231YearOfMansBestFriend",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "#lunéselcaday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=%23lun%C3%A9selcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayMotivation",
+          "title": "#LUNÉJidoriDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=%23LUN%C3%89JidoriDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "The SEC",
+          "title": "Illini",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20SEC",
+          "url": "https://twitter.com/search?q=Illini",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lake New York",
+          "title": "Mac mini",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lake%20New%20York",
+          "url": "https://twitter.com/search?q=Mac%20mini",
           "platform": "X/Twitter"
         }
       ],
@@ -56,13 +56,38 @@
       "status": "ok",
       "items": [
         {
-          "title": "oil",
+          "title": "the fall guy streaming success",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
+          "title": "bryan avila",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elizabeth hurley",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "current events",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "band",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oil",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "daniel diemer",
-          "traffic": "1000",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -78,31 +103,6 @@
         {
           "title": "mn state fair",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mikayla demaiter",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aura farming",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john f kennedy center for the performing arts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "policía",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "executive privilege",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
