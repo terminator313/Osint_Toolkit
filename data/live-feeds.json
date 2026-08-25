@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:29:00.514624+00:00",
+  "updatedAt": "2026-08-25T19:56:31.523702+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hannah Montana",
+          "title": "Hard Candy Christmas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hannah%20Montana",
+          "url": "https://twitter.com/search?q=Hard%20Candy%20Christmas",
           "platform": "X/Twitter"
         },
         {
-          "title": "Oilers",
+          "title": "Gulf of Mexico",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Oilers",
+          "url": "https://twitter.com/search?q=Gulf%20of%20Mexico",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nottm forest vs leeds",
-          "traffic": "200",
+          "title": "chris olave",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "prince",
+          "title": "solar flare",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bodo glimt",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john wayne",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ipswich town vs leicester city",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "crimson desert enhanced",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bengals depth chart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "calvin austin",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "di",
-          "traffic": "100",
+          "title": "craig t nelson",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "plymouth vs coventry",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bronny james",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "queen elizabeth",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "metro 2039",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon marsh",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anthropic",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sheffield wednesday vs wolves",
-          "traffic": "200",
+          "title": "nottm forest vs leeds",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
