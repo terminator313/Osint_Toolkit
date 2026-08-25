@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T10:40:33.483805+00:00",
+  "updatedAt": "2026-08-25T11:24:12.901084+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "#SpaceX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23SpaceX",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mcrminneapolis",
+          "title": "#mondaymotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mcrminneapolis",
+          "url": "https://twitter.com/search?q=%23mondaymotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rey Fenix",
+          "title": "Hasan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rey%20Fenix",
+          "url": "https://twitter.com/search?q=Hasan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Merrill",
+          "title": "#5rt5as",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Merrill",
+          "url": "https://twitter.com/search?q=%235rt5as",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "india vs sri lanka",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zohran mamdani",
+          "title": "garmin fenix 9",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "powerball winning numbers august 24 2026",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin price today",
+          "title": "savannah guthrie",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "independence high school",
+          "title": "tom hanks movies",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "espncricinfo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stanley druckenmiller",
-          "traffic": "1000",
+          "title": "cte",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "annie lowrey",
+          "title": "courier",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lsu football",
-          "traffic": "1000",
+          "title": "mike farrell shelley fabares romance",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sunday ticket",
-          "traffic": "100",
+          "title": "guardians score",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bret michaels",
-          "traffic": "2000",
+          "title": "ron desantis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wwe raw results",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
