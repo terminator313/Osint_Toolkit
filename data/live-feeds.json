@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:29:42.083152+00:00",
+  "updatedAt": "2026-08-25T20:57:11.317979+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Hard Candy Christmas",
+          "title": "Ja’Marr",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hard%20Candy%20Christmas",
+          "url": "https://twitter.com/search?q=Ja%E2%80%99Marr",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gulf of Mexico",
+          "title": "Astro Man",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gulf%20of%20Mexico",
+          "url": "https://twitter.com/search?q=Astro%20Man",
           "platform": "X/Twitter"
         }
       ],
@@ -56,32 +56,42 @@
       "status": "ok",
       "items": [
         {
-          "title": "witcher 3 remastered",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "intu stock",
+          "title": "zohran mamdani emergency housing cases",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "data center",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nvda earnings",
+          "title": "us military plane moscow landing",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "darnell wright",
+          "title": "méxico",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gamescom announcements",
+          "title": "zm stock",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "witcher 3 remastered",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "intu stock",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nvda earnings",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "data center",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
@@ -91,18 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "moscú",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roco kingdom",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaden smith",
-          "traffic": "500",
+          "title": "gamescom announcements",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
