@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:57:11.317979+00:00",
+  "updatedAt": "2026-08-25T21:30:57.060930+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#gamescom",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gamescom",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#BlueWaveIn70Days",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BlueWaveIn70Days",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#gamescom",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23gamescom",
           "platform": "X/Twitter"
         },
         {
@@ -56,6 +56,26 @@
       "status": "ok",
       "items": [
         {
+          "title": "trump approval",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dj humphries",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stoke city vs hull",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "layoff",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
           "title": "zohran mamdani emergency housing cases",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
@@ -72,7 +92,7 @@
         },
         {
           "title": "zm stock",
-          "traffic": "200",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
@@ -81,28 +101,8 @@
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "intu stock",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nvda earnings",
+          "title": "taylor swift displayed her wedding band during a grammy museum performance",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "data center",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gervon dexter",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gamescom announcements",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
