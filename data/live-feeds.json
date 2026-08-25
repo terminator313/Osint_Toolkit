@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:36:01.434364+00:00",
+  "updatedAt": "2026-08-25T05:28:47.817542+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#kroniisekai",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23kroniisekai",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#mcrminneapolis",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23mcrminneapolis",
           "platform": "X/Twitter"
         },
         {
-          "title": "USPS",
+          "title": "#kroniisekai",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USPS",
+          "url": "https://twitter.com/search?q=%23kroniisekai",
           "platform": "X/Twitter"
         },
         {
-          "title": "Girl Scouts",
+          "title": "Supreme Court",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Girl%20Scouts",
+          "url": "https://twitter.com/search?q=Supreme%20Court",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Brink",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Brink",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "padres",
-          "traffic": "2000",
+          "title": "brett goldstein",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "manny machado",
+          "title": "enrique hernandez",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "apple layoffs",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mason miller",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tina charles",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christian styles death",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donna vekic",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el cholo ivan",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
           "title": "al west standings",
-          "traffic": "200",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angel reese",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nneka ogwumike",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diane parry",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "running man",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh brolin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donna vekić",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kaelen culpepper",
+          "title": "manny machado",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
