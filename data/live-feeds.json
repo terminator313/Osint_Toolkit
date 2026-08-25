@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:46:01.833206+00:00",
+  "updatedAt": "2026-08-25T04:36:01.434364+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWTSNextPro",
+          "title": "#mcrminneapolis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWTSNextPro",
+          "url": "https://twitter.com/search?q=%23mcrminneapolis",
           "platform": "X/Twitter"
         },
         {
-          "title": "RJ Luis",
+          "title": "USPS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RJ%20Luis",
+          "url": "https://twitter.com/search?q=USPS",
           "platform": "X/Twitter"
         },
         {
-          "title": "DevOps",
+          "title": "Girl Scouts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DevOps",
+          "url": "https://twitter.com/search?q=Girl%20Scouts",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "esmerlyn valdez",
+          "title": "padres",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "manny machado",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jo adell",
+          "title": "al west standings",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael conforto",
+          "title": "angel reese",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nneka ogwumike",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaylon johnson",
-          "traffic": "200",
+          "title": "diane parry",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "demi moore",
+          "title": "running man",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kevin gausman",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dearica hamby",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amy acton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "los angeles",
+          "title": "josh brolin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rafael devers",
-          "traffic": "500",
+          "title": "donna vekić",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kaelen culpepper",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
