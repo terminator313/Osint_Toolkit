@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:24:12.901084+00:00",
+  "updatedAt": "2026-08-25T11:54:06.040286+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SpaceX",
+          "title": "#PutThatInYourPipe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SpaceX",
+          "url": "https://twitter.com/search?q=%23PutThatInYourPipe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#mondaymotivation",
+          "title": "#UranusClinicxJoongDunk",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23mondaymotivation",
+          "url": "https://twitter.com/search?q=%23UranusClinicxJoongDunk",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hasan",
+          "title": "Monken",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hasan",
+          "url": "https://twitter.com/search?q=Monken",
           "platform": "X/Twitter"
         },
         {
-          "title": "#5rt5as",
+          "title": "Dragon Lee",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%235rt5as",
+          "url": "https://twitter.com/search?q=Dragon%20Lee",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "garmin fenix 9",
+          "title": "gen z years",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "savannah guthrie",
+          "title": "national park",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex pretti",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump doj executive privilege memo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ralph norman",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robbie williams",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dallas cowboys cheerleaders",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jacksonville",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom hanks movies",
+          "title": "dallas weather",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "espncricinfo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cte",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "courier",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike farrell shelley fabares romance",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guardians score",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ron desantis",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wwe raw results",
-          "traffic": "5000",
+          "title": "lake ontario",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
