@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:31:45.980712+00:00",
+  "updatedAt": "2026-08-26T06:43:30.628641+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWENXT",
+          "title": "#LaCasaDeLosFamososMéxico",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
+          "url": "https://twitter.com/search?q=%23LaCasaDeLosFamososM%C3%A9xico",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWCS",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Kerkering",
+          "title": "George Kirby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kerkering",
+          "url": "https://twitter.com/search?q=George%20Kirby",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kwan",
+          "title": "Waldy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kwan",
+          "url": "https://twitter.com/search?q=Waldy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dólar estadounidense",
-          "traffic": "500",
+          "title": "n'kiyla jasmine thomas senate campaign",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will forte",
-          "traffic": "200",
+          "title": "the motley fool",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nikola bartunkova",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "guardians",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "burning man reno travel advisory",
+          "title": "deshaun watson video",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sonal dinusha",
-          "traffic": "2000",
+          "title": "bobby mccray",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tiger woods",
-          "traffic": "2000",
+          "title": "draftkings vs fanduel",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angels",
+          "title": "fool",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas drag show law ruling",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bet 365",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thescore bet promo code",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "loans",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "banks near me",
-          "traffic": "200",
+          "title": "lebron borrowed 300 million",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
