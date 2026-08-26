@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:15:40.026193+00:00",
+  "updatedAt": "2026-08-26T18:12:56.146436+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#TrumpsCorruptionCostsUS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TrumpsCorruptionCostsUS",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#WomensEqualityDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23WomensEqualityDay",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DollyPatron",
+          "title": "Sweet Transvestite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DollyPatron",
+          "url": "https://twitter.com/search?q=Sweet%20Transvestite",
           "platform": "X/Twitter"
         },
         {
-          "title": "Larry Krasner",
+          "title": "Lost in New York",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Larry%20Krasner",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WednesdayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayVibes",
+          "url": "https://twitter.com/search?q=Lost%20in%20New%20York",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mel brooks",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wyndham clark lie improvement allegations",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rvmd stock",
+          "title": "spurs vs charlton",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "current mortgage rates",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daniel rincon",
+          "title": "newcastle vs west brom",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "quarterback",
+          "title": "nicaragua",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xbox 25th anniversary collection pre-order",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emily in paris season 6 netflix",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grigor dimitrov",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pga tour champions gambling suspension",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays - tigers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "qinwen zheng",
-          "traffic": "500",
+          "title": "stephen curry",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daraxonrasib",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage rates today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlantic hurricane dolly",
-          "traffic": "20000",
+          "title": "dazed",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
