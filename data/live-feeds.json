@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:51:10.273477+00:00",
+  "updatedAt": "2026-08-26T04:36:40.453034+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AGT",
+          "title": "#PhantomBountyNotice",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AGT",
+          "url": "https://twitter.com/search?q=%23PhantomBountyNotice",
           "platform": "X/Twitter"
         },
         {
-          "title": "Annie Andrews",
+          "title": "Lindor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Annie%20Andrews",
+          "url": "https://twitter.com/search?q=Lindor",
           "platform": "X/Twitter"
         },
         {
-          "title": "Betty White",
+          "title": "Gavin Williams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Betty%20White",
+          "url": "https://twitter.com/search?q=Gavin%20Williams",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "rangers - white sox",
+          "title": "padres game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "copa centroamericana de concacaf",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "immigrant visa pause",
-          "traffic": "500",
+          "title": "byron buxton",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "immaculate inning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gage jump",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 netflix",
+          "title": "padres",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goldie hawn",
-          "traffic": "200",
+          "title": "mariners standings",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lars nootbaar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hagen smith",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian mccaffrey",
+          "title": "ryan waldschmidt",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "john goodman",
+          "title": "al west standings",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "athletics",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration pauses immigrant visa applications",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
