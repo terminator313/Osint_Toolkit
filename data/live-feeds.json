@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:48:31.942180+00:00",
+  "updatedAt": "2026-08-26T01:09:17.859412+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BlueWaveIn70Days",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlueWaveIn70Days",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#gamescom",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gamescom",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#skel",
+          "title": "#AGT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23skel",
+          "url": "https://twitter.com/search?q=%23AGT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ja’Marr",
+          "title": "Chad Patrick",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ja%E2%80%99Marr",
+          "url": "https://twitter.com/search?q=Chad%20Patrick",
           "platform": "X/Twitter"
         },
         {
-          "title": "Astro Man",
+          "title": "Islands in the Stream",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Astro%20Man",
+          "url": "https://twitter.com/search?q=Islands%20in%20the%20Stream",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mark ruffalo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "payton tolle",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "buc-ee's expansion conservative states",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim finchem",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyler glasnow",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sec",
+          "title": "bayonne little league",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire vs wings",
-          "traffic": "2000",
+          "title": "trump beef",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cruzeiro x atlético-mg",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fort worth fire",
+          "title": "lili estefan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mickey gasper",
-          "traffic": "2000",
+          "title": "luis garcía jr.",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "luis garcia jr",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sofia vergara",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joshua ezeudu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blood sacrifice netflix",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alan smith",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "agt vote",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
