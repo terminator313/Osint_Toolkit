@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:26:45.002079+00:00",
+  "updatedAt": "2026-08-26T11:56:28.225896+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GISELLExKiwoomHeroes",
+          "title": "#NationalDogDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GISELLExKiwoomHeroes",
+          "url": "https://twitter.com/search?q=%23NationalDogDay",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Yanet",
+          "title": "#PutThatInYourPipe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Yanet",
+          "url": "https://twitter.com/search?q=%23PutThatInYourPipe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalDogDay",
+          "title": "Love the Lord",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalDogDay",
+          "url": "https://twitter.com/search?q=Love%20the%20Lord",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Waldy",
+          "title": "#PhantomBountyNotice",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Waldy",
+          "url": "https://twitter.com/search?q=%23PhantomBountyNotice",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hurricane tracker",
+          "title": "usha vance",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kroger pharmacy settlement eligibility",
+          "title": "kriti sanon",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nepal",
+          "title": "resignation",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "college gameday",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "georgia bulldogs football",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "special ops lioness season 4",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "humanoid robot apartment cleaning service",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sara skinner",
-          "traffic": "200",
+          "title": "trump canada",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brytni sarpy",
+          "title": "state farm secret documents",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael douglas",
+          "title": "montez sweat",
           "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ncaa football schedule",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "el niño–southern oscillation",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cooper pratt",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ohio state football schedule",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
