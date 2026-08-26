@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:37:39.190441+00:00",
+  "updatedAt": "2026-08-26T10:32:20.616861+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Yanet",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Yanet",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#Waldy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Waldy",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GrabFoodถูกกว่าชัวร์TRIP",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GrabFood%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8CTRIP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Palencia",
+          "title": "#Yanet",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Palencia",
+          "url": "https://twitter.com/search?q=%23Yanet",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "GRABFOOD TRIP X GFSNPP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=GRABFOOD%20TRIP%20X%20GFSNPP",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Waldy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Waldy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "n kiyla jasmine thomas",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "score",
+          "title": "mega millions numbers",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us secret services",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barack obama",
+          "title": "red dead redemption 2",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "movie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marcye scott everton blair runoff",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "themotleyfool",
+          "title": "sitcom",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck accident attorney",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "william shatner",
+          "title": "ola de frío",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cremation",
-          "traffic": "200",
+          "title": "mama a accident",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "former steelers wr allen robinson",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new iphone release date",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mikayla demaiter",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hairstyle",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "air quality warning",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
