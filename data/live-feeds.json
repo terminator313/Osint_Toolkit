@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T20:40:23.063149+00:00",
+  "updatedAt": "2026-08-28T05:06:09.339709+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GTAVI",
+          "title": "#lunareclipse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GTAVI",
+          "url": "https://twitter.com/search?q=%23lunareclipse",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BeautyInBlack",
+          "title": "#adultsfx",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BeautyInBlack",
+          "url": "https://twitter.com/search?q=%23adultsfx",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MAFS",
+          "title": "#criticalrolespoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MAFS",
+          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bayern",
+          "title": "#TNAiMPACT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bayern",
+          "url": "https://twitter.com/search?q=%23TNAiMPACT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Amish",
+          "title": "GTA 6",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Amish",
+          "url": "https://twitter.com/search?q=GTA%206",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "weather orlando",
+          "title": "august 28, 1963",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "byron allen late night ratings",
+          "title": "beauty in black season 4",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cómo va el barcelona",
+          "title": "dalen terry",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh jacobs news",
-          "traffic": "5000",
+          "title": "george and amal clooney lake como",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mrvl earnings",
-          "traffic": "5000",
+          "title": "pokemon worlds 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iren earnings",
+          "title": "drew brees",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leslie mann",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "college football",
-          "traffic": "5000",
+          "title": "judd apatow",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thunderstorm",
+          "title": "when was the last solar eclipse",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james duckworth",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "housing prices",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "outlander prequel season 2 trailer",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
