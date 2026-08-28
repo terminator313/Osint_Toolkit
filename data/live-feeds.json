@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:06:09.339709+00:00",
+  "updatedAt": "2026-08-28T17:35:59.958097+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#lunareclipse",
+          "title": "#MansBestFriendAwards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23lunareclipse",
+          "url": "https://twitter.com/search?q=%23MansBestFriendAwards",
           "platform": "X/Twitter"
         },
         {
-          "title": "#adultsfx",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23adultsfx",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#criticalrolespoilers",
+          "title": "#วาดฝันวันวิวาห์EP11",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
+          "url": "https://twitter.com/search?q=%23%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8CEP11",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNAiMPACT",
+          "title": "LINGORM ILF EP11",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNAiMPACT",
+          "url": "https://twitter.com/search?q=LINGORM%20ILF%20EP11",
           "platform": "X/Twitter"
         },
         {
-          "title": "GTA 6",
+          "title": "Good Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=GTA%206",
+          "url": "https://twitter.com/search?q=Good%20Friday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "august 28, 1963",
+          "title": "reds vs cubs",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "beauty in black season 4",
-          "traffic": "500",
+          "title": "al-nassr vs al-taawoun",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dalen terry",
+          "title": "cameron young",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george and amal clooney lake como",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pokemon worlds 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "drew brees",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leslie mann",
+          "title": "kei nishikori",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "judd apatow",
-          "traffic": "500",
+          "title": "taylor sheridan landman season 3 production",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "when was the last solar eclipse",
+          "title": "vivek ramaswamy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "qinwen zheng",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james duckworth",
+          "title": "racing santander vs elche",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris ragsdale",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bahama breeze",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
