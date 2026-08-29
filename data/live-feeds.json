@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T01:27:34.989362+00:00",
+  "updatedAt": "2026-08-29T08:11:38.304095+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -9,7 +9,7 @@
     "urlhaus": {
       "status": "error",
       "items": [],
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>"
     },
     "reddit": {
       "status": "error",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#BBBattleRoyale",
+          "title": "#UFCShanghai",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBBattleRoyale",
+          "url": "https://twitter.com/search?q=%23UFCShanghai",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RavensFlock",
+          "title": "#FanboyGalaNight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RavensFlock",
+          "url": "https://twitter.com/search?q=%23FanboyGalaNight",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Camden Brown",
+          "title": "$CHUMP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Camden%20Brown",
+          "url": "https://twitter.com/search?q=%24CHUMP",
           "platform": "X/Twitter"
         },
         {
-          "title": "End of 1st",
+          "title": "Crimson Dynamo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=End%20of%201st",
+          "url": "https://twitter.com/search?q=Crimson%20Dynamo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mystics vs sparks",
-          "traffic": "1000",
+          "title": "betmgm sportsbook",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jj mccarthy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eagles score",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "idaho vs cal poly",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever wnba",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "san antonio weather",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indiana high school football scores",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael wacha",
+          "title": "fanduel",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "j.michael sturdivant",
+          "title": "draftkings fantasy",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gate",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "draftkings sportsbook",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fool",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diane parry",
-          "traffic": "2000",
+          "title": "fanduel promo code",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fool.com",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the motley fool",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bet 365",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
