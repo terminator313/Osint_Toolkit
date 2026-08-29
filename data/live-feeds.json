@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T17:30:56.512619+00:00",
+  "updatedAt": "2026-08-29T20:24:16.031920+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#YouManiacSeriesEP1",
+          "title": "#UNCvsTCU",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YouManiacSeriesEP1",
+          "url": "https://twitter.com/search?q=%23UNCvsTCU",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#GDTBATH",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23GDTBATH",
           "platform": "X/Twitter"
         },
         {
-          "title": "MANIAC OPENING NITE",
+          "title": "Cole Trickle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=MANIAC%20OPENING%20NITE",
+          "url": "https://twitter.com/search?q=Cole%20Trickle",
           "platform": "X/Twitter"
         },
         {
-          "title": "Khabib",
+          "title": "Tonali",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Khabib",
+          "url": "https://twitter.com/search?q=Tonali",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "detroit lions",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "days of thunder 2",
+          "title": "bishop gorman football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simon cowell",
+          "title": "arthur fery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ignacio buse",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lehigh football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew benintendi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atletico madrid",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adley rutschman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spurs",
+          "title": "camila osorio",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "galatasaray",
+          "title": "jojo trader",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh hoover",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mateus fernandes",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nico gonzález",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fantasy pros",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ou football",
-          "traffic": "200",
+          "title": "chicago vs seattle sounders",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
