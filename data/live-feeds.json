@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T13:56:01.712437+00:00",
+  "updatedAt": "2026-08-29T17:30:56.512619+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCShanghai",
+          "title": "#MrFanboyEP1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCShanghai",
+          "url": "https://twitter.com/search?q=%23MrFanboyEP1",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FWMC3rd",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FWMC3rd",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jacquet",
+          "title": "MANIAC OPENING NITE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jacquet",
+          "url": "https://twitter.com/search?q=MANIAC%20OPENING%20NITE",
           "platform": "X/Twitter"
         },
         {
-          "title": "Denise Gomes",
+          "title": "Khabib",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Denise%20Gomes",
+          "url": "https://twitter.com/search?q=Khabib",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "leverkusen",
+          "title": "detroit lions",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "days of thunder 2",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "unlv football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "festival of nations",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flood restoration",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "norwich city vs burnley",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufc events",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "southampton vs millwall",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rb leipzig vs mönchengladbach",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "actor",
+          "title": "simon cowell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alabama football",
+          "title": "spurs",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "galatasaray",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh hoover",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mateus fernandes",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nico gonzález",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fantasy pros",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ou football",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
