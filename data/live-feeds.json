@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T08:11:38.304095+00:00",
+  "updatedAt": "2026-08-29T13:56:01.712437+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FanboyGalaNight",
+          "title": "#YouManiacSeriesEP1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FanboyGalaNight",
+          "url": "https://twitter.com/search?q=%23YouManiacSeriesEP1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#FWMC3rd",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23FWMC3rd",
           "platform": "X/Twitter"
         },
         {
-          "title": "$CHUMP",
+          "title": "Jacquet",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24CHUMP",
+          "url": "https://twitter.com/search?q=Jacquet",
           "platform": "X/Twitter"
         },
         {
-          "title": "Crimson Dynamo",
+          "title": "Denise Gomes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Crimson%20Dynamo",
+          "url": "https://twitter.com/search?q=Denise%20Gomes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "betmgm sportsbook",
-          "traffic": "100",
+          "title": "leverkusen",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fanduel",
+          "title": "unlv football",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "draftkings fantasy",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gate",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "draftkings sportsbook",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fool",
+          "title": "festival of nations",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fanduel promo code",
+          "title": "flood restoration",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fool.com",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the motley fool",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bet 365",
+          "title": "norwich city vs burnley",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ufc events",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "southampton vs millwall",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rb leipzig vs mönchengladbach",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "actor",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alabama football",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
