@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:06:43.442786+00:00",
+  "updatedAt": "2026-08-30T17:40:16.213289+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SundayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AEWAllIn",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWAllIn",
           "platform": "X/Twitter"
         },
         {
-          "title": "#sundayfunday",
+          "title": "#AAAOlaDeCalor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23sundayfunday",
+          "url": "https://twitter.com/search?q=%23AAAOlaDeCalor",
           "platform": "X/Twitter"
         },
         {
-          "title": "Richarlison",
+          "title": "#MUFC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Richarlison",
+          "url": "https://twitter.com/search?q=%23MUFC",
           "platform": "X/Twitter"
         },
         {
-          "title": "NASA",
+          "title": "Maya World",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=NASA",
+          "url": "https://twitter.com/search?q=Maya%20World",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Carrick",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Carrick",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "football today",
+          "title": "serie a",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lainey mae parton",
           "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cyprus",
+          "title": "mark gurman apple watch rumors",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bassmaster",
+          "title": "bryan mbeumo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "epl table",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gabriel jesus",
+          "title": "presidents cup 2026",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "first nfl game 2026",
-          "traffic": "200",
+          "title": "kofi kingston",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "formula 1 schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clark phillips iii",
-          "traffic": "50000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "usha vance",
+          "title": "vinícius júnior",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coleman wong",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "venus williams",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yan diomandé",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
