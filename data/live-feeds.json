@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:40:16.213289+00:00",
+  "updatedAt": "2026-08-30T20:33:29.993421+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#NXTHeatwave",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NXTHeatwave",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AAAOlaDeCalor",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AAAOlaDeCalor",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MUFC",
+          "title": "Red Sox",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MUFC",
+          "url": "https://twitter.com/search?q=Red%20Sox",
           "platform": "X/Twitter"
         },
         {
-          "title": "Maya World",
+          "title": "Zaria",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Maya%20World",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Carrick",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carrick",
+          "url": "https://twitter.com/search?q=Zaria",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "serie a",
+          "title": "sport boys - sporting cristal",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "braves game",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lainey mae parton",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark gurman apple watch rumors",
+          "title": "trent mcduffie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryan mbeumo",
+          "title": "cameron norrie",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "presidents cup 2026",
+          "title": "matthew stafford",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sparks vs storm",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andruw monasterio",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dolly parton carl dean marriage",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kofi kingston",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vinícius júnior",
+          "title": "allisha gray",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coleman wong",
+          "title": "myles garret",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "venus williams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yan diomandé",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
