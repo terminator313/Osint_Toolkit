@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:02:28.545971+00:00",
+  "updatedAt": "2026-08-30T07:03:37.259666+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWCollision",
+          "title": "#DaisyChainFields",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23DaisyChainFields",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#WithNoDirection",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23WithNoDirection",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Larson",
+          "title": "Daytona",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Larson",
+          "url": "https://twitter.com/search?q=Daytona",
           "platform": "X/Twitter"
         },
         {
-          "title": "Zingbot",
+          "title": "KOLs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Zingbot",
+          "url": "https://twitter.com/search?q=KOLs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kyle larson",
-          "traffic": "500",
+          "title": "iceland eu referendum",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big brother",
-          "traffic": "500",
+          "title": "clarence thomas",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jameis winston",
+          "title": "lee yong joo",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yankees",
+          "title": "ted",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frankie muniz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "steph curry",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "national hurricane center dolly",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sicario",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "américa - puebla",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "austin hill",
+          "title": "amanda seyfried",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "casemiro",
-          "traffic": "200",
+          "title": "lindsay clancy final results",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diane parry",
-          "traffic": "2000",
+          "title": "tyler perry",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hirving lozano",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
