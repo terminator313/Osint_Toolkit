@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:42:57.542031+00:00",
+  "updatedAt": "2026-09-01T21:35:17.250822+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OLATEMBER",
+          "title": "#RepTheHalo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OLATEMBER",
+          "url": "https://twitter.com/search?q=%23RepTheHalo",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#arsd",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23arsd",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#teenageer",
+          "title": "Ford Falcon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23teenageer",
+          "url": "https://twitter.com/search?q=Ford%20Falcon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Prime Rib",
+          "title": "Sadie Sink",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Prime%20Rib",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jury",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jury",
+          "url": "https://twitter.com/search?q=Sadie%20Sink",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "stan kroenke",
-          "traffic": "2000",
+          "title": "severe thunderstorm watch",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher judge",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan garcia",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hebc vs dortmund",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "birmingham vs southampton",
+          "title": "presidents cup 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taco bell ice cream taco",
+          "title": "falcons logo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reese brantmeier",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gma dwts announcement",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "irán",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fery",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emily wilson retranslating odyssey",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isiah pacheco",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sylvester stallone tulsa king season 4",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ticketmaster olivia rodrigo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump approval rating",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "west ham vs wolves",
+          "title": "lamine camara",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
