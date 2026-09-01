@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:57:13.656094+00:00",
+  "updatedAt": "2026-09-01T00:27:14.573727+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#InPreparationForHalloween",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23InPreparationForHalloween",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#GagCityReportCard",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GagCityReportCard",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#AlwaysByYourSideJK",
+          "title": "Tulane",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AlwaysByYourSideJK",
+          "url": "https://twitter.com/search?q=Tulane",
           "platform": "X/Twitter"
         },
         {
-          "title": "D4vd",
+          "title": "Jon Voight",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=D4vd",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tsitsipas",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tsitsipas",
+          "url": "https://twitter.com/search?q=Jon%20Voight",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "okc fire",
+          "title": "tupac trial",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "william levy",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braga fc",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dansby swanson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christian pulisic",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "san clemente hoa roof fee",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ballroom",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katie volynets",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach harrison",
+          "title": "shirley ballas",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trabzonspor",
-          "traffic": "1000",
+          "title": "abc",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pennsylvania",
-          "traffic": "5000",
+          "title": "the secret woman netflix",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyrone taylor",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "troy reeder",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clay holmes",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orioles vs rockies",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yahoo fantasy",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
