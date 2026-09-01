@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:29:41.816996+00:00",
+  "updatedAt": "2026-09-01T10:22:38.790994+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#FELIX_SlowItDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23FELIX_SlowItDown",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#loveislandusa",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23loveislandusa",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Cubs",
+          "title": "$GPRO",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cubs",
+          "url": "https://twitter.com/search?q=%24GPRO",
           "platform": "X/Twitter"
         },
         {
-          "title": "Andrew Vaughn",
+          "title": "Keffe D",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Andrew%20Vaughn",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Clay Holmes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clay%20Holmes",
+          "url": "https://twitter.com/search?q=Keffe%20D",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "emily blunt",
-          "traffic": "200",
+          "title": "phillies score",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb playoff picture",
-          "traffic": "200",
+          "title": "eric swalwell",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacob fields",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thea frodin",
+          "title": "nathan gallagher",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "singapore airlines",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hurricane california",
+          "title": "noaa hurricane center",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "7oh",
-          "traffic": "100",
+          "title": "ps5 live tv channels",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "september weather predictions old farmer's",
+          "title": "orioles score",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tokyo game show 2026",
-          "traffic": "200",
+          "title": "manu kone",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zendaya",
-          "traffic": "1000",
+          "title": "yankees score",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hurricane katrina",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "space exploration technologies corp.",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
