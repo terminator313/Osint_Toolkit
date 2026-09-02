@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:47:01.406821+00:00",
+  "updatedAt": "2026-09-02T02:52:43.804003+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WorldCowDay",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WorldCowDay",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RepTheHalo",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepTheHalo",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#arsd",
+          "title": "#AGT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23arsd",
+          "url": "https://twitter.com/search?q=%23AGT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tyler Robinson",
+          "title": "Fable 5.1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyler%20Robinson",
+          "url": "https://twitter.com/search?q=Fable%205.1",
           "platform": "X/Twitter"
         },
         {
-          "title": "Angels",
+          "title": "Hung Cao",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Angels",
+          "url": "https://twitter.com/search?q=Hung%20Cao",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ryan seacrest",
+          "title": "eric lauer",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vallejo tennis",
-          "traffic": "500",
+          "title": "saquon barkley",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlético-mg x cruzeiro",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lexie hull",
+          "title": "lizzo",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brewers - cubs",
+          "title": "gerrit cole",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mn twins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john cusack",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "francisco lindor",
-          "traffic": "5000",
+          "title": "jazz chisholm jr.",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raygun",
-          "traffic": "500",
+          "title": "pirates game",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coco gauff",
-          "traffic": "10000",
+          "title": "hunter biden",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sonmez tennis",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dominic canzone",
-          "traffic": "500",
+          "title": "zilla fatu",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
