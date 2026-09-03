@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T09:27:26.952720+00:00",
+  "updatedAt": "2026-09-03T13:46:49.575650+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WENMONTHLY",
+          "title": "#OlandriaxMACStudioRadiance",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WENMONTHLY",
+          "url": "https://twitter.com/search?q=%23OlandriaxMACStudioRadiance",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#DestinyclinicxPerthSanta",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23DestinyclinicxPerthSanta",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ChaseTheNewDawn",
+          "title": "#ThursdayVibe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ChaseTheNewDawn",
+          "url": "https://twitter.com/search?q=%23ThursdayVibe",
           "platform": "X/Twitter"
         },
         {
-          "title": "Namjoon",
+          "title": "Thirsty Thursday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Namjoon",
+          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Davido",
+          "title": "#YEntertainAwardsxLenaMiu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Davido",
+          "url": "https://twitter.com/search?q=%23YEntertainAwardsxLenaMiu",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "extreme heat warning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "where to watch nfl games",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tennis scores today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "katie price",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather philadelphia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flash flood warning",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "banana republic",
+          "title": "hood stock",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katy perry orlando bloom split",
+          "title": "lego playstation",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adria arjona",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "candy recall",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "boeing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uber leaves nigeria",
-          "traffic": "100",
+          "title": "bang si-hyuk",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stock market news today",
-          "traffic": "2000",
+          "title": "james patterson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mrbeast",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cyrus allen",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hugging face",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
