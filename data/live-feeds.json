@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:29:37.639271+00:00",
+  "updatedAt": "2026-09-03T04:55:29.700663+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TwinDEX",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TwinDEX",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GalaxyZFold",
+          "title": "#WENMONTHLY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GalaxyZFold",
+          "url": "https://twitter.com/search?q=%23WENMONTHLY",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTS_WORLDTOUR_ARIRANG",
+          "title": "#ChaseTheNewDawn",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTS_WORLDTOUR_ARIRANG",
+          "url": "https://twitter.com/search?q=%23ChaseTheNewDawn",
           "platform": "X/Twitter"
         },
         {
-          "title": "David Stern",
+          "title": "Miggy Ro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=David%20Stern",
+          "url": "https://twitter.com/search?q=Miggy%20Ro",
           "platform": "X/Twitter"
         },
         {
-          "title": "Devers",
+          "title": "Tillis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Devers",
+          "url": "https://twitter.com/search?q=Tillis",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "where is simon cowell on agt",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vélez - boca juniors",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the gentlemen season 2",
+          "title": "dodger game today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "conor mcgregor",
-          "traffic": "1000",
+          "title": "eric andre",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacob misiorowski",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "husker volleyball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "misiorowski",
+          "title": "leo bernal",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white sox - astros",
+          "title": "callum turner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels game",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan seacrest",
+          "title": "angels baseball",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "puka nacua news",
-          "traffic": "5000",
+          "title": "jim curtis",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels vs yankees",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spencer torkelson",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john paul miller now",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
