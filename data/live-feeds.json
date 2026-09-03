@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:30:45.185605+00:00",
+  "updatedAt": "2026-09-03T20:29:48.670298+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxMACStudioRadiance",
+          "title": "#2k27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxMACStudioRadiance",
+          "url": "https://twitter.com/search?q=%232k27",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#CostOfCorruption",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CostOfCorruption",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#JioHotstarMadeMeDoIt",
+          "title": "Ernest Borgnine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JioHotstarMadeMeDoIt",
+          "url": "https://twitter.com/search?q=Ernest%20Borgnine",
           "platform": "X/Twitter"
         },
         {
-          "title": "XCRY EN PREMIOS JUVENTUD",
+          "title": "Michael Wilson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=XCRY%20EN%20PREMIOS%20JUVENTUD",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "FF7 Revelation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=FF7%20Revelation",
+          "url": "https://twitter.com/search?q=Michael%20Wilson",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "amanda anisimova",
-          "traffic": "2000",
+          "title": "weather map",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick saban",
-          "traffic": "500",
+          "title": "ucf football",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lsu",
-          "traffic": "500",
+          "title": "trent thornton dugout meltdown cubs",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael wilson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supervolcano",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "general hospital",
+          "title": "tornado watch vs warning",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lilli tagger",
+          "title": "dane sweeny",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blue jays - guardians",
+          "title": "who is lindsay clancy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather radar",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "keith mackenzie betty ebay truck sale",
+          "title": "national weather service",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "grand theft auto vi",
-          "traffic": "5000",
+          "title": "elon musk",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tornado",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
