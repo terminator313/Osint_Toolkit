@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:29:33.020743+00:00",
+  "updatedAt": "2026-09-04T09:53:16.913314+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Silo",
+          "title": "#MovieMoments",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Silo",
+          "url": "https://twitter.com/search?q=%23MovieMoments",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Illini",
+          "title": "#Silo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Illini",
+          "url": "https://twitter.com/search?q=%23Silo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Big Sean",
+          "title": "#Collection",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Big%20Sean",
+          "url": "https://twitter.com/search?q=%23Collection",
           "platform": "X/Twitter"
         },
         {
-          "title": "Schiano",
+          "title": "Teoscar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Schiano",
+          "url": "https://twitter.com/search?q=Teoscar",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "riley o'brien",
-          "traffic": "200",
+          "title": "jim cramer magnificent seven stocks",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "olivia wilde",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers vs cardinals",
+          "title": "wpxi",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "max muncy",
-          "traffic": "200",
+          "title": "economic sanctions",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers schedule",
+          "title": "cathie wood",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donovan mitchell",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fanduel free bet",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncaa football scores",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dalton rushing",
-          "traffic": "200",
+          "title": "wtae",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hoby milner",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mariners score",
+          "title": "falkland islands",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game today",
-          "traffic": "1000",
+          "title": "weather today",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
