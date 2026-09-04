@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:16:16.666066+00:00",
+  "updatedAt": "2026-09-04T22:27:07.182188+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,6 +20,12 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GuardsBall",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GuardsBall",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#IamTheHoldout",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23IamTheHoldout",
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#IPSLIV",
+          "title": "Dawson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IPSLIV",
+          "url": "https://twitter.com/search?q=Dawson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Taylor Townsend",
+          "title": "Bartra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Taylor%20Townsend",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#raindelayquestions",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "url": "https://twitter.com/search?q=Bartra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "libya",
-          "traffic": "200",
+          "title": "cubs vs marlins",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jai arrow",
-          "traffic": "200",
+          "title": "trump iran",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karolína muchová",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid fc",
+          "title": "zeev buium",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maria bartiromo fired",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "severe thunderstorm watch",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emma navarro",
+          "title": "spider-noir cancelled",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "survivor greece",
-          "traffic": "1000",
+          "title": "wheel of fortune announcer",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tesla shares post cybercab event",
-          "traffic": "20000",
+          "title": "charles barkley",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tony romo owi plea deal",
+          "title": "angels vs pirates",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "republican party",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ou football schedule 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nebraska football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
