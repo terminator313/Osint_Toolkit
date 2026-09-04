@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:46:01.364845+00:00",
+  "updatedAt": "2026-09-04T00:45:59.724055+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#2k27",
+          "title": "#BDAY20",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%232k27",
+          "url": "https://twitter.com/search?q=%23BDAY20",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bernie",
+          "title": "Maluma",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bernie",
+          "url": "https://twitter.com/search?q=Maluma",
           "platform": "X/Twitter"
         },
         {
-          "title": "$LULU",
+          "title": "Ernest Borgnine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24LULU",
+          "url": "https://twitter.com/search?q=Ernest%20Borgnine",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "duquesne light outages",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ukraine",
+          "title": "georgia football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alex de minaur",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox vs orioles",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "albany vs buffalo",
+          "title": "chad powers cast",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tv insider",
+          "title": "luis robert jr.",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "b-cu vs ucf",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "billie jean king",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ana reyes tree removal hearing",
+          "title": "mendoza georgia tech",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kj duff",
+          "title": "snoopy starbucks 2026",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colorado",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ncaaf",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "victoria groce",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coco gauff parents",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ben shelton hubert hurkacz us open",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
