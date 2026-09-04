@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:59:41.532676+00:00",
+  "updatedAt": "2026-09-04T17:33:05.487131+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#FIBAWWC",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIBAWWC",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FursuitFriday",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fetterman",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fetterman",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "162,000 in August",
+          "title": "Judge Sullivan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=162%2C000%20in%20August",
+          "url": "https://twitter.com/search?q=Judge%20Sullivan",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Kings",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Kings",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cancer",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jennifer aniston",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben simmons",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mr t",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "napheesa collier",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zhang ziyu",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "euromaidan press",
+          "title": "david muir",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "breanna stewart",
+          "title": "arthur rinderknech",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diana shnaider",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fernandez tennis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin o leary",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tigers vs guardians",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russell howard baby loss",
+          "title": "kate middleton prince william prince harry",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emily compagno",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "court tv",
-          "traffic": "200000",
+          "title": "galatasaray",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor townsend",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
