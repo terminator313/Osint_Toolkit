@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:45:59.724055+00:00",
+  "updatedAt": "2026-09-04T05:29:33.020743+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GamingThenVsNow",
+          "title": "#Silo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GamingThenVsNow",
+          "url": "https://twitter.com/search?q=%23Silo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#emberBuilds",
+          "title": "#criticalrolespoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23emberBuilds",
+          "url": "https://twitter.com/search?q=%23criticalrolespoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BDAY20",
+          "title": "#Illini",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BDAY20",
+          "url": "https://twitter.com/search?q=%23Illini",
           "platform": "X/Twitter"
         },
         {
-          "title": "Maluma",
+          "title": "Big Sean",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Maluma",
+          "url": "https://twitter.com/search?q=Big%20Sean",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ernest Borgnine",
+          "title": "Schiano",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ernest%20Borgnine",
+          "url": "https://twitter.com/search?q=Schiano",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "georgia football",
+          "title": "riley o'brien",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "olivia wilde",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chad powers cast",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis robert jr.",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mendoza georgia tech",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "snoopy starbucks 2026",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colorado",
+          "title": "dodgers vs cardinals",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncaaf",
+          "title": "max muncy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victoria groce",
-          "traffic": "500",
+          "title": "dalton rushing",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coco gauff parents",
-          "traffic": "500",
+          "title": "hoby milner",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben shelton hubert hurkacz us open",
-          "traffic": "500",
+          "title": "mariners score",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers game today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
