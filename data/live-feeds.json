@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:27:41.917623+00:00",
+  "updatedAt": "2026-09-05T19:20:10.919652+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCParis",
+          "title": "#ElonIsAMartian",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCParis",
+          "url": "https://twitter.com/search?q=%23ElonIsAMartian",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RollTide",
+          "title": "#UFCParis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RollTide",
+          "url": "https://twitter.com/search?q=%23UFCParis",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "East Carolina",
+          "title": "#GoBucks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=East%20Carolina",
+          "url": "https://twitter.com/search?q=%23GoBucks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ball State",
+          "title": "Madison Keys",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ball%20State",
+          "url": "https://twitter.com/search?q=Madison%20Keys",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "al-ittihad vs al-nassr",
-          "traffic": "2000",
+          "title": "daniil donchenko",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael whatley",
+          "title": "tavien st clair",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harry kane",
+          "title": "jerry oates",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nikola bartunkova",
+          "title": "wcu vs campbell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "yhonzae pierre",
-          "traffic": "200",
+          "title": "katie taylor",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "felipe lima",
-          "traffic": "200",
+          "title": "messi ronaldo rivalry",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon inniss",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mario pinto",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim tressel",
+          "title": "towson vs navy",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pakistan women's national cricket team vs india women's national cricket team standings",
-          "traffic": "10000",
+          "title": "boston college vs cincinnati",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "utrgv vs utsa",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "irán",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
