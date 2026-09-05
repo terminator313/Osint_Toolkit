@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T21:29:16.719047+00:00",
+  "updatedAt": "2026-09-05T23:11:34.183927+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ElonIsAMartian",
+          "title": "#HookEm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ElonIsAMartian",
+          "url": "https://twitter.com/search?q=%23HookEm",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFC332",
+          "title": "#Quant",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC332",
+          "url": "https://twitter.com/search?q=%23Quant",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cam Coleman",
+          "title": "#FinancialAlchemy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cam%20Coleman",
+          "url": "https://twitter.com/search?q=%23FinancialAlchemy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ball State",
+          "title": "#Wealth",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ball%20State",
+          "url": "https://twitter.com/search?q=%23Wealth",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "wyoming vs co state",
+          "title": "fl atlantic vs florida",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "montréal vs philadelphia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees - padres",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jamari johnson",
+          "title": "baylor university football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spencer danielson",
+          "title": "atlanta united vs inter miami",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adam sandler",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "independiente del valle - macará",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robin morgan",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bijan robinson",
+          "title": "northern iowa vs eastern wa",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deportivo la coruna",
+          "title": "livvy dunne",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "st. mirren vs celtic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "são paulo vs atlético mineiro",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arthur gea",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufc 333",
+          "title": "joey porter jr trade prediction 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
