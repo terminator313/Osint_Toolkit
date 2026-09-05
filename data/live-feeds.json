@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:25:56.930182+00:00",
+  "updatedAt": "2026-09-05T17:27:41.917623+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Caturday",
+          "title": "#UFCParis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23UFCParis",
           "platform": "X/Twitter"
         },
         {
-          "title": "#YouManiacSeriesEP2",
+          "title": "#RollTide",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YouManiacSeriesEP2",
+          "url": "https://twitter.com/search?q=%23RollTide",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "#iufb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=%23iufb",
           "platform": "X/Twitter"
         },
         {
-          "title": "Lee Marvin",
+          "title": "East Carolina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Lee%20Marvin",
+          "url": "https://twitter.com/search?q=East%20Carolina",
           "platform": "X/Twitter"
         },
         {
-          "title": "Harvey Barnes",
+          "title": "Ball State",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Harvey%20Barnes",
+          "url": "https://twitter.com/search?q=Ball%20State",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "coastal carolina vs west virginia",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oregon state vs houston",
+          "title": "al-ittihad vs al-nassr",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryant vs army",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amanda anisimova",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qinwen zheng",
+          "title": "michael whatley",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "volos vs olympiacos",
+          "title": "harry kane",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lane kiffin wife",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donald trump washington dc construction",
+          "title": "nikola bartunkova",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "east carolina vs alabama",
-          "traffic": "50000",
+          "title": "yhonzae pierre",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ohio vs nebraska",
-          "traffic": "20000",
+          "title": "felipe lima",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon inniss",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mario pinto",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jim tressel",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pakistan women's national cricket team vs india women's national cricket team standings",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
