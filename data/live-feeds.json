@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:20:10.919652+00:00",
+  "updatedAt": "2026-09-05T21:29:16.719047+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ElonIsAMartian",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ElonIsAMartian",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#UFCParis",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFCParis",
           "platform": "X/Twitter"
         },
         {
-          "title": "#iufb",
+          "title": "#ElonIsAMartian",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iufb",
+          "url": "https://twitter.com/search?q=%23ElonIsAMartian",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoBucks",
+          "title": "#UFC332",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBucks",
+          "url": "https://twitter.com/search?q=%23UFC332",
           "platform": "X/Twitter"
         },
         {
-          "title": "Madison Keys",
+          "title": "Cam Coleman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Madison%20Keys",
+          "url": "https://twitter.com/search?q=Cam%20Coleman",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Ball State",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Ball%20State",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "daniil donchenko",
-          "traffic": "1000",
+          "title": "wyoming vs co state",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tavien st clair",
+          "title": "jamari johnson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jerry oates",
+          "title": "spencer danielson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wcu vs campbell",
+          "title": "robin morgan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "katie taylor",
+          "title": "bijan robinson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "messi ronaldo rivalry",
+          "title": "deportivo la coruna",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "st. mirren vs celtic",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "são paulo vs atlético mineiro",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "towson vs navy",
-          "traffic": "5000",
+          "title": "arthur gea",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "boston college vs cincinnati",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "utrgv vs utsa",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "irán",
+          "title": "ufc 333",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
