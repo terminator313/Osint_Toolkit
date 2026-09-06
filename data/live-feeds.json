@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T01:12:02.100069+00:00",
+  "updatedAt": "2026-09-06T06:17:36.995590+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWCollision",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#GoBlue",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23GoBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Svengoolie",
+          "title": "#GeauxTigers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Svengoolie",
+          "url": "https://twitter.com/search?q=%23GeauxTigers",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Citadel",
+          "title": "#ScavengersReign",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Citadel",
+          "url": "https://twitter.com/search?q=%23ScavengersReign",
           "platform": "X/Twitter"
         },
         {
-          "title": "Byrum Brown",
+          "title": "Nico Iamaleava",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Byrum%20Brown",
+          "url": "https://twitter.com/search?q=Nico%20Iamaleava",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Chad Morris",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Chad%20Morris",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lafc vs salt lake",
-          "traffic": "1000",
+          "title": "karen khachanov",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump arch",
+          "title": "draymond green",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "unruly passenger duct taped",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arsenal vs chelsea",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "western michigan broncos football vs michigan wolverines football match player stats",
+          "title": "asu hockey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tigres - necaxa",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brewers game",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom brady",
+          "title": "chad powers season 3",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arizona football",
+          "title": "hurricane marie",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lapd vehicle impound street takeover",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "taylor swift travis kelce marriage",
+          "title": "estados unidos",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "manny machado",
-          "traffic": "2000",
+          "title": "marvel comics moon knight replacement",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael keaton",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
