@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T21:32:33.743602+00:00",
+  "updatedAt": "2026-09-06T23:28:12.512659+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FIBAWWC",
+          "title": "#SNME",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FIBAWWC",
+          "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxDeletedScenesVlog",
+          "title": "#NASCAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxDeletedScenesVlog",
+          "url": "https://twitter.com/search?q=%23NASCAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "#Southern500",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=%23Southern500",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arsenal",
+          "title": "The AfD",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arsenal",
+          "url": "https://twitter.com/search?q=The%20AfD",
           "platform": "X/Twitter"
         },
         {
-          "title": "Chelsea",
+          "title": "Jackie Young",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chelsea",
+          "url": "https://twitter.com/search?q=Jackie%20Young",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "león - américa",
-          "traffic": "2000",
+          "title": "yahoo fantasy football",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "botafogo vs palmeiras",
+          "title": "kellen moore",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "manny machado",
+          "title": "miss america",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jessica pegula",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ciclón tropical",
-          "traffic": "200",
+          "title": "john mcenroe",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aj dybantsa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amy acton",
+          "title": "stevie nicks brother christopher passes",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brendan carr",
+          "title": "russell wilson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "washington state football coach",
+          "title": "wrigley field volleyball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miss america 2026",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cooper hjerpe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tiafoe girlfriend",
+          "title": "bubba wallace",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
