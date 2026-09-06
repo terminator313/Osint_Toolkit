@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:11:34.183927+00:00",
+  "updatedAt": "2026-09-06T01:12:02.100069+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCParis",
+          "title": "#AEWCollision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCParis",
+          "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HookEm",
+          "title": "#GoBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HookEm",
+          "url": "https://twitter.com/search?q=%23GoBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Quant",
+          "title": "#Svengoolie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Quant",
+          "url": "https://twitter.com/search?q=%23Svengoolie",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FinancialAlchemy",
+          "title": "The Citadel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FinancialAlchemy",
+          "url": "https://twitter.com/search?q=The%20Citadel",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Wealth",
+          "title": "Byrum Brown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Wealth",
+          "url": "https://twitter.com/search?q=Byrum%20Brown",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fl atlantic vs florida",
-          "traffic": "20000",
+          "title": "lafc vs salt lake",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "montréal vs philadelphia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees - padres",
+          "title": "trump arch",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "baylor university football",
+          "title": "western michigan broncos football vs michigan wolverines football match player stats",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlanta united vs inter miami",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam sandler",
+          "title": "tigres - necaxa",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "independiente del valle - macará",
+          "title": "brewers game",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom brady",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arizona football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "northern iowa vs eastern wa",
+          "title": "lapd vehicle impound street takeover",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "livvy dunne",
-          "traffic": "500",
+          "title": "taylor swift travis kelce marriage",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joey porter jr trade prediction 2026",
-          "traffic": "500",
+          "title": "manny machado",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
