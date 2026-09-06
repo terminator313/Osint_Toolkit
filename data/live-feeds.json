@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:14:10.144720+00:00",
+  "updatedAt": "2026-09-06T19:23:38.077708+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ItalianGP",
+          "title": "#COYG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ItalianGP",
+          "url": "https://twitter.com/search?q=%23COYG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MUFC",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MUFC",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sunday Funday",
+          "title": "Macklemore",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sunday%20Funday",
+          "url": "https://twitter.com/search?q=Macklemore",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tyrique George",
+          "title": "Gyokeres",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tyrique%20George",
+          "url": "https://twitter.com/search?q=Gyokeres",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "is trader joe's open on labor day",
+          "title": "jackie young",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "martin ødegaard",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "republicans and trump midterms",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "louisville volleyball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "postal voting",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bologna vs sassuolo",
+          "title": "espn college football fpi top 25",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "valencia cf vs fc barcelona standings",
-          "traffic": "20000",
+          "title": "women's basketball world cup",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves - phillies",
+          "title": "toluca vs monterrey",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "derek hill",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "washington st vs washington",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prime air",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aeropuerto",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amber alert",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trabzonspor vs gençlerbirliği",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "national weather service september map",
-          "traffic": "200",
+          "title": "remo vs flamengo",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
