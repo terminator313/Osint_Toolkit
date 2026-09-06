@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:12:51.924020+00:00",
+  "updatedAt": "2026-09-06T14:19:16.142068+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#gattouz0",
+          "title": "#ItalianGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gattouz0",
+          "url": "https://twitter.com/search?q=%23ItalianGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PYPD_IN_JAPAN",
+          "title": "#EVEMUN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PYPD_IN_JAPAN",
+          "url": "https://twitter.com/search?q=%23EVEMUN",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Collection",
+          "title": "Blessed Sunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Collection",
+          "url": "https://twitter.com/search?q=Blessed%20Sunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "TAIPEI",
+          "title": "Sunday Funday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TAIPEI",
+          "url": "https://twitter.com/search?q=Sunday%20Funday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "us open results",
+          "title": "tribeca",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb umpire doug eddings",
+          "title": "michigan state fair",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barcelona schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex witt",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brooklyn beckham",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "philadelphia 76ers lebron james signing",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "duct tape american airlines",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dabo swinney clemson contract buyout",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ukraine",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mark cuban",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thescore bet promo code",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "birmingham vs wolves",
+          "title": "jamie vardy",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ms magazine",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carl edwards",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "valence – barcelone",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "debt",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coritiba vs mirassol",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
