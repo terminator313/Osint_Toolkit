@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:17:36.995590+00:00",
+  "updatedAt": "2026-09-06T11:12:51.924020+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GoBlue",
+          "title": "#gattouz0",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBlue",
+          "url": "https://twitter.com/search?q=%23gattouz0",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GeauxTigers",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GeauxTigers",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ScavengersReign",
+          "title": "#PYPD_IN_JAPAN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ScavengersReign",
+          "url": "https://twitter.com/search?q=%23PYPD_IN_JAPAN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nico Iamaleava",
+          "title": "#Collection",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nico%20Iamaleava",
+          "url": "https://twitter.com/search?q=%23Collection",
           "platform": "X/Twitter"
         },
         {
-          "title": "Chad Morris",
+          "title": "TAIPEI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chad%20Morris",
+          "url": "https://twitter.com/search?q=TAIPEI",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "karen khachanov",
-          "traffic": "200",
+          "title": "us open results",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "draymond green",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "unruly passenger duct taped",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arsenal vs chelsea",
+          "title": "mlb umpire doug eddings",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "asu hockey",
-          "traffic": "500",
+          "title": "brooklyn beckham",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chad powers season 3",
-          "traffic": "1000",
+          "title": "philadelphia 76ers lebron james signing",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hurricane marie",
-          "traffic": "500",
+          "title": "duct tape american airlines",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "estados unidos",
-          "traffic": "1000",
+          "title": "dabo swinney clemson contract buyout",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvel comics moon knight replacement",
-          "traffic": "500",
+          "title": "ukraine",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael keaton",
+          "title": "mark cuban",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "thescore bet promo code",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "birmingham vs wolves",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
