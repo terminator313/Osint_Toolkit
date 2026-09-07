@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:05:56.348171+00:00",
+  "updatedAt": "2026-09-07T21:41:44.284438+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#3YearsWithLayoVer",
+          "title": "#CodeFreedom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%233YearsWithLayoVer",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#MondayMotivation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23CodeFreedom",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "EN and ID",
+          "title": "#SmartContract",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=EN%20and%20ID",
+          "url": "https://twitter.com/search?q=%23SmartContract",
           "platform": "X/Twitter"
         },
         {
-          "title": "Redzone",
+          "title": "Ashby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Redzone",
+          "url": "https://twitter.com/search?q=Ashby",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Coby Mayo",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Coby%20Mayo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "michael j fox",
-          "traffic": "2000",
+          "title": "social security administration",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security 2027 cola forecast",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "andrew garfield",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alexander blockx",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brian armstrong",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al-hilal vs neom",
+          "title": "the handmaid's tale",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jonah tong",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "regal cinemas",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "turkish airlines",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cubs vs brewers",
+          "title": "pink",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "darius slayton",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur gea",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kansas city royals",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mlb standings",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "f 35b",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bobby flay",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "geomagnetic storm",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
