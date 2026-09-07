@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:54:31.100188+00:00",
+  "updatedAt": "2026-09-07T18:05:56.348171+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#hololiveNext",
+          "title": "#3YearsWithLayoVer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hololiveNext",
+          "url": "https://twitter.com/search?q=%233YearsWithLayoVer",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#EVAN",
+          "title": "#fishtanklive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EVAN",
+          "url": "https://twitter.com/search?q=%23fishtanklive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Notre",
+          "title": "EN and ID",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Notre",
+          "url": "https://twitter.com/search?q=EN%20and%20ID",
           "platform": "X/Twitter"
         },
         {
-          "title": "#三澄寧々",
+          "title": "Redzone",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E4%B8%89%E6%BE%84%E5%AF%A7%E3%80%85",
+          "url": "https://twitter.com/search?q=Redzone",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "maha",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alice weidel",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sandra bullock kids",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maryland state fair",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "prince harry news",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "western",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "at home",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ap top 25",
+          "title": "michael j fox",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ed sheeran macklemore",
-          "traffic": "1000",
+          "title": "social security 2027 cola forecast",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mel gibson",
+          "title": "andrew garfield",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alexander blockx",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brian armstrong",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al-hilal vs neom",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonah tong",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "regal cinemas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "turkish airlines",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs vs brewers",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
