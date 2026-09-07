@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T06:25:44.342954+00:00",
+  "updatedAt": "2026-09-07T12:54:31.100188+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Lanterns",
+          "title": "#hololiveNext",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lanterns",
+          "url": "https://twitter.com/search?q=%23hololiveNext",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SNME",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SNME",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaGranjaVIP",
+          "title": "#EVAN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaGranjaVIP",
+          "url": "https://twitter.com/search?q=%23EVAN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wisconsin",
+          "title": "#Notre",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wisconsin",
+          "url": "https://twitter.com/search?q=%23Notre",
           "platform": "X/Twitter"
         },
         {
-          "title": "hobi",
+          "title": "#三澄寧々",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=hobi",
+          "url": "https://twitter.com/search?q=%23%E4%B8%89%E6%BE%84%E5%AF%A7%E3%80%85",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alex call",
+          "title": "maha",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nintendo switch banned",
+          "title": "alice weidel",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sandra bullock kids",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maryland state fair",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "prince harry news",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "melania trump",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers schedule",
+          "title": "western",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "edgardo henriquez",
+          "title": "at home",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "agreement",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodger game today",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "administration",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "history of labor day",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tom cruise",
+          "title": "ap top 25",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ed sheeran macklemore",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mel gibson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
