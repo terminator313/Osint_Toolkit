@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:41:44.284438+00:00",
+  "updatedAt": "2026-09-07T23:59:03.465452+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CodeFreedom",
+          "title": "#NationalBeerLoversDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CodeFreedom",
+          "url": "https://twitter.com/search?q=%23NationalBeerLoversDay",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmartContract",
+          "title": "#WEAREHAZELS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmartContract",
+          "url": "https://twitter.com/search?q=%23WEAREHAZELS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ashby",
+          "title": "Giuliani",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ashby",
+          "url": "https://twitter.com/search?q=Giuliani",
           "platform": "X/Twitter"
         },
         {
-          "title": "Coby Mayo",
+          "title": "Lyra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Coby%20Mayo",
+          "url": "https://twitter.com/search?q=Lyra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "social security administration",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the handmaid's tale",
+          "title": "mike norvell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pink",
+          "title": "malik nabers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "furious show",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "darius slayton",
-          "traffic": "5000",
+          "title": "fiba 2026 final phase schedule",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur gea",
+          "title": "jovic",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kansas city royals",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mlb standings",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "f 35b",
+          "title": "aaron judge",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bobby flay",
+          "title": "ashton daniels",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "super bowl 2027",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adenocarcinoma",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "geomagnetic storm",
-          "traffic": "500",
+          "title": "espn fantasy football login",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
