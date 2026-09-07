@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:14:59.101995+00:00",
+  "updatedAt": "2026-09-07T06:25:44.342954+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Lanterns",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Lanterns",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SNME",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SNME",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BadBoysCancun",
+          "title": "#LaGranjaVIP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BadBoysCancun",
+          "url": "https://twitter.com/search?q=%23LaGranjaVIP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesUSA",
+          "title": "Wisconsin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesUSA",
+          "url": "https://twitter.com/search?q=Wisconsin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kewan Lacy",
+          "title": "hobi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kewan%20Lacy",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#GoIrish",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoIrish",
+          "url": "https://twitter.com/search?q=hobi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nascar today",
-          "traffic": "5000",
+          "title": "alex call",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "white sox",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eugene hilton jr",
+          "title": "nintendo switch banned",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leonard moore",
+          "title": "melania trump",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "christopher bell",
+          "title": "dodgers schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "edgardo henriquez",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mike detillier",
+          "title": "agreement",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bronson reed",
-          "traffic": "2000",
+          "title": "dodger game today",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san diego wave vs seattle reign fc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rookie of the year",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elizabeth holmes",
+          "title": "administration",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "history of labor day",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom cruise",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
