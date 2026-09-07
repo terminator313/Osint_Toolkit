@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:28:12.512659+00:00",
+  "updatedAt": "2026-09-07T01:14:59.101995+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NASCAR",
+          "title": "#BadBoysCancun",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NASCAR",
+          "url": "https://twitter.com/search?q=%23BadBoysCancun",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Southern500",
+          "title": "#BaddiesUSA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Southern500",
+          "url": "https://twitter.com/search?q=%23BaddiesUSA",
           "platform": "X/Twitter"
         },
         {
-          "title": "The AfD",
+          "title": "Kewan Lacy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20AfD",
+          "url": "https://twitter.com/search?q=Kewan%20Lacy",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jackie Young",
+          "title": "#GoIrish",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jackie%20Young",
+          "url": "https://twitter.com/search?q=%23GoIrish",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "yahoo fantasy football",
+          "title": "nascar today",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kellen moore",
-          "traffic": "500",
+          "title": "white sox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miss america",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica pegula",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john mcenroe",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stevie nicks brother christopher passes",
+          "title": "eugene hilton jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russell wilson",
+          "title": "leonard moore",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wrigley field volleyball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miss america 2026",
+          "title": "christopher bell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bubba wallace",
+          "title": "mike detillier",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bronson reed",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san diego wave vs seattle reign fc",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rookie of the year",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elizabeth holmes",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
