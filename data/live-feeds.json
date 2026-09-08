@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:22:20.967639+00:00",
+  "updatedAt": "2026-09-08T20:04:05.686148+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RHOP",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RHOP",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#3YearsOfGUTS",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%233YearsOfGUTS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheView",
+          "title": "#ONEPIECE1193",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheView",
+          "url": "https://twitter.com/search?q=%23ONEPIECE1193",
           "platform": "X/Twitter"
         },
         {
-          "title": "#theview",
+          "title": "Taco Tuesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23theview",
+          "url": "https://twitter.com/search?q=Taco%20Tuesday",
           "platform": "X/Twitter"
         },
         {
-          "title": "West Bank",
+          "title": "Scrap Baby",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=West%20Bank",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Stevie Wonder",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stevie%20Wonder",
+          "url": "https://twitter.com/search?q=Scrap%20Baby",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "south park",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "detención",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vix",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "club brugge",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lonnie bunch",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liga de campeones de la uefa",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandon graham",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rhode",
+          "title": "olympiacos fc",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lsu sec",
-          "traffic": "2000",
+          "title": "olympiacos",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvel rivals",
+          "title": "ben affleck",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "meta muse",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardinals depth chart",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "porto",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "destroyer",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phil jackson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "el nino heavy snow map",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump 9/11",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
