@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:20:55.528599+00:00",
+  "updatedAt": "2026-09-08T08:58:33.142440+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#CalvinKleinSS27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CalvinKleinSS27",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#SMUvsFSU",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23SMUvsFSU",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SurvivingBarstool",
+          "title": "Singleton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SurvivingBarstool",
+          "url": "https://twitter.com/search?q=Singleton",
           "platform": "X/Twitter"
         },
         {
-          "title": "Joe Hendry",
+          "title": "Rone",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Joe%20Hendry",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Dylan Cease",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dylan%20Cease",
+          "url": "https://twitter.com/search?q=Rone",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spencer pratt",
+          "title": "sarah khalifá",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "winning powerball numbers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "iran war hormuz",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "driverless taxis",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "navier stokes",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "when did charlie kirk die",
+          "title": "billy joel collaborator jon small",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "youtube tv settlement",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlético nacional - deportivo cali",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "9/11",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "retroid pocket duo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indonesia volcano",
+          "title": "matthew mcconaughey",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacob lopez",
-          "traffic": "500",
+          "title": "christian gonzalez",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sammy hagar",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zelda direct",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "teoscar hernández",
-          "traffic": "1000",
+          "title": "kate middleton",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
