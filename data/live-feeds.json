@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:04:05.686148+00:00",
+  "updatedAt": "2026-09-08T22:52:52.099645+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#3YearsOfGUTS",
+          "title": "#SmartContract",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%233YearsOfGUTS",
+          "url": "https://twitter.com/search?q=%23SmartContract",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ONEPIECE1193",
+          "title": "#CodeFreedom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ONEPIECE1193",
+          "url": "https://twitter.com/search?q=%23CodeFreedom",
           "platform": "X/Twitter"
         },
         {
-          "title": "Taco Tuesday",
+          "title": "BOTW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Taco%20Tuesday",
+          "url": "https://twitter.com/search?q=BOTW",
           "platform": "X/Twitter"
         },
         {
-          "title": "Scrap Baby",
+          "title": "Dear Canada",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Scrap%20Baby",
+          "url": "https://twitter.com/search?q=Dear%20Canada",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "olympiacos fc",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "olympiacos",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ben affleck",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "meta muse",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals depth chart",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "porto",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "destroyer",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phil jackson",
+          "title": "the young and the restless",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "el nino heavy snow map",
-          "traffic": "1000",
+          "title": "rays vs braves",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump 9/11",
+          "title": "trump ai posts",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rockies vs yankees",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fire near me",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dwts premiere",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels vs red sox",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mets vs marlins",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "twins vs tigers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelly osbourne",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
