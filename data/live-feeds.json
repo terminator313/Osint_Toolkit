@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:02:22.640722+00:00",
+  "updatedAt": "2026-09-09T06:21:35.491413+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DWCS",
+          "title": "#USOpen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
+          "url": "https://twitter.com/search?q=%23USOpen",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWENXT",
+          "title": "#TheDrop",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
+          "url": "https://twitter.com/search?q=%23TheDrop",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHONY",
+          "title": "#ThisIsMyCrew",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHONY",
+          "url": "https://twitter.com/search?q=%23ThisIsMyCrew",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nintendo",
+          "title": "Opie",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nintendo",
+          "url": "https://twitter.com/search?q=Opie",
           "platform": "X/Twitter"
         },
         {
-          "title": "AJSS",
+          "title": "Navarro",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=AJSS",
+          "url": "https://twitter.com/search?q=Navarro",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pete alonso",
-          "traffic": "1000",
+          "title": "kauai hawaii",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hailey glassman",
+          "title": "nicole linton",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tennis streams",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ernesto laguardia",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sam nordquist",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodger standings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tanner scott",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "steam leak",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "simone biles",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica pegula husband",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "danielle deadwyler",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michigan lottery",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kevin mcgonigle",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jacob misiorowski",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wsop super circuit main event",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jimmy kimmel",
+          "title": "xylitol",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where to watch us open tennis",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
