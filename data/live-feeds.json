@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:52:52.099645+00:00",
+  "updatedAt": "2026-09-09T01:02:22.640722+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RHOP",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOP",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmartContract",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmartContract",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CodeFreedom",
+          "title": "#RHONY",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CodeFreedom",
+          "url": "https://twitter.com/search?q=%23RHONY",
           "platform": "X/Twitter"
         },
         {
-          "title": "BOTW",
+          "title": "Nintendo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=BOTW",
+          "url": "https://twitter.com/search?q=Nintendo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dear Canada",
+          "title": "AJSS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dear%20Canada",
+          "url": "https://twitter.com/search?q=AJSS",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "the young and the restless",
+          "title": "pete alonso",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hailey glassman",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rays vs braves",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trump ai posts",
+          "title": "simone biles",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockies vs yankees",
-          "traffic": "10000",
+          "title": "jessica pegula husband",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire near me",
+          "title": "danielle deadwyler",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dwts premiere",
+          "title": "michigan lottery",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kevin mcgonigle",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angels vs red sox",
-          "traffic": "10000",
+          "title": "jacob misiorowski",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets vs marlins",
-          "traffic": "5000",
+          "title": "wsop super circuit main event",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "twins vs tigers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly osbourne",
+          "title": "jimmy kimmel",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
