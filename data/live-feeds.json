@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:49:00.197701+00:00",
+  "updatedAt": "2026-09-09T23:49:17.326531+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#NAPARS",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NAPARS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#YNWA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23YNWA",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#raindelayquestions",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23raindelayquestions",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DevLife",
+          "title": "Michael Mayer",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DevLife",
+          "url": "https://twitter.com/search?q=Michael%20Mayer",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FutureTech",
+          "title": "Sydney Sweeney",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FutureTech",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tokyo Revengers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tokyo%20Revengers",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Forgotten Land",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Forgotten%20Land",
+          "url": "https://twitter.com/search?q=Sydney%20Sweeney",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "beyoncé",
+          "title": "cubs vs brewers",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "diamondbacks vs royals",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mls",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandi glanville",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "foster griffin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "denny's minnesota wisconsin locations closed",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palmeiras vs ldu quito",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "palmeiras - ldu quito",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "harry potter hbo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl kickoff 2026",
+          "title": "cincinnati vs philadelphia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karen khachanov",
-          "traffic": "5000",
+          "title": "aj brown stats",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "blockx",
+          "title": "jose altuve",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grindr",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "adam carolla",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "leo bernal",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thursday night football",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
