@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:49:17.326531+00:00",
+  "updatedAt": "2026-09-10T03:05:41.150443+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#NAPARS",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NAPARS",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#YNWA",
+          "title": "#NEvsSEA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YNWA",
+          "url": "https://twitter.com/search?q=%23NEvsSEA",
           "platform": "X/Twitter"
         },
         {
-          "title": "#raindelayquestions",
+          "title": "#OlandriaxEsteeLauder",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23raindelayquestions",
+          "url": "https://twitter.com/search?q=%23OlandriaxEsteeLauder",
           "platform": "X/Twitter"
         },
         {
-          "title": "Michael Mayer",
+          "title": "Will Campbell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Michael%20Mayer",
+          "url": "https://twitter.com/search?q=Will%20Campbell",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sydney Sweeney",
+          "title": "Romeo Doubs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sydney%20Sweeney",
+          "url": "https://twitter.com/search?q=Romeo%20Doubs",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cubs vs brewers",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diamondbacks vs royals",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mls",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandi glanville",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "foster griffin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cincinnati vs philadelphia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aj brown stats",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jose altuve",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grindr",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam carolla",
+          "title": "matt nagy",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "doubs",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "byron murphy ii",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matthew mcconaughey",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kayshon boutte",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kupp",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carrie underwood",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "physint",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "njigba",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris pappas",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
