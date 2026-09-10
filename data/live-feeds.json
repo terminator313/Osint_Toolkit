@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:04:06.198036+00:00",
+  "updatedAt": "2026-09-10T19:55:51.231453+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Airdrop",
+          "title": "#PValley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Airdrop",
+          "url": "https://twitter.com/search?q=%23PValley",
           "platform": "X/Twitter"
         },
         {
-          "title": "#kirkiversary",
+          "title": "#TrinityxTommyHilfiger",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23kirkiversary",
+          "url": "https://twitter.com/search?q=%23TrinityxTommyHilfiger",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BuschColdAndSmoothSweepstakes",
+          "title": "#CorruptTrumpRegime",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BuschColdAndSmoothSweepstakes",
+          "url": "https://twitter.com/search?q=%23CorruptTrumpRegime",
           "platform": "X/Twitter"
         },
         {
-          "title": "Beal",
+          "title": "Alvarado",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beal",
+          "url": "https://twitter.com/search?q=Alvarado",
           "platform": "X/Twitter"
         },
         {
-          "title": "Korra",
+          "title": "Asa Germann",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Korra",
+          "url": "https://twitter.com/search?q=Asa%20Germann",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "astros - phillies",
-          "traffic": "5000",
+          "title": "homer gere",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami cargo plane approach speed warnings",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fenerbahçe",
+          "title": "ocean photographer of the year seahorse",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wingstop pass",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psv",
+          "title": "man u",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "no contest plea",
+          "title": "jason sudeikis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "slavia praha vs lens",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hail",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "george kittle",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grand theft auto vi ps5 controller",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jj mccarthy nfl trade rumors",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "psv vs shakhtar donetsk",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rays - braves",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "avatar seven havens",
+          "title": "bayern",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "azerbaijan",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
