@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T03:05:41.150443+00:00",
+  "updatedAt": "2026-09-10T08:18:13.368993+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
+          "title": "#kirkiversary",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23kirkiversary",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#AEWDynamite",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxEsteeLauder",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxEsteeLauder",
           "platform": "X/Twitter"
         },
         {
-          "title": "Will Campbell",
+          "title": "Grindr",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Will%20Campbell",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Romeo Doubs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Romeo%20Doubs",
+          "url": "https://twitter.com/search?q=Grindr",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "matt nagy",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "doubs",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "byron murphy ii",
+          "title": "deepseek v4.1 flash",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matthew mcconaughey",
-          "traffic": "1000",
+          "title": "blake lively",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kayshon boutte",
-          "traffic": "500",
+          "title": "tommy mcmillen",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kupp",
-          "traffic": "500",
+          "title": "cynthia klitbo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carrie underwood",
+          "title": "eliezer alfonzo",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jose trevino",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "farmers almanac first snowfall map",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "physint",
-          "traffic": "1000",
+          "title": "kaia gerber",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "njigba",
+          "title": "josue de paula",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "max muncy",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris pappas",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
