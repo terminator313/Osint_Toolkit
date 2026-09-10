@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T13:00:59.526689+00:00",
+  "updatedAt": "2026-09-10T17:04:06.198036+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Airdrop",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Airdrop",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#kirkiversary",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23kirkiversary",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#BuschColdAndSmoothSweepstakes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23BuschColdAndSmoothSweepstakes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Amadeus",
+          "title": "Beal",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Amadeus",
+          "url": "https://twitter.com/search?q=Beal",
           "platform": "X/Twitter"
         },
         {
-          "title": "Thirsty Thursday",
+          "title": "Korra",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thirsty%20Thursday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Master Roshi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Master%20Roshi",
+          "url": "https://twitter.com/search?q=Korra",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "lee pace",
-          "traffic": "500",
+          "title": "astros - phillies",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ac dc toronto concert canceled",
+          "title": "miami cargo plane approach speed warnings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fenerbahçe",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cleveland browns defensive end jared verse",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "forex factory",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "economic calendar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "china vs france",
+          "title": "wingstop pass",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ppi report",
-          "traffic": "2000",
+          "title": "psv",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "when are midterm elections",
-          "traffic": "200",
+          "title": "no contest plea",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kate jackson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hillary clinton",
+          "title": "jj mccarthy nfl trade rumors",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "psv vs shakhtar donetsk",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays - braves",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "avatar seven havens",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
