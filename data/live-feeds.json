@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:55:51.231453+00:00",
+  "updatedAt": "2026-09-10T22:16:42.390362+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PValley",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PValley",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#TrinityxTommyHilfiger",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23TrinityxTommyHilfiger",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CorruptTrumpRegime",
+          "title": "#TrinityxNYFW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CorruptTrumpRegime",
+          "url": "https://twitter.com/search?q=%23TrinityxNYFW",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alvarado",
+          "title": "#TheGloriousKing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alvarado",
+          "url": "https://twitter.com/search?q=%23TheGloriousKing",
           "platform": "X/Twitter"
         },
         {
-          "title": "Asa Germann",
+          "title": "#PValley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Asa%20Germann",
+          "url": "https://twitter.com/search?q=%23PValley",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Davies",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Davies",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "homer gere",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ocean photographer of the year seahorse",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "man u",
+          "title": "rams depth chart",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason sudeikis",
-          "traffic": "200",
+          "title": "aurora - municipal",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "slavia praha vs lens",
+          "title": "rangers",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rajeev ram",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hail",
+          "title": "henry winkler tom hanks feud",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "49ers depth chart",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christian mccaffrey",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "deebo samuel",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyren williams",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george kittle",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grand theft auto vi ps5 controller",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bayern",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "azerbaijan",
-          "traffic": "500",
+          "title": "half staff",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
