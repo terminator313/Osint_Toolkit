@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:20:47.793083+00:00",
+  "updatedAt": "2026-09-11T04:58:39.429854+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TheGloriousKing",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheGloriousKing",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#TrinityxTommyHilfiger",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrinityxTommyHilfiger",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#FTTB",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FTTB",
           "platform": "X/Twitter"
         },
         {
-          "title": "Megyn",
+          "title": "#SFvsLAR",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Megyn",
+          "url": "https://twitter.com/search?q=%23SFvsLAR",
           "platform": "X/Twitter"
         },
         {
-          "title": "Olise",
+          "title": "#westsidewhimsy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Olise",
+          "url": "https://twitter.com/search?q=%23westsidewhimsy",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Florida A&amp;M",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Florida%20A%26M",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Daejon Love",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Daejon%20Love",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "um football",
+          "title": "downdetector",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "vaccinations",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "football game",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt stafford",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kaelon black",
+          "title": "cable tv",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "how old is sabalenka",
+          "title": "mobland season 2",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sabalenka husband",
+          "title": "내일 날씨",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aster",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gal gadot",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony volpe",
+          "title": "joe digenova",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us-iran",
+          "title": "jhene aiko new album",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sabalenka boyfriend",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica pegula parents",
+          "title": "carin leon",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
