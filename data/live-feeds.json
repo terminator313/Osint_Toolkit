@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:58:58.725988+00:00",
+  "updatedAt": "2026-09-11T22:26:25.698701+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#CalvinKleinSS27xLINGLING",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CalvinKleinSS27xLINGLING",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#911Remembrance",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23911Remembrance",
           "platform": "X/Twitter"
         },
         {
-          "title": "#September11",
+          "title": "Bin Laden",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23September11",
+          "url": "https://twitter.com/search?q=Bin%20Laden",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ground Zero",
+          "title": "Cooper Rush",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ground%20Zero",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#CalvinKleinSS27xLINGLING",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CalvinKleinSS27xLINGLING",
+          "url": "https://twitter.com/search?q=Cooper%20Rush",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "d'andre swift",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "martha maccallum",
+          "title": "mets vs yankees",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "karen khachanov",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "playstation plus",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wrexham",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "united 93 movie",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fiorentina",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "temporary protected status el salvador",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oneil cruz",
+          "title": "villanova vs louisville",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west ham",
+          "title": "richmond vs nc state",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "orioles vs blue jays",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "norfolk state football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers vs marlins",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "judge judy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scp foundation movie a24 2027",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rockies vs tigers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "greg gutfeld",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
