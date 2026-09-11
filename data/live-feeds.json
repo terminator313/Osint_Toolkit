@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:30:06.128392+00:00",
+  "updatedAt": "2026-09-11T19:58:58.725988+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Jhene",
+          "title": "Ground Zero",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jhene",
+          "url": "https://twitter.com/search?q=Ground%20Zero",
           "platform": "X/Twitter"
         },
         {
-          "title": "namjoon",
+          "title": "#CalvinKleinSS27xLINGLING",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=namjoon",
+          "url": "https://twitter.com/search?q=%23CalvinKleinSS27xLINGLING",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "kj biermann",
+          "title": "d'andre swift",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ilhan omar",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "corte suprema",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "emergency landing",
+          "title": "martha maccallum",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eric shawn",
+          "title": "karen khachanov",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "playstation plus",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida a&m rattlers football",
-          "traffic": "100000",
+          "title": "wrexham",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "princess astrid passing norway",
-          "traffic": "5000",
+          "title": "united 93 movie",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "travis kelce bratenahl property neighbor complaints",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edward furlong",
+          "title": "fiorentina",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robin montgomery",
+          "title": "temporary protected status el salvador",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oneil cruz",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "west ham",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
