@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:46:59.885363+00:00",
+  "updatedAt": "2026-09-11T17:30:06.128392+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -44,9 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#PatriotDay",
+          "title": "namjoon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PatriotDay",
+          "url": "https://twitter.com/search?q=namjoon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "xbox game pass",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "garnet ace bailey",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rick rescorla",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bill clinton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "saudi arabia",
+          "title": "kj biermann",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ace bailey",
+          "title": "ilhan omar",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "corte suprema",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "emergency landing",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eric shawn",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the falling man",
-          "traffic": "200",
+          "title": "florida a&m rattlers football",
+          "traffic": "100000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "khalid sheikh mohammed",
-          "traffic": "500",
+          "title": "princess astrid passing norway",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bloomberg",
-          "traffic": "200",
+          "title": "travis kelce bratenahl property neighbor complaints",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "9/11 time",
-          "traffic": "200",
+          "title": "edward furlong",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robin montgomery",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
