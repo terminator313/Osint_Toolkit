@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:29:18.803580+00:00",
+  "updatedAt": "2026-09-11T13:46:59.885363+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WestsideWhimsy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WestsideWhimsy",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NeverForget",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NeverForget",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#911Remembrance",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23911Remembrance",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Aaron Donald",
+          "title": "Jhene",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aaron%20Donald",
+          "url": "https://twitter.com/search?q=Jhene",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FTTB",
+          "title": "#PatriotDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FTTB",
+          "url": "https://twitter.com/search?q=%23PatriotDay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "worldcup 2026",
+          "title": "xbox game pass",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stake us",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marvel rivals season 10 release date",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raphinha",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rabies exposure",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the walking dead: dead city - season 3",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "retirement",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "silo season 3",
+          "title": "garnet ace bailey",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "home prices",
+          "title": "rick rescorla",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nick woltemade",
-          "traffic": "100",
+          "title": "bill clinton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saudi arabia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ace bailey",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the falling man",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khalid sheikh mohammed",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bloomberg",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "9/11 time",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
