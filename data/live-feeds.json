@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:58:39.429854+00:00",
+  "updatedAt": "2026-09-11T09:29:18.803580+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#WestsideWhimsy",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23WestsideWhimsy",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NeverForget",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NeverForget",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#September11",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23September11",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Aaron Donald",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Aaron%20Donald",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#FTTB",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23FTTB",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#SFvsLAR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SFvsLAR",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#westsidewhimsy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23westsidewhimsy",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Florida A&amp;M",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Florida%20A%26M",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Daejon Love",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Daejon%20Love",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "downdetector",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vaccinations",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cable tv",
+          "title": "worldcup 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mobland season 2",
+          "title": "stake us",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel rivals season 10 release date",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raphinha",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "내일 날씨",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aster",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gal gadot",
+          "title": "rabies exposure",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe digenova",
+          "title": "the walking dead: dead city - season 3",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "retirement",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "silo season 3",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jhene aiko new album",
-          "traffic": "500",
+          "title": "home prices",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carin leon",
-          "traffic": "1000",
+          "title": "nick woltemade",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
