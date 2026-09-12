@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:11:03.338647+00:00",
+  "updatedAt": "2026-09-12T18:34:24.294781+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#YouAlwaysShineYeonjun",
+          "title": "#GoBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YouAlwaysShineYeonjun",
+          "url": "https://twitter.com/search?q=%23GoBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "#바다를닮은쭈니에게높은가을하늘을",
+          "title": "#Sooners",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%EB%B0%94%EB%8B%A4%EB%A5%BC%EB%8B%AE%EC%9D%80%EC%AD%88%EB%8B%88%EC%97%90%EA%B2%8C%EB%86%92%EC%9D%80%EA%B0%80%EC%9D%84%ED%95%98%EB%8A%98%EC%9D%84",
+          "url": "https://twitter.com/search?q=%23Sooners",
           "platform": "X/Twitter"
         },
         {
-          "title": "#IceCreamより甘いヨンジュン生誕祭",
+          "title": "#MrFanboyEP3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IceCream%E3%82%88%E3%82%8A%E7%94%98%E3%81%84%E3%83%A8%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%B3%E7%94%9F%E8%AA%95%E7%A5%AD",
+          "url": "https://twitter.com/search?q=%23MrFanboyEP3",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ireland",
+          "title": "MR FANBOY CHAPTER 3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ireland",
+          "url": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%203",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hull",
+          "title": "Arizona State",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hull",
+          "url": "https://twitter.com/search?q=Arizona%20State",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "wku vs georgia",
-          "traffic": "5000",
+          "title": "college football",
+          "traffic": "200000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "premier league standings",
+          "title": "diablo 5",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lee corso",
+          "title": "dante moore",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox sports",
+          "title": "ios",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stockport vs leicester city",
+          "title": "bruno mars tampa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tbs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "atalanta vs cagliari",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "athletic - elche c. f.",
-          "traffic": "1000",
+          "title": "real madrid vs rayo vallecano",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "athletic vs elche",
-          "traffic": "1000",
+          "title": "sunderland vs arsenal",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fox one",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "borussia dortmund vs sc paderborn 07 standings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "valentin barco",
-          "traffic": "500",
+          "title": "doctrine overwatch",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
