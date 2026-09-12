@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:34:24.294781+00:00",
+  "updatedAt": "2026-09-12T21:11:55.723138+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,21 +26,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Sooners",
+          "title": "#NocheUFC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Sooners",
+          "url": "https://twitter.com/search?q=%23NocheUFC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MrFanboyEP3",
+          "title": "#SUNARS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MrFanboyEP3",
+          "url": "https://twitter.com/search?q=%23SUNARS",
           "platform": "X/Twitter"
         },
         {
-          "title": "MR FANBOY CHAPTER 3",
+          "title": "Penn State",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=MR%20FANBOY%20CHAPTER%203",
+          "url": "https://twitter.com/search?q=Penn%20State",
           "platform": "X/Twitter"
         },
         {
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "college football",
-          "traffic": "200000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "diablo 5",
+          "title": "georgios frangulis",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dante moore",
+          "title": "brad pitt",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ios",
+          "title": "palmeiras vs são paulo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "disney+",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sabatini",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruno mars tampa",
+          "title": "oklahoma state cowboys football vs oregon ducks football match player stats",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tbs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atalanta vs cagliari",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid vs rayo vallecano",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sunderland vs arsenal",
+          "title": "campbell vs florida",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "doctrine overwatch",
+          "title": "maria sharapova",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marvel studios",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "south africa vs new zealand",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
