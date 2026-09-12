@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:11:55.723138+00:00",
+  "updatedAt": "2026-09-12T23:08:34.591948+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GoBlue",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBlue",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#NocheUFC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NocheUFC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SUNARS",
+          "title": "#RollTide",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SUNARS",
+          "url": "https://twitter.com/search?q=%23RollTide",
           "platform": "X/Twitter"
         },
         {
-          "title": "Penn State",
+          "title": "#GoBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Penn%20State",
+          "url": "https://twitter.com/search?q=%23GoBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "Arizona State",
+          "title": "Kamario Taylor",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Arizona%20State",
+          "url": "https://twitter.com/search?q=Kamario%20Taylor",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Keelon Russell",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Keelon%20Russell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "georgios frangulis",
+          "title": "southern miss vs auburn",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brad pitt",
-          "traffic": "1000",
+          "title": "charlotte vs ole miss",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "palmeiras vs são paulo",
-          "traffic": "1000",
+          "title": "texas tech football",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "disney+",
-          "traffic": "1000",
+          "title": "lsu football schedule",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sabatini",
+          "title": "atlanta united vs d.c. united",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oklahoma state cowboys football vs oregon ducks football match player stats",
+          "title": "north alabama vs se la",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "campbell vs florida",
+          "title": "toronto vs orlando city",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ga southern vs clemson",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maria sharapova",
-          "traffic": "2000",
+          "title": "nashville vs inter miami",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "marvel studios",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "south africa vs new zealand",
+          "title": "navy vs fl atlantic",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
