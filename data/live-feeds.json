@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:08:34.591948+00:00",
+  "updatedAt": "2026-09-13T01:16:36.663025+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RollTide",
+          "title": "#AEWCollision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RollTide",
+          "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoBlue",
+          "title": "#HookEm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBlue",
+          "url": "https://twitter.com/search?q=%23HookEm",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kamario Taylor",
+          "title": "McMillen",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kamario%20Taylor",
+          "url": "https://twitter.com/search?q=McMillen",
           "platform": "X/Twitter"
         },
         {
-          "title": "Keelon Russell",
+          "title": "Stein",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Keelon%20Russell",
+          "url": "https://twitter.com/search?q=Stein",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "southern miss vs auburn",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlotte vs ole miss",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "texas tech football",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lsu football schedule",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlanta united vs d.c. united",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "north alabama vs se la",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toronto vs orlando city",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ga southern vs clemson",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nashville vs inter miami",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "navy vs fl atlantic",
+          "title": "ben affleck",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "novig",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colin simmons",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coastal carolina football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "garrett mitchell",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zuffa",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bijan robinson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nicole kidman daughter us open",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris henry jr",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ronald acuña jr.",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
