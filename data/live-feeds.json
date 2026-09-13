@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:33:24.302114+00:00",
+  "updatedAt": "2026-09-13T23:52:36.714603+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HereWeGo",
+          "title": "#skol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HereWeGo",
+          "url": "https://twitter.com/search?q=%23skol",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OnePride",
+          "title": "#GoPackGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OnePride",
+          "url": "https://twitter.com/search?q=%23GoPackGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#KeepPounding",
+          "title": "#RaiseHail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KeepPounding",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "Browns",
+          "title": "Mikey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Browns",
+          "url": "https://twitter.com/search?q=Mikey",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bears",
+          "title": "LaFleur",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bears",
+          "url": "https://twitter.com/search?q=LaFleur",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "caleb douglas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michelle obama celine dion paris concert",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin hailey bieber wedding anniversary",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "immaculate inning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tanner scott",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chivas vs pumas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaxson dart",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nhl",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "malik washington",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real sociedad vs atlético madrid standings",
+          "title": "nick sirianni",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dallas turner",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardinals schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "malachi fields",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "packers coach",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isaiah likely",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brian flores",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "60 minutes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stella stocker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jihaad campbell",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
