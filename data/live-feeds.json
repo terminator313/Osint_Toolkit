@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:57:17.168041+00:00",
+  "updatedAt": "2026-09-14T20:11:49.524987+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BlueWaveIn50Days",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn50Days",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#BetrPicks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#IDontWantToOverreactBUT",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23IDontWantToOverreactBUT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "Siri AI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=Siri%20AI",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ChiefsKingdom",
+          "title": "Lost in Space",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ChiefsKingdom",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#MondayVibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayVibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Don Jr",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Don%20Jr",
+          "url": "https://twitter.com/search?q=Lost%20in%20Space",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "torino vs roma",
+          "title": "ncis",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kawhi leonard trade",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andrew mountbatten-windsor",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kayla day",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "xrp",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stagecoach 2027",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alligator alcatraz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "devin carter",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al-shamal vs al-ittihad",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kody brown",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "macklemore",
+          "title": "royal canadian air force cruise rescue",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oracle",
-          "traffic": "200",
+          "title": "bruce davis",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stefon diggs penalty",
-          "traffic": "20000",
+          "title": "marathon",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "social security cola 2027 forecast",
+          "title": "taj gibson",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "invictus games",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
