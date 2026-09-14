@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T23:52:36.714603+00:00",
+  "updatedAt": "2026-09-14T03:22:54.218500+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#skol",
+          "title": "#Lanterns",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23skol",
+          "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoPackGo",
+          "title": "#DALvsNYG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoPackGo",
+          "url": "https://twitter.com/search?q=%23DALvsNYG",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseHail",
+          "title": "#BigBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=%23BigBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mikey",
+          "title": "Harbaugh",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mikey",
+          "url": "https://twitter.com/search?q=Harbaugh",
           "platform": "X/Twitter"
         },
         {
-          "title": "LaFleur",
+          "title": "Dak Prescott",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=LaFleur",
+          "url": "https://twitter.com/search?q=Dak%20Prescott",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "nick sirianni",
+          "title": "caitlin clark angel reese friendship",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "inundación",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the last photograph",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fdny",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frontier flight stranded overnight knoxville",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jerry jones",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dallas turner",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "malachi fields",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "packers coach",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isaiah likely",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brian flores",
+          "title": "cavan sullivan",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "60 minutes",
-          "traffic": "1000",
+          "title": "three's company",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stella stocker",
-          "traffic": "500",
+          "title": "nicole kidman and faith margaret",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jihaad campbell",
+          "title": "skip bayless",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
