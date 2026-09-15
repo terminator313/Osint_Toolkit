@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T23:17:46.719459+00:00",
+  "updatedAt": "2026-09-15T01:42:32.426991+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Cybertruck",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Cybertruck",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#Emmys",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23Emmys",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlueWaveIn50Days",
+          "title": "#WWERaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlueWaveIn50Days",
+          "url": "https://twitter.com/search?q=%23WWERaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "Clarity Act",
+          "title": "#DENvsKC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clarity%20Act",
+          "url": "https://twitter.com/search?q=%23DENvsKC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Moms for America",
+          "title": "Karl Rove",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Moms%20for%20America",
+          "url": "https://twitter.com/search?q=Karl%20Rove",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Robert Kraft",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Robert%20Kraft",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "gavin newsom",
+          "title": "amber alert",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xavier worthy",
+          "title": "olivia benson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dakota fanning",
+          "title": "stephen amell",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "starbucks snoopy",
+          "title": "david peterson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "braves vs cubs",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees vs twins",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "giants vs cardinals",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "landon dickerson",
+          "title": "jon hamm",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "travis kelce",
-          "traffic": "2000",
+          "title": "elly de la cruz",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "atlantic hurricane forecast",
+          "title": "emilia clarke",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick surtain ii",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rtx 5090",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tom pelphrey",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
