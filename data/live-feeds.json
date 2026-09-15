@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T17:28:05.843022+00:00",
+  "updatedAt": "2026-09-15T20:23:29.735880+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Olatember",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Olatember",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#GetReadyToVote",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GetReadyToVote",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#NationalVoterRegistrationDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23NationalVoterRegistrationDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GenuinelyEarned",
+          "title": "Articles of Impeachment",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GenuinelyEarned",
+          "url": "https://twitter.com/search?q=Articles%20of%20Impeachment",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LanaRhoades",
+          "title": "#CarabaoCup",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LanaRhoades",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#VoteReady",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VoteReady",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Chris Ilitch",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chris%20Ilitch",
+          "url": "https://twitter.com/search?q=%23CarabaoCup",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "alavés vs valencia",
+          "title": "jimmy horn jr",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alavés - valencia c. f.",
+          "title": "uju anya",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eng vs sl",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ohio state highway patrol",
+          "title": "arda güler",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rayo vallecano - rcd espanyol",
+          "title": "mortgage rates today",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "j",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "finneas",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "goog",
+          "title": "paris hilton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arsenal f.c",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "impeachment",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nyff",
+          "title": "yuval abraham rachel szor naza documentary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roberto clemente",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rafe spall",
+          "title": "liverpool",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
