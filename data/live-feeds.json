@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:01:55.037167+00:00",
+  "updatedAt": "2026-09-16T01:31:19.299354+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#YIAYfood",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YIAYfood",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Olatember",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Olatember",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheFive",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheFive",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "Alex Saab",
+          "title": "#Asentum",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Alex%20Saab",
+          "url": "https://twitter.com/search?q=%23Asentum",
           "platform": "X/Twitter"
         },
         {
-          "title": "Crooks",
+          "title": "Conner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Crooks",
+          "url": "https://twitter.com/search?q=Conner",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "thomas sadoski",
+          "title": "traitors",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leon black",
+          "title": "guardians game",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dodgers - reds",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "platense vs fluminense",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jessica tarlov",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steve kerr",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charlie sheen emilio estevez reunion",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carmine agnello",
+          "title": "travis bazzana",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brewers vs pirates",
-          "traffic": "10000",
+          "title": "connor wood dwts",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elche cf vs real madrid standings",
-          "traffic": "50000",
+          "title": "ezra frech",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "giada de laurentiis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "junior caminero",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "volcano",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "toluca vs puebla",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sarah nader",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
