@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:21:17.652517+00:00",
+  "updatedAt": "2026-09-16T23:08:12.141462+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GuardsBall",
+          "title": "#MUFC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GuardsBall",
+          "url": "https://twitter.com/search?q=%23MUFC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DeepWork",
+          "title": "#BarçaRacing",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DeepWork",
+          "url": "https://twitter.com/search?q=%23Bar%C3%A7aRacing",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wiseman",
+          "title": "Rogan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wiseman",
+          "url": "https://twitter.com/search?q=Rogan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tommy Pham",
+          "title": "Claiborne",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tommy%20Pham",
+          "url": "https://twitter.com/search?q=Claiborne",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fiji hiv crisis",
-          "traffic": "2000",
+          "title": "welfare fraud",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fbi",
+          "title": "the last of us",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "slow horses show renewal news",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe burrow injury",
-          "traffic": "500",
+          "title": "libertadores",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "athletic bilbao",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "azeez al-shaair",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "demi moore",
+          "title": "russian ukraine war",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barca vs",
+          "title": "nico collins",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morgan freeman",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "queen camilla",
-          "traffic": "1000",
+          "title": "barack obama",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shea lacey",
-          "traffic": "1000",
+          "title": "botafogo vs grêmio",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barcelona schedule",
-          "traffic": "1000",
+          "title": "phillies - nationals",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
