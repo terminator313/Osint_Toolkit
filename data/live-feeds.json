@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T12:41:20.387939+00:00",
+  "updatedAt": "2026-09-17T17:27:25.106531+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#dwts",
+          "title": "#USMNT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
+          "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOSLC",
+          "title": "#Diana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOSLC",
+          "url": "https://twitter.com/search?q=%23Diana",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#ThursdayThought",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23ThursdayThought",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ron White",
+          "title": "Poch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ron%20White",
+          "url": "https://twitter.com/search?q=Poch",
           "platform": "X/Twitter"
         },
         {
-          "title": "#hltspoilers",
+          "title": "Rempe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hltspoilers",
+          "url": "https://twitter.com/search?q=Rempe",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pennsylvania",
+          "title": "brain eating amoeba",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eng vs sl",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "israel iran war",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sway",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jon kyl",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dodgers - reds",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real betis - getafe",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jabón",
-          "traffic": "200",
+          "title": "morgan freeman",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patrick mcenroe",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pga tour",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan clark",
+          "title": "betis vs getafe",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bibi king",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sara bareilles",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vanderbilt football cancels 2028 game",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jackson koivun",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wow forever beta",
-          "traffic": "500",
+          "title": "dow jones stock market",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
