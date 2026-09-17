@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:10:05.032536+00:00",
+  "updatedAt": "2026-09-17T12:41:20.387939+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#hltspoilers",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23hltspoilers",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#dwts",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23dwts",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RHOSLC",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RHOSLC",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Nuns",
+          "title": "Ron White",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nuns",
+          "url": "https://twitter.com/search?q=Ron%20White",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RHOSLC",
+          "title": "#hltspoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RHOSLC",
+          "url": "https://twitter.com/search?q=%23hltspoilers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "accident lawyer",
+          "title": "pennsylvania",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jabón",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thema",
+          "title": "patrick mcenroe",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "where to watch nfl games",
+          "title": "pga tour",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan clark",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "artificial intelligence news",
+          "title": "bibi king",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tennis scores today",
-          "traffic": "1000",
+          "title": "sara bareilles",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix top movies right now",
-          "traffic": "1000",
+          "title": "vanderbilt football cancels 2028 game",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "what is a data breach",
-          "traffic": "1000",
+          "title": "jackson koivun",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "latest iphone rumors",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cryptocurrency trading",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl schedule this week",
-          "traffic": "1000",
+          "title": "wow forever beta",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
