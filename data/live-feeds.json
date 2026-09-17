@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:08:12.141462+00:00",
+  "updatedAt": "2026-09-17T01:35:27.383095+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxDrGroot",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxDrGroot",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MUFC",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MUFC",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BarçaRacing",
+          "title": "#RHOSLC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Bar%C3%A7aRacing",
+          "url": "https://twitter.com/search?q=%23RHOSLC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rogan",
+          "title": "Tatyana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rogan",
+          "url": "https://twitter.com/search?q=Tatyana",
           "platform": "X/Twitter"
         },
         {
-          "title": "Claiborne",
+          "title": "Amber",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Claiborne",
+          "url": "https://twitter.com/search?q=Amber",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "welfare fraud",
-          "traffic": "500",
+          "title": "sarah jane nader",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the last of us",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "slow horses show renewal news",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "libertadores",
+          "title": "pca",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "russian ukraine war",
-          "traffic": "200",
+          "title": "owen murphy",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nico collins",
+          "title": "brian wolfe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lisa rinna",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "morgan freeman",
-          "traffic": "2000",
+          "title": "connor hellebuyck",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barack obama",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "botafogo vs grêmio",
+          "title": "ryan phillippe",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "phillies - nationals",
+          "title": "brandon lowe",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andy cohen",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "st. louis vs colorado",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
