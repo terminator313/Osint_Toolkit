@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:29:17.959780+00:00",
+  "updatedAt": "2026-09-17T23:01:15.730867+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#nolimitt",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23nolimitt",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#bbtvi",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23bbtvi",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#OlandriaxSohoHouse",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23OlandriaxSohoHouse",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Aslan",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Aslan",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RTXPowersPlay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RTXPowersPlay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#dreamnastics",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dreamnastics",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#StopTrumpCorruption",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23StopTrumpCorruption",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "NL West",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=NL%20West",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Julian Assange",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Julian%20Assange",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "fox news iran",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix thriller movies september 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sara bejlek",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "beach hazards statement",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nelson the challenge",
+          "title": "sun vs dream",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "juventus",
-          "traffic": "1000",
+          "title": "syracuse vs pittsburgh",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "besiktas",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "f16",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bo naylor",
+          "title": "lady gaga baby name",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "california flooding",
+          "title": "henry cavill",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "law roach",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wnba",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "phillies vs mets",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration public benefits immigration rule",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "north korea",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "who plays nfl tonight",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
