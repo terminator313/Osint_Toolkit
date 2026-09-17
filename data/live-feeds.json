@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:35:27.383095+00:00",
+  "updatedAt": "2026-09-17T07:10:05.032536+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWDynamite",
+          "title": "#hltspoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23hltspoilers",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#AEWDynamite",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Nuns",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Nuns",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RHOSLC",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RHOSLC",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Tatyana",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tatyana",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Amber",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Amber",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "sarah jane nader",
-          "traffic": "10000",
+          "title": "accident lawyer",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pca",
+          "title": "thema",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where to watch nfl games",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "owen murphy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brian wolfe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa rinna",
+          "title": "artificial intelligence news",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "connor hellebuyck",
+          "title": "tennis scores today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ryan phillippe",
-          "traffic": "500",
+          "title": "netflix top movies right now",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandon lowe",
-          "traffic": "500",
+          "title": "what is a data breach",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andy cohen",
-          "traffic": "2000",
+          "title": "latest iphone rumors",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "st. louis vs colorado",
+          "title": "cryptocurrency trading",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nfl schedule this week",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
