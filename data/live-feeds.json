@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:49:32.505928+00:00",
+  "updatedAt": "2026-09-18T18:51:42.337445+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LastFourWatched",
+          "title": "#TheTraitorsUS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LastFourWatched",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#LetterboxdFriday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
+          "url": "https://twitter.com/search?q=%23TheTraitorsUS",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "MIA Recognition Day",
+          "title": "#NationalCheeseburgerDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=MIA%20Recognition%20Day",
+          "url": "https://twitter.com/search?q=%23NationalCheeseburgerDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "Happy Friyay",
+          "title": "Iain",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Happy%20Friyay",
+          "url": "https://twitter.com/search?q=Iain",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Bronwyn",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Bronwyn",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "traitors cast",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "casey wilson",
+          "title": "rcd espanyol - elche c. f.",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frankie muniz",
-          "traffic": "500",
+          "title": "espanyol vs elche",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noahkai banks",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "david walliams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "porsha williams emergency partial hysterectomy",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bobb'e j. thompson",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sara haines",
+          "title": "pa lottery",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kerry kennedy",
-          "traffic": "5000",
+          "title": "brentford vs chelsea",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor lewan",
-          "traffic": "200",
+          "title": "monaco vs lens",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cam whitmore",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "caleb flynn american idol",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "us military ai false intelligence report",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "best of the best netflix",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alavés gloriosas - barcelona",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
