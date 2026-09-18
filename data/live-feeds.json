@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:36:22.223742+00:00",
+  "updatedAt": "2026-09-18T15:49:32.505928+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#nolimitt",
+          "title": "#LastFourWatched",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23nolimitt",
+          "url": "https://twitter.com/search?q=%23LastFourWatched",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bbtvi",
+          "title": "#LetterboxdFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bbtvi",
+          "url": "https://twitter.com/search?q=%23LetterboxdFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bb28",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bb28",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#smno",
+          "title": "MIA Recognition Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23smno",
+          "url": "https://twitter.com/search?q=MIA%20Recognition%20Day",
           "platform": "X/Twitter"
         },
         {
-          "title": "Josh Allen",
+          "title": "Happy Friyay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Josh%20Allen",
+          "url": "https://twitter.com/search?q=Happy%20Friyay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "dp world tour",
-          "traffic": "200",
+          "title": "traitors cast",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "estados unidos",
-          "traffic": "200",
+          "title": "casey wilson",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cari champion",
-          "traffic": "200",
+          "title": "frankie muniz",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "danone ice cream recall target walmart",
-          "traffic": "200",
+          "title": "noahkai banks",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tomasz kosowski",
-          "traffic": "200",
+          "title": "david walliams",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "red sox score",
+          "title": "porsha williams emergency partial hysterectomy",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bobb'e j. thompson",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "costco food court",
+          "title": "sara haines",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kerry kennedy",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big brother",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cctv5",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "irán",
+          "title": "taylor lewan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
