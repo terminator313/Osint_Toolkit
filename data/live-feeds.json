@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:51:42.337445+00:00",
+  "updatedAt": "2026-09-18T21:24:52.716636+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TheTraitorsUS",
+          "title": "#BRECHE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheTraitorsUS",
+          "url": "https://twitter.com/search?q=%23BRECHE",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#MillionDollarPitch",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MillionDollarPitch",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalCheeseburgerDay",
+          "title": "Jimbo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalCheeseburgerDay",
+          "url": "https://twitter.com/search?q=Jimbo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Iain",
+          "title": "Car 54",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Iain",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Bronwyn",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bronwyn",
+          "url": "https://twitter.com/search?q=Car%2054",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rcd espanyol - elche c. f.",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "espanyol vs elche",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pa lottery",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brentford vs chelsea",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monaco vs lens",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cam whitmore",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caleb flynn american idol",
+          "title": "fda approval inluriyo verzenio eli lilly",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "us military ai false intelligence report",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "best of the best netflix",
+          "title": "oktoberfest",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alavés gloriosas - barcelona",
-          "traffic": "10000",
+          "title": "best of the best",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dow jones industrial average",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wake forest football",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pelle larson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "peso mexicano",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "antonio pemberton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "u.s. 101",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bayern munich vs union berlin standings",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
