@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T21:24:52.716636+00:00",
+  "updatedAt": "2026-09-18T23:28:04.454606+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,21 @@
       "status": "ok",
       "items": [
         {
+          "title": "#MillionDollarPitch",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23MillionDollarPitch",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BRECHE",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BRECHE",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MillionDollarPitch",
+          "title": "#OlandriaxMedicube",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MillionDollarPitch",
+          "url": "https://twitter.com/search?q=%23OlandriaxMedicube",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Jimbo",
+          "title": "Greenland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jimbo",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Car 54",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Car%2054",
+          "url": "https://twitter.com/search?q=Greenland",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fda approval inluriyo verzenio eli lilly",
+          "title": "blue jays vs rangers",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "r.j. decker",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oktoberfest",
+          "title": "ufc 333",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "best of the best",
+          "title": "sophie cunningham sydney sweeney novig ad",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dow jones industrial average",
+          "title": "braves vs astros",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wake forest football",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pelle larson",
+          "title": "new york rb - nyc fc",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peso mexicano",
-          "traffic": "1000",
+          "title": "phillies - mets",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "antonio pemberton",
-          "traffic": "500",
+          "title": "costco churro",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "u.s. 101",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bayern munich vs union berlin standings",
+          "title": "resident evil movie 2026",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ny red bulls vs new york city",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
