@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:20:45.133034+00:00",
+  "updatedAt": "2026-09-19T14:37:54.589818+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Caturday",
+          "title": "#COYS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23COYS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AFLHawksLions",
+          "title": "#LaneKiffinHour",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AFLHawksLions",
+          "url": "https://twitter.com/search?q=%23LaneKiffinHour",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PerthSantaXFanday33inOSAKA",
+          "title": "#YouManiacSeriesEP4",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PerthSantaXFanday33inOSAKA",
+          "url": "https://twitter.com/search?q=%23YouManiacSeriesEP4",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BTSonIHeartRadioMusicFestival",
+          "title": "Solanke",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BTSonIHeartRadioMusicFestival",
+          "url": "https://twitter.com/search?q=Solanke",
           "platform": "X/Twitter"
         },
         {
-          "title": "PERTHSANTA NIHON ICHINICHI",
+          "title": "#TOTAVL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=PERTHSANTA%20NIHON%20ICHINICHI",
+          "url": "https://twitter.com/search?q=%23TOTAVL",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "accident attorney",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dp world tour",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "news education",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "weather travel",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al east standings",
+          "title": "arsenal",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chicago weather",
+          "title": "trumprx",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san gennaro festival",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spurs",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "huffpost",
+          "title": "delaware football",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "savings",
+          "title": "pat mcafee",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick saban",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where is college gameday this week",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "news science",
-          "traffic": "500",
+          "title": "kent state football",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sports market",
-          "traffic": "100",
+          "title": "yahoo news",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
