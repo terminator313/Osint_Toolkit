@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:02:08.038489+00:00",
+  "updatedAt": "2026-09-19T22:22:52.285519+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#iufb",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23iufb",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#UFC331",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23UFC331",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AnchorDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AnchorDown",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Carver Cheeks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Carver%20Cheeks",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BatmanDay",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BatmanDay",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#kufball",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23kufball",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#GoDawgs",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoDawgs",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Silverfield",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Silverfield",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Julian Sayin",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Julian%20Sayin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "umass football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "montana state football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "uc football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wsu football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yale football",
+          "title": "iwo baraniewski",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usc vs rutgers",
+          "title": "nascar race today",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florida state football schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pitbull cruz next fight",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ms state football",
+          "title": "iu score",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barcelona",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kentucky vs texas a&m",
+          "title": "espn news",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "barca vs",
-          "traffic": "1000",
+          "title": "carson benge",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sean sharaf",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "choi doo-ho",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "robelis despaigne",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
