@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:45:43.473506+00:00",
+  "updatedAt": "2026-09-19T20:02:08.038489+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MrFanboyEP4",
+          "title": "#BatmanDay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MrFanboyEP4",
+          "url": "https://twitter.com/search?q=%23BatmanDay",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BHAARS",
+          "title": "#kufball",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BHAARS",
+          "url": "https://twitter.com/search?q=%23kufball",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#GoDawgs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23GoDawgs",
           "platform": "X/Twitter"
         },
         {
-          "title": "Colton Joseph",
+          "title": "Silverfield",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Colton%20Joseph",
+          "url": "https://twitter.com/search?q=Silverfield",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pat McAfee",
+          "title": "Julian Sayin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pat%20McAfee",
+          "url": "https://twitter.com/search?q=Julian%20Sayin",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "val kilmer",
+          "title": "umass football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "montana state football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uc football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wsu football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yale football",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "illinois football",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dallas wings",
+          "title": "usc vs rutgers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clemson football",
+          "title": "ms state football",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barcelona",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vanderbilt football",
+          "title": "kentucky vs texas a&m",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barca vs",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaheim singletary",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "texas state football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "unc football schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nottingham forest",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ohio state buckeyes",
-          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
