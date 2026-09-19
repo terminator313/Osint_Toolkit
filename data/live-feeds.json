@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:26:15.400645+00:00",
+  "updatedAt": "2026-09-19T11:20:45.133034+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Caturday",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Caturday",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#AFLHawksLions",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23AFLHawksLions",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#PerthSantaXFanday33inOSAKA",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23PerthSantaXFanday33inOSAKA",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#BTSonIHeartRadioMusicFestival",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23BTSonIHeartRadioMusicFestival",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "PERTHSANTA NIHON ICHINICHI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#SEONGHYEON",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SEONGHYEON",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "EOM BRINGS ACE FACTOR",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=EOM%20BRINGS%20ACE%20FACTOR",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#CORTISatBusanAsiad",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CORTISatBusanAsiad",
+          "url": "https://twitter.com/search?q=PERTHSANTA%20NIHON%20ICHINICHI",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "japan",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rose friedman",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edwin diaz",
+          "title": "accident attorney",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will smith",
+          "title": "dp world tour",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "news education",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "weather travel",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al east standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chicago weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "convenience store",
-          "traffic": "1000",
+          "title": "huffpost",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diesel fuel",
-          "traffic": "5000",
+          "title": "savings",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gas",
-          "traffic": "1000",
+          "title": "news science",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "betmgm sportsbook",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "draftkings sportsbook",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pluto tv",
+          "title": "sports market",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
