@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:28:04.454606+00:00",
+  "updatedAt": "2026-09-19T01:28:02.365078+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MillionDollarPitch",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MillionDollarPitch",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BRECHE",
+          "title": "#MyOasisWouldBe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BRECHE",
+          "url": "https://twitter.com/search?q=%23MyOasisWouldBe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxMedicube",
+          "title": "#iahsfb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxMedicube",
+          "url": "https://twitter.com/search?q=%23iahsfb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Fig Newtons",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Fig%20Newtons",
           "platform": "X/Twitter"
         },
         {
-          "title": "Greenland",
+          "title": "Gio Lopez",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Greenland",
+          "url": "https://twitter.com/search?q=Gio%20Lopez",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "blue jays vs rangers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "r.j. decker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ufc 333",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sophie cunningham sydney sweeney novig ad",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "braves vs astros",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york rb - nyc fc",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies - mets",
+          "title": "fire vs valkyries",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "costco churro",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "resident evil movie 2026",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ny red bulls vs new york city",
+          "title": "neagley season 1",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gemini hack",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "travis bazzana",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heath ledger",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "darian mensah",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miami",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan cease",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marlins vs padres",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dambisa moyo",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
