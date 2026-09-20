@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:14:34.455286+00:00",
+  "updatedAt": "2026-09-20T05:10:55.793972+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#RollTide",
+          "title": "#Myth6Years",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RollTide",
+          "url": "https://twitter.com/search?q=%23Myth6Years",
           "platform": "X/Twitter"
         },
         {
-          "title": "#iufb",
+          "title": "#LSUMISS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iufb",
+          "url": "https://twitter.com/search?q=%23LSUMISS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brito",
+          "title": "Hokit",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brito",
+          "url": "https://twitter.com/search?q=Hokit",
           "platform": "X/Twitter"
         },
         {
-          "title": "The Puma",
+          "title": "Neck",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20Puma",
+          "url": "https://twitter.com/search?q=Neck",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "colorado football",
+          "title": "tesla roadster",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blade",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "angels",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "santiago sandoval",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres game today",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "south dakota football",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "padres",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "avengers doomsday",
+          "title": "oregon state football",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico vs colombia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uconn football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cleveland guardians",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chrisean rock fight",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlanta dream",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "odu football",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "alabama football schedule 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "espn",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "whit weeks",
+          "title": "purdue football",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
