@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:19:29.350327+00:00",
+  "updatedAt": "2026-09-20T22:36:07.786904+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#KeepPounding",
+          "title": "#RaiseHail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KeepPounding",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HereWeGo",
+          "title": "#GoPackGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HereWeGo",
+          "url": "https://twitter.com/search?q=%23GoPackGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Bears",
+          "title": "#skol",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Bears",
+          "url": "https://twitter.com/search?q=%23skol",
           "platform": "X/Twitter"
         },
         {
-          "title": "Denzel Boston",
+          "title": "#WASvsDAL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Denzel%20Boston",
+          "url": "https://twitter.com/search?q=%23WASvsDAL",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cam Ward",
+          "title": "WHO DAT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cam%20Ward",
+          "url": "https://twitter.com/search?q=WHO%20DAT",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "raiders",
-          "traffic": "10000",
+          "title": "jay leno",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nfl standings",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "deshaun watson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "broncos schedule",
+          "title": "cody white",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian robinson jr.",
+          "title": "kyle juszczyk",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caleb wilson",
+          "title": "budda baker",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drew brees",
+          "title": "justin herbert",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cobie durant",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frank reich",
+          "title": "mlb playoff schedule",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "indiana fever",
-          "traffic": "2000",
+          "title": "caleb downs",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patriots schedule",
-          "traffic": "1000",
+          "title": "anna paulina luna",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "white sox game",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
