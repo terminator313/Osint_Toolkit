@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:22:52.285519+00:00",
+  "updatedAt": "2026-09-20T00:14:34.455286+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#iufb",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iufb",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#UFC331",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC331",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AnchorDown",
+          "title": "#RollTide",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AnchorDown",
+          "url": "https://twitter.com/search?q=%23RollTide",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carver Cheeks",
+          "title": "#iufb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carver%20Cheeks",
+          "url": "https://twitter.com/search?q=%23iufb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BatmanDay",
+          "title": "Brito",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BatmanDay",
+          "url": "https://twitter.com/search?q=Brito",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "The Puma",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=The%20Puma",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "iwo baraniewski",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nascar race today",
+          "title": "colorado football",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida state football schedule",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pitbull cruz next fight",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iu score",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "espn news",
+          "title": "avengers doomsday",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carson benge",
+          "title": "uconn football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cleveland guardians",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chrisean rock fight",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sean sharaf",
+          "title": "atlanta dream",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "choi doo-ho",
-          "traffic": "100",
+          "title": "odu football",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robelis despaigne",
+          "title": "alabama football schedule 2026",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "espn",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "whit weeks",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
