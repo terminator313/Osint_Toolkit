@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T17:33:35.867207+00:00",
+  "updatedAt": "2026-09-20T20:19:29.350327+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxDallasDiariesVlog",
+          "title": "#KeepPounding",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxDallasDiariesVlog",
+          "url": "https://twitter.com/search?q=%23KeepPounding",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HardRockBet",
+          "title": "#HereWeGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HardRockBet",
+          "url": "https://twitter.com/search?q=%23HereWeGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Lioness",
+          "title": "#Bears",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lioness",
+          "url": "https://twitter.com/search?q=%23Bears",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wirtz",
+          "title": "Denzel Boston",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wirtz",
+          "url": "https://twitter.com/search?q=Denzel%20Boston",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SeductiveSunday",
+          "title": "Cam Ward",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SeductiveSunday",
+          "url": "https://twitter.com/search?q=Cam%20Ward",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "espn",
+          "title": "raiders",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aaron rodgers",
+          "title": "nfl standings",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "falcons",
+          "title": "deshaun watson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "derrick henry",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "treveyon henderson",
+          "title": "broncos schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hulu",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "49ers schedule",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tank bigsby",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real betis",
+          "title": "brian robinson jr.",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bucky irving",
+          "title": "caleb wilson",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drew brees",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "frank reich",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indiana fever",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patriots schedule",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
