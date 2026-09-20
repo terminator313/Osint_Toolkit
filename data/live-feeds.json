@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:57:22.468673+00:00",
+  "updatedAt": "2026-09-20T14:00:46.637975+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFC331",
+          "title": "#AskFFT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC331",
+          "url": "https://twitter.com/search?q=%23AskFFT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DiorA24",
+          "title": "#Lioness",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DiorA24",
+          "url": "https://twitter.com/search?q=%23Lioness",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NoValkoNoMoney",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NoValkoNoMoney",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wayne Knight",
+          "title": "Yom Kippur",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wayne%20Knight",
+          "url": "https://twitter.com/search?q=Yom%20Kippur",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gable",
+          "title": "Football Sunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gable",
+          "url": "https://twitter.com/search?q=Football%20Sunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "austin",
+          "title": "who should i start",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "japan",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kauai",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fidelity etf",
+          "title": "jensen huang",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "act",
+          "title": "nyc weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daycare",
-          "traffic": "500",
+          "title": "liverpool",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sports market",
+          "title": "patrick clancy",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "commanders schedule",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "address",
-          "traffic": "500",
+          "title": "ukraine war",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "flights",
+          "title": "george lucas",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "man city",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "manchester city",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
