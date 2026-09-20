@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:00:46.637975+00:00",
+  "updatedAt": "2026-09-20T17:33:35.867207+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,15 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AskFFT",
+          "title": "#OlandriaxDallasDiariesVlog",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AskFFT",
+          "url": "https://twitter.com/search?q=%23OlandriaxDallasDiariesVlog",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#HardRockBet",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HardRockBet",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#SundayVibes",
+          "title": "Wirtz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SundayVibes",
+          "url": "https://twitter.com/search?q=Wirtz",
           "platform": "X/Twitter"
         },
         {
-          "title": "Yom Kippur",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Yom%20Kippur",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Football Sunday",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Football%20Sunday",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "who should i start",
-          "traffic": "100",
+          "title": "espn",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jensen huang",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nyc weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liverpool",
+          "title": "aaron rodgers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patrick clancy",
+          "title": "falcons",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "commanders schedule",
-          "traffic": "200",
+          "title": "derrick henry",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ukraine war",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "george lucas",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "man city",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manchester city",
+          "title": "treveyon henderson",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hulu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "49ers schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tank bigsby",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real betis",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bucky irving",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
