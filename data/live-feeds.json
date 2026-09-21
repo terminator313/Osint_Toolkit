@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T00:49:35.028488+00:00",
+  "updatedAt": "2026-09-21T05:53:40.157120+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RaiderNation",
+          "title": "#Lanterns",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "url": "https://twitter.com/search?q=%23Lanterns",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DallasCowboys",
+          "title": "#INDvsKC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DallasCowboys",
+          "url": "https://twitter.com/search?q=%23INDvsKC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseHail",
+          "title": "#ForTheShoe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=%23ForTheShoe",
           "platform": "X/Twitter"
         },
         {
-          "title": "Packers",
+          "title": "Thornton",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Packers",
+          "url": "https://twitter.com/search?q=Thornton",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bears",
+          "title": "Indy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bears",
+          "url": "https://twitter.com/search?q=Indy",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "taylor swift",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is taylor swift at the chiefs game today",
+          "title": "sharon stone",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "deforest buckner",
+          "title": "japan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whio weather",
-          "traffic": "200",
+          "title": "new york",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "patrick mahomes kids",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chris jones",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "toluca vs santos",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sauce gardner",
+          "title": "austin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cris collinsworth",
+          "title": "asteroid impact",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon bernthal",
+          "title": "ff7 revelation",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maya joint",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "leon vs queretaro",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fernando mendoza",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ohio tornado warnings",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
