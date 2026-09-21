@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:36:07.786904+00:00",
+  "updatedAt": "2026-09-21T00:49:35.028488+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#RaiderNation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#DallasCowboys",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DallasCowboys",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#RaiseHail",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoPackGo",
+          "title": "Packers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoPackGo",
+          "url": "https://twitter.com/search?q=Packers",
           "platform": "X/Twitter"
         },
         {
-          "title": "#skol",
+          "title": "Bears",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23skol",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WASvsDAL",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WASvsDAL",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "WHO DAT",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=WHO%20DAT",
+          "url": "https://twitter.com/search?q=Bears",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "jay leno",
+          "title": "taylor swift",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is taylor swift at the chiefs game today",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cody white",
+          "title": "deforest buckner",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "whio weather",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick mahomes kids",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris jones",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "toluca vs santos",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sauce gardner",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kyle juszczyk",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "budda baker",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin herbert",
+          "title": "cris collinsworth",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cobie durant",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mlb playoff schedule",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caleb downs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna paulina luna",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "white sox game",
+          "title": "jon bernthal",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
