@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T19:48:22.081376+00:00",
+  "updatedAt": "2026-09-22T22:43:46.313009+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#PapergamesDisgracesChina",
+          "title": "#敖尹拯救中国游戏",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PapergamesDisgracesChina",
+          "url": "https://twitter.com/search?q=%23%E6%95%96%E5%B0%B9%E6%8B%AF%E6%95%91%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ErdoganTheVoiceOfJustice",
+          "title": "#敖尹回归是海内外共同期盼",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ErdoganTheVoiceOfJustice",
+          "url": "https://twitter.com/search?q=%23%E6%95%96%E5%B0%B9%E5%9B%9E%E5%BD%92%E6%98%AF%E6%B5%B7%E5%86%85%E5%A4%96%E5%85%B1%E5%90%8C%E6%9C%9F%E7%9B%BC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#叠纸游戏有辱国格",
+          "title": "#RTXPoster",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E5%8F%A0%E7%BA%B8%E6%B8%B8%E6%88%8F%E6%9C%89%E8%BE%B1%E5%9B%BD%E6%A0%BC",
+          "url": "https://twitter.com/search?q=%23RTXPoster",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kenny Moore",
+          "title": "AARON EN CRUZANDO DESTINOS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kenny%20Moore",
+          "url": "https://twitter.com/search?q=AARON%20EN%20CRUZANDO%20DESTINOS",
           "platform": "X/Twitter"
         },
         {
-          "title": "TTPD",
+          "title": "Marco",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=TTPD",
+          "url": "https://twitter.com/search?q=Marco",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jensen huang wealth tax comments",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "theft",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid c. f. femenino - paris saint-germain football club",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ole miss deaths",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "real madrid vs psg",
+          "title": "reds vs braves",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arsenal vs hb køge",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gpt 6 sol",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "luis miguel",
+          "title": "iphone settlement",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kaitlan collins",
+          "title": "return of mcdonald's monopoly promotion",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandin cooks",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cardinals vs pirates",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "guardians vs red sox",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jack haven",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leicester city vs fulham u-21",
-          "traffic": "200",
+          "title": "arike ogunbowale",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brewers vs phillies",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dylan wolf",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
