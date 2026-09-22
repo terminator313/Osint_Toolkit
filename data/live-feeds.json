@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:55:56.061700+00:00",
+  "updatedAt": "2026-09-22T16:22:15.295617+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ジェームス",
+          "title": "#ErdoganTheVoiceOfJustice",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9",
+          "url": "https://twitter.com/search?q=%23ErdoganTheVoiceOfJustice",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JAMESOnTrack",
+          "title": "#SaiFleet",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JAMESOnTrack",
+          "url": "https://twitter.com/search?q=%23SaiFleet",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CORTIS_InkigayoTokyo",
+          "title": "#OlandriaxMFWSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CORTIS_InkigayoTokyo",
+          "url": "https://twitter.com/search?q=%23OlandriaxMFWSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "JAMES RACES INTO THE SPOTLIGHT",
+          "title": "Senua",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JAMES%20RACES%20INTO%20THE%20SPOTLIGHT",
+          "url": "https://twitter.com/search?q=Senua",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trump TV",
+          "title": "Pantone 151C",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trump%20TV",
+          "url": "https://twitter.com/search?q=Pantone%20151C",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "marco rubio",
+          "title": "h&m",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dunkin free coffee code",
+          "title": "icc",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kate mara",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "faa ground stop dfw airport",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nations league",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trader joe's halloween mini totes",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dunkin free coffee",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "missouri voting map federal appeal",
+          "title": "united nations",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bambu lab 3d printer patent verdict",
+          "title": "hayden panettiere",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "schd",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sl-w vs indw",
+          "title": "halo",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maria sakkari",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tsla",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nasdaq",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "msft",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
