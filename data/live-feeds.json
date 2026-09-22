@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:06:10.619229+00:00",
+  "updatedAt": "2026-09-22T00:59:30.577470+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#BigBlue",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BigBlue",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#NYGvsLAR",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23NYGvsLAR",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxMFWSS27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxMFWSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#No1stAmendmentBan",
+          "title": "Puka",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23No1stAmendmentBan",
+          "url": "https://twitter.com/search?q=Puka",
           "platform": "X/Twitter"
         },
         {
-          "title": "#pilotstwtselfieday",
+          "title": "The Essentials Station",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23pilotstwtselfieday",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "GUARDIANS MAKE THEIR OWN FATE",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=GUARDIANS%20MAKE%20THEIR%20OWN%20FATE",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Jennifer Eckhart",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jennifer%20Eckhart",
+          "url": "https://twitter.com/search?q=The%20Essentials%20Station",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "monday night football",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "8.3 duramax",
+          "title": "tyler higbee",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "houston weather",
+          "title": "riley greene",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daredevil born again",
+          "title": "theo johnson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "presidents cup",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the voice",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "puka nacua",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "monday night football schedule",
+          "title": "john harbaugh",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gracie mansion",
-          "traffic": "2000",
+          "title": "clavicular",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "comerica park",
-          "traffic": "1000",
+          "title": "jim harbaugh",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eli manning",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jaxson dart",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jameis winston",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jackson dart",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
