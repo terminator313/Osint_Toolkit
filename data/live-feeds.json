@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:43:46.313009+00:00",
+  "updatedAt": "2026-09-23T01:14:34.802837+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#敖尹拯救中国游戏",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E6%95%96%E5%B0%B9%E6%8B%AF%E6%95%91%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#敖尹回归是海内外共同期盼",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E6%95%96%E5%B0%B9%E5%9B%9E%E5%BD%92%E6%98%AF%E6%B5%B7%E5%86%85%E5%A4%96%E5%85%B1%E5%90%8C%E6%9C%9F%E7%9B%BC",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RTXPoster",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXPoster",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "AARON EN CRUZANDO DESTINOS",
+          "title": "Julianne",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=AARON%20EN%20CRUZANDO%20DESTINOS",
+          "url": "https://twitter.com/search?q=Julianne",
           "platform": "X/Twitter"
         },
         {
-          "title": "Marco",
+          "title": "Ciara",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marco",
+          "url": "https://twitter.com/search?q=Ciara",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "reds vs braves",
+          "title": "chase meidroth",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iphone settlement",
-          "traffic": "100",
+          "title": "santa fe vs deportivo cali",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "return of mcdonald's monopoly promotion",
-          "traffic": "100",
+          "title": "ksi",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brandin cooks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardinals vs pirates",
+          "title": "astros vs mariners",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "guardians vs red sox",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack haven",
+          "title": "angels vs athletics",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arike ogunbowale",
+          "title": "jaden ortega",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brewers vs phillies",
-          "traffic": "5000",
+          "title": "giada de laurentiis",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dylan wolf",
-          "traffic": "100",
+          "title": "emma slater",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "six flags roller coaster brain injury",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "savannah bananas",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
