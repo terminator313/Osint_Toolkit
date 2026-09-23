@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T06:19:41.840467+00:00",
+  "updatedAt": "2026-09-23T11:56:05.604891+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#dwts",
+          "title": "#OlandriaxOffWhite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#pixverseworldmodel",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23pixverseworldmodel",
+          "url": "https://twitter.com/search?q=%23OlandriaxOffWhite",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Edward Cabrera",
+          "title": "#TheLoveHypothesis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Edward%20Cabrera",
+          "url": "https://twitter.com/search?q=%23TheLoveHypothesis",
           "platform": "X/Twitter"
         },
         {
-          "title": "Marlins",
+          "title": "Download the &quot;MoboReels&quot;",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marlins",
+          "url": "https://twitter.com/search?q=Download%20the%20%22MoboReels%22",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#TheDrop",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23TheDrop",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ice",
+          "title": "melania trump",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maya joint",
+          "title": "dana bash",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon hamm",
+          "title": "panthers depth chart",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonathan brooks",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will smith",
+          "title": "ryan clark",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cruise ship",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daylight savings 2026",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clima de hoy",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "austin abrams",
+          "title": "caleb flynn",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nor'easter",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "athletics",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josue de paula",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pop latino",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dodgers game today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "edward cabrera",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
