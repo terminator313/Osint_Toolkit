@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:39:28.093723+00:00",
+  "updatedAt": "2026-09-24T23:45:31.955216+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxRobertoCavalli",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#ADifferentWorld",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23ADifferentWorld",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MVPete",
+          "title": "#OlandriaxRobertoCavalli",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MVPete",
+          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rory",
+          "title": "#BlueWaveIn40Days",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rory",
+          "url": "https://twitter.com/search?q=%23BlueWaveIn40Days",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pete Crow-Armstrong",
+          "title": "#FlyTheW",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pete%20Crow-Armstrong",
+          "url": "https://twitter.com/search?q=%23FlyTheW",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Tobey",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Tobey",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "hawker hunter",
-          "traffic": "100",
+          "title": "haiti vs trinidad and tobago",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portugal vs gales",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick chubb",
+          "title": "za'darius smith",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "paul skenes",
+          "title": "john madden",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coastal carolina football",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pedro martinez",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cubs game",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lennox lewis",
+          "title": "moon phase today",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "uefa nations league schedule",
+          "title": "pittsburgh penguins",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameroon vs comoros",
+          "title": "fever vs lynx",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carolina hurricanes",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chad bianco",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pete crow armstrong",
-          "traffic": "5000",
+          "title": "ufc bjj",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
