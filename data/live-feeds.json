@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T06:27:51.046176+00:00",
+  "updatedAt": "2026-09-24T12:05:38.328725+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Survivor51",
+          "title": "#adifferentworld",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Survivor51",
+          "url": "https://twitter.com/search?q=%23adifferentworld",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWDynamite",
+          "title": "#JUNGKOOKxHUBLOT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "url": "https://twitter.com/search?q=%23JUNGKOOKxHUBLOT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWCollision",
+          "title": "#ThursdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23ThursdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Joe Espada",
+          "title": "Moonshot V2 Launchpad",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Joe%20Espada",
+          "url": "https://twitter.com/search?q=Moonshot%20V2%20Launchpad",
           "platform": "X/Twitter"
         },
         {
-          "title": "Salas",
+          "title": "New Listing Around the Corner",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Salas",
+          "url": "https://twitter.com/search?q=New%20Listing%20Around%20the%20Corner",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "uss abraham lincoln",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anna bondar",
+          "title": "ufc bjj 11",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wendy's",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "josh hader",
+          "title": "tommy tuberville",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mariners game",
+          "title": "angela bassett",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ethan hawke",
+          "title": "oceans calling 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "f35",
+          "title": "netflix time travel series dark",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "eng vs sl",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dunkin free coffee",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xbox",
+          "title": "alexandra eala",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lawrence tanter",
-          "traffic": "2000",
+          "title": "dunkin free coffee code",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ahs season 13",
-          "traffic": "5000",
+          "title": "when is daylight savings time",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
