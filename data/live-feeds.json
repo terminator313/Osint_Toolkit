@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:05:38.328725+00:00",
+  "updatedAt": "2026-09-24T17:26:13.777467+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#adifferentworld",
+          "title": "#OlandriaxRobertoCavalli",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23adifferentworld",
+          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JUNGKOOKxHUBLOT",
+          "title": "#ADifferentWorld",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JUNGKOOKxHUBLOT",
+          "url": "https://twitter.com/search?q=%23ADifferentWorld",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ThursdayVibes",
+          "title": "#stayselcaday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayVibes",
+          "url": "https://twitter.com/search?q=%23stayselcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Moonshot V2 Launchpad",
+          "title": "Johnny Knoxville",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Moonshot%20V2%20Launchpad",
+          "url": "https://twitter.com/search?q=Johnny%20Knoxville",
           "platform": "X/Twitter"
         },
         {
-          "title": "New Listing Around the Corner",
+          "title": "#BetrPicks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=New%20Listing%20Around%20the%20Corner",
+          "url": "https://twitter.com/search?q=%23BetrPicks",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "ufc bjj 11",
+          "title": "how to watch the presidents cup",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christa pike",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tommy tuberville",
-          "traffic": "200",
+          "title": "letitia james",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angela bassett",
-          "traffic": "200",
+          "title": "golf channel",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oceans calling 2026",
-          "traffic": "200",
+          "title": "andorra vs malta",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "netflix time travel series dark",
-          "traffic": "200",
+          "title": "teacher",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eng vs sl",
-          "traffic": "2000",
+          "title": "portugal",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dunkin free coffee",
-          "traffic": "500",
+          "title": "johnny knoxville",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alexandra eala",
-          "traffic": "2000",
+          "title": "gofundme",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dunkin free coffee code",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "when is daylight savings time",
-          "traffic": "2000",
+          "title": "sally hemings",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
