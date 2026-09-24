@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:40:30.697734+00:00",
+  "updatedAt": "2026-09-24T01:03:53.387452+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,21 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AniyaxDsquared2",
+          "title": "#Survivor51",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AniyaxDsquared2",
+          "url": "https://twitter.com/search?q=%23Survivor51",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxOffWhite",
+          "title": "#AEWDynamite",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxOffWhite",
+          "url": "https://twitter.com/search?q=%23AEWDynamite",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#CasualLiz",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23CasualLiz",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +44,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#ScreenPit",
+          "title": "Fedde",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ScreenPit",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Clarke",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Clarke",
+          "url": "https://twitter.com/search?q=Fedde",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brewers - phillies",
+          "title": "adam levine",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jenna survivor 51",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nithya raman polling numbers la mayor",
-          "traffic": "500",
+          "title": "white sox",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pennsylvania measles",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike babcock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "darrell waltrip",
+          "title": "steve martin",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zelda ocarina of time",
+          "title": "anthony bourdain",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the voice",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dr oz",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sunny hostin",
+          "title": "chris sale",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "frugal fannies",
+          "title": "george lombard jr.",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "la nación",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "angry anderson age 79",
-          "traffic": "5000",
+          "title": "mason thames",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
