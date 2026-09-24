@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:26:13.777467+00:00",
+  "updatedAt": "2026-09-24T20:39:28.093723+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#stayselcaday",
+          "title": "#MVPete",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stayselcaday",
+          "url": "https://twitter.com/search?q=%23MVPete",
           "platform": "X/Twitter"
         },
         {
-          "title": "Johnny Knoxville",
+          "title": "Rory",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Johnny%20Knoxville",
+          "url": "https://twitter.com/search?q=Rory",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BetrPicks",
+          "title": "Pete Crow-Armstrong",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BetrPicks",
+          "url": "https://twitter.com/search?q=Pete%20Crow-Armstrong",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "how to watch the presidents cup",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christa pike",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "letitia james",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "golf channel",
+          "title": "hawker hunter",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "andorra vs malta",
+          "title": "portugal vs gales",
           "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "teacher",
+          "title": "nick chubb",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paul skenes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cubs game",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lennox lewis",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "uefa nations league schedule",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cameroon vs comoros",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chad bianco",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "portugal",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "johnny knoxville",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gofundme",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sally hemings",
-          "traffic": "1000",
+          "title": "pete crow armstrong",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
