@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:41:34.100633+00:00",
+  "updatedAt": "2026-09-25T19:06:52.700212+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#DreaminaCaughtTheVibe",
+          "title": "#叠纸游戏欺上瞒下",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DreaminaCaughtTheVibe",
+          "url": "https://twitter.com/search?q=%23%E5%8F%A0%E7%BA%B8%E6%B8%B8%E6%88%8F%E6%AC%BA%E4%B8%8A%E7%9E%92%E4%B8%8B",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TrinityxGucciSS27",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrinityxGucciSS27",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "RED Friday",
+          "title": "Haaland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RED%20Friday",
+          "url": "https://twitter.com/search?q=Haaland",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dolly Parton",
+          "title": "Controversial",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dolly%20Parton",
+          "url": "https://twitter.com/search?q=Controversial",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "msft stock",
+          "title": "rotten tomatoes",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "algeria vs zambia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "macklin celebrini",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "marruecos - gabón",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "angela bassett",
+          "title": "mali vs cabo verde",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mid autumn festival",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "classroom",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mozambique vs senegal",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "laver cup",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "first ladies state dinner style",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brandi carlile",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "azerbaijan",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amistosos",
+          "title": "turquie – france",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hungary vs ukraine",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "egipto - angola",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "egypt vs angola",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "morocco vs gabon",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
