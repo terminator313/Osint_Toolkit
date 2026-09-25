@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:06:52.700212+00:00",
+  "updatedAt": "2026-09-25T22:38:35.515390+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,15 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxBlumarineSS27",
+          "title": "#TrumpsCorruptCongress",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxBlumarineSS27",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#叠纸游戏欺上瞒下",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E5%8F%A0%E7%BA%B8%E6%B8%B8%E6%88%8F%E6%AC%BA%E4%B8%8A%E7%9E%92%E4%B8%8B",
+          "url": "https://twitter.com/search?q=%23TrumpsCorruptCongress",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Haaland",
+          "title": "#OlandriaxBlumarineSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Haaland",
+          "url": "https://twitter.com/search?q=%23OlandriaxBlumarineSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "Controversial",
+          "title": "21st Century",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Controversial",
+          "url": "https://twitter.com/search?q=21st%20Century",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Barghouti",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Barghouti",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "rotten tomatoes",
+          "title": "braves vs marlins",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "algeria vs zambia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "macklin celebrini",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marruecos - gabón",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mali vs cabo verde",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "turquie – france",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hungary vs ukraine",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "egipto - angola",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "egypt vs angola",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "morocco vs gabon",
+          "title": "navy vs uab",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pete alonso",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays vs phillies",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "howard vs rutgers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rays - phillies",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "medinah country club",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "will smith",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reds vs blue jays",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico vs colombia",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
