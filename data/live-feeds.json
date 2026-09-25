@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:45:31.955216+00:00",
+  "updatedAt": "2026-09-25T03:26:31.901478+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ADifferentWorld",
+          "title": "#AHS13",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ADifferentWorld",
+          "url": "https://twitter.com/search?q=%23AHS13",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxRobertoCavalli",
+          "title": "#GoPackGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
+          "url": "https://twitter.com/search?q=%23GoPackGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BlueWaveIn40Days",
+          "title": "#ATLvsGB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BlueWaveIn40Days",
+          "url": "https://twitter.com/search?q=%23ATLvsGB",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FlyTheW",
+          "title": "Mike Hughes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FlyTheW",
+          "url": "https://twitter.com/search?q=Mike%20Hughes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tobey",
+          "title": "Austin Hooper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tobey",
+          "url": "https://twitter.com/search?q=Austin%20Hooper",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "haiti vs trinidad and tobago",
+          "title": "padres game today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "za'darius smith",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "john madden",
+          "title": "falcons defensive coordinator",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coastal carolina football",
-          "traffic": "2000",
+          "title": "falcons coach",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pedro martinez",
-          "traffic": "1000",
+          "title": "michael vick",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "moon phase today",
-          "traffic": "1000",
+          "title": "kyle juszczyk",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pittsburgh penguins",
-          "traffic": "1000",
+          "title": "nick pivetta",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fever vs lynx",
-          "traffic": "20000",
+          "title": "tyler glasnow",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carolina hurricanes",
-          "traffic": "1000",
+          "title": "valkyries",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ufc bjj",
-          "traffic": "1000",
+          "title": "kristen bell",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jonathan gannon",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
