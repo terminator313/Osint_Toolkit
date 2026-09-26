@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:46:39.604060+00:00",
+  "updatedAt": "2026-09-26T18:59:25.906952+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#YouManiacSeriesEP5",
+          "title": "#HookEm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23YouManiacSeriesEP5",
+          "url": "https://twitter.com/search?q=%23HookEm",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayVibes",
+          "title": "#OlandriaxMedicube",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=%23OlandriaxMedicube",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NationalPancakeDay",
+          "title": "#MedicubeWellnessClubx2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NationalPancakeDay",
+          "url": "https://twitter.com/search?q=%23MedicubeWellnessClubx2",
           "platform": "X/Twitter"
         },
         {
-          "title": "George Russell",
+          "title": "Wake Forest",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=George%20Russell",
+          "url": "https://twitter.com/search?q=Wake%20Forest",
           "platform": "X/Twitter"
         },
         {
-          "title": "USSF-385",
+          "title": "Deflate",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=USSF-385",
+          "url": "https://twitter.com/search?q=Deflate",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "virginia tech vs boston college",
+          "title": "boise state vs wmu",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ball state vs kent state",
-          "traffic": "2000",
+          "title": "oklahoma vs georgia",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bucknell vs pittsburgh",
-          "traffic": "2000",
+          "title": "new mexico vs nm state",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "colorado vs baylor",
-          "traffic": "2000",
+          "title": "albania vs belarus",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wake forest vs louisville",
-          "traffic": "2000",
+          "title": "macedonia del norte - suiza",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "illinois vs ohio state",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sam houston vs texas tech",
+          "title": "presidents cup standings",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "diana, princess of wales",
-          "traffic": "5000",
+          "title": "illinois lottery",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "peyton manning",
-          "traffic": "1000",
+          "title": "jordan rodgers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coastal flooding",
-          "traffic": "10000",
+          "title": "iowa student death",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "laken tomlinson",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
