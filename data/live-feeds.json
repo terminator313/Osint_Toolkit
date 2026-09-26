@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T18:59:25.906952+00:00",
+  "updatedAt": "2026-09-26T21:55:41.837157+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxMedicube",
+          "title": "#GoDawgs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxMedicube",
+          "url": "https://twitter.com/search?q=%23GoDawgs",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MedicubeWellnessClubx2",
+          "title": "#Sooners",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MedicubeWellnessClubx2",
+          "url": "https://twitter.com/search?q=%23Sooners",
           "platform": "X/Twitter"
         },
         {
-          "title": "Wake Forest",
+          "title": "Mike Locksley",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wake%20Forest",
+          "url": "https://twitter.com/search?q=Mike%20Locksley",
           "platform": "X/Twitter"
         },
         {
-          "title": "Deflate",
+          "title": "Heupel",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Deflate",
+          "url": "https://twitter.com/search?q=Heupel",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "boise state vs wmu",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "oklahoma vs georgia",
+          "title": "towson vs del state",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new mexico vs nm state",
+          "title": "georgia southern football",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "albania vs belarus",
+          "title": "josiah harrell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "macedonia del norte - suiza",
-          "traffic": "500",
+          "title": "jocasta marvel",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "presidents cup standings",
+          "title": "twitch",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "illinois lottery",
-          "traffic": "200",
+          "title": "rob dillingham",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan rodgers",
-          "traffic": "200",
+          "title": "uiw vs texas state",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "iowa student death",
+          "title": "delaware vs virginia",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "laken tomlinson",
+          "title": "james madison vs old dominion",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh turek",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
