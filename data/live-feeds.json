@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:38:35.515390+00:00",
+  "updatedAt": "2026-09-26T01:10:56.920314+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TrumpsCorruptCongress",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TrumpsCorruptCongress",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "#GCWRock",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=%23GCWRock",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxBlumarineSS27",
+          "title": "#MightyCorrection",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxBlumarineSS27",
+          "url": "https://twitter.com/search?q=%23MightyCorrection",
           "platform": "X/Twitter"
         },
         {
-          "title": "21st Century",
+          "title": "Trick Williams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=21st%20Century",
+          "url": "https://twitter.com/search?q=Trick%20Williams",
           "platform": "X/Twitter"
         },
         {
-          "title": "Barghouti",
+          "title": "Sabrina",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Barghouti",
+          "url": "https://twitter.com/search?q=Sabrina",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "braves vs marlins",
+          "title": "phillies",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chip kelly",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "line of fire",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "navy vs uab",
+          "title": "josh hoover",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pete alonso",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rays vs phillies",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "howard vs rutgers",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rays - phillies",
+          "title": "clima para amanhã",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "medinah country club",
+          "title": "curt cignetti",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "météo demain",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "honduras",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brothers",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will smith",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "reds vs blue jays",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mexico vs colombia",
-          "traffic": "1000",
+          "title": "atlante - monterrey",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
