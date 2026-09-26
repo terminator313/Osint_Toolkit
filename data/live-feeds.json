@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T01:10:56.920314+00:00",
+  "updatedAt": "2026-09-26T06:23:45.220168+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#GCWRock",
+          "title": "#iufb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GCWRock",
+          "url": "https://twitter.com/search?q=%23iufb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MightyCorrection",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MightyCorrection",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "Trick Williams",
+          "title": "Air Force One",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Trick%20Williams",
+          "url": "https://twitter.com/search?q=Air%20Force%20One",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sabrina",
+          "title": "LR Kid Buu",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sabrina",
+          "url": "https://twitter.com/search?q=LR%20Kid%20Buu",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "phillies",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chip kelly",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "line of fire",
+          "title": "new movies streaming",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh hoover",
+          "title": "breaking bad",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zendaya",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "afl",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "astros standings",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clima para amanhã",
+          "title": "astros - athletics",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "woody harrelson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alix earle",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "curt cignetti",
+          "title": "red dead",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "météo demain",
+          "title": "chris johnson jr",
           "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "honduras",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brothers",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "atlante - monterrey",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
