@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T11:24:18.897355+00:00",
+  "updatedAt": "2026-09-27T15:45:00.570078+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DiorSummer27",
+          "title": "#AskFFT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DiorSummer27",
+          "url": "https://twitter.com/search?q=%23AskFFT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWAllOut",
+          "title": "#SundayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWAllOut",
+          "url": "https://twitter.com/search?q=%23SundayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#njdest",
+          "title": "#SeductiveSunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23njdest",
+          "url": "https://twitter.com/search?q=%23SeductiveSunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Demond",
+          "title": "#FEEDxKHAOSODAwards2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Demond",
+          "url": "https://twitter.com/search?q=%23FEEDxKHAOSODAwards2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jedd",
+          "title": "#AskZB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jedd",
+          "url": "https://twitter.com/search?q=%23AskZB",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "météo",
-          "traffic": "100",
+          "title": "earthquake now",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "날씨",
-          "traffic": "200",
+          "title": "earthquake",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cricinfo",
-          "traffic": "200",
+          "title": "joey porter jr",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brock bowers",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maria elvira salazar",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ballot",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wilmington college",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new york",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "raf fairford",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "australia vs south africa",
+          "title": "cooper kupp",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike evans",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "indiana fever players associated press honors",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "serbia - países bajos",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "denmark vs wales",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "austria vs kosovo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "serbia vs netherlands",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
