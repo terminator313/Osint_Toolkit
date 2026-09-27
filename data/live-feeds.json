@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:15:41.811610+00:00",
+  "updatedAt": "2026-09-27T05:33:21.682781+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFCVegas121",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCVegas121",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#AEWAllOut",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWAllOut",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWTailgateBrawl",
+          "title": "#UFCVegas121",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWTailgateBrawl",
+          "url": "https://twitter.com/search?q=%23UFCVegas121",
           "platform": "X/Twitter"
         },
         {
-          "title": "Georgia",
+          "title": "#GoDucks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Georgia",
+          "url": "https://twitter.com/search?q=%23GoDucks",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoBlue",
+          "title": "Tati",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBlue",
+          "url": "https://twitter.com/search?q=Tati",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Beamer",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Beamer",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dólar estadounidense",
-          "traffic": "2000",
+          "title": "stock market today",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "minnesota vs seattle sounders",
+          "title": "weather forecast today",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mortgage rates today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "netflix new releases",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the social reckoning",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cardi b",
-          "traffic": "500",
+          "title": "who won mr olympia 2026",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kstate football",
-          "traffic": "2000",
+          "title": "tucker carlson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james talarico texas voter polling data",
-          "traffic": "500",
+          "title": "anthropic",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shane beamer",
-          "traffic": "500",
+          "title": "scarlett johansson",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "utah tech vs northern co",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "moon tonight",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fl atlantic vs la-monroe",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "phillies",
-          "traffic": "50000",
+          "title": "astros standings",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
