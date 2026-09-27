@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T19:31:40.495897+00:00",
+  "updatedAt": "2026-09-27T22:48:11.475029+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,9 +20,9 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HereWeGo",
+          "title": "#OlandriaxVMAs",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HereWeGo",
+          "url": "https://twitter.com/search?q=%23OlandriaxVMAs",
           "platform": "X/Twitter"
         },
         {
@@ -32,21 +32,21 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#Patriots",
+          "title": "#Saints",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Patriots",
+          "url": "https://twitter.com/search?q=%23Saints",
           "platform": "X/Twitter"
         },
         {
-          "title": "Geno",
+          "title": "Fever",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Geno",
+          "url": "https://twitter.com/search?q=Fever",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sadiq",
+          "title": "Panthers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sadiq",
+          "url": "https://twitter.com/search?q=Panthers",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "cardinals vs 49ers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vikings vs buccaneers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "fever vs aces",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pirates vs tigers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen coker",
+          "title": "chris moore",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trevor lawrence",
+          "title": "inter miami vs columbus",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baker mayfield",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sonny styles",
+          "title": "mystics vs dream",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "haiti vs costa rica",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shaq",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "breece hall",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick martinez",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jahmyr gibbs",
+          "title": "nascar race today",
           "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jj watt",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kyle larson",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bobby hauck",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
