@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T05:33:21.682781+00:00",
+  "updatedAt": "2026-09-27T11:24:18.897355+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#DiorSummer27",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23DiorSummer27",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#AEWAllOut",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23AEWAllOut",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCVegas121",
+          "title": "#njdest",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCVegas121",
+          "url": "https://twitter.com/search?q=%23njdest",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoDucks",
+          "title": "Demond",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoDucks",
+          "url": "https://twitter.com/search?q=Demond",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tati",
+          "title": "Jedd",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tati",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Beamer",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Beamer",
+          "url": "https://twitter.com/search?q=Jedd",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "stock market today",
-          "traffic": "5000",
+          "title": "météo",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "weather forecast today",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mortgage rates today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "netflix new releases",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the social reckoning",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "who won mr olympia 2026",
+          "title": "날씨",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tucker carlson",
-          "traffic": "1000",
+          "title": "cricinfo",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthropic",
-          "traffic": "1000",
+          "title": "brock bowers",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scarlett johansson",
-          "traffic": "1000",
+          "title": "maria elvira salazar",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "astros standings",
-          "traffic": "1000",
+          "title": "ballot",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wilmington college",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new york",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raf fairford",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "australia vs south africa",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
