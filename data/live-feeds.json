@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T07:18:35.904406+00:00",
+  "updatedAt": "2026-09-28T15:45:04.982621+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Lanterns",
+          "title": "#IDontWantToOverreactBUT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Lanterns",
+          "url": "https://twitter.com/search?q=%23IDontWantToOverreactBUT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VMAs",
+          "title": "#MondayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VMAs",
+          "url": "https://twitter.com/search?q=%23MondayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GranjaVIP",
+          "title": "#FELIXxLVSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GranjaVIP",
+          "url": "https://twitter.com/search?q=%23FELIXxLVSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LARvsDEN",
+          "title": "Cornell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LARvsDEN",
+          "url": "https://twitter.com/search?q=Cornell",
           "platform": "X/Twitter"
         },
         {
-          "title": "McVay",
+          "title": "Meta Enterprise Platform",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=McVay",
+          "url": "https://twitter.com/search?q=Meta%20Enterprise%20Platform",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "raye and michael b jordan",
-          "traffic": "500",
+          "title": "georgia vs ukraine",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hal jordan lanterns",
-          "traffic": "5000",
+          "title": "fire",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "necaxa vs club américa standings",
+          "title": "kristaps porziņģis",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ps5 emulation",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ollie gordon",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fitness",
+          "title": "politico",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luke bryan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tabla liga mx",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "swimming",
+          "title": "mcdonalds drive thru",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cycling",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russia",
+          "title": "msft stock",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eagles vs bears",
+          "title": "qqq stock",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen duren",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
