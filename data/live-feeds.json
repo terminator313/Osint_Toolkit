@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:45:04.982621+00:00",
+  "updatedAt": "2026-09-28T21:34:59.762790+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#IDontWantToOverreactBUT",
+          "title": "#LeDefileLOrealParis2026xBecky",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23IDontWantToOverreactBUT",
+          "url": "https://twitter.com/search?q=%23LeDefileLOrealParis2026xBecky",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MondayMotivation",
+          "title": "#MUZHICHENGxLorealParis",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MondayMotivation",
+          "url": "https://twitter.com/search?q=%23MUZHICHENGxLorealParis",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FELIXxLVSS27",
+          "title": "#LaCasaDeAaron",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FELIXxLVSS27",
+          "url": "https://twitter.com/search?q=%23LaCasaDeAaron",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cornell",
+          "title": "Winston",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cornell",
+          "url": "https://twitter.com/search?q=Winston",
           "platform": "X/Twitter"
         },
         {
-          "title": "Meta Enterprise Platform",
+          "title": "Knies",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Meta%20Enterprise%20Platform",
+          "url": "https://twitter.com/search?q=Knies",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "georgia vs ukraine",
+          "title": "josh allen injury",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fire",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kristaps porziņģis",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ps5 emulation",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ollie gordon",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "politico",
+          "title": "rob dillingham",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mcdonalds drive thru",
+          "title": "tunisia vs botswana",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "msft stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "qqq stock",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen duren",
+          "title": "world labs",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "katie miller",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael kayode",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warren county ohio",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "data center",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lieutenant stitchie",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warren county ky",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
