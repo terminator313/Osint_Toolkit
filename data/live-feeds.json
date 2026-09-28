@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T01:24:02.358297+00:00",
+  "updatedAt": "2026-09-28T07:18:35.904406+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Lanterns",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Lanterns",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#VMAs",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23VMAs",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiderNation",
+          "title": "#GranjaVIP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "url": "https://twitter.com/search?q=%23GranjaVIP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ParisBoundWonyoung",
+          "title": "#LARvsDEN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ParisBoundWonyoung",
+          "url": "https://twitter.com/search?q=%23LARvsDEN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bucs",
+          "title": "McVay",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bucs",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Kyler",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kyler",
+          "url": "https://twitter.com/search?q=McVay",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "pac aew",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aew pac",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dakota johnson",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "harrison mevis",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jaylen watson",
+          "title": "raye and michael b jordan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rachel dratch",
+          "title": "hal jordan lanterns",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "necaxa vs club américa standings",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fitness",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lisa rinna",
+          "title": "luke bryan",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tabla liga mx",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "swimming",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cycling",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "russia",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kurt cobain death",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sean payton",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trinidad and tobago vs dominican republic",
+          "title": "eagles vs bears",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
