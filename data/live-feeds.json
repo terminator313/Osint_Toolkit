@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T14:13:31.365511+00:00",
+  "updatedAt": "2026-09-29T19:33:14.678407+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WonyoungDiorSummer27",
+          "title": "#RTXON",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WonyoungDiorSummer27",
+          "url": "https://twitter.com/search?q=%23RTXON",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayVibes",
+          "title": "#OlandriaxPFWSS27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayVibes",
+          "url": "https://twitter.com/search?q=%23OlandriaxPFWSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetItFly",
+          "title": "#TinaTuesday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetItFly",
+          "url": "https://twitter.com/search?q=%23TinaTuesday",
           "platform": "X/Twitter"
         },
         {
-          "title": "$XDC",
+          "title": "Manchester City",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%24XDC",
+          "url": "https://twitter.com/search?q=Manchester%20City",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TuesdayMotivation",
+          "title": "Luzardo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
+          "url": "https://twitter.com/search?q=Luzardo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "huracán polo",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "royal news",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "maría del carmen abascal eviction",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "midterm elections",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack smith",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "burundi vs algeria",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hbo harry potter series cast",
+          "title": "san marino vs albania",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lindsay clancy trial",
-          "traffic": "10000",
+          "title": "spain fc",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "court tv",
+          "title": "jason kelce espn broadcast apology",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matt rife",
+          "title": "eric schmidt",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "escocia - suiza",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "congo vs cameroon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "spain",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mike yastrzemski",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryce harper",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "infant",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
