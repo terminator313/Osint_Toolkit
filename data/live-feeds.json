@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:33:14.678407+00:00",
+  "updatedAt": "2026-09-29T23:25:49.726279+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RTXON",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RTXON",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#OlandriaxPFWSS27",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxPFWSS27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TinaTuesday",
+          "title": "#OlandriaxRevolveMag",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TinaTuesday",
+          "url": "https://twitter.com/search?q=%23OlandriaxRevolveMag",
           "platform": "X/Twitter"
         },
         {
-          "title": "Manchester City",
+          "title": "#LetItFly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Manchester%20City",
+          "url": "https://twitter.com/search?q=%23LetItFly",
           "platform": "X/Twitter"
         },
         {
-          "title": "Luzardo",
+          "title": "Hagen Smith",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Luzardo",
+          "url": "https://twitter.com/search?q=Hagen%20Smith",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Atlanta Hawks",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Atlanta%20Hawks",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "san marino vs albania",
+          "title": "grand theft auto vi",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bruins schedule",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spain fc",
+          "title": "product recall",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jason kelce espn broadcast apology",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "eric schmidt",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "escocia - suiza",
+          "title": "north port busan shark trapped",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "congo vs cameroon",
-          "traffic": "500",
+          "title": "red sox vs yankees",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spain",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike yastrzemski",
+          "title": "is the voice on tonight",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bryce harper",
+          "title": "wnba games today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "yankees game today",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "barry melrose",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "infant",
+          "title": "jordan hicks",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
