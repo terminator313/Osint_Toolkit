@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:27:58.539363+00:00",
+  "updatedAt": "2026-09-29T07:23:25.282641+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
+          "title": "#BearDown",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23BearDown",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#PHIvsCHI",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23PHIvsCHI",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AllAmerican",
+          "title": "Kalif Raymond",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AllAmerican",
+          "url": "https://twitter.com/search?q=Kalif%20Raymond",
           "platform": "X/Twitter"
         },
         {
-          "title": "Go Birds",
+          "title": "Fangio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Go%20Birds",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Big Cass",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Big%20Cass",
+          "url": "https://twitter.com/search?q=Fangio",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "christopher walken",
-          "traffic": "1000",
+          "title": "jaime faria",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eagles head coach",
+          "title": "delta",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "minecraft dungeons 2",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "big cass",
+          "title": "rui takahashi",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fils",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "eagles coach",
-          "traffic": "1000",
+          "title": "hurricane nolo",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tank bigsby",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "visionquest",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "federal bureau of investigation",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tormenta tropical",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rockstar games gta vi",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bears coach",
+          "title": "jimmy kimmel",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh hartnett",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ken paxton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florence pugh",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
