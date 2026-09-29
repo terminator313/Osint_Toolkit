@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T07:23:25.282641+00:00",
+  "updatedAt": "2026-09-29T14:13:31.365511+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#WonyoungDiorSummer27",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23WonyoungDiorSummer27",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BearDown",
+          "title": "#TuesdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BearDown",
+          "url": "https://twitter.com/search?q=%23TuesdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PHIvsCHI",
+          "title": "#LetItFly",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PHIvsCHI",
+          "url": "https://twitter.com/search?q=%23LetItFly",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kalif Raymond",
+          "title": "$XDC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kalif%20Raymond",
+          "url": "https://twitter.com/search?q=%24XDC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Fangio",
+          "title": "#TuesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Fangio",
+          "url": "https://twitter.com/search?q=%23TuesdayMotivation",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jaime faria",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "delta",
+          "title": "huracán polo",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "minecraft dungeons 2",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rui takahashi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "arthur fils",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hurricane nolo",
+          "title": "royal news",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jimmy kimmel",
-          "traffic": "500",
+          "title": "maría del carmen abascal eviction",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh hartnett",
-          "traffic": "500",
+          "title": "midterm elections",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ken paxton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "florence pugh",
+          "title": "jack smith",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "burundi vs algeria",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hbo harry potter series cast",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lindsay clancy trial",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "court tv",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "matt rife",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
