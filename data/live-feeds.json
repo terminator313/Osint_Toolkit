@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:25:49.726279+00:00",
+  "updatedAt": "2026-09-30T02:16:46.699844+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OlandriaxPFWSS27",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxPFWSS27",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxRevolveMag",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxRevolveMag",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LetItFly",
+          "title": "#DWCS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LetItFly",
+          "url": "https://twitter.com/search?q=%23DWCS",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hagen Smith",
+          "title": "Aces",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hagen%20Smith",
+          "url": "https://twitter.com/search?q=Aces",
           "platform": "X/Twitter"
         },
         {
-          "title": "Atlanta Hawks",
+          "title": "Guillermo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Atlanta%20Hawks",
+          "url": "https://twitter.com/search?q=Guillermo",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "grand theft auto vi",
-          "traffic": "20000",
+          "title": "navy fighter jets",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bruins schedule",
+          "title": "bill murray",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mathis albert",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cavan sullivan",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ezra frech dwts",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napheesa collier",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "canucks vs oilers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "product recall",
+          "title": "tyler cameron",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brian austin green",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "north port busan shark trapped",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "red sox vs yankees",
+          "title": "jenna dewan",
           "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is the voice on tonight",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wnba games today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yankees game today",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "barry melrose",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jordan hicks",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
