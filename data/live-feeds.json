@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T08:51:31.956583+00:00",
+  "updatedAt": "2026-09-30T15:36:55.286688+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#dwts",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheDropFX",
+          "title": "#WednesdayWisdom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheDropFX",
+          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RepBX",
+          "title": "#wednesdayvibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RepBX",
+          "url": "https://twitter.com/search?q=%23wednesdayvibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Olivia Miles",
+          "title": "Wizzy",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Olivia%20Miles",
+          "url": "https://twitter.com/search?q=Wizzy",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Blackhawks",
+          "title": "The IRGC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Blackhawks",
+          "url": "https://twitter.com/search?q=The%20IRGC",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "west indies cricket team vs india national cricket team match scorecard",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyreek hill",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ind vs wi",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "market",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "supermarket",
+          "title": "eritrea vs south africa",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaylen wright",
-          "traffic": "200",
+          "title": "california flooding",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "week 4 defense rankings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "flydubai",
+          "title": "manassas shooting",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arthur fils",
-          "traffic": "200",
+          "title": "jason priestley",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james bond movies",
-          "traffic": "200",
+          "title": "strait of hormuz news",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "shemar moore",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "d'angelo russell",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zach braff",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aterrizaje de emergencia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "burke high school",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
