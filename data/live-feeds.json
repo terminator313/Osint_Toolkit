@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:36:55.286688+00:00",
+  "updatedAt": "2026-09-30T20:31:52.105593+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -17,92 +17,61 @@
       "error": "HTTP Error 403: Blocked"
     },
     "trends24": {
-      "status": "ok",
-      "items": [
-        {
-          "title": "#WednesdayMotivation",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#WednesdayWisdom",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayWisdom",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "#wednesdayvibes",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23wednesdayvibes",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Wizzy",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Wizzy",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "The IRGC",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=The%20IRGC",
-          "platform": "X/Twitter"
-        }
-      ],
-      "error": null
+      "status": "error",
+      "items": [],
+      "error": "HTTP Error 403: Forbidden"
     },
     "googleTrends": {
       "status": "ok",
       "items": [
         {
-          "title": "eritrea vs south africa",
+          "title": "gemini 4",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "california flooding",
-          "traffic": "10000",
+          "title": "mu stock",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "manassas shooting",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jason priestley",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "strait of hormuz news",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "shemar moore",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "d'angelo russell",
+          "title": "hegseth news",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zach braff",
+          "title": "secret lair",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "millennials",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ps5 pro",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brandon marsh",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "john kruk",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler perry $57m estate listing",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aterrizaje de emergencia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "burke high school",
-          "traffic": "2000",
+          "title": "marsha blackburn sues jack smith",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
