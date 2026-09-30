@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:16:46.699844+00:00",
+  "updatedAt": "2026-09-30T08:51:31.956583+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWENXT",
+          "title": "#TheDropFX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
+          "url": "https://twitter.com/search?q=%23TheDropFX",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DWCS",
+          "title": "#RepBX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DWCS",
+          "url": "https://twitter.com/search?q=%23RepBX",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aces",
+          "title": "Olivia Miles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aces",
+          "url": "https://twitter.com/search?q=Olivia%20Miles",
           "platform": "X/Twitter"
         },
         {
-          "title": "Guillermo",
+          "title": "#Blackhawks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Guillermo",
+          "url": "https://twitter.com/search?q=%23Blackhawks",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "navy fighter jets",
-          "traffic": "2000",
+          "title": "west indies cricket team vs india national cricket team match scorecard",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bill murray",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mathis albert",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cavan sullivan",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ezra frech dwts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "napheesa collier",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "canucks vs oilers",
+          "title": "tyreek hill",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tyler cameron",
-          "traffic": "10000",
+          "title": "ind vs wi",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brian austin green",
+          "title": "market",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supermarket",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jenna dewan",
-          "traffic": "20000",
+          "title": "jaylen wright",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "week 4 defense rankings",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "flydubai",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "arthur fils",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "james bond movies",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
