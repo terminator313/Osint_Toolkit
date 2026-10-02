@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:22:44.673695+00:00",
+  "updatedAt": "2026-10-02T20:04:29.726409+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "homelessness",
+          "title": "owen coyne marblehead",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "james gunn",
+          "title": "berkeley shooting",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stray kids grammy boycott 2027",
+          "title": "belgium vs turkey",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the walking dead",
+          "title": "france",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cancer",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tsla",
+          "title": "extrema derecha",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kelly ripa",
-          "traffic": "500",
+          "title": "hungary vs georgia",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "skydance",
+          "title": "ukraine vs northern ireland",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cat food",
-          "traffic": "2000",
+          "title": "diddy",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump impact senate midterms gop",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran news",
-          "traffic": "20000",
+          "title": "ken paxton james talarico polls",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
