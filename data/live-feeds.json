@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:26:25.348016+00:00",
+  "updatedAt": "2026-10-02T08:50:02.001921+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "olivier martinez",
-          "traffic": "2000",
+          "title": "winter storm",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tmz",
-          "traffic": "5000",
+          "title": "ufc 332",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "myisha hines-allen",
+          "title": "crunchyroll",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "coffee shops near me",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daniil medvedev",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "delivery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portland trail blazers",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wnba scores",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "concacaf nations league",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jack hughes",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aliyah boston",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dennis rodman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cam heyward",
+          "title": "pokemon 30th anniversary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "justin crawford",
+          "title": "jasmine paolini",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "november 13",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
