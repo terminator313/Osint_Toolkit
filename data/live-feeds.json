@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:26:06.414559+00:00",
+  "updatedAt": "2026-10-04T06:10:57.767858+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,52 +25,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "blues vs avalanche",
+          "title": "f1 schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "karen khachanov",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentine – burkina faso",
+          "title": "japan open",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "klay thompson",
+          "title": "friday the 13th",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "julie gonzalo",
+          "title": "thomas randolph",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncis new york",
+          "title": "carlos alcaraz",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael che",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "south carolina football",
-          "traffic": "10000",
+          "title": "milwaukee weather",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "argentina fc",
-          "traffic": "1000",
+          "title": "iran currency",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "solar system unstable",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "war hbo",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kawhi leonard",
+          "title": "snl cast",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
