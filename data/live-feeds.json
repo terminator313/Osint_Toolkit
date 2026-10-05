@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:26:35.484438+00:00",
+  "updatedAt": "2026-10-05T18:44:14.215746+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "braves dodgers game",
-          "traffic": "200",
+          "title": "amazon.com",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "xrp ledger",
-          "traffic": "100",
+          "title": "france protests",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kelsey mitchell caitlin clark comments context",
-          "traffic": "100",
+          "title": "charles barkley",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockstar games gta vi",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "belinda bencic",
+          "title": "ukraine vs hungary",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carlos alcaraz",
+          "title": "connor zary",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "chris wilson jr",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jaume munar",
-          "traffic": "500",
+          "title": "bosnia and herzegovina vs poland",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "giant",
-          "traffic": "200",
+          "title": "italia - turquía",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "google fitbit edge",
-          "traffic": "100",
+          "title": "romania vs sweden",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tokyo weather",
-          "traffic": "200",
+          "title": "autobús escolar",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
