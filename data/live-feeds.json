@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T04:19:22.442058+00:00",
+  "updatedAt": "2026-10-07T11:14:44.066141+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "dl hall",
+          "title": "ainsley earhardt",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "enrique iglesias",
-          "traffic": "200",
+          "title": "daylight savings",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kerry washington",
+          "title": "michael zheng",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "waiver wire week 5",
-          "traffic": "1000",
+          "title": "temp",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hs",
+          "title": "barack obama",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mrvl stock",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cher",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bradgley rodriguez",
+          "title": "putellas",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "british airways flight returns to heathrow",
+          "title": "pick 3",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "adou thiero",
+          "title": "pickleball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vgk",
-          "traffic": "200",
+          "title": "below deck mediterranean",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
