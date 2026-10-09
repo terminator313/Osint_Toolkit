@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T08:28:49.780998+00:00",
+  "updatedAt": "2026-10-09T15:31:01.438177+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "fc barcelona",
-          "traffic": "100",
+          "title": "florida a&m vs alabama state",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lottery",
+          "title": "seattle weather",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nuttycombe invitational 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "steam free games weekend promotion",
-          "traffic": "100",
+          "title": "mike ditka",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zverev",
-          "traffic": "100",
+          "title": "ditka",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "temblor hoy en california",
+          "title": "saudi arabia",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nelson toburen",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake",
-          "traffic": "5000",
+          "title": "iowa vs washington",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "earthquake los angeles",
-          "traffic": "500",
+          "title": "lisa cook",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "elina svitolina",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yannick hanfmann",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "quentin halys",
-          "traffic": "100",
+          "title": "interstate 95",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
