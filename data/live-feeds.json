@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:15:53.691814+00:00",
+  "updatedAt": "2026-10-12T01:32:08.352875+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jameson williams",
+          "title": "terremoto",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sam laporta",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tax",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach charbonnet",
+          "title": "polymarket",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gold",
+          "title": "carrie tv show cast",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cruz azul",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tea leoni",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jimmy carter",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "freddie freeman",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amy williams brewers",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trevon diggs",
+          "title": "calais campbell",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george holani",
+          "title": "declan doyle",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "starlink",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iran news",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "holani seahawks",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
