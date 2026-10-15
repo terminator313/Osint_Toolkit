@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:58:23.528443+00:00",
+  "updatedAt": "2026-10-15T01:20:54.699180+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "canadiens vs capitals",
+          "title": "the lowdown",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rbny vs d.c. united",
+          "title": "teoscar hernández",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tulsa king season 4",
+          "title": "andrew vaughn",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "appletv",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trey hendrickson",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "new york city vs inter miami",
-          "traffic": "5000",
+          "title": "jim kelly",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mlb tonight",
+          "title": "rory mcilroy",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kordell stewart",
-          "traffic": "200",
+          "title": "minnesota vs colorado",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "keion white",
-          "traffic": "200",
+          "title": "adam copeland",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "university of chicago",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the diplomat season 4",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jakobi lane",
-          "traffic": "200",
+          "title": "martha stewart",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
