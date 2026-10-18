@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T16:20:17.067650+00:00",
+  "updatedAt": "2026-10-18T18:45:55.164107+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "is lamar jackson playing",
+          "title": "dameon pierce",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid schedule",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nate boerkircher",
+          "title": "bill cowher",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grêmio x cruzeiro",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tyler shough",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ukraine drone strikes",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "byu ranking",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "fluminense - santos",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid - sevilla",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "presley walker gerber",
           "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "charissa thompson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sporting cristal - comerciantes unidos",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rico dowdle",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "málaga - real sociedad",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "timothy olyphant",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dragon ball super beerus episode 2",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jakobi lane",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tyjae spears",
-          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
