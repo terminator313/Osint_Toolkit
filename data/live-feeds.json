@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:28:12.720809+00:00",
+  "updatedAt": "2026-10-19T01:32:49.062967+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,52 +25,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "kirk cousins",
-          "traffic": "10000",
+          "title": "johnny depp",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "keon coleman",
+          "title": "kevin hart",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jeremiah trotter",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zaire franklin",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tea leoni",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hurricanes vs flames",
+          "title": "waymo",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "grady jarrett",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "micah parsons",
+          "title": "jaishawn barham",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "candice swanepoel",
-          "traffic": "500",
+          "title": "caleb downs",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bella hadid",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gigi hadid",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "green bay weather",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dylan sprouse",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfc west standings",
+          "title": "kavontae turpin",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
