@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:13:18.571459+00:00",
+  "updatedAt": "2026-10-24T22:37:30.339473+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,53 +25,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nc lottery",
+          "title": "full moon tonight",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan mason",
+          "title": "león - toluca",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ashley hinson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lehigh football",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rob sand",
-          "traffic": "200",
+          "title": "virginia tech vs clemson",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott frost",
-          "traffic": "500",
+          "title": "colorado vs oklahoma st",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ofer winter election",
+          "title": "sharks vs bruins",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michigan football schedule",
-          "traffic": "2000",
+          "title": "golden knights vs blue jackets",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "product recall",
-          "traffic": "2000",
+          "title": "predators vs penguins",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kent state football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sean o'malley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "akron football",
-          "traffic": "200",
+          "title": "rangers vs senators",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
