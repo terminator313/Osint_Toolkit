@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:24:11.846079+00:00",
+  "updatedAt": "2026-11-07T23:47:46.874751+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,52 +25,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "charlotte vs inter miami",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "yale football",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vcu vs memphis",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rice vs north texas",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mo state vs fiu",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "la tech vs troy",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "boca vs defensa y justicia",
+          "title": "colorado vs arizona state",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "roma",
-          "traffic": "1000",
+          "title": "la galaxy vs salt lake",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sporting vs moreirense",
+          "title": "fahey ohio state",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "unt football",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lsu coach",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "martin short",
+          "title": "louisville vs georgia tech",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colorado vs dallas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nets vs hawks",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "san jose vs minnesota",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nor'easter",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
