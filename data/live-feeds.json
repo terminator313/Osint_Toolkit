@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:27:52.051808+00:00",
+  "updatedAt": "2026-11-08T11:27:37.143378+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,52 +25,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "wendell carter jr.",
+          "title": "frontera",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "napoli - lazio",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heerenveen vs feyenoord",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "irs marginal tax rates 2027",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "insurance fraud",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gas prices",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daniel radcliffe",
+          "title": "caitlin clark",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fortnite token",
+          "title": "san antonio weather",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "husker volleyball score",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ap poll week 10 projections",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "paolo banchero",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warriors",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "thomas castellanos",
+          "title": "on",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "salma hayek",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "warriors standings",
+          "title": "napoli vs lazio",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
