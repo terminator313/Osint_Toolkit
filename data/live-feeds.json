@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:27:37.143378+00:00",
+  "updatedAt": "2026-11-08T17:12:10.389138+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -25,52 +25,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "frontera",
-          "traffic": "100",
+          "title": "drake london",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napoli - lazio",
-          "traffic": "200",
+          "title": "apple tv",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heerenveen vs feyenoord",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "irs marginal tax rates 2027",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "insurance fraud",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gas prices",
+          "title": "zion suzuki",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "caitlin clark",
+          "title": "villarreal vs getafe",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "appletv",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "philip rivers",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "falcons kicker",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san antonio weather",
+          "title": "rafael camara",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "on",
-          "traffic": "1000",
+          "title": "epl",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "napoli vs lazio",
+          "title": "nicolas jackson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
