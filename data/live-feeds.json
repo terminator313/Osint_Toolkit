@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:09:34.338018+00:00",
+  "updatedAt": "2026-11-11T09:43:06.117078+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#HiJustin",
+          "title": "#thebody",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HiJustin",
+          "url": "https://twitter.com/search?q=%23thebody",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Bud150Crate",
+          "title": "#AvengersDoomsday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Bud150Crate",
+          "url": "https://twitter.com/search?q=%23AvengersDoomsday",
           "platform": "X/Twitter"
         },
         {
-          "title": "Judiciary Committee",
+          "title": "Pluey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Judiciary%20Committee",
+          "url": "https://twitter.com/search?q=Pluey",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiderNation",
+          "title": "11 Democrats",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "url": "https://twitter.com/search?q=11%20Democrats",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jenna dewan",
-          "traffic": "10000",
+          "title": "new york times",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "scott bessent",
+          "title": "mauricio pochettino",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "harvard basketball",
+          "title": "reggie virgil",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pakistan vs sri lanka",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "travis etienne",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ucf basketball",
+          "title": "spectrum outage",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michael j fox",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cj daniels",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "crps",
-          "traffic": "500",
+          "title": "odessa a'zion",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chick fil a veterans day 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the circle",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "we chose to go to the moon",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jj redick",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "channing tatum",
-          "traffic": "2000",
+          "title": "leonardo dicaprio",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
