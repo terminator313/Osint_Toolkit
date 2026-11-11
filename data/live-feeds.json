@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:29:40.196537+00:00",
+  "updatedAt": "2026-11-11T02:09:34.338018+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -17,61 +17,92 @@
       "error": "HTTP Error 403: Blocked"
     },
     "trends24": {
-      "status": "error",
-      "items": [],
-      "error": "HTTP Error 403: Forbidden"
+      "status": "ok",
+      "items": [
+        {
+          "title": "#dwts",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23dwts",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#HiJustin",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23HiJustin",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#Bud150Crate",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Bud150Crate",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Judiciary Committee",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Judiciary%20Committee",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "#RaiderNation",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "platform": "X/Twitter"
+        }
+      ],
+      "error": null
     },
     "googleTrends": {
       "status": "ok",
       "items": [
         {
-          "title": "naresh bhatt",
+          "title": "jenna dewan",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "scott bessent",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "harvard basketball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ucf basketball",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "president trump",
+          "title": "crps",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "inflación",
+          "title": "chick fil a veterans day 2026",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "macrumors",
+          "title": "the circle",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oregon",
+          "title": "we chose to go to the moon",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jj redick",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "channing tatum",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pedro guerrero",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the fall and rise of reggie dinkins",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matvei michkov",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cspan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soldier",
-          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
