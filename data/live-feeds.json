@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:43:06.117078+00:00",
+  "updatedAt": "2026-11-11T17:41:50.195029+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#dwts",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#thebody",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23thebody",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AvengersDoomsday",
+          "title": "#Army",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AvengersDoomsday",
+          "url": "https://twitter.com/search?q=%23Army",
           "platform": "X/Twitter"
         },
         {
-          "title": "Pluey",
+          "title": "#WednesdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Pluey",
+          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "11 Democrats",
+          "title": "Bloodsport",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=11%20Democrats",
+          "url": "https://twitter.com/search?q=Bloodsport",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "Remigio",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=Remigio",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "new york times",
+          "title": "baseball",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mauricio pochettino",
-          "traffic": "200",
+          "title": "will scharf",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "reggie virgil",
-          "traffic": "100",
+          "title": "applebees menu",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pakistan vs sri lanka",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "travis etienne",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "spectrum outage",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michael j fox",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cj daniels",
+          "title": "russian ambassador to us",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "odessa a'zion",
-          "traffic": "100",
+          "title": "chipotle tattoo deal",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "leonardo dicaprio",
-          "traffic": "100",
+          "title": "vanguard",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rex ryan",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "east texas a&m basketball",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "storage units",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "saudi arabia",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
