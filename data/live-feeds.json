@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:33:49.381639+00:00",
+  "updatedAt": "2026-11-12T22:33:49.013696+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#ThursdayThoughts",
+          "title": "#chilis3forme",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ThursdayThoughts",
+          "url": "https://twitter.com/search?q=%23chilis3forme",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FoolInLoveEP11",
+          "title": "#internetinvitational",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FoolInLoveEP11",
+          "url": "https://twitter.com/search?q=%23internetinvitational",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UnhingedPit",
+          "title": "#KittleRiddles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UnhingedPit",
+          "url": "https://twitter.com/search?q=%23KittleRiddles",
           "platform": "X/Twitter"
         },
         {
-          "title": "Interim CEO",
+          "title": "Quran",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Interim%20CEO",
+          "url": "https://twitter.com/search?q=Quran",
           "platform": "X/Twitter"
         },
         {
-          "title": "YOU MEAN NOTHING NOW",
+          "title": "Gmail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=YOU%20MEAN%20NOTHING%20NOW",
+          "url": "https://twitter.com/search?q=Gmail",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "robert f. kennedy jr.",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "türkiye vs belgium",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "turquía - bélgica",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hurricanes vs kraken",
+          "title": "jessica pegula",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "noah kahan fenway",
-          "traffic": "2000",
+          "title": "richard glossip",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "whoopi goldberg",
+          "title": "naruto",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "supreme court",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nikko remigio",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "liga de naciones concacaf",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stryker sports complex",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthony santander",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "steve witkoff",
+          "title": "gulf of finland",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "robbie avila",
+          "title": "lisa maxwell daughter",
           "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "salma hayek",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "penelope cruz",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
