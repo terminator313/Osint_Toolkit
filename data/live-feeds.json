@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:41:50.195029+00:00",
+  "updatedAt": "2026-11-12T00:02:03.369726+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#dialedhealth",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23dialedhealth",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#thebody",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23thebody",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Army",
+          "title": "#ThankYouForYourService",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Army",
+          "url": "https://twitter.com/search?q=%23ThankYouForYourService",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WednesdayMotivation",
+          "title": "elise",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WednesdayMotivation",
+          "url": "https://twitter.com/search?q=elise",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bloodsport",
+          "title": "Memorial Day",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bloodsport",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Remigio",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Remigio",
+          "url": "https://twitter.com/search?q=Memorial%20Day",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "baseball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will scharf",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "applebees menu",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russian ambassador to us",
+          "title": "buffalo vs ball state",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chipotle tattoo deal",
+          "title": "rangers vs flames",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vanguard",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rex ryan",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "east texas a&m basketball",
+          "title": "bob woodruff",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storage units",
-          "traffic": "5000",
+          "title": "sacramento st vs central mi",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "saudi arabia",
+          "title": "umass vs toledo",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isabelle huppert",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "normandy",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "reasons for falling us gas prices",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "maria flores garcia ice detention",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rory mcilroy",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
