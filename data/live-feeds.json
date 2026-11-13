@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:22:25.559994+00:00",
+  "updatedAt": "2026-11-13T18:38:53.137161+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DreaminaMarketingRewards",
+          "title": "#Tejran",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DreaminaMarketingRewards",
+          "url": "https://twitter.com/search?q=%23Tejran",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NamtanFilmFanconD1",
+          "title": "#VIVANT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NamtanFilmFanconD1",
+          "url": "https://twitter.com/search?q=%23VIVANT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VIVALALISA",
+          "title": "#BBNaija",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VIVALALISA",
+          "url": "https://twitter.com/search?q=%23BBNaija",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiseHail",
+          "title": "Sam Hartman",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=Sam%20Hartman",
           "platform": "X/Twitter"
         },
         {
-          "title": "WHO LET THE DOGS OUT",
+          "title": "Microsoft",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=WHO%20LET%20THE%20DOGS%20OUT",
+          "url": "https://twitter.com/search?q=Microsoft",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "trust",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pakistan vs sri lanka",
+          "title": "pentagon 90 day grid warning",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "storm",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chip roy",
+          "title": "mlb free agency",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "avatar seven havens season 2",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "laurence fishburne",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "王忠林",
+          "title": "egypt vs malawi",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rory mcilroy",
-          "traffic": "200",
+          "title": "el nino",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "miami vice stan switek actor",
-          "traffic": "200",
+          "title": "rockstar gta vi",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "fundación venezolana de investigaciones sismológicas (funvisis)",
-          "traffic": "100",
+          "title": "willson contreras",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "elijah higgins",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "philip rivers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jake bauers",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tony richards",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
