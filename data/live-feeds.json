@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:33:49.013696+00:00",
+  "updatedAt": "2026-11-13T03:07:43.445331+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#chilis3forme",
+          "title": "#911onABC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23chilis3forme",
+          "url": "https://twitter.com/search?q=%23911onABC",
           "platform": "X/Twitter"
         },
         {
-          "title": "#internetinvitational",
+          "title": "#RaiseHail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23internetinvitational",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "#KittleRiddles",
+          "title": "#BigBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KittleRiddles",
+          "url": "https://twitter.com/search?q=%23BigBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "Quran",
+          "title": "Pence",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Quran",
+          "url": "https://twitter.com/search?q=Pence",
           "platform": "X/Twitter"
         },
         {
-          "title": "Gmail",
+          "title": "Sonny Styles",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Gmail",
+          "url": "https://twitter.com/search?q=Sonny%20Styles",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "jessica pegula",
+          "title": "cade cunningham",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "richard glossip",
+          "title": "anthony davis",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aus vs eng",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "aj dybantsa",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "khaman maluach",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "naruto",
+          "title": "andrew whitworth",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "supreme court",
+          "title": "coby white",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nikko remigio",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "liga de naciones concacaf",
+          "title": "nico caprez",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stryker sports complex",
-          "traffic": "200",
+          "title": "wizards",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony santander",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gulf of finland",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lisa maxwell daughter",
-          "traffic": "1000",
+          "title": "trae young",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
