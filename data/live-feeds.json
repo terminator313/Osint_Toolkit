@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:56:19.521356+00:00",
+  "updatedAt": "2026-11-14T18:57:25.822771+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SaturdayVibes",
+          "title": "#MrFanboyFinalEP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayVibes",
+          "url": "https://twitter.com/search?q=%23MrFanboyFinalEP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SaturdayMotivation",
+          "title": "#PFLDubai",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SaturdayMotivation",
+          "url": "https://twitter.com/search?q=%23PFLDubai",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NamtanFilmFanconD2",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NamtanFilmFanconD2",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#15thラブライブフェス_Day1",
+          "title": "Chris Henry",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%2315th%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A7%E3%82%B9_Day1",
+          "url": "https://twitter.com/search?q=Chris%20Henry",
           "platform": "X/Twitter"
         },
         {
-          "title": "NAMTANFILM VIVA LA VIDA",
+          "title": "Brisas del Golf",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=NAMTANFILM%20VIVA%20LA%20VIDA",
+          "url": "https://twitter.com/search?q=Brisas%20del%20Golf",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "where is game day this week",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cook islands",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bryce james",
+          "title": "shane gillis",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "the terminal list prime video",
+          "title": "kennesaw st vs sam houston",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trump administration legislative oversight dispute",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "isla fisher",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wales vs new zealand",
+          "title": "northern iowa vs south dakota",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raf abu dhabi fight results",
+          "title": "bo jackson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "algeria vs togo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "depaul vs notre dame",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "rob ezell",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brad pitt",
+          "title": "david montgomery",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sd state vs southern il",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donovan mitchell",
-          "traffic": "500",
+          "title": "lol worlds",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
