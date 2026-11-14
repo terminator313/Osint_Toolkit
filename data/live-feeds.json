@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:57:25.822771+00:00",
+  "updatedAt": "2026-11-14T22:53:59.558167+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#MrFanboyFinalEP",
+          "title": "#iufb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MrFanboyFinalEP",
+          "url": "https://twitter.com/search?q=%23iufb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PFLDubai",
+          "title": "#UFC334",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PFLDubai",
+          "url": "https://twitter.com/search?q=%23UFC334",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Caturday",
+          "title": "#Worlds2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Caturday",
+          "url": "https://twitter.com/search?q=%23Worlds2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Chris Henry",
+          "title": "Fickell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Chris%20Henry",
+          "url": "https://twitter.com/search?q=Fickell",
           "platform": "X/Twitter"
         },
         {
-          "title": "Brisas del Golf",
+          "title": "Faizon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Brisas%20del%20Golf",
+          "url": "https://twitter.com/search?q=Faizon",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "shane gillis",
-          "traffic": "1000",
+          "title": "xrp price",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kennesaw st vs sam houston",
+          "title": "jeffery simmons chicago bears trade",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "northern iowa vs south dakota",
+          "title": "gold",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bo jackson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "algeria vs togo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "depaul vs notre dame",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rob ezell",
+          "title": "joe jonas",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "david montgomery",
+          "title": "boa grand nationals 2026",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "querétaro vs monterrey",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "juan diaz",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "faizon brandon",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "high potential",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sd state vs southern il",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lol worlds",
-          "traffic": "1000",
+          "title": "paramount",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
