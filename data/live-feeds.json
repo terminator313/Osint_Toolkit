@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:38:53.137161+00:00",
+  "updatedAt": "2026-11-14T00:08:47.151707+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Tejran",
+          "title": "#Groundstop",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Tejran",
+          "url": "https://twitter.com/search?q=%23Groundstop",
           "platform": "X/Twitter"
         },
         {
-          "title": "#VIVANT",
+          "title": "#JensenHuang",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23VIVANT",
+          "url": "https://twitter.com/search?q=%23JensenHuang",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BBNaija",
+          "title": "#lordaura",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBNaija",
+          "url": "https://twitter.com/search?q=%23lordaura",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sam Hartman",
+          "title": "Communication",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sam%20Hartman",
+          "url": "https://twitter.com/search?q=Communication",
           "platform": "X/Twitter"
         },
         {
-          "title": "Microsoft",
+          "title": "Homeland Security",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Microsoft",
+          "url": "https://twitter.com/search?q=Homeland%20Security",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pentagon 90 day grid warning",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mlb free agency",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "egypt vs malawi",
+          "title": "illini basketball",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "el nino",
-          "traffic": "1000",
+          "title": "montserrat - nicaragua",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rockstar gta vi",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "willson contreras",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "elijah higgins",
+          "title": "jellyfish ufo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "philip rivers",
+          "title": "911 down",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mexico national football team",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen brunson stats",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "butler basketball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bahrain",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jake bauers",
-          "traffic": "20000",
+          "title": "michelle pfeiffer",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tony richards",
-          "traffic": "5000",
+          "title": "rutgers basketball",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
