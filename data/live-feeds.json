@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:51:59.476571+00:00",
+  "updatedAt": "2026-11-14T13:56:19.521356+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
+          "title": "#SaturdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#faagroundstop",
+          "title": "#SaturdayMotivation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23faagroundstop",
+          "url": "https://twitter.com/search?q=%23SaturdayMotivation",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Illini",
+          "title": "#NamtanFilmFanconD2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Illini",
+          "url": "https://twitter.com/search?q=%23NamtanFilmFanconD2",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#15thラブライブフェス_Day1",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%2315th%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A7%E3%82%B9_Day1",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UCLA",
+          "title": "NAMTANFILM VIVA LA VIDA",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UCLA",
+          "url": "https://twitter.com/search?q=NAMTANFILM%20VIVA%20LA%20VIDA",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "christian langmo",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "caio borralho",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "conner weigman",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ou vs ole miss",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cif football playoffs 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jim miller",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tahiti vs cook islands",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "daniel radcliffe",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rui hachimura",
+          "title": "where is game day this week",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncaaf",
+          "title": "cook islands",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bryce james",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the terminal list prime video",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trump administration legislative oversight dispute",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "isla fisher",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wales vs new zealand",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "raf abu dhabi fight results",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brad pitt",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donovan mitchell",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
