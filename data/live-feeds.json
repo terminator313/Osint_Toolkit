@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:44:14.722571+00:00",
+  "updatedAt": "2026-11-15T16:47:40.300286+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#UFC334",
+          "title": "#OnePride",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFC334",
+          "url": "https://twitter.com/search?q=%23OnePride",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWFullGear",
+          "title": "#Patriots",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWFullGear",
+          "url": "https://twitter.com/search?q=%23Patriots",
           "platform": "X/Twitter"
         },
         {
-          "title": "#JAMESRegalEminence",
+          "title": "#NEvsDET",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23JAMESRegalEminence",
+          "url": "https://twitter.com/search?q=%23NEvsDET",
           "platform": "X/Twitter"
         },
         {
-          "title": "JAMES CROWNED IN LAURELS",
+          "title": "Good Sunday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=JAMES%20CROWNED%20IN%20LAURELS",
+          "url": "https://twitter.com/search?q=Good%20Sunday",
           "platform": "X/Twitter"
         },
         {
-          "title": "ITS BACK",
+          "title": "Stephen Tulloch",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=ITS%20BACK",
+          "url": "https://twitter.com/search?q=Stephen%20Tulloch",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "donald trump iran war",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 pc release date",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dp world tour championship",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "winter storm",
+          "title": "barry sanders",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shameless",
-          "traffic": "100",
+          "title": "bernie sanders social security expansion act",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "san diego padres",
-          "traffic": "100",
+          "title": "españa vs inglaterra",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "australia vs new zealand",
+          "title": "finland vs san marino",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gta 6 release date and time",
+          "title": "usc vs south carolina",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "belarus vs albania",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "maika monroe",
-          "traffic": "100",
+          "title": "raiders vs seahawks",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bills vs jets",
-          "traffic": "100",
+          "title": "lan larison",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ou vs ole miss",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tim hill",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
