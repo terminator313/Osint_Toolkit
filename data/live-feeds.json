@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:47:40.300286+00:00",
+  "updatedAt": "2026-11-15T21:28:02.606048+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#OnePride",
+          "title": "#SKOL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OnePride",
+          "url": "https://twitter.com/search?q=%23SKOL",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Patriots",
+          "title": "#ChiefsKingdom",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Patriots",
+          "url": "https://twitter.com/search?q=%23ChiefsKingdom",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NEvsDET",
+          "title": "#GoPackGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NEvsDET",
+          "url": "https://twitter.com/search?q=%23GoPackGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "Good Sunday",
+          "title": "Dolphins",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Good%20Sunday",
+          "url": "https://twitter.com/search?q=Dolphins",
           "platform": "X/Twitter"
         },
         {
-          "title": "Stephen Tulloch",
+          "title": "Geno Smith",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stephen%20Tulloch",
+          "url": "https://twitter.com/search?q=Geno%20Smith",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "barry sanders",
+          "title": "spurs vs jazz",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brock bowers",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "49er game today",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bernie sanders social security expansion act",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "españa vs inglaterra",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "finland vs san marino",
+          "title": "justin trudeau katy perry",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "usc vs south carolina",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "belarus vs albania",
+          "title": "ben white",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raiders vs seahawks",
+          "title": "ezri konsa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "49ers game",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "carson beck",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "snow storm weather forecast",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lan larison",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ou vs ole miss",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tim hill",
+          "title": "quinshon judkins",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
