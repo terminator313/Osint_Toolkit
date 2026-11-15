@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:22:50.509093+00:00",
+  "updatedAt": "2026-11-15T09:44:14.722571+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#AEWFullGear",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWFullGear",
-          "platform": "X/Twitter"
-        },
-        {
           "title": "#UFC334",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFC334",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LAMH",
+          "title": "#AEWFullGear",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LAMH",
+          "url": "https://twitter.com/search?q=%23AEWFullGear",
           "platform": "X/Twitter"
         },
         {
-          "title": "Elko",
+          "title": "#JAMESRegalEminence",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Elko",
+          "url": "https://twitter.com/search?q=%23JAMESRegalEminence",
           "platform": "X/Twitter"
         },
         {
-          "title": "Philo",
+          "title": "JAMES CROWNED IN LAURELS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Philo",
+          "url": "https://twitter.com/search?q=JAMES%20CROWNED%20IN%20LAURELS",
+          "platform": "X/Twitter"
+        },
+        {
+          "title": "ITS BACK",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=ITS%20BACK",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "davion mitchell",
+          "title": "donald trump iran war",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gta 6 pc release date",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dp world tour championship",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "winter storm",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "chris pratt",
-          "traffic": "1000",
+          "title": "shameless",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe rogan",
-          "traffic": "1000",
+          "title": "san diego padres",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "matas buzelis",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bahrain",
+          "title": "australia vs new zealand",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jon jones",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aaron philo",
+          "title": "gta 6 release date and time",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kirk ferentz",
-          "traffic": "500",
+          "title": "maika monroe",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victoria justice",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ramit sethi",
-          "traffic": "500",
+          "title": "bills vs jets",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
