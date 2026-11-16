@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T01:19:38.221344+00:00",
+  "updatedAt": "2026-11-16T08:18:03.459865+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FTTB",
+          "title": "#WhoDey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FTTB",
+          "url": "https://twitter.com/search?q=%23WhoDey",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BaddiesGoneWildCancun",
+          "title": "#TheGildedAge",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BaddiesGoneWildCancun",
+          "url": "https://twitter.com/search?q=%23TheGildedAge",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RaiderNation",
+          "title": "#BaddiesUSAChapter3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiderNation",
+          "url": "https://twitter.com/search?q=%23BaddiesUSAChapter3",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TNADestinationX",
+          "title": "#RHOP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TNADestinationX",
+          "url": "https://twitter.com/search?q=%23RHOP",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mustapha",
+          "title": "#TrialoftheUsurper",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mustapha",
+          "url": "https://twitter.com/search?q=%23TrialoftheUsurper",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "bengals game",
-          "traffic": "5000",
+          "title": "penelope cruz javier bardem movie bunker",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thunder vs kings",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "coastal carolina vs wisconsin",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dutton ranch season 2",
+          "title": "alexandra daddario",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kirk cousins wife",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "chargers vs ravens",
+          "title": "sharad kapoor",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony davis",
-          "traffic": "2000",
+          "title": "colin farrell",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jack nicklaus",
+          "title": "gta vi game",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "project helix console",
-          "traffic": "500",
+          "title": "karely ruiz",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "west coast high surf warning",
-          "traffic": "5000",
+          "title": "fitness",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alex bolt",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bill fennelly",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "black friday sales",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
