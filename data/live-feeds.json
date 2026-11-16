@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:28:02.606048+00:00",
+  "updatedAt": "2026-11-16T01:19:38.221344+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SKOL",
+          "title": "#FTTB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SKOL",
+          "url": "https://twitter.com/search?q=%23FTTB",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ChiefsKingdom",
+          "title": "#BaddiesGoneWildCancun",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ChiefsKingdom",
+          "url": "https://twitter.com/search?q=%23BaddiesGoneWildCancun",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoPackGo",
+          "title": "#RaiderNation",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoPackGo",
+          "url": "https://twitter.com/search?q=%23RaiderNation",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dolphins",
+          "title": "#TNADestinationX",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dolphins",
+          "url": "https://twitter.com/search?q=%23TNADestinationX",
           "platform": "X/Twitter"
         },
         {
-          "title": "Geno Smith",
+          "title": "Mustapha",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Geno%20Smith",
+          "url": "https://twitter.com/search?q=Mustapha",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "spurs vs jazz",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "brock bowers",
+          "title": "bengals game",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "49er game today",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "justin trudeau katy perry",
+          "title": "thunder vs kings",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ben white",
+          "title": "coastal carolina vs wisconsin",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ezri konsa",
+          "title": "dutton ranch season 2",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "49ers game",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carson beck",
+          "title": "kirk cousins wife",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "snow storm weather forecast",
+          "title": "chargers vs ravens",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthony davis",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jack nicklaus",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "quinshon judkins",
+          "title": "project helix console",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "west coast high surf warning",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
