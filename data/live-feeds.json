@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:17:52.113287+00:00",
+  "updatedAt": "2026-11-17T10:57:24.438289+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WWERaw",
+          "title": "#หลิงออมปฏิทินช่อง3ปี2570",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWERaw",
+          "url": "https://twitter.com/search?q=%23%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873%E0%B8%9B%E0%B8%B52570",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LACvsBAL",
+          "title": "#I_N_No_Return",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LACvsBAL",
+          "url": "https://twitter.com/search?q=%23I_N_No_Return",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BoltUp",
+          "title": "#LamansionVIP2",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BoltUp",
+          "url": "https://twitter.com/search?q=%23LamansionVIP2",
           "platform": "X/Twitter"
         },
         {
-          "title": "Team USA",
+          "title": "Itati",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Team%20USA",
+          "url": "https://twitter.com/search?q=Itati",
           "platform": "X/Twitter"
         },
         {
-          "title": "Robert Pattinson",
+          "title": "Crimea",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Robert%20Pattinson",
+          "url": "https://twitter.com/search?q=Crimea",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "pedro pascal",
-          "traffic": "1000",
+          "title": "friendlies",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jacksonville vs georgia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rashod bateman",
+          "title": "school delays",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "golden state warriors vs new orleans pelicans match player stats",
+          "title": "haiti",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mets",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "is john boyd leaving fbi",
+          "title": "ncis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liv morgan",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "canada",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cameron dicker",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gilded age cast",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "houston rockets vs miami heat match player stats",
+          "title": "bahrain intercepts iranian drones",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "alabama crimson tide football",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "market",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "singapura x brasil",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "singapour – brésil",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
