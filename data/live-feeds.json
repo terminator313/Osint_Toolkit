@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:57:24.438289+00:00",
+  "updatedAt": "2026-11-17T19:40:25.364791+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#หลิงออมปฏิทินช่อง3ปี2570",
+          "title": "#CollaborativeStudio",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873%E0%B8%9B%E0%B8%B52570",
+          "url": "https://twitter.com/search?q=%23CollaborativeStudio",
           "platform": "X/Twitter"
         },
         {
-          "title": "#I_N_No_Return",
+          "title": "#TheGameAwards",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23I_N_No_Return",
+          "url": "https://twitter.com/search?q=%23TheGameAwards",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LamansionVIP2",
+          "title": "#Dencia",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LamansionVIP2",
+          "url": "https://twitter.com/search?q=%23Dencia",
           "platform": "X/Twitter"
         },
         {
-          "title": "Itati",
+          "title": "#RestoreTheSnyderVerse",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Itati",
+          "url": "https://twitter.com/search?q=%23RestoreTheSnyderVerse",
           "platform": "X/Twitter"
         },
         {
-          "title": "Crimea",
+          "title": "Apple Support",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Crimea",
+          "url": "https://twitter.com/search?q=Apple%20Support",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "friendlies",
-          "traffic": "100",
+          "title": "niger vs morocco",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "school delays",
-          "traffic": "200",
+          "title": "live radio",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "haiti",
-          "traffic": "100",
+          "title": "live tv",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mets",
-          "traffic": "200",
+          "title": "hayden panettiere",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncis",
-          "traffic": "200",
+          "title": "hungary vs northern ireland",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bahrain intercepts iranian drones",
-          "traffic": "200",
+          "title": "ukraine vs georgia",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alabama crimson tide football",
-          "traffic": "100",
+          "title": "rutgers vs houston",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "market",
+          "title": "browns raiders",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "singapura x brasil",
+          "title": "ireland vs kosovo",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "singapour – brésil",
-          "traffic": "500",
+          "title": "wales vs portugal",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
