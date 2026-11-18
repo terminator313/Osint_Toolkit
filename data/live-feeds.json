@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:40:25.364791+00:00",
+  "updatedAt": "2026-11-18T02:06:44.482697+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CollaborativeStudio",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CollaborativeStudio",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TheGameAwards",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheGameAwards",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Dencia",
+          "title": "#USMNT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Dencia",
+          "url": "https://twitter.com/search?q=%23USMNT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#RestoreTheSnyderVerse",
+          "title": "Carrie Ann",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RestoreTheSnyderVerse",
+          "url": "https://twitter.com/search?q=Carrie%20Ann",
           "platform": "X/Twitter"
         },
         {
-          "title": "Apple Support",
+          "title": "#iubb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Apple%20Support",
+          "url": "https://twitter.com/search?q=%23iubb",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "niger vs morocco",
+          "title": "grand theft auto",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ayo dosunmu",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ja'kobe walter",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "live radio",
+          "title": "tobias harris",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "live tv",
+          "title": "rj barrett",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hayden panettiere",
-          "traffic": "500",
+          "title": "david mirkovic",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hungary vs northern ireland",
-          "traffic": "500",
+          "title": "nicolás maduro",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ukraine vs georgia",
-          "traffic": "500",
+          "title": "méxico - jamaica",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "rutgers vs houston",
+          "title": "rudy gobert",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "julianne hough",
           "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "browns raiders",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ireland vs kosovo",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "wales vs portugal",
-          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
