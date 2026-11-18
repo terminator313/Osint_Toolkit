@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:29:06.059213+00:00",
+  "updatedAt": "2026-11-18T18:59:24.051606+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LakeShow",
+          "title": "#tsfolklorealbumcatcollection",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LakeShow",
+          "url": "https://twitter.com/search?q=%23tsfolklorealbumcatcollection",
           "platform": "X/Twitter"
         },
         {
-          "title": "#dwts",
+          "title": "#TejRan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GTA6",
+          "title": "#bbtvi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GTA6",
+          "url": "https://twitter.com/search?q=%23bbtvi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Duke",
+          "title": "House Democrats",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Duke",
+          "url": "https://twitter.com/search?q=House%20Democrats",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GTAVI",
+          "title": "The Rock",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GTAVI",
+          "url": "https://twitter.com/search?q=The%20Rock",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nyt connections answers",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "estados unidos",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "retirement",
+          "title": "ginny and georgia season 4 release date",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "coinbase",
-          "traffic": "100",
+          "title": "ak dear",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "india",
-          "traffic": "100",
+          "title": "susan smith",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nice",
-          "traffic": "100",
+          "title": "biscuit recall",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "los angeles",
-          "traffic": "100",
+          "title": "hakeem jeffries speaker",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "腾讯财报",
-          "traffic": "200",
+          "title": "katherine clark",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck accident lawyer",
-          "traffic": "100",
+          "title": "youngstown propane",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident attorney",
-          "traffic": "100",
+          "title": "the comeback king",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid vs inter",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "baylor basketball",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
