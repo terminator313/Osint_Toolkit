@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:02:58.860649+00:00",
+  "updatedAt": "2026-11-19T09:07:39.834851+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#GTAVI",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23GTAVI",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#CMAawards",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23CMAawards",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CMAs",
+          "title": "#GrandTheftAutoVI",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CMAs",
+          "url": "https://twitter.com/search?q=%23GrandTheftAutoVI",
           "platform": "X/Twitter"
         },
         {
-          "title": "#drwfirstgoal",
+          "title": "DeRozan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23drwfirstgoal",
+          "url": "https://twitter.com/search?q=DeRozan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hakeem Jeffries",
+          "title": "Jokic",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hakeem%20Jeffries",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Al Green",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Al%20Green",
+          "url": "https://twitter.com/search?q=Jokic",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "sophie cunningham",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "soldier",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cait conley",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indiana fever",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "neymar",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "anthony black",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cedric coward",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miami vice",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "madden 27",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cornyn trump",
+          "title": "john cornyn",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "the altruists",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trinidad",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gta 6 bigfoot",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "housing",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "portos",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "michele lamy jaden smith",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "navajo stirling",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "joe jonas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stanislaus wildlife care center",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
