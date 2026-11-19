@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:07:39.834851+00:00",
+  "updatedAt": "2026-11-19T18:28:44.574290+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#GTAVI",
+          "title": "#OlandriaxFashionMagazine",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GTAVI",
+          "url": "https://twitter.com/search?q=%23OlandriaxFashionMagazine",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CMAawards",
+          "title": "#EthnosportRiyadh",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CMAawards",
+          "url": "https://twitter.com/search?q=%23EthnosportRiyadh",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GrandTheftAutoVI",
+          "title": "#AIGlass",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GrandTheftAutoVI",
+          "url": "https://twitter.com/search?q=%23AIGlass",
           "platform": "X/Twitter"
         },
         {
-          "title": "DeRozan",
+          "title": "#PhysicalAgent",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=DeRozan",
+          "url": "https://twitter.com/search?q=%23PhysicalAgent",
           "platform": "X/Twitter"
         },
         {
-          "title": "Jokic",
+          "title": "Ravi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Jokic",
+          "url": "https://twitter.com/search?q=Ravi",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "john cornyn",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "the altruists",
+          "title": "invincible season 5",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trinidad",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 bigfoot",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "housing",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "portos",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "michele lamy jaden smith",
+          "title": "dwts finale songs",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "navajo stirling",
-          "traffic": "100",
+          "title": "rsm classic",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "joe jonas",
+          "title": "al gore",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "patrick sellers alabama",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jazz fest 2027 lineup",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "space x stock",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "roaring kitty",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "stanislaus wildlife care center",
-          "traffic": "100",
+          "title": "riley moss",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brett rypien",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
