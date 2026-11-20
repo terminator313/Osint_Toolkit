@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T08:03:34.432785+00:00",
+  "updatedAt": "2026-11-20T17:05:58.359685+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SEONGHYEONStageRoyalty",
+          "title": "#paobc",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SEONGHYEONStageRoyalty",
+          "url": "https://twitter.com/search?q=%23paobc",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MARTINBeyondCompare",
+          "title": "#BBNaija",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MARTINBeyondCompare",
+          "url": "https://twitter.com/search?q=%23BBNaija",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MLBS7Spoilers",
+          "title": "#TejRan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MLBS7Spoilers",
+          "url": "https://twitter.com/search?q=%23TejRan",
           "platform": "X/Twitter"
         },
         {
-          "title": "Stokes",
+          "title": "#bbtvi",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Stokes",
+          "url": "https://twitter.com/search?q=%23bbtvi",
           "platform": "X/Twitter"
         },
         {
-          "title": "Santa Clara",
+          "title": "RED Friday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Santa%20Clara",
+          "url": "https://twitter.com/search?q=RED%20Friday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "karely ruiz",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "will gta 6 have online",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "one piece 1199",
+          "title": "when we were young festival 2027",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "daycare",
+          "title": "independiente del valle - macará",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sndk",
-          "traffic": "100",
+          "title": "lance bass",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck accident lawyer",
+          "title": "soxx",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "car accident attorney",
-          "traffic": "200",
+          "title": "spy",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "5.4 magnitude earthquake",
-          "traffic": "200",
+          "title": "mstr stock",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "aleksandre topuria",
-          "traffic": "100",
+          "title": "bitcoin price",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pg&e",
-          "traffic": "100",
+          "title": "spx",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bitcoin price usd",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "schd stock",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
