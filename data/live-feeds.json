@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T00:50:25.785853+00:00",
+  "updatedAt": "2026-11-20T08:03:34.432785+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#Geeksgiving26",
+          "title": "#SEONGHYEONStageRoyalty",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Geeksgiving26",
+          "url": "https://twitter.com/search?q=%23SEONGHYEONStageRoyalty",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OlandriaxFashionMagazine",
+          "title": "#MARTINBeyondCompare",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OlandriaxFashionMagazine",
+          "url": "https://twitter.com/search?q=%23MARTINBeyondCompare",
           "platform": "X/Twitter"
         },
         {
-          "title": "#socideveloper_com",
+          "title": "#MLBS7Spoilers",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23socideveloper_com",
+          "url": "https://twitter.com/search?q=%23MLBS7Spoilers",
           "platform": "X/Twitter"
         },
         {
-          "title": "Kasich",
+          "title": "Stokes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Kasich",
+          "url": "https://twitter.com/search?q=Stokes",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mailchimp",
+          "title": "Santa Clara",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mailchimp",
+          "url": "https://twitter.com/search?q=Santa%20Clara",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "luis castillo",
+          "title": "karely ruiz",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "22nd amendment",
+          "title": "will gta 6 have online",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "one piece 1199",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "daycare",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sndk",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "truck accident lawyer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "butler basketball",
+          "title": "car accident attorney",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "taylor sheridan",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "colts qb",
+          "title": "5.4 magnitude earthquake",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clippers vs spurs",
-          "traffic": "10000",
+          "title": "aleksandre topuria",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "warriors vs grizzlies",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "trail blazers vs bucks",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "blue jackets vs blackhawks",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ps5 games",
-          "traffic": "10000",
+          "title": "pg&e",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
