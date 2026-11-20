@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:05:58.359685+00:00",
+  "updatedAt": "2026-11-20T23:15:31.167202+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#paobc",
+          "title": "#TSTheErasTour",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23paobc",
+          "url": "https://twitter.com/search?q=%23TSTheErasTour",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BBNaija",
+          "title": "#PEMPU",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BBNaija",
+          "url": "https://twitter.com/search?q=%23PEMPU",
           "platform": "X/Twitter"
         },
         {
-          "title": "#TejRan",
+          "title": "#ProtectNicki",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TejRan",
+          "url": "https://twitter.com/search?q=%23ProtectNicki",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bbtvi",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bbtvi",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         },
         {
-          "title": "RED Friday",
+          "title": "Ballard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=RED%20Friday",
+          "url": "https://twitter.com/search?q=Ballard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "when we were young festival 2027",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "independiente del valle - macará",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lance bass",
+          "title": "max sasson",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "soxx",
+          "title": "bucaramanga - américa",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florida weather flooding",
+          "traffic": "50000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "drinking",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spy",
-          "traffic": "2000",
+          "title": "jordan leasure",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "mstr stock",
+          "title": "feister brothers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "dayton basketball",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "bitcoin price",
+          "title": "clemson vs duke",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "royce lewis",
           "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "spx",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bitcoin price usd",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "schd stock",
+          "title": "luis gil",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
