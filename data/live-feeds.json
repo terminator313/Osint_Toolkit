@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:28:44.574290+00:00",
+  "updatedAt": "2026-11-20T00:50:25.785853+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#Geeksgiving26",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23Geeksgiving26",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#OlandriaxFashionMagazine",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23OlandriaxFashionMagazine",
           "platform": "X/Twitter"
         },
         {
-          "title": "#EthnosportRiyadh",
+          "title": "#socideveloper_com",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23EthnosportRiyadh",
+          "url": "https://twitter.com/search?q=%23socideveloper_com",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AIGlass",
+          "title": "Kasich",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AIGlass",
+          "url": "https://twitter.com/search?q=Kasich",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PhysicalAgent",
+          "title": "Mailchimp",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PhysicalAgent",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Ravi",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ravi",
+          "url": "https://twitter.com/search?q=Mailchimp",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "invincible season 5",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "dwts finale songs",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "rsm classic",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "al gore",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "patrick sellers alabama",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jazz fest 2027 lineup",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "space x stock",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "roaring kitty",
+          "title": "luis castillo",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "riley moss",
+          "title": "22nd amendment",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "butler basketball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "taylor sheridan",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "colts qb",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clippers vs spurs",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "warriors vs grizzlies",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trail blazers vs bucks",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "blue jackets vs blackhawks",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "brett rypien",
-          "traffic": "500",
+          "title": "ps5 games",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
