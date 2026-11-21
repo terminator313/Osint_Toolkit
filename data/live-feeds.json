@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:53:45.394773+00:00",
+  "updatedAt": "2026-11-21T19:55:28.616908+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#SmackDown",
+          "title": "#UFCQatar",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=%23UFCQatar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BOYCOTTPBB",
+          "title": "#OhioState",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BOYCOTTPBB",
+          "url": "https://twitter.com/search?q=%23OhioState",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CANCELPBB",
+          "title": "#GoBucks",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CANCELPBB",
+          "url": "https://twitter.com/search?q=%23GoBucks",
           "platform": "X/Twitter"
         },
         {
-          "title": "Marlon",
+          "title": "Legend Bey",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Marlon",
+          "url": "https://twitter.com/search?q=Legend%20Bey",
           "platform": "X/Twitter"
         },
         {
-          "title": "Merry Christmas",
+          "title": "Odegaard",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Merry%20Christmas",
+          "url": "https://twitter.com/search?q=Odegaard",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "alexander zverev ben shelton atp finals",
+          "title": "blackhawks vs flames",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "florida a&m vs b-cu",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "zverev",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh johnson nfl",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "real madrid schedule",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kasparas jakučionis",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "raleigh christmas parade",
+          "title": "east tn st vs mercer",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "hierophant connections nyt",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "2026 ihsa football semifinal scores",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "sarah mcbride",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "clima",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "galatasaray - samsunspor",
+          "title": "tracy cortez",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "liverpool vs chelsea",
-          "traffic": "200",
+          "title": "indiana vs washington",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "méxico",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "matt rife",
-          "traffic": "200",
+          "title": "nc state vs florida state",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
