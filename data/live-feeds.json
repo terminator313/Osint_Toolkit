@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:08:18.495978+00:00",
+  "updatedAt": "2026-11-21T12:53:45.394773+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,27 +26,27 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#iubb",
+          "title": "#BOYCOTTPBB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iubb",
+          "url": "https://twitter.com/search?q=%23BOYCOTTPBB",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#CANCELPBB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23CANCELPBB",
           "platform": "X/Twitter"
         },
         {
-          "title": "Hacksaw",
+          "title": "Marlon",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Hacksaw",
+          "url": "https://twitter.com/search?q=Marlon",
           "platform": "X/Twitter"
         },
         {
-          "title": "Milan",
+          "title": "Merry Christmas",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Milan",
+          "url": "https://twitter.com/search?q=Merry%20Christmas",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "demar derozan",
-          "traffic": "500",
+          "title": "alexander zverev ben shelton atp finals",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "appletv",
+          "title": "raleigh christmas parade",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "hierophant connections nyt",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "sacramento kings vs lakers match player stats",
+          "title": "2026 ihsa football semifinal scores",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "sarah mcbride",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "clima",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "galatasaray - samsunspor",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jokic",
+          "title": "liverpool vs chelsea",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anya taylor-joy",
+          "title": "méxico",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "truck driver",
+          "title": "matt rife",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "amen thompson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "steven adams",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "zach lavine",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "keegan murray",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
