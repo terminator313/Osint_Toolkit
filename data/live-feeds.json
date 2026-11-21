@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:15:31.167202+00:00",
+  "updatedAt": "2026-11-21T04:08:18.495978+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TSTheErasTour",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TSTheErasTour",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PEMPU",
+          "title": "#iubb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PEMPU",
+          "url": "https://twitter.com/search?q=%23iubb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#ProtectNicki",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23ProtectNicki",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Hacksaw",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Hacksaw",
           "platform": "X/Twitter"
         },
         {
-          "title": "Ballard",
+          "title": "Milan",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Ballard",
+          "url": "https://twitter.com/search?q=Milan",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "max sasson",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bucaramanga - américa",
+          "title": "demar derozan",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida weather flooding",
-          "traffic": "50000",
+          "title": "appletv",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "drinking",
+          "title": "sacramento kings vs lakers match player stats",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jordan leasure",
+          "title": "jokic",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "feister brothers",
+          "title": "anya taylor-joy",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "dayton basketball",
+          "title": "truck driver",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "amen thompson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "clemson vs duke",
-          "traffic": "200",
+          "title": "steven adams",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "royce lewis",
-          "traffic": "10000",
+          "title": "zach lavine",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "luis gil",
-          "traffic": "1000",
+          "title": "keegan murray",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
