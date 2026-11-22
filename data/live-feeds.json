@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:55:28.616908+00:00",
+  "updatedAt": "2026-11-22T00:05:27.604479+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
+          "title": "#iufb",
+          "metric": "Trend",
+          "url": "https://twitter.com/search?q=%23iufb",
+          "platform": "X/Twitter"
+        },
+        {
           "title": "#UFCQatar",
           "metric": "Trend",
           "url": "https://twitter.com/search?q=%23UFCQatar",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OhioState",
+          "title": "#GoBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OhioState",
+          "url": "https://twitter.com/search?q=%23GoBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoBucks",
+          "title": "Sayin",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBucks",
+          "url": "https://twitter.com/search?q=Sayin",
           "platform": "X/Twitter"
         },
         {
-          "title": "Legend Bey",
+          "title": "Qua Moss",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Legend%20Bey",
-          "platform": "X/Twitter"
-        },
-        {
-          "title": "Odegaard",
-          "metric": "Trend",
-          "url": "https://twitter.com/search?q=Odegaard",
+          "url": "https://twitter.com/search?q=Qua%20Moss",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "blackhawks vs flames",
+          "title": "protect college sports act",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "florida a&m vs b-cu",
+          "title": "michael rapaport",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zverev",
+          "title": "nbc news.com",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nbcnews.com",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pittsburgh vs louisville",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "co state vs fresno state",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "josh johnson nfl",
+          "title": "stanford vs california",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mr irrelevant movie",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "miley cyrus wedding",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "real madrid schedule",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kasparas jakučionis",
+          "title": "gonzalo tapia",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "east tn st vs mercer",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tracy cortez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "indiana vs washington",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nc state vs florida state",
-          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
