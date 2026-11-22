@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:14:49.214034+00:00",
+  "updatedAt": "2026-11-22T15:31:44.045205+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#LasVegasGP",
+          "title": "#AskFFT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LasVegasGP",
+          "url": "https://twitter.com/search?q=%23AskFFT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LasVegasGrandPrix",
+          "title": "#FoolInLoveEP14",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LasVegasGrandPrix",
+          "url": "https://twitter.com/search?q=%23FoolInLoveEP14",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Toonami",
+          "title": "#DreaminaMadeBrandBuzz",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Toonami",
+          "url": "https://twitter.com/search?q=%23DreaminaMadeBrandBuzz",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mikal Bridges",
+          "title": "Barcelona",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mikal%20Bridges",
+          "url": "https://twitter.com/search?q=Barcelona",
           "platform": "X/Twitter"
         },
         {
-          "title": "George Russell",
+          "title": "#DisneySupportsRacistPPG",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=George%20Russell",
+          "url": "https://twitter.com/search?q=%23DisneySupportsRacistPPG",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "powerball winner",
-          "traffic": "100",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "criminal profile gta 6",
+          "title": "real sociedad",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "lucia voice actor",
-          "traffic": "500",
+          "title": "tom jackson espn",
+          "traffic": "50000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "vicki gta 6 voice actor",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "robert downey jr",
+          "title": "gene hackman dog adoption",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "metacritic gta vi",
-          "traffic": "10000",
+          "title": "fcs playoffs",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "duke vs washington state",
+          "title": "united states attorney",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "brock bowers",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kwame onwuachi",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wsu basketball",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "donnie gta 6",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gta 6 chapter 2 mission list",
+          "title": "cbs sunday morning",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "paris fc vs angers",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "racing santander vs real sociedad",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
