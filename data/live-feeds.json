@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:05:27.604479+00:00",
+  "updatedAt": "2026-11-22T07:14:49.214034+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#iufb",
+          "title": "#LasVegasGP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23iufb",
+          "url": "https://twitter.com/search?q=%23LasVegasGP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#UFCQatar",
+          "title": "#LasVegasGrandPrix",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23UFCQatar",
+          "url": "https://twitter.com/search?q=%23LasVegasGrandPrix",
           "platform": "X/Twitter"
         },
         {
-          "title": "#GoBlue",
+          "title": "#Toonami",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23GoBlue",
+          "url": "https://twitter.com/search?q=%23Toonami",
           "platform": "X/Twitter"
         },
         {
-          "title": "Sayin",
+          "title": "Mikal Bridges",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Sayin",
+          "url": "https://twitter.com/search?q=Mikal%20Bridges",
           "platform": "X/Twitter"
         },
         {
-          "title": "Qua Moss",
+          "title": "George Russell",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Qua%20Moss",
+          "url": "https://twitter.com/search?q=George%20Russell",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "protect college sports act",
-          "traffic": "1000",
+          "title": "powerball winner",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michael rapaport",
+          "title": "criminal profile gta 6",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lucia voice actor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nbc news.com",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nbcnews.com",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pittsburgh vs louisville",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "co state vs fresno state",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stanford vs california",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mr irrelevant movie",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "miley cyrus wedding",
+          "title": "vicki gta 6 voice actor",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "gonzalo tapia",
+          "title": "robert downey jr",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "metacritic gta vi",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "duke vs washington state",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wsu basketball",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donnie gta 6",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gta 6 chapter 2 mission list",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
