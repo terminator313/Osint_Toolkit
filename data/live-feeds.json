@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:31:09.048750+00:00",
+  "updatedAt": "2026-11-23T02:13:39.641597+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HereWeGo",
+          "title": "#MemT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HereWeGo",
+          "url": "https://twitter.com/search?q=%23MemT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Bears",
+          "title": "#RHOP",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Bears",
+          "url": "https://twitter.com/search?q=%23RHOP",
           "platform": "X/Twitter"
         },
         {
-          "title": "#DEATHBATTLE",
+          "title": "#BigBlue",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DEATHBATTLE",
+          "url": "https://twitter.com/search?q=%23BigBlue",
           "platform": "X/Twitter"
         },
         {
-          "title": "George Pickens",
+          "title": "#FTTB",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=George%20Pickens",
+          "url": "https://twitter.com/search?q=%23FTTB",
           "platform": "X/Twitter"
         },
         {
-          "title": "Josh Allen",
+          "title": "Abdul Carter",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Josh%20Allen",
+          "url": "https://twitter.com/search?q=Abdul%20Carter",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "nfl standings cowboys",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "carolina panthers",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl standings lions",
+          "title": "kevin o'connell",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jeffery simmons",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ravens score",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jonah coleman",
+          "title": "jack nicklaus",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "jags",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nfl standings miami dolphins",
+          "title": "terrell owens",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "carolina panthers game today",
+          "title": "penta",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "josh giddey",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "afc playoff picture",
+          "title": "samuel montembeault",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kirk cousins wife",
           "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "micheal hage",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "bennett stirtz",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wendy osefo",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
