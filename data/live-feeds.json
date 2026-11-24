@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:32:40.735196+00:00",
+  "updatedAt": "2026-11-24T06:44:06.676320+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#WooSoxWishList",
+          "title": "#RaiseHail",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WooSoxWishList",
+          "url": "https://twitter.com/search?q=%23RaiseHail",
           "platform": "X/Twitter"
         },
         {
-          "title": "#jimromeonx",
+          "title": "#CINvsWAS",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23jimromeonx",
+          "url": "https://twitter.com/search?q=%23CINvsWAS",
           "platform": "X/Twitter"
         },
         {
-          "title": "#bilibili",
+          "title": "#HTTC",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23bilibili",
+          "url": "https://twitter.com/search?q=%23HTTC",
           "platform": "X/Twitter"
         },
         {
-          "title": "Spielberg",
+          "title": "#LaCasaDeAlofoke3",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Spielberg",
+          "url": "https://twitter.com/search?q=%23LaCasaDeAlofoke3",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bucky",
+          "title": "McPherson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bucky",
+          "url": "https://twitter.com/search?q=McPherson",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "byu basketball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "russia",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "internacional vs vitória",
+          "title": "high wind watch",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nevada basketball",
+          "title": "seth rogen",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tom holland",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is there a full moon tonight",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "grayson chrisley",
+          "title": "adam driver",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "michelle randolph",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manny manuel",
+          "title": "ucl",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "wwe raw",
+          "title": "vespucci island gta 6",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lakers standings",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nosedive",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "collin sexton",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jake laravia",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "walker kessler",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
