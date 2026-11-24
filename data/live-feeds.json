@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:44:06.676320+00:00",
+  "updatedAt": "2026-11-24T18:37:51.621861+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#RaiseHail",
+          "title": "#gachiakuta176",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23RaiseHail",
+          "url": "https://twitter.com/search?q=%23gachiakuta176",
           "platform": "X/Twitter"
         },
         {
-          "title": "#CINvsWAS",
+          "title": "#stayselcaday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CINvsWAS",
+          "url": "https://twitter.com/search?q=%23stayselcaday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HTTC",
+          "title": "#tuesdayvibe",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HTTC",
+          "url": "https://twitter.com/search?q=%23tuesdayvibe",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaCasaDeAlofoke3",
+          "title": "Dave Dombrowski",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaCasaDeAlofoke3",
+          "url": "https://twitter.com/search?q=Dave%20Dombrowski",
           "platform": "X/Twitter"
         },
         {
-          "title": "McPherson",
+          "title": "Bonnies",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=McPherson",
+          "url": "https://twitter.com/search?q=Bonnies",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "high wind watch",
-          "traffic": "200",
+          "title": "stock",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seth rogen",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "adam driver",
+          "title": "notre dame vs davidson",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ucl",
+          "title": "ha seong kim",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "trinity rodman",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mitch mcconnell",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jalen hurts",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "natalie portman",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "victoria broderick",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "donte divincenzo",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "northern colorado basketball",
           "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "vespucci island gta 6",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lakers standings",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nosedive",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "collin sexton",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jake laravia",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "walker kessler",
-          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
