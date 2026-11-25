@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:55:28.420600+00:00",
+  "updatedAt": "2026-11-25T12:07:57.449103+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -26,9 +26,9 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "#WWENXT",
+          "title": "#LaMansionVip",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WWENXT",
+          "url": "https://twitter.com/search?q=%23LaMansionVip",
           "platform": "X/Twitter"
         },
         {
@@ -38,15 +38,15 @@
           "platform": "X/Twitter"
         },
         {
-          "title": "Iowa",
+          "title": "Tatyana",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Iowa",
+          "url": "https://twitter.com/search?q=Tatyana",
           "platform": "X/Twitter"
         },
         {
-          "title": "Carrie Ann",
+          "title": "Porsha",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Carrie%20Ann",
+          "url": "https://twitter.com/search?q=Porsha",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "porsha williams",
+          "title": "star wars ahsoka season 2",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "connor mcdavid",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "high potential",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "lakesha womack",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "khris middleton",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "plane crash today",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "houston dynamo vs san jose",
+          "title": "jensen huang nvidia stock",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "thea hail",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "bea millan-windorski",
+          "title": "inés gómez mont",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "only murders in the building",
+          "title": "hasna cabral",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "stock market futures",
+          "traffic": "20000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "regina george",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "precio del dolar en mexico",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "christopher payne japan",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nifty 50",
+          "traffic": "100",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "tariffs",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
