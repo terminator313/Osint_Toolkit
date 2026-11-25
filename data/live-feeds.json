@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:37:51.621861+00:00",
+  "updatedAt": "2026-11-25T02:55:28.420600+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#gachiakuta176",
+          "title": "#dwts",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23gachiakuta176",
+          "url": "https://twitter.com/search?q=%23dwts",
           "platform": "X/Twitter"
         },
         {
-          "title": "#stayselcaday",
+          "title": "#WWENXT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23stayselcaday",
+          "url": "https://twitter.com/search?q=%23WWENXT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#tuesdayvibe",
+          "title": "#MissUniverse2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23tuesdayvibe",
+          "url": "https://twitter.com/search?q=%23MissUniverse2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "Dave Dombrowski",
+          "title": "Iowa",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Dave%20Dombrowski",
+          "url": "https://twitter.com/search?q=Iowa",
           "platform": "X/Twitter"
         },
         {
-          "title": "Bonnies",
+          "title": "Carrie Ann",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Bonnies",
+          "url": "https://twitter.com/search?q=Carrie%20Ann",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "stock",
-          "traffic": "10000",
+          "title": "porsha williams",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "notre dame vs davidson",
+          "title": "connor mcdavid",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "high potential",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "lakesha womack",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ha seong kim",
-          "traffic": "1000",
+          "title": "khris middleton",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "trinity rodman",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mitch mcconnell",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jalen hurts",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "natalie portman",
+          "title": "plane crash today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "victoria broderick",
+          "title": "houston dynamo vs san jose",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "donte divincenzo",
+          "title": "thea hail",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "northern colorado basketball",
+          "title": "bea millan-windorski",
           "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "only murders in the building",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
