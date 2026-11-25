@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:07:57.449103+00:00",
+  "updatedAt": "2026-11-25T21:54:10.217389+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#dwts",
+          "title": "#HereWeGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23dwts",
+          "url": "https://twitter.com/search?q=%23HereWeGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LaMansionVip",
+          "title": "#mubb",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LaMansionVip",
+          "url": "https://twitter.com/search?q=%23mubb",
           "platform": "X/Twitter"
         },
         {
-          "title": "#MissUniverse2026",
+          "title": "#SPOMUN",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23MissUniverse2026",
+          "url": "https://twitter.com/search?q=%23SPOMUN",
           "platform": "X/Twitter"
         },
         {
-          "title": "Tatyana",
+          "title": "Sporting",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Tatyana",
+          "url": "https://twitter.com/search?q=Sporting",
           "platform": "X/Twitter"
         },
         {
-          "title": "Porsha",
+          "title": "Balde",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Porsha",
+          "url": "https://twitter.com/search?q=Balde",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "star wars ahsoka season 2",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jensen huang nvidia stock",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "inés gómez mont",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "hasna cabral",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "stock market futures",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "regina george",
+          "title": "scott bessent",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "precio del dolar en mexico",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "christopher payne japan",
+          "title": "akron basketball",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nifty 50",
-          "traffic": "100",
+          "title": "motiejus krivas",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "tariffs",
+          "title": "thanksgiving dog show",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "krivas",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "andy taylor",
+          "traffic": "5000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "philadelphia thanksgiving day parade",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "is cvs open on thanksgiving",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jojo romero",
           "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "mindhunter",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
