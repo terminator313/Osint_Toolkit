@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:35:20.321508+00:00",
+  "updatedAt": "2026-11-26T22:47:29.488974+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#TheHuntingWives",
+          "title": "#CHIvsDET",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23TheHuntingWives",
+          "url": "https://twitter.com/search?q=%23CHIvsDET",
           "platform": "X/Twitter"
         },
         {
-          "title": "#WeTVAlwaysMore2027",
+          "title": "#BearDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23WeTVAlwaysMore2027",
+          "url": "https://twitter.com/search?q=%23BearDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Grateful",
+          "title": "#OnePride",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Grateful",
+          "url": "https://twitter.com/search?q=%23OnePride",
           "platform": "X/Twitter"
         },
         {
-          "title": "#Gratitude",
+          "title": "Thankful",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23Gratitude",
+          "url": "https://twitter.com/search?q=Thankful",
           "platform": "X/Twitter"
         },
         {
-          "title": "Blazers",
+          "title": "Loveland",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Blazers",
+          "url": "https://twitter.com/search?q=Loveland",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "martha stewart turkey",
-          "traffic": "100",
+          "title": "saquon barkley injury",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pact",
+          "title": "marshawn lynch",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "jada pinkett smith",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pamela anderson",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "new movies to stream",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "celtics mitchell robinson trade proposal",
-          "traffic": "100",
+          "title": "kavontae turpin",
+          "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "houston thanksgiving parade",
-          "traffic": "200",
+          "title": "zach ertz",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cameroon",
-          "traffic": "200",
+          "title": "george pickens",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "savannah guthrie",
-          "traffic": "200",
+          "title": "will shipley",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "h1b green card perm overhaul",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "is it thanksgiving today",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "manchester road race 2026",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "mike collins house ethics report",
-          "traffic": "100",
+          "title": "shipley eagles",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
