@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:47:29.488974+00:00",
+  "updatedAt": "2026-11-27T04:46:22.098118+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#CHIvsDET",
+          "title": "#KCvsBUF",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23CHIvsDET",
+          "url": "https://twitter.com/search?q=%23KCvsBUF",
           "platform": "X/Twitter"
         },
         {
-          "title": "#BearDown",
+          "title": "#PHIvsDAL",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23BearDown",
+          "url": "https://twitter.com/search?q=%23PHIvsDAL",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OnePride",
+          "title": "#AEWCollision",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OnePride",
+          "url": "https://twitter.com/search?q=%23AEWCollision",
           "platform": "X/Twitter"
         },
         {
-          "title": "Thankful",
+          "title": "Nohl Williams",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Thankful",
+          "url": "https://twitter.com/search?q=Nohl%20Williams",
           "platform": "X/Twitter"
         },
         {
-          "title": "Loveland",
+          "title": "Toub",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Loveland",
+          "url": "https://twitter.com/search?q=Toub",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "saquon barkley injury",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "marshawn lynch",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "jada pinkett smith",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pamela anderson",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "new movies to stream",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kavontae turpin",
+          "title": "gonzaga basketball",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "zach ertz",
-          "traffic": "20000",
+          "title": "texas tech basketball",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "george pickens",
+          "title": "alabama basketball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "oregon basketball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nick wright",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pacific basketball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "afc west",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "will shipley",
-          "traffic": "1000",
+          "title": "seth trimble",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "shipley eagles",
-          "traffic": "1000",
+          "title": "49ers standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelly stafford",
+          "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
