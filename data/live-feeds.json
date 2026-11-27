@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:46:22.098118+00:00",
+  "updatedAt": "2026-11-27T14:41:12.134814+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#KCvsBUF",
+          "title": "#FridayFeeling",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23KCvsBUF",
+          "url": "https://twitter.com/search?q=%23FridayFeeling",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PHIvsDAL",
+          "title": "#FridayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PHIvsDAL",
+          "url": "https://twitter.com/search?q=%23FridayVibes",
           "platform": "X/Twitter"
         },
         {
-          "title": "#AEWCollision",
+          "title": "#PercyJackson",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23AEWCollision",
+          "url": "https://twitter.com/search?q=%23PercyJackson",
           "platform": "X/Twitter"
         },
         {
-          "title": "Nohl Williams",
+          "title": "Cyber Command",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Nohl%20Williams",
+          "url": "https://twitter.com/search?q=Cyber%20Command",
           "platform": "X/Twitter"
         },
         {
-          "title": "Toub",
+          "title": "#FursuitFriday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Toub",
+          "url": "https://twitter.com/search?q=%23FursuitFriday",
           "platform": "X/Twitter"
         }
       ],
@@ -56,52 +56,52 @@
       "status": "ok",
       "items": [
         {
-          "title": "gonzaga basketball",
+          "title": "gta 6 black friday",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "kelly ripa",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "delcy rodríguez",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "pga tour",
           "traffic": "5000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "texas tech basketball",
+          "title": "ron harper",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "alabama basketball",
-          "traffic": "1000",
+          "title": "green bay packers statement martha ford",
+          "traffic": "10000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "oregon basketball",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "nick wright",
+          "title": "iowa vs nebraska",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "pacific basketball",
-          "traffic": "1000",
+          "title": "cardi b",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "afc west",
+          "title": "gma deals and steals",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "seth trimble",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "49ers standings",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "kelly stafford",
+          "title": "ncaa football today",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
