@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:41:12.134814+00:00",
+  "updatedAt": "2026-11-27T23:12:26.747228+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#FridayFeeling",
+          "title": "#DENvsPIT",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayFeeling",
+          "url": "https://twitter.com/search?q=%23DENvsPIT",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FridayVibes",
+          "title": "#HereWeGo",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FridayVibes",
+          "url": "https://twitter.com/search?q=%23HereWeGo",
           "platform": "X/Twitter"
         },
         {
-          "title": "#PercyJackson",
+          "title": "#NFOCHE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23PercyJackson",
+          "url": "https://twitter.com/search?q=%23NFOCHE",
           "platform": "X/Twitter"
         },
         {
-          "title": "Cyber Command",
+          "title": "Mobb Deep",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Cyber%20Command",
+          "url": "https://twitter.com/search?q=Mobb%20Deep",
           "platform": "X/Twitter"
         },
         {
-          "title": "#FursuitFriday",
+          "title": "Rico Dowdle",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23FursuitFriday",
+          "url": "https://twitter.com/search?q=Rico%20Dowdle",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "gta 6 black friday",
-          "traffic": "1000",
+          "title": "brock purdy",
+          "traffic": "20000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "kelly ripa",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "delcy rodríguez",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "pga tour",
-          "traffic": "5000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ron harper",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "green bay packers statement martha ford",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "iowa vs nebraska",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "cardi b",
-          "traffic": "200",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "gma deals and steals",
+          "title": "aaron rodgers wife",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ncaa football today",
+          "title": "arnold schwarzenegger",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "nhl standings",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "cody schrader",
+          "traffic": "2000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "heat vs knicks",
           "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "naval support activity bahrain",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas basketball",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "texas high school football playoffs",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "anthony ellis philly marathon",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
