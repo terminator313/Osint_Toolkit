@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:51:23.309111+00:00",
+  "updatedAt": "2026-11-28T13:52:20.662652+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#HookEm",
+          "title": "#GMMTVStarlympics2026",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HookEm",
+          "url": "https://twitter.com/search?q=%23GMMTVStarlympics2026",
           "platform": "X/Twitter"
         },
         {
-          "title": "#OPLive",
+          "title": "#MacysParade",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23OPLive",
+          "url": "https://twitter.com/search?q=%23MacysParade",
           "platform": "X/Twitter"
         },
         {
-          "title": "#LakeShow",
+          "title": "#Caturday",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23LakeShow",
+          "url": "https://twitter.com/search?q=%23Caturday",
           "platform": "X/Twitter"
         },
         {
-          "title": "#SmackDown",
+          "title": "PERTHSANTA DOMIIA FAMIGNITE",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23SmackDown",
+          "url": "https://twitter.com/search?q=PERTHSANTA%20DOMIIA%20FAMIGNITE",
           "platform": "X/Twitter"
         },
         {
-          "title": "Aggies",
+          "title": "#SaturdayVibes",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Aggies",
+          "url": "https://twitter.com/search?q=%23SaturdayVibes",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "mega millions numbers",
-          "traffic": "2000",
+          "title": "savannah guthrie",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "college football playoff bracket",
+          "title": "savannah guthrie mom",
+          "traffic": "1000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "al roker",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "gma deals and steals",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "where is college game day tomorrow",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "wales vs japan",
           "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "creighton basketball",
-          "traffic": "2000",
+          "title": "today show",
+          "traffic": "200",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "devon dampier",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "tennessee basketball",
-          "traffic": "2000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "heisman odds",
-          "traffic": "1000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "de'aaron fox",
+          "title": "tim tebow",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "united fidelity bank",
-          "traffic": "500",
+          "title": "ángela aguilar",
+          "traffic": "100",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "ut austin football",
-          "traffic": "10000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "ryan clark",
-          "traffic": "1000",
+          "title": "peacock black friday deal",
+          "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
