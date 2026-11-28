@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:12:26.747228+00:00",
+  "updatedAt": "2026-11-28T04:51:23.309111+00:00",
   "sources": {
     "fofa": {
       "status": "empty",
@@ -20,33 +20,33 @@
       "status": "ok",
       "items": [
         {
-          "title": "#DENvsPIT",
+          "title": "#HookEm",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23DENvsPIT",
+          "url": "https://twitter.com/search?q=%23HookEm",
           "platform": "X/Twitter"
         },
         {
-          "title": "#HereWeGo",
+          "title": "#OPLive",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23HereWeGo",
+          "url": "https://twitter.com/search?q=%23OPLive",
           "platform": "X/Twitter"
         },
         {
-          "title": "#NFOCHE",
+          "title": "#LakeShow",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=%23NFOCHE",
+          "url": "https://twitter.com/search?q=%23LakeShow",
           "platform": "X/Twitter"
         },
         {
-          "title": "Mobb Deep",
+          "title": "#SmackDown",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Mobb%20Deep",
+          "url": "https://twitter.com/search?q=%23SmackDown",
           "platform": "X/Twitter"
         },
         {
-          "title": "Rico Dowdle",
+          "title": "Aggies",
           "metric": "Trend",
-          "url": "https://twitter.com/search?q=Rico%20Dowdle",
+          "url": "https://twitter.com/search?q=Aggies",
           "platform": "X/Twitter"
         }
       ],
@@ -56,53 +56,53 @@
       "status": "ok",
       "items": [
         {
-          "title": "brock purdy",
-          "traffic": "20000",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "aaron rodgers wife",
+          "title": "mega millions numbers",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "arnold schwarzenegger",
+          "title": "college football playoff bracket",
+          "traffic": "200",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "creighton basketball",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "nhl standings",
+          "title": "devon dampier",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "cody schrader",
+          "title": "tennessee basketball",
           "traffic": "2000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "heat vs knicks",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "naval support activity bahrain",
-          "traffic": "500",
-          "url": "https://trends.google.com/trending/rss?geo=US"
-        },
-        {
-          "title": "texas basketball",
+          "title": "heisman odds",
           "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "texas high school football playoffs",
+          "title": "de'aaron fox",
           "traffic": "500",
           "url": "https://trends.google.com/trending/rss?geo=US"
         },
         {
-          "title": "anthony ellis philly marathon",
-          "traffic": "200",
+          "title": "united fidelity bank",
+          "traffic": "500",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ut austin football",
+          "traffic": "10000",
+          "url": "https://trends.google.com/trending/rss?geo=US"
+        },
+        {
+          "title": "ryan clark",
+          "traffic": "1000",
           "url": "https://trends.google.com/trending/rss?geo=US"
         }
       ],
